@@ -1,0 +1,138 @@
+# Manual overrides for seed URLs.
+#
+# TWO SECTIONS:
+#
+# 1. extra_colleges  — colleges not in the xlsx that we still want to index.
+#                      Appears alongside the 115 rows from xlsx after loading.
+#                      Same schema as a registry record; college_id must be unique.
+#                      (Currently empty — all 115 xlsx rows are kept; add here if
+#                      you need to include a school not on the P&Q list.)
+#
+# 2. seeds           — per-college seed URL + allowed_hosts pin. When present,
+#                      discover_seeds.py uses these verbatim and skips auto-discovery.
+#                      Use for (a) schools where auto-discovery scored < 8/10 on eval,
+#                      or (b) schools where relevant admission info is spread across
+#                      multiple subdomains (like IU: kelley.iu.edu + admissions.iu.edu
+#                      + ois.iu.edu).
+#
+# ─────────────────────────────────────────────────────────────────────────────
+
+extra_colleges: []
+# Example:
+# - college_id: foo_bar
+#   college_name: Foo University
+#   business_school: Bar School of Business
+#   display_name: Bar School of Business (Foo University)
+#   location: City, ST
+#   state: ST
+#   region: Northeast
+#   rank_raw: "NR"
+#   rank_numeric: null
+#   admission_url: https://bar.foo.edu/admissions/
+
+seeds:
+  # Wharton — the xlsx URL (admissions.wharton.upenn.edu) does not resolve.
+  # Correct UG admission site lives at undergrad.wharton.upenn.edu.
+  # Application mechanics (deadlines, tests, cost, international) live on the
+  # university central admissions site at admissions.upenn.edu — added 2026-04.
+  # All URLs verified against live site (200 OK).
+  upenn_wharton:
+    allowed_hosts:
+      - undergrad.wharton.upenn.edu
+      - admissions.upenn.edu
+    seeds:
+      # Wharton-specific pages
+      - https://undergrad.wharton.upenn.edu/admissions
+      - https://undergrad.wharton.upenn.edu/apply
+      - https://undergrad.wharton.upenn.edu/tuition-financial-aid
+      - https://undergrad.wharton.upenn.edu/class-profile
+      - https://undergrad.wharton.upenn.edu/faq
+      - https://undergrad.wharton.upenn.edu/come-visit
+      # Penn central admissions — deadlines, tests, cost, international
+      - https://admissions.upenn.edu/i-am-a/first-year-applicant
+      - https://admissions.upenn.edu/how-to-apply/first-year-applicants
+      - https://admissions.upenn.edu/how-to-apply/first-year-applicants/application-requirements
+      - https://admissions.upenn.edu/how-to-apply/preparing-your-application/testing
+      - https://admissions.upenn.edu/affording-penn/understanding-your-costs
+      - https://admissions.upenn.edu/affording-penn/financial-aid
+      - https://admissions.upenn.edu/how-to-apply/international-applicants
+      - https://admissions.upenn.edu/how-to-apply/international-applicants/guidelines
+
+  # Stern — auto-discovery found www.nyu.edu + www.stern.nyu.edu hosts but missed
+  # the specific sub-pages for standardized tests and international applicants.
+  # Added those explicitly 2026-04. All URLs verified (200 OK).
+  nyu_stern:
+    allowed_hosts:
+      - www.stern.nyu.edu
+      - www.nyu.edu
+    seeds:
+      # Stern program / admissions pages
+      - https://www.stern.nyu.edu/programs-admissions/undergraduate/why-stern/admissions/apply
+      - https://www.stern.nyu.edu/programs-admissions/undergraduate/why-stern/admissions/financial-aid
+      - https://www.stern.nyu.edu/programs-admissions/undergraduate/why-stern/admissions/transfer-applicants
+      - https://www.stern.nyu.edu/programs-admissions/undergraduate/why-stern
+      - https://www.stern.nyu.edu/programs-admissions/undergraduate/academics/bs-degree-business
+      - https://www.stern.nyu.edu/programs-admissions/undergraduate/vibrant-community/berkley-achievement-scholars-program
+      # NYU central admissions — deadlines, tests, cost, international
+      - https://www.nyu.edu/admissions/undergraduate-admissions/how-to-apply.html
+      - https://www.nyu.edu/admissions/undergraduate-admissions/how-to-apply/standardized-tests.html
+      - https://www.nyu.edu/admissions/undergraduate-admissions/how-to-apply/international-applicants.html
+      - https://www.nyu.edu/admissions/financial-aid-and-scholarships.html
+
+  # McIntire — commerce.virginia.edu has good program content but application
+  # mechanics (how to apply via Common App, international requirements) live on
+  # UVA central admissions at admission.virginia.edu. Added 2026-04 (200 OK).
+  uva_mcintire:
+    allowed_hosts:
+      - www.commerce.virginia.edu
+      - admission.virginia.edu
+    seeds:
+      # McIntire-specific pages
+      - https://www.commerce.virginia.edu/bs-commerce/admissions/first-years
+      - https://www.commerce.virginia.edu/undergraduate/admissions
+      - https://www.commerce.virginia.edu/bs-commerce/admissions/prospective-transfer-students
+      - https://www.commerce.virginia.edu/bs-commerce/admissions/faqs
+      - https://www.commerce.virginia.edu/bs-commerce/admissions/tuition-fees
+      - https://www.commerce.virginia.edu/bs-commerce/admissions/eligibility-high-school
+      # UVA central admissions — Common App instructions, deadlines, international
+      - https://admission.virginia.edu/
+      - https://admission.virginia.edu/apply
+
+  # McCombs — xlsx admission_url points to my.mccombs.utexas.edu (current-student
+  # portal). Correct BBA prospective-student site is www.mccombs.utexas.edu.
+  # International + freshman application mechanics live on admissions.utexas.edu.
+  # All URLs verified (200 OK) 2026-04.
+  utaustin_mccombs:
+    allowed_hosts:
+      - www.mccombs.utexas.edu
+      - admissions.utexas.edu
+    seeds:
+      # McCombs BBA pages
+      - https://www.mccombs.utexas.edu/undergraduate-programs/bba/
+      - https://www.mccombs.utexas.edu/undergraduate-programs/bba/admissions-and-cost/
+      - https://www.mccombs.utexas.edu/undergraduate-programs/bba/admissions-and-cost/scholarships-and-aid/
+      - https://www.mccombs.utexas.edu/undergraduate-programs/bba/admissions-and-cost/bba-transfer-students/
+      - https://www.mccombs.utexas.edu/undergraduate-programs/bba/academics/majors/
+      # UT Austin central admissions — deadlines, tests, international requirements
+      - https://admissions.utexas.edu/apply/freshman
+      - https://admissions.utexas.edu/apply/international
+
+  # Kelley — verified 9/10 PASS on the strategy doc's 10 eval questions.
+  # Admission info is split across 3 subdomains; auto-discovery from the kelley.iu.edu
+  # admission page alone misses international requirements and financial aid.
+  iu_kelley:
+    allowed_hosts:
+      - kelley.iu.edu
+      - admissions.indiana.edu
+      - ois.iu.edu
+    seeds:
+      - https://kelley.iu.edu/programs/undergrad/admissions/index.html
+      - https://admissions.indiana.edu/apply/freshman/index.html
+      - https://admissions.indiana.edu/apply/international.html
+      - https://admissions.indiana.edu/apply/transfer/index.html
+      - https://admissions.indiana.edu/cost-financial-aid/index.html
+      - https://admissions.indiana.edu/cost-financial-aid/financial-aid.html
+      - https://admissions.indiana.edu/cost-financial-aid/scholarships.html
+      - https://ois.iu.edu/admissions/apply/freshman/index.html
+      - https://ois.iu.edu/admissions/prepare-first-year/orientation/english-exam.html
+      - https://ois.iu.edu/admissions/cost-financial-aid/tuition-fees/undergraduate/index.html

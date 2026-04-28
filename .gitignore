@@ -1,0 +1,22 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Data and vector stores
+data/
+chroma/
+*.sqlite3
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db

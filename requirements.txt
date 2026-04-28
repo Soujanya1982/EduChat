@@ -1,0 +1,28 @@
+# CollegeMatch RAG backend — production dependencies
+# Python >= 3.11 required (type hints use list[...] / X | Y syntax)
+#
+# Install:  pip install -r requirements.txt
+# Deploy:   Render reads this automatically
+
+# ── Web framework ─────────────────────────────────────────────────────────────
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+
+# ── LLM / embeddings ─────────────────────────────────────────────────────────
+groq>=1.0
+sentence-transformers>=3.0
+
+# ── Vector store ─────────────────────────────────────────────────────────────
+pinecone>=5.0        # serverless index, one namespace per college
+chromadb>=0.6        # kept for migrate_chroma_to_pinecone.py (one-time use)
+
+# ── Scraping / HTML cleaning ──────────────────────────────────────────────────
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+
+# ── Data / config ─────────────────────────────────────────────────────────────
+pydantic>=2.5
+openpyxl>=3.1
+python-dotenv>=1.0
+PyYAML>=6.0
