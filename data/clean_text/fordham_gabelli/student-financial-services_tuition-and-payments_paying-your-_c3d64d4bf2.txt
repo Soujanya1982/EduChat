@@ -1,0 +1,352 @@
+URL: https://www.fordham.edu/student-financial-services/tuition-and-payments/paying-your-bill
+TITLE: Paying Your Bill | Fordham
+
+Paying Your Bill
+Fordham uses electronic billing (E-Bill) for generating invoices
+. In addition to viewing invoices, a student can authorize a third party (parents, sponsors, etc.) to view their bill. The student is required to provide the email address of the user they want to authorize.
+Make a Payment
+You can make a payment online using our electronic payment system.
+Make a payment
+E-Bill Suite
+The E-Bill Suite is an integrated e-bill and e-payment web portal. You can provide permission to others, view your bill, make an electronic payment and more.
+Access My E-Bill Suite
+Refunds
+View our refund policies
+Fordham University provides you with Electronic Billing (E-Bill), accessible by clicking on the “My E-Bill Suite” link on the Student page in the
+fordham.edu
+portal
+.
+The E-Bill Suite is an integrated e-bill and e-payment web portal, which provides students with the following services:
+Provide permission to others (parents, employers, etc.) to view your bill and make payments.
+View the student's electronic bill.
+View recent account activity in real-time.
+Make an electronic check payment towards a student account
+Save electronic check payment information
+Student Users
+Students can access their E-Bill Suite via a single sign-on through the main
+fordham.edu
+homepage.
+Log in to the New Portal
+Under "My Pages" click the 'Students' tab
+Click "My Account"
+Click "My E-Bill Suite" under Account Overview. This will link to the secure E-Bill website.
+Parents/Authorized Users
+You can give your parents/authorized users access to your e-bill suite.
+Parent/Authorized users please use the
+E-Bill Suite Login
+.
+Email Notification:
+My E-Bill Suite is the official means of generating tuition bills. When a new statement is ready, notification is sent to the student’s Fordham email and any authorized users' addresses. If you are a student and need to change your contact information, please do so
+here
+.
+All university billing and payments are processed through the
+TouchNet Billing and Payment Suite
+, our official and secure payment gateway.
+Important:
+To ensure you receive your bills and account updates, please add
+[email protected]
+and
+[email protected]
+to your safe-sender list. Official communications regarding your account, including monthly statements and payment confirmations, will come directly from these addresses.
+Payment Methods
+For your convenience, we offer various payment methods which will assist you in paying your tuition.
+The options include:
+Making an Electronic Check/ACH Payment (Preferred Method)
+An electronic check, or ACH payment, is a means to transfer funds electronically from your checking account directly to the University:
+Navigate to our
+Student & Parent Portals
+page
+Click "E-Bill Suite for Students" or "E-Bill Suite for Parents" & log in
+Click on "Make a Payment"
+Select your Payment Amount then click "Continue"
+Select "Electronic Check" as your Payment Method then click "Select"
+Enter all your bank information then click "Continue"
+View the Confirmation Page and agree to the ACH Payment Agreement
+Click "Submit Payment"
+What do I do if I get an error message when making an Electronic Check payment on fordham.edu?
+Your web browser is not configured to accept "cookies". (or it does not support cookies)
+Please enable cookies in your web browser and try again.
+Sending an Physical Check/Money Order
+To pay us with a physical check, please make checks and money orders in US Dollars payable to FORDHAM UNIVERSITY and include the student's identification number.
+The payment address for TUITION and SCHOLARSHIPS is
+:
+Fordham University
+441 E. Fordham Road
+Bronx, NY 10458
+Thebaud Hall
+Attention: Enrollment Services
+These payments can also be made in person directly on campus to the Financial Aid Office.
+We accept Visa, Discover, MasterCard, and American Express.
+When making a credit card payment, a convenience fee of 3.00%  for domestic issued cards and 4.25% for International issued cards amount is assessed in addition to the amount owed. The amount of the convenience fee will display before you submit payment and will appear as a separate charge on your credit card statement. Make sure to note the total amount of the payment before initiating the transaction.
+Once the charge is assessed, the 3.00% and 4.25% fee is NON-REFUNDABLE, even if we refund your credit card for the amount owed. Fordham receives no part of the convenience fee.
+Authorized user payment
+Student payment
+Make a payment via PayPath:
+Navigate to our
+Student & Parent Portals
+page
+Click "E-Bill Suite for Students" & log in
+Click on "Make a Payment"
+Select your Payment Amount then click "Continue"
+Select your Payment Method as "Credit Card via PayPath," click "Continue"
+Confirm/review the payment amount, then select "Continue to PayPath" (this will open a new window)
+Review Student ID (FIDN), Term to Credit, and the payment amount. Click "Continue"
+Input Payment Card Information and Billing Address, click "Continue"
+Review the Confirmation Page and agree to the terms
+Submit your payment
+Students can use
+Convera
+or
+Flywire
+to streamline international wires for tuition payments. They're fast, simple and offer excellent exchange rates.
+Make an International Wire Transfer Through the E-Bill Suite with Convera:
+1. Login to your
+E-Bill Suite
+.
+2. Click "Make Payment".
+3. Enter your balance.
+4. Select "Convera International Payment" as your Payment Method.
+5. Click "Continue" then "Initiate Payment".
+6. Select your country & click "Get a Quote".
+7. Choose your preferred transfer method.
+8. Enter all requested payment information & click "Next" then "Submit".
+9. Follow steps on downloadable instruction sheet to finish wiring the funds.
+Domestic Wire Transfers
+Bank of America
+100 West 33rd Street
+New York, NY 10001
+ABA NO. 0260-0959-3
+CREDIT FORDHAM UNIVERSITY
+ACCOUNT NO. 4830-0692-5201
+Further Credit: (Please include Student Name, Student ID # and School/Program etc.)
+For ACH transfers, in place of ABA number above use ABA number: 0210-0032-2
+Other International Wires
+Bank of America
+100 West 33rd Street
+New York, NY 10001
+Swift Number: BOFAUS3N
+CREDIT FORDHAM UNIVERSITY
+ACCOUNT NO. 4830-0692-5201
+Further Credit: (Please include Student Name, Student ID # and School/Program etc.)
+For ACH transfers use ABA number: 0210-0032-2
+Policy for Wire Transfers
+Fordham University will only accept wires for admission deposit payments and charges billed directly by the University. This includes but is not limited to:
+Tuition
+Required Fees
+Health Insurance
+Room or Board charges
+Do not send excess funds to the University for personal use. If a credit occurs due to a change in bill or class withdrawal, these funds will apply to future charges for the following semester. If you withdraw from the University,  we will return the amount of the credit to the original bank account where the wire originated or where applicable through Flywire or Convera.
+Please contact Student Financial Services at 718-817-4900 to verify your eligibility for a refund as well as to obtain the proper refund process instructions.
+Students who receive reimbursement from their employer are responsible for making full payment by the bill due date.
+Students may utilize the monthly payment plans and student loans to cover their balances. The final bill of the term will detail all charges and payments. The student can then use their paid statement to request a reimbursement from their employer.
+For information with regards to eligibility please refer to the
+Human Resources Handbook
+.
+Tuition Remission
+only covers tuition
+. Eligible students are still responsible for general and technology fees.
+Students who receive a voucher from their employer to finance their education must present it to the Office of Student Accounts. Subsequent to the receipt of your voucher the Student Accounts office will send an invoice to your employer. The company will remit payment directly to the University. This voucher must include the following student information:
+Student Name
+Fordham Identification Number (FIDN)
+Semester
+Courses
+Amount to be paid
+And the following company information:
+Company Name
+Billing Address
+Contact information
+We must receive the voucher by the initial bill due date for the semester. If the voucher is received past the bill due date, the student will be responsible for any late fees incurred
+PRE-PAY YOUR TUITION. AVOID TUITION INCREASES.
+The Fordham University Tuition Stabilization Plan (TSP), is payment plan by which the tuition is prepaid for 2-4 years. This unique opportunity for undergraduate students locks in your tuition rate for the duration of the contact.
+If a student is interested in TSP the following information needs to be provided to
+[email protected]
+:
+Student Name
+Student ID
+Number of years to be prepaid
+Name and Address of payer
+Monthly Payment Plan
+The Fordham University Monthly Payment Plan, offered by Nelnet, is a payment plan by which a student or parent, guardian, or sponsor of a student can make monthly payments for out-of-pocket expenses. Fordham encourages you to use the interest-free monthly payment plan first and then the federal loan programs before considering private loans to cover the cost of college.
+Contact Information
+NelNet Campus Commerce
+Phone: 888-470-6014
+Enroll in a payment plan
+Academic Year
+Last Day to Enroll
+Installments
+Down Payment
+Enrollment Fee
+Months of Payments
+April 28
+11
+5%
+$75.00
+May-March
+May 27
+10
+10%
+$75.00
+June-March
+June 28
+9
+10%
+$75.00
+July-March
+July 1
+8
+20%
+$90.00
+Aug-March
+July 28
+8
+20%
+$90.00
+Aug-March
+August 1
+7
+30%
+$110.00
+Sept-March
+August 28
+7
+30%
+$110.00
+Sept-March
+September 8
+6
+40%
+$110.00
+Oct-March
+Fall Only
+Last Day to Enroll
+Installments
+Down Payment
+Enrollment Fee
+Months of Payments
+May 28
+5
+10%
+$75.00
+June-October
+June 28
+4
+20%
+$75.00
+July-October
+July 1
+3
+30%
+$90.00
+August-October
+July 28
+3
+30%
+$90.00
+August-October
+August 1
+2
+40%
+$110.00
+September & October
+August 28
+2
+40%
+$110.00
+September & October
+September 8
+1
+50%
+$110.00
+October only
+Spring Only
+Last Day to Enroll
+Installments
+Down Payment
+Enrollment Fee
+Months of Payments
+November 1
+5
+10%
+$75.00
+November-March
+December 1
+4
+20%
+$75.00
+December-March
+January 1
+3
+30%
+$90.00
+January-March
+February 1
+2
+40%
+$110.00
+February & March
+March 1
+1
+50%
+$110.00
+March only
+*If you enroll in the plans after the initial start date you must include the full down payment amount with the appropriate enrollment fee*
+To enroll in the NelNet/QuikPay platform:
+Login to
+https://quikpayasp.com/fordham/student_accounts/payer.do
+with your Fordham credentials
+Select a term & click 'Payment Plan'
+Navigate to the menu on the left side of the page and click ‘Payment Plan’
+Select “Available Payment Plan” of your choice
+Complete the “Budget Worksheet” with your estimated charges and credits for the upcoming fall and spring semesters
+Review “Payment Plan Options”
+(First-time users) Choose a security question and provide the answer
+Select “Payment Method”
+Enter account information
+Review “Payment Plan Information”
+Accept terms of Contract Authorization
+Review payment plan receipt after your enrollment is processed
+If a parent/guardian wishes to enroll in the payment plan as the payer, you must add them as an authorized user on the Payment Plan portal. Your parent/sponsor will create separate login information to access the account.
+To sign up an authorized user on your NelNet/QuikPay account:
+Log on to the portal at
+fordham.edu
+Click the ‘Student’ Tab
+Under the ‘My Account Links’ Box click ‘Monthly Payment Plan
+Navigate to the menu on the left side of the page and click ‘Authorize Payers’
+Click ‘Add New’ in the top right corner
+Enter the requested information
+Once the steps above are complete, the authorized user will receive a confirmation email asking to create a
+password for the monthly payment plan portal
+The authorized user can now sign into the payment plan portal using their own unique username and password
+*Please note that My E-Bill Suite and Monthly Payment Plan portals have two separate authorized user logins.*
+Account Access
+Fordham requires specific permissions for access to different information.
+Here are the different user types parents may want access as and what information they can learn from each:
+The University makes provisions for students to allow third parties to view specific information on the Fordham portal through a process called
+Delegate Access
+.  Students must use this process to allow third parties (including parents, guardians, family members, and sponsors) to communicate with Enrollment Group staff about the student's education record, financial aid, billing and academic progress. You get to choose who gets access to each of those specific items. This access can be granted or revoked at any time.
+The
+E-Bill Suite
+is an integrated e-bill and e-payment web portal. Access will grant you the ability to view and pay the tuition and housing bill in Touchnet.
+You can give your parents/authorized users access to your e-bill suite by doing the following:
+Log into the
+E-Bill Suite
+.
+Click on "Authorized Users." (This will bring you to the authorized user page.)
+Click on "Add Authorized User" and enter the email address of the person you wish to be able to see your bill.
+Answer the next three questions using the 'Yes' or 'No' radio buttons:
+If you want the authorized user to view your bill
+If you want this person to view your 1098-T statement
+If you would like to allow this person to view your payment history
+Click "Continue".
+Carefully read the 'Agreement to Add Authorized User' and check "I Agree"
+Click "Continue." where y
+ou should then see a Thank You page.
+The authorized user will receive an email from
+[email protected]
+with instructions on how to activate their account.
+Parent/Authorized users please use the
+E-Bill Suite Login
+.
+The Fordham University
+monthly payment plan
+, offered by Nelnet, is a payment plan by which a student or parent, guardian, or sponsor of a student can make monthly payments for out-of-pocket expenses. If a parent/guardian wishes to enroll in the payment plan as the payer, the student must add them as an authorized user in the Nelnet portal.

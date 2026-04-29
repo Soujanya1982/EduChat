@@ -1,0 +1,26 @@
+URL: https://www.isenberg.umass.edu/centers/center-for-international-securities-and-derivatives-markets/cisdm-databases
+TITLE: CISDM Databases : Isenberg School of Management : UMass Amherst
+
+Hedge Fund/CTA Database
+The Morningstar CISDM Database (formerly the MAR Database) is the market's oldest Hedge Fund and CTA database.  Tracking qualitative and quantitative information for more than 12,000 hedge funds, CTAs, and funds of funds since 1994, the Morningstar CISDM Database is highly recognized as a research tool by academics in their studies and articles related to the hedge fund and CTA industries. Please note that there are not 12,000 unique funds as many hedge funds have multiple share classes.
+In addition to 12,000+ surviving funds, the Morningstar CISDM Database also includes a graveyard database of dead funds - which contains qualitative and quantitative information for over 13000 inactive hedge funds, funds of funds, and CTAs.
+The Database is offered to subscribers by CISDM and Wharton Research Data Services (WRDS).
+Download Database Info
+The Morningstar CISDM Database Features
+The Morningstar CISDM Database provides information for hedge funds, funds of funds, and CTAs in Excel format of three separate clusters:
+1
+.
+Fund Information Cluster:
+This cluster provides qualitative firm and/or fund details, including manager name and history, fund category, fund domicile, registrations, firm's total assets, inception date, base currency, and management fee. performance fee, and minimum purchase.
+2. Fund Returns Cluster:
+This cluster provides monthly returns of active funds since their inception. Each monthly return data is in the fund's base currency and net of all fees.
+3. Missing Returns:
+Some funds may have missing returns between the date they are added to the database and the most recent date. Also, some funds may agree to share some data with the database but do not share their returns. Therefore, all the return data will be missing for these funds.
+4. Fund Assets Cluster:
+This cluster provides monthly net AUM of active funds. Each monthly net AUM data is in the fund's base currency.
+Download Database Guide and Statistics
+To purchase the Database directly from CISDM, please contact
+Lyne Laliberte
+or the
+CISDM office
+.

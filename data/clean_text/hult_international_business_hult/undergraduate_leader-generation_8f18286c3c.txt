@@ -1,0 +1,6 @@
+URL: https://www.hult.edu/undergraduate/leader-generation
+TITLE: Leader Generation: Innovative Education | Hult International Business School
+
+Application deadline: {{ugDeadline}}
+Our enrollment advisors will be ready to support you throughout the process.
+Apply Now

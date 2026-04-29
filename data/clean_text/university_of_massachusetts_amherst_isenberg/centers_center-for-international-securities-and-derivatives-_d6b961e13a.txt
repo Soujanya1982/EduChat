@@ -1,0 +1,32 @@
+URL: https://www.isenberg.umass.edu/centers/center-for-international-securities-and-derivatives-markets/cisdm-indices
+TITLE: CISDM Indices : Isenberg School of Management : UMass Amherst
+
+The CISDM Fund of Fund index and the ten individual CISDM Hedge Fund Strategy Indices reflect the median performance of funds within self-reported fund of fund and hedge fund strategy classifications
+The CISDM Fund of Fund index and the ten individual CISDM Hedge Fund Strategy Indices reflect the median performance of funds within self-reported fund of fund and hedge fund strategy classifications reporting to the Morningstar CISDM Hedge Fund Database. In addition, the CISDM Equal Weighted Hedge Fund Index and CISDM CTA Equal Weighted Index reflect the average performance of all hedge funds and CTAs reporting to the Database.
+The calculations of the CISDM Equal Weighted Hedge Fund Index and CISDM CTA Equal Weighted Index average index performance do not include outliers that are at least +/-3 standard deviation away from the average. In the calculations of the eight individual CISDM Hedge Fund Strategy Indices, the CISDM Funds of Funds Diversified Index, and the CISDM Equal Weighted CTA Index, duplicate funds (e.g., funds that differ only in currency) have been eliminated.
+The following indices are available for download using the link below or through Bloomberg Professional.
+Download CISDM Indices
+https://umass-my.sharepoint.com/:x:/g/personal/cisdm_umass_edu/EQ6rRSNuKIJDqZnQ…
+Strategies
+Convertible Arbitrage Strategy
+This strategy's investment thesis is based on the idea that the market misprices options embedded in convertible debt securities. The basic strategy involves a long position in convertible bonds and a short position in the underlying equity of the convertible. The goal is to hedge the equity risk of the convertible instrument and benefit from the underpricing of the embedded option.
+Distressed Securities Strategy
+This strategy's investment thesis is based on the idea that distressed corporate fixed-income instruments could be mispriced because many institutional investors are reluctant to hold such securities. Managers are typically actively involved in managing the bankruptcy process. Managers follow various hedging strategies to manage specific risks of distressed securities (e.g., interest rate or sector exposures).
+Equity Long/Short Strategy
+This strategy's investment thesis is based on the idea that some equity prices may not fully reflect the fundamental values of firms' assets. Managers will take long positions in undervalued equities and short positions in overvalued equities. In some cases, long or short positions may not be based on the mispricing of securities but rather than a desire to manage the equity risk of the fund (e.g., going long or short broad equity indices).
+Equity Market Neutral Strategy
+This strategy's investment thesis is based on the idea that equity prices may not fully reflect the fundamental values of firms' assets. In this sense, this strategy may seem similar to Equity Long/Short Strategy. However, Equity Market Neutral strategies tend to be more quantitative. As the name implies, the goal is to create a return stream without significant equity market exposure. In addition, various sophisticated quantitative techniques may be used to hedge other sources of risks such as currency, sector, and volatility.
+Even Driven Strategy
+This strategy's investment thesis is based on the idea that corporate securities could be mispriced when firms or part of them undergo significant changes (e.g., spin-off, restructuring, etc.). Managers take long and short positions in securities that are believed to be mispriced due to some corporate transactions.
+Fixed Income Arbitrage Strategy
+This strategy's investment thesis is based on the idea that specific fixed-income instruments could be mispriced (temporarily or systematically) by markets. Managers could long and short positions in fixed-income instruments of the same entity if they believe certain parts of a firm's capital structure are mispriced. Managers may invest in asset-backed securities and even establish equity positions to hedge the equity risk of specific high-yield instruments.
+Global Macro Strategy
+This strategy's investment thesis is based on the idea that certain asset classes or markets (e.g., equity markets of an emerging economy) could be temporarily misplaced. Managers may invest in various asset classes, including equities, fixed income, currencies, and commodities. While they may invest in some individual securities, the typical strategy involves broad bets using futures contracts, ETFs, Total Return Swaps, and other derivatives.
+Merger Arbitrage Strategy
+This strategy's investment thesis is based on the idea that equity prices of firms that are merger targets may not fully reflect the price the acquiring firm is willing to pay. Managers typically take long positions in the equity of the target firm and short the equity of the acquiring firm.
+Diversified Fund of Funds
+These funds invest in various hedge funds. The investment thesis is that fund-of-fund managers can identify hedge fund managers that are likely to outperform their peers. In addition, they provide an opportunity for smaller investors to invest in a diversified portfolio of hedge funds when they may not be able to achieve the same level of diversification on their own.
+China Long/Short Strategy
+This equity long/short strategy involves equities trading in China and Hong Kong markets. The Chinese Yuan Renminbi is the base currency of most of these funds.
+Commodity Trading Advisors (CTAs) Strategy
+CTAs funds are hedge funds that use a managed futures strategy. They invest in futures contracts and use a variety of trading strategies. These may include systematic trading and trend following. CTA funds offering a managed futures strategy must be registered with the CFTC and NFA.

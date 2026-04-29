@@ -1,0 +1,17 @@
+URL: https://marriott.byu.edu/apply/dashboard
+TITLE: CAS – Central Authentication Service
+
+By signing in, you agree to BYU Account
+Terms of Use
+.
+OR
+Don't have an
+account?
+Protect your account with Duo Two-Step Verification.
+Learn more and sign up at
+duo.byu.edu
+Privacy Notice
+|
+Cookie Preferences
+Browser cookies disabled
+Your browser does not accept cookies. Single Sign On WILL NOT WORK.

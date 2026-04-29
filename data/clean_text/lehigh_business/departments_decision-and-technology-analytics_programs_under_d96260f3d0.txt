@@ -1,0 +1,28 @@
+URL: https://business.lehigh.edu/departments/decision-and-technology-analytics/programs/undergraduate-business-information-systems-minor
+TITLE: Undergraduate Business Information Systems Minor | Lehigh Business
+
+Decision and Technology Analytics (DATA)
+Business Information Systems (BIS) Minor Overview
+The Business Information Systems (BIS) minor provides an overview of the major technical functions in IS, such as design of systems and the development and management of databases. In addition, the student explores the applications of IS to business problems through an elective focusing on analytics, cloud computing, coding, cybersecurity, or enterprise systems. This minor is available only to students with a declared major in the College of Business.
+These minors prepare graduates for career opportunities as: computer auditors, financial systems specialists, marketing database analysts and supply chain information systems specialists.
+Program of Studies
+The BIS minor consists of 3 courses equaling 9 credit hours. These credit hours consist of the following courses.
+Required (2 courses)
+BIS 311: Managing IS Analysis and Design
+BIS 324: Business Data Management
+Electives (choose 1 course)
+BIS 335: Web Application Development for Business
+BIS 342: E-Business Enterprise Applications
+BIS 333: Enterprise Security and Risk Management
+BIS 344: Cloud Computing for Business
+For full descriptions of these courses,
+link to catalog
+.
+For more information, please contact
+Professor Haoyan Sun
+, director, at
+has517@lehigh.edu
+.
+Declare the Business Information Systems Minor
+If you are looking to declare the business information systems minor, please fill out our form.
+Minor Declaration Form

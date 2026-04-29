@@ -1,0 +1,242 @@
+[
+  {
+    "url": "https://broad.msu.edu/undergraduate/admissions",
+    "title": "Undergraduate Admissions - MSU Broad College of Business",
+    "slug": "undergraduate_admissions_fb1cd526e3",
+    "chars": 1520
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/admissions/major",
+    "title": "Major Admission - MSU Broad College of Business",
+    "slug": "undergraduate_admissions_major_12db3363a1",
+    "chars": 13400
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/admissions/transfer",
+    "title": "Transfer Admission - MSU Broad College of Business",
+    "slug": "undergraduate_admissions_transfer_c38186d50c",
+    "chars": 8218
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/admissions/direct",
+    "title": "Undergraduate Direct Admission - MSU Broad College of Business",
+    "slug": "undergraduate_admissions_direct_47ae4c35af",
+    "chars": 10579
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/admissions/standard",
+    "title": "Standard Admission - MSU Broad College of Business",
+    "slug": "undergraduate_admissions_standard_7d1b5fecc7",
+    "chars": 27134
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate",
+    "title": "Undergraduate Programs - MSU Broad College of Business",
+    "slug": "undergraduate_6eade3c0b8",
+    "chars": 8417
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/scholarships",
+    "title": "Scholarships - MSU Broad College of Business",
+    "slug": "undergraduate_scholarships_3f4869563e",
+    "chars": 7222
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/visit",
+    "title": "Visit Broad - MSU Broad College of Business",
+    "slug": "undergraduate_visit_0d42893253",
+    "chars": 3470
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/advising/major-changes",
+    "title": "Major Changes - MSU Broad College of Business",
+    "slug": "undergraduate_advising_major-changes_f57e44b480",
+    "chars": 4873
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/opportunities",
+    "title": "Student Opportunities - MSU Broad College of Business",
+    "slug": "undergraduate_opportunities_22e5063c72",
+    "chars": 5257
+  },
+  {
+    "url": "https://broad.msu.edu/contact",
+    "title": "Contact - MSU Broad College of Business",
+    "slug": "contact_68ea0702f1",
+    "chars": 3974
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/opportunities/wellness-resources",
+    "title": "Wellness Resources - MSU Broad College of Business",
+    "slug": "undergraduate_opportunities_wellness-resources_11f5169cab",
+    "chars": 3221
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/programs",
+    "title": "Majors and Minors - MSU Broad College of Business",
+    "slug": "undergraduate_programs_f933b030ef",
+    "chars": 9319
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/advising",
+    "title": "Advising - MSU Broad College of Business",
+    "slug": "undergraduate_advising_20db203a49",
+    "chars": 10303
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/curriculum",
+    "title": "Curriculum - MSU Broad College of Business",
+    "slug": "undergraduate_curriculum_c3412bc991",
+    "chars": 9550
+  },
+  {
+    "url": "https://broad.msu.edu/career-management/undergraduate",
+    "title": "Undergraduate Career Advising - MSU Broad College of Business",
+    "slug": "career-management_undergraduate_7e34cead5c",
+    "chars": 8159
+  },
+  {
+    "url": "https://broad.msu.edu/career-management/international-student-career-advising-resources",
+    "title": "International Student & Global Career Resources - MSU Broad College of Business",
+    "slug": "career-management_international-student-career-advising-reso_05387a58c4",
+    "chars": 17658
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/opportunities/mbp/empowerment-closet",
+    "title": "Empowerment Closet - MSU Broad College of Business",
+    "slug": "undergraduate_opportunities_mbp_empowerment-closet_249fcd8029",
+    "chars": 2819
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/programs/business-preference",
+    "title": "Business Preference - MSU Broad College of Business",
+    "slug": "undergraduate_programs_business-preference_82a7ae68ca",
+    "chars": 8932
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/programs/accounting-major",
+    "title": "Major in Accounting - MSU Broad College of Business",
+    "slug": "undergraduate_programs_accounting-major_2f654b5e01",
+    "chars": 11099
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/programs/finance-major",
+    "title": "Major in Finance - MSU Broad College of Business",
+    "slug": "undergraduate_programs_finance-major_28f9f9c4b5",
+    "chars": 33152
+  },
+  {
+    "url": "https://broad.msu.edu/hospitality-business/hospitality-business-major",
+    "title": "Major in Hospitality Business - MSU Broad College of Business",
+    "slug": "hospitality-business_hospitality-business-major_d0624442e4",
+    "chars": 7787
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/programs/human-resource-management-major",
+    "title": "Major in Human Resource Management - MSU Broad College of Business",
+    "slug": "undergraduate_programs_human-resource-management-major_a68f2d59e7",
+    "chars": 8410
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/programs/management-major",
+    "title": "Major in Management - MSU Broad College of Business",
+    "slug": "undergraduate_programs_management-major_fb1ffedde7",
+    "chars": 5590
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/programs/marketing-major",
+    "title": "Major in Marketing - MSU Broad College of Business",
+    "slug": "undergraduate_programs_marketing-major_bf64269a2c",
+    "chars": 18857
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/programs/supply-chain-management-major",
+    "title": "Major in Supply Chain Management - MSU Broad College of Business",
+    "slug": "undergraduate_programs_supply-chain-management-major_1ff0beff41",
+    "chars": 9029
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/programs/business-minor",
+    "title": "Minor in Business - MSU Broad College of Business",
+    "slug": "undergraduate_programs_business-minor_83788f30bd",
+    "chars": 2847
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/programs/financial-planning-and-wealth-management-minor",
+    "title": "Minor in Financial Planning and Wealth Management - MSU Broad College of Business",
+    "slug": "undergraduate_programs_financial-planning-and-wealth-managem_a0d5a181e0",
+    "chars": 7587
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/programs/information-technology-minor",
+    "title": "Minor in Information Technology - MSU Broad College of Business",
+    "slug": "undergraduate_programs_information-technology-minor_f91a89015b",
+    "chars": 7368
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/programs/insurance-risk-management-minor",
+    "title": "Minor in Insurance and Risk Management - MSU Broad College of Business",
+    "slug": "undergraduate_programs_insurance-risk-management-minor_47a3d86ab5",
+    "chars": 11734
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/programs/international-business-minor",
+    "title": "Minor in International Business - MSU Broad College of Business",
+    "slug": "undergraduate_programs_international-business-minor_de8c535f78",
+    "chars": 10250
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/programs/retail-management-minor",
+    "title": "Minor in Retail Management - MSU Broad College of Business",
+    "slug": "undergraduate_programs_retail-management-minor_3281ac0722",
+    "chars": 7332
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/programs/sports-business-management-minor",
+    "title": "Minor in Sports Business Management - MSU Broad College of Business",
+    "slug": "undergraduate_programs_sports-business-management-minor_b677de49ae",
+    "chars": 14500
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/admissions/secondary",
+    "title": "Standard Admission - MSU Broad College of Business",
+    "slug": "undergraduate_admissions_secondary_2be863e5e1",
+    "chars": 27134
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/advising/academic-support-services",
+    "title": "Academic Support Services - MSU Broad College of Business",
+    "slug": "undergraduate_advising_academic-support-services_daf59ba874",
+    "chars": 7791
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/advising/overrides",
+    "title": "Overrides - MSU Broad College of Business",
+    "slug": "undergraduate_advising_overrides_3cbbf9f912",
+    "chars": 2677
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/advising/msu-business-focused-majors",
+    "title": "Business-Focused Majors at MSU - MSU Broad College of Business",
+    "slug": "undergraduate_advising_msu-business-focused-majors_466e277c49",
+    "chars": 2617
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/curriculum/internships",
+    "title": "Internships - MSU Broad College of Business",
+    "slug": "undergraduate_curriculum_internships_70c60d8bbc",
+    "chars": 2110
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/opportunities/dashney-womens-leadership-accelerator",
+    "title": "Dashney Women's Leadership Accelerator - MSU Broad College of Business",
+    "slug": "undergraduate_opportunities_dashney-womens-leadership-accele_5f8ef0a074",
+    "chars": 7335
+  },
+  {
+    "url": "https://broad.msu.edu/undergraduate/opportunities/fmi",
+    "title": "Financial Markets Institute - MSU Broad College of Business",
+    "slug": "undergraduate_opportunities_fmi_b9142bff30",
+    "chars": 13952
+  }
+]

@@ -1,0 +1,21 @@
+URL: https://www.business.rutgers.edu/admissions/audit-analytics
+TITLE: Online Audit Analytics Certificate Program | Rutgers Business School
+
+Online Audit Analytics Certificate Program
+The audit analytics certificate program is an “add-on” to the Master of Accountancy Financial Accounting program and set of services for the MBA in Professional Accounting program.
+The online Audit Analytics Certificate Program is designed to be a self-contained set of non-matriculated courses that can be taken by self -actualizing professionals that need to update their analytics skills and promote change in the profession towards a modern audit.
+Objectives
+Meet the demand for effective and efficient audit methodologies in profession.
+Provide theoretical foundation and applied demonstration for advanced audit methodologies.
+Four required courses
+Audit Analytics
+Special Topics in Audit Analytics
+Information Risk Management
+Individual study course: Project in Audit Analytics/Continuous Monitoring or Continuous Audit
+Domain of knowledge to be attained
+Analytics techniques in the audit domain
+The usage of audit analytics tools (ACL & IDEA) and statistical software (WEKA & R)
+Statistical inference and its usage in auditing
+Audit automation techniques (Continuous Auditing & Continuous monitoring)
+Enterprise Risk Management approach
+Learn More

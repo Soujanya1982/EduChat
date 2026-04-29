@@ -1,0 +1,154 @@
+URL: https://mitsloan.mit.edu/master-of-business-analytics/admissions/frequently-asked-questions
+TITLE: Frequently Asked Questions | Master of Business Analytics | MIT Sloan
+
+Master of Business Analytics
+Frequently Asked Questions
+Our goal is to make the Master of Business Analytics (MBAn) admissions process straightforward. To help you along the way, we’ve answered some of the most common questions we hear from applicants. If you don’t see the answer to your specific question below, feel free to send us an
+email
+!
+Register your Interest
+General
+What is the MBAn class size at MIT Sloan?
+The Master of Business Analytics program is typically about 80 students.
+Where can I view the class profile?
+The
+Class Profile
+can be found on our website.
+How busy is the program schedule?
+The MBAn program is rigorous and intensive to ensure that students have a strong understanding of the fundamentals of data science. Students balance job searching and academics with the support of our faculty and the Career Development Office.
+Are classes individually driven or team-based?
+The curriculum is team-based for most homework, projects, and case studies. The midterms and exams, however, are done individually. Different classes have different expectations and the teaching faculty will make it clear if you are to work as a team or on your own.
+What is the curriculum content like?
+The MBAn program is an
+advanced training program
+for students who want to become top-tier business analytics/data science professionals. We prepare students to solve real-world issues through our action learning courses.  In addition, students have a required
+Analytics Capstone Project
+, which guarantees them the equivalent of an internship in the summer before graduation.
+Do MBAn students participate in IAP & SIP?
+Independent Activities Period (IAP)
+is MIT-wide and occurs during the entire month of January. MBAn students will be preparing for their Analytics Capstone Project, taking software tools training, and participating in Career Core. The
+Sloan Intensive Period (SIP)
+is held for one week in October and one week in March. In the spring, Master of Business Analytics students have a mandatory ethics session and another software tools training.
+Does the MBAn program accept transfer students?
+The MIT Sloan Master of Business Analytics program does not accept any transfer credits, and it is not possible to shorten our program based on work done elsewhere.
+Can students complete the MBAn program part-time or via distance learning?
+No, the MBAn program is full-time only and takes place on the MIT campus.
+What degree would I graduate with after completing the MBAn program?
+The degree is a Master of Business Analytics.
+Can an MBAn student start in the spring semester?
+No, all students must start in the fall.
+Collapse
+General
+Who evaluates the applications?
+The applications are evaluated by the Admissions Committee, which is composed of staff on the admissions, career, and program teams, along with faculty members. Students and alumni are not part of the evaluation process.
+Are some parts of the application weighted more than others?
+Our Admissions Committee will carefully consider all application materials you submit. No single component is more or less important than another.
+Is there a minimum GPA required to apply to the MBAn program?
+There is no minimum GPA required to apply to the MBAn program. We understand this is one component of your application and will review it alongside any other relevant coursework you’ve completed. View our
+Class Profile
+to see the average GPA of our current MBAn class.
+Is there rolling admissions for the Master of Business Analytics program?
+No, the MBAn program does not have rolling admissions. Applications will be reviewed after the deadline.
+Collapse
+Relevant Coursework & Professional Certifications
+Are there any required courses that applicants have to take to be admitted?
+We find that candidates who have completed coursework in the following subjects are best prepared for the program.  Although not required, we strongly suggest candidates have a demonstrated understanding of key concepts in linear algebra, probability, calculus, and computer programming.
+Do I need an undergraduate degree in a particular field to apply?
+There is no specific undergraduate degree needed to apply and our applicants come from varying backgrounds. We consider successful completion of courses in the following areas to be relevant to your potential in the MBAn program: Math, Linear Algebra, Statistics, Machine Learning, and Computer Programming.
+Can I apply to the Master of Finance (MFin) and the MBAn programs concurrently?
+Applicants may apply to both programs, but will need to submit separate applications to each program. Each program makes admission decisions independently, and students can only attend one program at a time. If you apply to both MFin and MBAn, you should create both applications with the same email address.
+Collapse
+Test Scores
+Is the GRE/GMAT required?
+Submission of a standardized test, such as GMAT (Focus Edition or 10th Edition) or GRE, is optional when applying for the MBAn program. If you have a GMAT or GRE score, you are encouraged to submit it as an additional data point to be considered by the Admissions Committee. Those without a test score will be reviewed as is, with no negative inferences.
+Do you require a minimum acceptable GRE/GMAT score?
+No. MIT Sloan does not require a minimum test score on either test. Visit our
+class profile page
+to view the average GRE score of our students.
+Do I need a TOEFL/IELTS score to apply to the MBAn Program?
+No. This is not required to apply to the MBAn program.
+Since a TOEFL score is not required, how do you measure your English speaking ability?
+We assess English language ability during our interviews.
+Collapse
+Transcripts
+Do I need to mail in copies of my transcripts?
+As part of the application, you are required to scan and upload a legible copy of your transcript(s) from all colleges and universities you attended or are currently attending. If your transcript(s) are not in English, you will need to upload the original and a certified translation. If admitted, you will receive further instructions on submitting your official, signed, and sealed transcript from all schools attended. Any discrepancies between the scanned transcripts and official transcripts may result in a rejection or a withdrawal of our offer of admission. Please do not mail transcripts to our office.
+If my transcript is not in English, should I get it translated?
+Yes! We require all transcripts to be submitted in the original language, accompanied by a certified English translation. We accept translations issued by an institution or professional translating service, such as World Education Services (WES). If you are currently earning a degree, please submit your most up-to-date transcript.
+If I have an international transcript, do I need to have an outside credential service evaluate it and provide you with a report?
+We don’t have a preference! While some applicants choose to have an outside credential service evaluate their transcript, it is not mandatory.
+If I studied abroad, do I need to submit that transcript as well?
+Yes! We want to see all of the grades you received during your undergraduate degree. If you have a second transcript from a study abroad institution, please upload that transcript as well.
+If I did my undergraduate studies outside of the United States, should I convert my GPA?
+You do not need to convert your GPA for the online application. Simply enter the grading system used by your college or university. We are familiar with various grading systems and can evaluate them on our end.
+My university does not provide a cumulative GPA. What should I do?
+If your university does not provide a cumulative GPA, please calculate your GPA to the best of your ability, and include an explanation for how you calculated it in the text box provided. Please include all courses that counted towards your degree and factor in the number of credits and grades for each class. Please note that the system does not accept letter grades or integers less than 1.
+My university does not provide a class rank. What should I do?
+Many schools do not provide a class ranking system, so you may leave this blank on your application.
+Collapse
+Letters of Recommendation
+Who should I ask to write my recommendation letters?
+One letter must come from someone who can speak to your
+quantitative abilities
+. A suggestion would be a faculty member from a STEM discipline. If you are a current student, you should submit three academic letters of recommendation. If you are working full-time, you should submit two academic letters of recommendation and one letter from your most recent employer.
+What if I can’t get a letter of recommendation from a direct supervisor?
+If you’ve been working full-time, we want to learn more about the impact you have made in a professional setting. If your direct supervisor is not able to submit a letter on your behalf, consider asking another manager or supervisor (not a peer) who can speak to the contributions you have made and share substantive examples of your strengths.
+How do I submit letters of recommendation?
+Your letters of recommendation must be submitted electronically through our online application. We do not accept recommendation letters via email or mail. For more information, please
+visit the How to Apply section here
+.
+Should recommendations be in a question-answer format, or should they be in letter format?
+Either format is acceptable. We only require that the recommender answer all of the questions that we ask. Please visit the
+How to Apply
+section to see the list of questions we ask
+recommenders
+.
+Can my recommenders submit their letters of recommendation after the application deadline?
+Your complete application, including letters of recommendation, must be submitted by the application deadline. Please be sure to let your recommenders know when the deadline is.
+One of my recommenders doesn’t speak or write in English. Should I translate their recommendation letter into English myself?
+You should not translate the recommendation letter into English yourself. If your recommender writes a letter in a language other than English, the letter should be translated by a third-party service.
+Collapse
+Interviews
+Is the interview required?
+Yes! The interview is an important and required component of the admissions process. Our goal with the interview is to get to know you better and understand the strengths you’ll bring to the MIT Sloan community. During the interview, we also look for professional presence and communication, as well as English language proficiency.
+What is the format of the interview?
+If you are invited to interview, you will meet one-on-one with a member of the Admissions Committee. The interview is both behavioral and technical.  As part of the technical interview, you may be asked math, probability, statistics, and/or computer science questions relevant to the fields of data science and analytics. You will also be asked behavioral questions that help us to learn more about how you work with a team, make decisions, and solve problems. Your interview will last about 30 minutes. All interviews will be conducted virtually.
+Collapse
+Work Experience
+Is an internship considered work experience?
+Yes, an internship is professional work experience and will be considered in your application. Your internship may either be paid or unpaid, as long as you were hired directly by the Human Resources department at that company.
+Do I need work experience to apply?
+The short answer is no. While some MBAn applicants have several years of experience, this is not a requirement for admission. A significant number of our students are recent college graduates who have completed an internship before enrolling in the MBAn program. Others have up to three years of full-time work experience.
+I have several years of work experience. Am I still eligible for the MBAn program?
+The MBAn program was designed for those in the very early stages of their career. Please review the
+Class Profile
+to see if your background and experience align with our current students. Applicants with several years of work experience may also want to consider the
+MBA program
+, during which you can take Business
+Analytics
+elective courses or pursue the
+Business Analytics certificate
+while developing yourself as a leader.
+Collapse
+Financial Aid
+What is the MBAn tuition charge?
+Visit here for information about
+MBAn Tuition and Financial Aid
+.
+Is it possible to waive the application fee?
+We offer fee waivers to the following applicants:
+You may be eligible for a fee waiver if any of the following apply:
+Current Peace Corps Members
+Veteran or Active Duty U.S. Military Personnel
+Please note that we cannot grant retroactive fee waivers if the application fee has already been paid online. If you are submitting a request, please wait to hear back from us.
+How do MBAn students finance their education?
+The majority of MBAn students use loans to finance their education. These come from government programs, from MIT directly, or through an alternative lending source. Some students supplement their tuition expenses with fellowships and research assistantships. You can find more information
+here
+.
+Are Research Assistantships (RA) or Teaching Assistantships (TA) available to MBAn students?
+Every year, students in the Master of Business Analytics program take advantage of Research Assistantship opportunities. Teaching Assistantships are less common. Students enrolled in the Master of Business Analytics program are expected to be self-funded, though RA positions are often paid.
+Are fellowships or scholarships available to MBAn students?
+All Master of Business Analytics students receive a $22,000+ tuition offset as a result of their participation in the Analytics Capstone Project. Additionally, the MBAn program offers a limited number of merit-based fellowships. All applicants are automatically considered for a fellowship, and no additional application components are required.
+How are applicants evaluated for fellowships?
+The Admissions Committee reviews admits and awards merit-based fellowships to exceptional students who have shown academic excellence, professional achievements, and potential to enhance the MIT Sloan community.
+Collapse

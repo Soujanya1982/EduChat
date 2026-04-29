@@ -1,0 +1,142 @@
+URL: https://business.wisc.edu/undergraduate/majors/information-systems
+TITLE: Information Systems Major | Wisconsin School of Business
+
+Information Systems Major
+What will I learn as an information systems major?
+Core principles
+Learn to
+manage data, build information models
+, and
+use technology to solve problems
+. Understand business operations and how technology supports strategies.
+In-demand skills
+Develop technical and business skills to drive growth, including
+database management, systems analysis, programming
+, design, and project management.
+Advanced concepts
+Be prepared to
+lead the design, development, and management of information systems
+that support an organization’s operations, decision-making, and planning.
+View information systems major requirements
+32
+in the U.S. for undergraduate management information systems programs
+—
+U.S. News & World Report
+, 2020
+What’s the information systems major experience?
+Top left and top right:
+Undergraduate business students participate in a career trek to New York where they visit several companies and network with employers. During the trek, students visited Carlyle, a global investment management firm, and saw the famous Charging Bull near the New York Stock Exchange in New York City’s Financial District.
+Bottom:
+Two students network during the Information Systems Case Competition hosted by Church Mutual Insurance at Grainger Hall on campus. Nearly 40 students across 10 teams explored the intersection of data, technology, and insurance.
+Photo credits: Ashley Wilcox/WSB and Lamont Johnson Jr./WSB
+Top left and bottom left:
+Undergraduate business students participate in a career trek to New York where they visit several companies and network with employers. During the trek, students visited Carlyle, a global investment management firm, and saw the famous Charging Bull near the New York Stock Exchange in New York City’s Financial District.
+Right:
+Two students network during the Information Systems Case Competition hosted by Church Mutual Insurance at Grainger Hall on campus. Nearly 40 students across 10 teams explored the intersection of data, technology, and insurance.
+Photo credits: Ashley Wilcox/WSB and Lamont Johnson Jr./WSB
+There’s nothing like the Business Badger experience. See more on the
+undergraduate Instagram page
+.
+Average Starting Salary for Information Systems Majors
+73,808
+—Class of 2025
+Employment Rate
+94
+of information systems majors secure a full-time position within six months of graduation
+—Class of 2025
+Companies That Hire Wisconsin Information Systems Majors
+What are popular information systems jobs?
+Business analyst
+Business process management specialist
+Business systems developer
+Database administrator
+Information technology analyst
+Project manager
+Systems analyst
+Technical services manager
+Common Information Systems Career Paths
+Expand all
+|
+Collapse all
+Business analysis
+IT business analysts:
+These business analysts act as a bridge between business users and technical teams. They work with users to understand business processes and reporting needs. Then they translate those needs into technical specifications and solutions.
+IT business analysts help with system design, validation, and training. They also assess the impact of software updates, system upgrades, and patches. They may work on multiple systems and decide how to integrate them to improve efficiency and business value. IT business analysts provide data and insights on costs and the potential return on investments for IT-related projects.
+Programming
+Computer programmers:
+Programmers develop and test computer programs that solve problems. They also create documentation for programs they write and work with other team members to build and maintain large-scale software systems.
+Technology consulting
+Technology consultants:
+These consultants help organizations use information technology to meet their business objectives. Technology consultants often estimate, manage, implement, deploy, and administer IT systems for their clients. Their work often includes areas such as enterprise reporting platforms, cloud, and systems design and implementation.
+Product management
+Product managers:
+Product managers combine business strategy, design knowledge, and customer needs to create products that are relevant, feasible, and valuable. They make sure the product meets customer needs and business goals while maximizing the return on investment.
+Project management
+Project managers:
+Project managers work with clients throughout an entire project, from planning through implementation and delivery. They define the scope of client engagements, allocate resources, and choose the best approaches to completing tasks. Project managers collaborate closely with clients, developers, and other departments and must be able to meet deadlines. They may design performance and expense comparisons. Above all, project managers are responsible for ensuring the accuracy and quality of client deliverables.
+Systems analysis and design
+Professionals working in systems analysis and design roles use computer programming and business skills to plan, develop, test, and document programs. They also evaluate new or updated programs to determine cost, time requirements, feasibility, and compatibility with the organization’s current system.
+Database analysis
+Database analysts:
+These analysts gather data to create databases. They design database structures so information can be stored and retrieved easily. Database analysts maintain and update databases as needed for businesses.
+Certificates Commonly Paired With an Information Systems Major
+Expand all
+|
+Collapse all
+Computer Science
+For jobs such as cloud solutions architect, database administrator, enterprise architect, IT consultant, software engineer, and systems architect.
+View the computer science certificate
+Consulting
+For jobs such as business systems consultant, cloud consultant, digital transformation consultant, enterprise resource planning consultant, IT consultant, and IT project manager.
+View the consulting certificate
+Data Science
+For jobs such as business intelligence developer, data architect, data engineer, data scientist, information systems analyst, and machine learning engineer.
+View the data science certificate
+Manufacturing Engineering
+For jobs such as manufacturing IT systems manager, production IT support specialist, and smart factory specialist.
+View the manufacturing engineering certificate
+Science Communication
+For jobs such as digital media specialist, IT communications specialist, public relations specialist, and technology educator.
+View the science communication certificate
+View all certificates
+Applied Learning Opportunities
+Job shadows
+Experience a company’s day-to-day operations, tour facilities, network, and more through half- or full-day site visits. Past employer participants include Marcus Corp. and Spaulding Ridge. Employers host between five and 20 undergraduate business students at a time.
+Case competitions
+Put your business skills to the test in national case competitions where you solve real-world challenges or case studies. Showcase your analytical, problem-solving, and presentation skills. Competitions have been sponsored by Church Mutual Insurance and the Information Systems Society.
+On-campus events
+Attend employer coffee chats, industry panels, and workshops to grow your network and sharpen your skills. Previous events include mentorship opportunities, club socials, and lunch and learns with industry professionals. Direct access to recruiters and alumni opens doors to internships and full-time positions.
+Career treks
+Visit between five and eight companies over two to three days in cities across the U.S. Past locations include Chicago and New York. Past employers include Barclays, Google, JPMorgan Chase, Loreal, Nomura, Ovative Group, PwC, and Webull Financial. Twenty undergraduate business students go on each trek. The school covers the cost of lodging and part of your travel.
+previous slide
+next slide
+Information Systems Student Organizations
+Badger Consulting
+Information Systems Society
+Wisconsin Consulting Club
+Women in Business Technology
+Popular Master’s Programs for Information Systems Majors
+MS in Business Analytics
+Excel in a data-driven business world. Harness the power of data to address complex questions and contribute strategic insights in any industry in this one-year program.
+MS in Supply Chain Management
+Have a dynamic, exciting career in supply chain. Learn to lead the high-powered systems that make businesses thrive in this one-year program.
+If you have a bachelor’s degree from UW–Madison with a 3.4 GPA or higher, you are eligible for auto admission to these master’s programs:
+MS in Business Analytics
+,
+MS in Real Estate
+, and
+MS in Supply Chain Management
+.
+View all business master's programs
+Who can help me with my information systems major?
+Career coach
+Use
+Starfish
+to make an appointment with your career coach.
+Kristen Fellhoelter
+Career Engagement Manager
+kristen.fellhoelter@wisc.edu
+Pathway consultant
+Samer Khasawneh
+Director of Information Systems Program
+sfkhasawneh@wisc.edu

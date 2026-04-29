@@ -1,0 +1,138 @@
+URL: https://www.lipscomb.edu/one-stop/information-technology-faqs
+TITLE: Information Technology FAQs - Bison One Stop | Lipscomb University
+
+Information Technology FAQs
+Information Technology Services serves and supports you whether your needs are network, telephone, software, computer support or training.
+What is myLipscomb?
+How can I set up my new Lipscomb account?
+How can I reset my password?
+What is Multi-Factor Authentication (MFA)?
+How can I set up MFA?
+How can I reset my MFA?
+I’m locked out because I don’t receive a code for my MFA?
+How do I connect my laptop or phone to the wifi guest network?
+Clear my browser’s Cache & Cookies?
+I need to download the Respondus Lockdown Browser for a class. How can I access it?
+I am having trouble getting the Respondus Lockdown Browser to install properly.  How do I fix the issue?
+I am having trouble getting the Respondus Lockdown Browser to work or load the quiz/test properly.  How do I fix the issue?
+Zoom isn’t working or I have a 40 min limit. How can I get the problem resolved?
+How can I add a printer?
+Document didn’t Print/ Need a refund?
+Need more Print Quota?
+Can a student get a loaner laptop from IT?
+Who can I contact with questions?
+What is the my.Lipscomb Portal?
+The my.Lipscomb Portal, or just myLipscomb, is the main Portal for all Lipscomb University students and employees and provides access to apps and systems you need during your time at Lipscomb such as Canvas, CNS, Zoom, & much more. It can be found at
+my.lipscomb.edu
+.
+MyLipscomb is your main place to go for much of the information you need while here at Lipscomb. The main Portal Homepage has quick access to the things you need most as a student, while the All Apps page provides you with all the programs and applications you need while at Lipscomb. The Student Offices & Services page contains even more resources vital to your student life.
+How can I set up my new Lipscomb account?
+Full instructions can be found on the IT page on the Lipscomb website at
+https://www.lipscomb.edu/student-life/student-services/information-technology-services
+under the “Setup Instructions for a Student Account” section. The same process is used for an employee account as well.
+How can I reset my password?
+There are different processes for resetting your password if you are a Lipscomb student or a Lipscomb employee. Please see the following guides for help by selecting the appropriate link:
+Student:
+Password Reset- Student
+Employee:
+Password Reset- Employee (Start Page)
+What is Multi-Factor Authentication (MFA)?
+Multi-Factor Authentication (or MFA) is a layered approach to securing access to your accounts and applications. Also known as Two-Factor authentication, it is a second authentication that comes after your password (your ‘first’ authentication). This second factor sends a code or a request that must be verified to allow you to continue signing in. This means that if someone steals your password, they then need to also get past the second step. This helps keep your account and data secure.
+How can I set up MFA?
+Setting up a Multi-Factor Authentication has several methods that you can use. Follow the
+instructions in this set-up guide
+.
+How can I reset my MFA?
+If you need to reset your Multi-Factor Authentication method, please follow the
+instructions in this reset guide
+.
+I’m locked out because I don’t receive a code for my MFA?
+Do you have a new phone or do a reset your existing phone? As a security feature, your Lipscomb account continues to look for your old phone/device/method. So it needs to be removed from your account and then your new phone/app/method may be setup. We recommend that you setup your new phone first and sign in to your app/receive the text message before you deactivate your old phone.
+If you didn’t take this step and are locked out of your account, please reach out to the
+helpdesk
+[at]
+lipscomb.edu
+( IT Helpdesk)
+and they will send you further instructions. We have a well-used process to help get you back into your account.
+How do I connect my laptop or phone to the wifi or guest network?
+Lipscomb’s Guest Network is an open network, and only requires registration through a browser to use. The guest network is the only network used to connect to devices such as smart TVs, gaming consoles, streaming devices, Alexa and other devices.
+You will need to register smart devices before they can connect to the Guest network. Find detailed instructions in the
+Wireless Device Registration Guide
+on how to connect your smart devices
+Guest Network Guide:
+How to Connect Lipscomb’s Wireless Networks- Guest Network
+LUBisonNet Guide:
+How to Connect Lipscomb’s Wireless Networks- LUBisonNet
+Clear my browser’s Cache & Cookies?
+The step of clearing your cache & cookies should become a standard troubleshooting step you take when attempting to resolve a website or access issue. It’s the new “have you turned it off & on again” step. Clearing ‘Cache & Cookies’ fixes certain problems like access issues, loading  pages, or formatting issues on sites.
+Clearing cache is different from clearing your browsing history. Follow this detailed guide on
+How to Clear your Cache
+.
+I need to download the Respondus Lockdown Browser for a class. How can I access it?
+Respondus LockDown Browser™ is a custom browser that increases the security of an online or remote testing environment within Canvas. You need to use the Lipscomb specific link to download the browser and install it from this link only:
+Download Respondus HERE
+.
+Before downloading, make sure your digital device is ready. Lockdown requires that you have a fully up-to-date device. If the software is too out-of-date, such as the OS (operating system), you will need to update those first before you can use the Lockdown Browser.
+You will need access to a webcam to use Respondus Monitor. If you do not have access to one of the systems listed above, Beaman Library has LockDown Browser and Monitor installed on all of the lab computers available to students in the library as well as the loaners that can be borrowed.
+I am having trouble getting the Respondus Lockdown Browser to install properly.  How do I fix the issue?
+Solution 1: Make sure you are using the Lipscomb specific link from above. Try downloading the file using a different browser, such as Firefox or Google Chrome.
+Solution 2: Once you download the file on a computer, you have to run the installer. Unlike a phone, computer applications need to run the installer separately from the download.
+Solution 3: Contact Respondus support directly at
+Respondus Support
+. On that page, you can find help as well as submit a ticket to them for direct support. They are quite responsive to student needs.
+I am having trouble getting the Respondus Lockdown Browser to work or load the quiz/test properly.  How do I fix the issue?
+There are actually 2 ways to access a quiz or a test in the Lockdown Browser.
+Solution 1: In a regular browser, go to Canvas and login. Navigate to your class, find your quiz/test, try to access it, and it will launch the Lockdown Browser for you.
+Solution 2: Otherwise, it is the other way around. You need to go to the Lockdown Browser first. It will open automatically on Canvas homepage for you. Navigate to your quiz/exam in Canvas and open it and run it from there.
+Zoom isn’t working or I have a 40 min limit. How can I get the problem resolved?
+Our Lipscomb Zoom account has a specific link
+https://lipscomb.zoom.us/
+. If you end up on just the regular Zoom.us page or logging into the app on a device, when you sign in to Zoom, you need to use the “SSO” link and then enter lipscomb.zoom.us as the ‘company domain’. Please see this
+Zoom login guide
+for further information.
+If you are seeing the 40 min limit, it is because you are not accessing our Lipscomb Zoom enterprise site by not logging in correctly. You have created a "free" Zoom account using your Lipscomb email, but did not access our Lipscomb Zoom site. Go back to the Lipscomb Zoom site and it should work by using the SSO login.
+You may also email the
+helpdesk
+[at]
+lipscomb.edu
+(IT Helpdesk)
+for assistance.
+How can I add a printer?
+The only option for students to print is using the online Webprint Papercut Portal. If you are a currently registered student this semester, you can:
+Go to
+printing.lipscomb.edu
+or use the link in the my.Lipscomb Portal
+log on with their Lipscomb email and password
+select 'Webprint' to submit a job
+​
+​
+​
+​​​​​​​choose the needed printer, then upload the document they want to print
+Document didn’t Print/ Need a refund?
+If you have trouble printing or nothing printed and you need a refund, please contact the
+helpdesk
+[at]
+lipscomb.edu
+(IT Helpdesk)
+for assistance. Let us know the date/time and you will be refunded for that print job.
+Need more Print Quota?
+Every student at Lipscomb is provided with a $30 print quota per semester. If you need more, please contact the
+helpdesk
+[at]
+lipscomb.edu
+( IT Helpdesk)
+for assistance and we can add more quota to your account.
+Can a student get a loaner laptop from IT?
+Beaman Library offers Chromebooks and iPad Pros that can be checked out at the Circulation Desk on the main floor.
+​​​​​​​
+Who can I contact with questions?
+Go to the IT Helpdesk at the bottom floor of Beaman Library near Security Dispatch
+helpdesk
+[at]
+lipscomb.edu
+(Email)
+Call 615.966.1777
+Visit
+lipscomb.edu/student-life/student-services/information-technology-services
+or
+helpdesk.lipscomb.edu

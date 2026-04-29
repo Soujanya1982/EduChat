@@ -1,0 +1,44 @@
+URL: https://www.commerce.virginia.edu/bs-commerce/admissions/statistics-faqs
+TITLE: Statistics FAQs - B.S. in Commerce | UVA
+
+Skip to Interior Page Content
+B.S. in Commerce
+Academics
+Admissions
+First-Year Students
+Transfer Students
+Student Life
+Career
+Connect
+Tours
+Ambassador Walk-In Advising
+Info Sessions
+Commerce Cohort
+Statistics FAQs
+Coding Proficiency for Students with AP Credit and Transfer Students
+Why do students need proficiency in coding?
+Proficiency in coding is increasingly required by employees in today's workplace. For example,
+JPMorgan Chase is requiring new employees to learn to code in Python
+. Former GE CEO
+Jeff Immelt said
+, “If you are joining the company in your 20s, unlike when I joined, you're going to learn to code. It doesn't matter whether you are in sales, finance, or operations. You may not end up being a programmer, but you will know how to code.”
+McIntire faculty may also give assignments that involve coding and will expect you to be proficient in several basic coding concepts:
+Understanding foundational concepts such as variables, data structures, loops, and conditional statements
+Understanding foundational principles such as modularity and functional abstraction
+Writing working code in a general-purpose computer language, preferably Python
+How do students with AP credit and transfer students become proficient in coding?
+Students who have AP credit for STAT 2120 may take one of the following courses in their first or second year:
+“STAT 1602: Introduction to Data Science with Python”
+This course provides an introduction to various topics in data science using Python. The course begins with the basics of Python and applies them to data cleaning, merging, transformation, and analytic methods drawn from data science analysis and statistics, with an emphasis on applications. No prior experience with coding, data science, or statistics is required.
+“STAT 1601: Introduction to Data Science with R”
+This course provides an introduction to the process of collecting, manipulating, exploring, analyzing, and displaying data using the statistical software R. The collection of elementary statistical analysis techniques introduced is driven by questions derived from the data. The data used in this course generally follows a common theme. No prior knowledge of coding, data science, or statistics is required.
+“STAT 3250: Data Analysis with Python”
+This course provides an introduction to data analysis using Python. Topics include using the IPython development environment; data analysis packages NumPy and pandas; data loading, storage, cleaning, merging, transformation, and aggregation; data plotting and visualization and time series data. No prior experience with coding or statistics is required.
+Transfer students who have successfully completed a statistics course can acquire coding proficiency by successfully completing a coding class in Python (preferred), R, C++ or Java at the institution they are transferring from.
+Students with AP credit for STAT 2120 or transfer students may:
+Complete a course in Python (preferred) or R before they enter the Commerce School.
+Self-study Python (preferred) or R to achieve the competencies listed above.
+Connect With Us
+McIntire’s Office of Undergraduate Admission collaborates with prospective B.S. in Commerce students, helping in a variety of ways.
+We encourage prospective students to contact us early in the admissions process to take advantage of all of our advising opportunities, including academic advising, information sessions, and other events, or to connect with a student ambassador.
+Learn More

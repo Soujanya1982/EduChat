@@ -1,0 +1,31 @@
+URL: https://cnu.edu/financial-aid/return-of-funds.html
+TITLE: Return of Title IV Funds Policy | Christopher Newport University
+
+Return Policy
+A Return of Title IV Funds calculation must be done on all students who completely withdraw during the official enrollment period (the start of classes to the end of the semester). This policy does not apply to students who have decreased their course loads from full-time to part-time. The following forms of financial aid may be returned in the following order:
+Federal Unsubsidized Direct Loans
+Federal Subsidized Direct Loans
+Federal Direct Parent PLUS Loans
+Federal Pell Grant
+Federal Supplemental Educational Opportunity Grant (FSEOG)
+TEACH Grant
+In addition to federal funds, per the Code of Virginia, Virginia State grant funds, to include Virginia Guaranteed Assistance Program (VGAP), Commonwealth and GEAR UP are subject to return based on federal return calculations.
+Return of Title IV Funds policy requires schools to determine the amount of financial aid a student “earned.” Earned aid is based on the number of days the student was in academic attendance. If the calculation determines that the student received more aid than the amount earned, then the University, the student or both must return the unearned funds in a specific order.
+If the calculation determines that the student received less aid than the amount earned, then the student is eligible for a post-withdrawal disbursement, if the student is otherwise eligible for the aid.
+The amount of assistance a student has earned is determined on a pro rata basis. For example, if a student completes 30 percent of the payment period, then the student earns 30 percent of the assistance they were originally scheduled to receive. If the student completes more than 60 percent of the scheduled days in the semester, then 100 percent of the aid is earned. The Office of Financial Aid still completes the calculation to determine if a post-withdrawal disbursement is required.
+This policy applies if the student fails to complete 100 percent of his or her classes for any reason, to include medical withdrawals (as approved by the Registrar’s Office), administrative withdrawals (as determined by the appropriate dean, including judicial suspensions) or the death of the student. In the case of a student’s death, the student’s estate is not required to return any federal funds.
+Withdrawal Procedures
+During the withdrawal period, students may withdraw from a course by completing a Withdrawal from Course Form obtained in the Office of the Registrar or available on the Office of the Registrar’s website.
+For Medical, Administrative or Separation Withdrawals, students must complete a Student Withdrawal Form and submit detailed documentation to the Office of the Registrar outlining the justification for the request.
+The Office of Financial Aid uses the effective withdrawal date, as determined by the Office of the Registrar, to calculate the portion of earned/unearned aid during a Return of Title IV calculation for students who begin the withdrawal process and/or provide official notification of their intent to withdrawal.
+If a student unofficially withdraws, the policy also applies. CNU is not institutionally required to track attendance. Unofficial withdrawals are those courses for which a student fails to attend, but does not complete the formal withdrawal policy. As such, the Office of Financial Aid utilizes an SQL script to identify students with a zero completion rate and/or 0.00 GPA. This report is used to identify students who have unofficially withdrawn from the University by review of UI grades. Per University policy, the UI grade indicates an ‘unauthorized incomplete’ denoting that a student did not participate academically in a course beyond the 60 percent date in the semester; this is computed in the cumulative GPA as an F. In such cases, a grade of UI is reported for the student. Students who earn all UIs will be considered to have unofficially withdrawn from all classes. For these students, the midpoint of the payment period is used in the return calculation to determine earned aid.
+Note: Students who receive all “F” grades are considered to have earned those Fs, due to the University’s policy of using UI for unofficial withdrawals.
+Post-Withdrawal Disbursement
+If the Return to Title IV calculation determines that the student received less federal aid than the amount earned then the school must make a disbursement of the earned aid, as long as the student would have been eligible otherwise.
+If the earned aid is in the form of a Direct and/or PLUS, (or grant in some cases) then the school must make the offer in writing to the student or parent within 30 days after the date the school determined the student withdrew.
+The written notification must include the type and amount of Title IV funds that make up the post-withdrawal disbursement and an explanation that all or a portion may be declined.
+The notification must state that the student has 14 days from the date of the letter to respond or the disbursement will not be processed.
+If the student or parent does respond then the school must disburse the accepted funds within 180 days of the date the school determined that the student withdrew. Thus the sooner the school sends notification, the more time the school has to make the post-withdrawal disbursement.
+The school may use post-withdrawal disbursements to pay outstanding institutional charges. However, the school would have to obtain the student’s or parent’s authorization before a post-withdrawal disbursement could be used to pay discretionary educationally related expenses, like a parking fine.
+No post-withdrawal disbursement of Title IV funds may be made to the account or estate of a student who has died.
+Back to top

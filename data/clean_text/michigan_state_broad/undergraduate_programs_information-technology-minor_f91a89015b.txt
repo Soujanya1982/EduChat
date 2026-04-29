@@ -1,0 +1,105 @@
+URL: https://broad.msu.edu/undergraduate/programs/information-technology-minor
+TITLE: Minor in Information Technology - MSU Broad College of Business
+
+skip to main content
+Undergraduate Programs
+Pause
+The
+Minor in Information Technology
+is available to students enrolled in bachelor’s degree programs at Michigan State University. The Broad College of Business is the primary administrative unit in collaboration with the College of Engineering and the College of Communication Arts and Sciences.
+IT Minor Website
+The minor is designed to provide students with a multidisciplinary understanding of the role and basic mechanics of information technology in the contemporary workplace. Information technology specialists learn how to design and model information systems and business processes, plan and manage information systems projects, and program and test the resulting systems. Students develop core competencies in their primary area of study and broaden their horizons as they interact with others from different disciplinary backgrounds on real-world systems projects. Students completing the minor will be well prepared for employment in technology-oriented environments and will also understand how to be thought leaders as information technology applications continue to evolve in organizations and society.
+Admission
+To be considered for admission, a student must have been formally accepted into a degree program at Michigan State University. Applicants must have completed (a) Computer Science and Engineering 102 or 201 or 231 and (b) Mathematics 124 or 132. Students should have a 3.0 cumulative grade point average for full admission consideration.
+Students Seeking admission to the minor must complete an application. Admission is based on a combinations of cumulative grade-point average, stated interest, and experience in information technology. Students are required to provide a written statement and resume.
+Apply to Minor
+Minor in Information Technology Requirements
+Required Courses
+Complete
+all of the following courses
+, totaling 13 credits.
+CSE 231 Introduction to Programming I
+4 credits
+Introduction to programming using Python. Design, implementation and testing of programs to solve problems such as those in engineering, mathematics and science. Programming fundamentals, functions, objects and use of libraries of functions.
+View full course description at the Office of the Registrar.
+ITM 311 Systems Analysis and Design
+3 credits
+Structured analysis and design of information systems. Understanding of the system development process and organizational issues associated with the design and implementation of information systems.
+View full course description at the Office of the Registrar.
+ITM 444 Information Technology Project Management
+3 credits
+Practical training and experiences in design, testing and launch of new information technologies and systems.
+View full course description at the Office of the Registrar.
+MI 201 Introduction to Media and Information Technology
+3 credits
+Operational principles and applications of media and information technologies and services. Technological, business and policy developments transforming media and information industries. Local, national and global players in the media and information sector.
+View full course description at the Office of the Registrar.
+Minor Selection Courses
+Complete
+three (3) credits
+from the following selection of courses.
+CSE 201 is no longer offered at MSU.
+CSE 102 cannot be completed if a student has already completed CSE 231. Students with credit in CSE 231 but not CSE 102 must take an additional course from the list of courses below (so 6 credits instead of 3) as a substitute for the CSE 201/102 requirement.
+CSE 102 Algorithmic Thinking and Programming
+3 credits
+Fundamentals of computing, algorithms and programming, using a high-level language such as Python.
+View full course description at the Office of the Registrar.
+CSE 201 Fundamentals of Information Technology
+3 credits
+Digital representation of objects such as numbers, signals and three-dimensional shapes. Algorithms that operate on digital objects. Computer communications and the Internet. Computer security and web services.
+View full course description at the Office of the Registrar.
+Complete at least
+three (3) credits
+from the following selection of courses.
+ACC 321 Accounting Information Systems
+3 credits
+Conceptual modeling and implementation of accounting transaction processing systems. Enterprise value chains, documentation of workflow processing and control requirements, and modeling of accounting interoperability requirements.
+View full course description at the Office of the Registrar.
+CSE 232 Introduction to Programming II
+4 credits
+Continuation of object-centered design and implementation in C++. Building programs from modules. Data abstraction and classes to implement abstract data types. Static and dynamic memory allocation. Data structure implementation and algorithm efficiency. Lists, tables, stacks and queues. Templates and generic programming.
+View full course description at the Office of the Registrar.
+ITM 209 Business Analytics and Information Systems*
+3 credits
+Use of business processes, information technologies and analytics in creating value and enabling improvements in global business performance.
+*ITM 309 taken prior to fall 2016 fulfills this requirement.
+View full course description at the Office of the Registrar.
+ITM 481 Introduction to Business Analytics
+3 credits
+Exploration and predictive analysis of business problems. Analysis concepts and skills in business contexts. Strategic and operational impacts of a firm’s analytics efforts. Basic concepts of big data and specific methods of conceptualizing and analyzing business problems.
+View full course description at the Office of the Registrar.
+MI 231 Game and Interactive Media Development
+3 credits
+Brainstorming, planning, implementing and troubleshooting applications and interfaces for games and interactive media. Basic principles of programming for interactivity.
+View full course description at the Office of the Registrar.
+MI 349 Web Design and Development
+3 credits
+Preproduction, design and development of web sites, services and applications that employ primarily web browser technologies.
+View full course description at the Office of the Registrar.
+MI 361 IT Network Management and Security
+3 credits
+Structure, design and management of data networks with a focus on business settings. Examination of information technology security issues specifically in the context of data networks and new, digital media and ITs.
+View full course description at the Office of the Registrar.
+STT 180 Introduction to Data Science
+4 credits
+Pervasiveness and utility of data in modern society. Obtaining and managing data. Summarizing and visualizing data. Ethical issues in data science. Communication with data. Fundamentals of probability and statistics.
+View full course description at the Office of the Registrar.
+Please note the following regarding S/NS grading:
+The Broad College will use original numeric grades from Fall 2020, Spring 2021, and Summer 2021 in admission decisions for the Information Technology Minor.
+Explore
+Majors & Minors
+Academic Advising
+Student Opportunities
+top
+Undergraduate Education
+MBA & Master's Programs
+Doctoral Programs
+Executive Education
+Career Management
+Research & Innovation
+Policies
+Internal
+Get Connected with Broad:
+Business College Complex
+632 Bogue St
+East Lansing, MI 48824

@@ -1,0 +1,85 @@
+URL: https://mitsloan.mit.edu/programs/undergraduate/15-2-business-analytics-major-requirements
+TITLE: 15-2 Business Analytics: Major Requirements | Undergraduate | MIT Sloan
+
+Undergraduate
+15-2 Business Analytics: Major Requirements
+8 Required Subjects
+Analytics for a Better World
+:
+15.0
+76
+[Institute LAB] (Updated requirement for Fall 2022)
+Communicating with Data:
+15.276
+[
+CI-M]
+Computer Programming
+:
+6.
+100A
+(6.0001)
+&
+6.100B
+(6.0002)
+[REST]
+or
+6.
+100A
+(6.0001)
+&
+6.1010
+(6.009)
+[Institute LAB]
+Organizational Processes
+:
+15.312
+or
+15.301
+[
+CI-M] (15.301 is replacing 15.312 beginning Fall 2025)
+Optimization
+:
+15.053
+[REST]
+Probability and Statistics:
+15.0
+69
+or
+18.05
+or
+14.30
+[all RESTs]  (Updated requirement for Fall 2022)
+Stochastic Models:
+15.780
+Machine Learning
+:
+15.0711
+or
+6.3900
+(6.036) [15.0711 added as an option in Fall 2022]
+Restricted Electives
+Each student must take an additional five full subjects from the approved list of Restricted Electives. At least three of the restricted electives must be Course 15 subjects.
+*
+A full subject is either 9 or 12 units. A half subject is 6 units.
+15-2 Major Elective Guide
+Declaring a Major
+Declare Course 15 (First Years)
+|
+Switch to Course 15
+|
+Add Course 15 as a Second Major
+Double Major Roadmaps
+To discuss options for double majoring, please
+reach out to the Undergraduate team
+.
+15-2 Business Analytics + Course 2-A Mechanical Engineering
+15-2 Business Analytics + Course 6-3 Computer Science and Engineering
+15-2 Business Analytics + Course 6-4 Artificial Intelligence and Decision Making
+15-2 Business Analytics + Course 6-5 Electrical Engineering with Computing
+15-2 Business Analytics + Course 6-9 Computation and Cognition
+15-2 Business Analytics + Course 6-14 Computer Science, Economics, and Data Science
+15-2 Business Analytics + Course 14-1 Economics
+15-2 Business Analytics + Course 14-2 Mathematical Economics
+15-2 Business Analytics + Course 18 Mathematics
+15-2 Business Analytics + Course 18C Mathematics with Computer Science
+15-2 Business Analytics + Course  20 Biomedical Engineering

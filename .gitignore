@@ -1,22 +1,36 @@
-# Environments
+# ── Secrets ───────────────────────────────────────────────────────────────────
 .env
-.venv
-env/
-venv/
-ENV/
+serviceAccountKey.json
 
-# Python
+# ── Large data (not needed at runtime) ───────────────────────────────────────
+# 453 MB scraped HTML — rebuild with build_all.py if needed
+data/raw_html/
+# 236 MB local vector store — replaced by Pinecone
+data/chroma/
+
+# ── Build / log artifacts ─────────────────────────────────────────────────────
+data/build_errors.jsonl
+data/build_report.json
+data/scrape_pilot.log
+*.log
+
+# ── Eval checkpoints (transient; .md reports are kept) ───────────────────────
+data/evals/*.jsonl
+
+# ── Python ────────────────────────────────────────────────────────────────────
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
+*.egg-info/
+.pytest_cache/
 
-# Data and vector stores
-data/
-chroma/
-*.sqlite3
-*.db
+# ── Virtual envs ──────────────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
 
-# OS generated files
+# ── OS ────────────────────────────────────────────────────────────────────────
 .DS_Store
 Thumbs.db

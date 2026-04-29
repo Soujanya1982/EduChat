@@ -1,0 +1,115 @@
+URL: https://lerner.udel.edu/programs/graduate-programs/phd-programs/financial-services-analytics-phd
+TITLE: Financial Services Analytics (FSAN) (Ph.D.) - Lerner - University of Delaware
+
+Home
+>
+Programs
+>
+Graduate Programs
+>
+Ph.D. Programs
+>
+Financial Services Analytics (FSAN) (Ph.D.)
+Lead research and practice in the area of financial services analytics.
+The financial services analytics (FSAN) doctoral program at the University of Delaware (UD) is the first of its kind, developing fundamental data science theories and models, and creating data-driven decision-making tools applicable to the financial services industry and other technology industries. It is an interdisciplinary STEM-designated program – a joint effort between UD’s Alfred Lerner College of Business and Economics and College of Engineering.
+FSAN students have very diverse academic backgrounds; they have B.S. and/or M.S. degrees in areas such as math, statistics, computer science and many related business and engineering disciplines.
+Program Highlights
+STEM Business Program
+This STEM-designated business degree builds the quantitative, analytical and technical skills employers prioritize today, such as data analysis, AI fundamentals, financial modeling and technological proficiency. STEM occupations are high earning, with a median wage double that of non-STEM fields, and are projected to grow faster than overall employment, according to the
+U.S. Bureau of Labor Statistics
+.
+Facilities
+Our state-of-the-art facilities are designed to foster collaboration among students, faculty and industry; these include the JPMorganChase Innovation Center, the Geltzeiler Trading Center and the Harker Interdisciplinary Science and Engineering Laboratory.
+Financial Support
+Through a significant grant from JPMorganChase, top candidates are provided with financial support – including tuition and a competitive stipend.
+Student Experience
+The small student cohort provides ample opportunities for close interaction with thought-leading faculty from multiple disciplines including business, engineering and computer science.
+Program Requirements
+To be granted a doctorate in FSAN, you must successfully complete all FSAN coursework with a 3.0 cumulative GPA. Most students complete all degree requirements within 4 to 6 years.
+For the most accurate and up-to-date degree requirements, visit
+UD’s course catalog
+. Under the Department of Finance, select “Display Programs” to find your degree and view course options and sequencing.
+A Look Into the Program
+Student Research Topics
+FSAN students work closely with their supervisors to identify cutting-edge research topics related to modern data science theory, algorithms and applications in banking and the financial and tech industries. Sample dissertation topics include:
+Bayesian causal inference
+predictive analytics
+bank systemic risk
+malware detection and classification
+credit card fraud detection
+NLP & chat-bots
+link recommendation
+text-based industry classification
+loan process optimization
+customer targeting
+active learning on graphs
+Career Opportunities
+Our program generates excellent internship opportunities and industry and academic job prospects.
+Corporate-sponsored internships offer you the opportunity to apply analytics tools to real-world challenges on teams in wealth management, machine learning, data architecture, investment banking, global finance and business management. Most students gain internship experience while pursuing their Ph.D. degrees.
+FSAN graduates are researchers and professionals who play key roles in teams that bridge the financial services industry and data and operational sciences. They are now employed as data scientists in major banks, fintech companies and technology companies. The FSAN program works closely with Lerner Career Services to provide personalized, high quality career assistance.
+Where Our Students Intern
+JPMorganChase
+Barclays
+Sallie Mae
+Amazon
+LinkedIn
+HP
+Where Our Graduates Work
+Academic Institutions:
+Chinese University of Hong Kong (Shenzhen)
+Shanghai University of Finance & Economics
+University of Delaware
+Virginia Tech
+Banking and Financial Services:
+JPMorganChase
+Bank of America
+Barclays
+Sallie Mae
+USAA
+Industry:
+Amazon
+LinkedIn
+McKesson
+Meta
+Microsoft
+"UD was able to merge finance, data mining, statistics and other areas to create the FSAN program. This is also reflected in the diversity of the students. We come from different fields, and it is wonderful how we are able to complement each other in so many different ways."
+- FSAN student Leonardo De La Rosa Angarita
+News
+Lerner Career Lab Prepares Students for Real-World Careers
+-
+Lerner Career Services introduces Career Lab, a monthly workshop using employer-designed job simulations to help undergraduate and graduate business students gain hands-on experience, explore career paths and build job-ready skills.
+IFSA launches advisory board to strengthen industry ties
+-
+UD’s Institute for Financial Services Analytics launched its inaugural advisory board, bringing together industry and academic leaders to strengthen collaboration, guide strategy and enhance student opportunities in financial services analytics.
+My Summer Internship: Mehrdad Soltani
+-
+Soltani, Class of 2026 financial services analytics Ph.D. student, spent his summer as a quantitative associate analyst at JPMorgan Chase.
+My Summer Internship: Olamide (Lamal) Ayodele
+-
+Ayodele, financial services analytics Ph.D. student, spent his summer as a quantitative analytics associate with JPMorgan Chase Asset and Wealth Management.
+UD Alum, JPMorganChase Executive Morgan Dean Back to Campus Visiting Financial Services Analytics Program
+-
+Dean, the Head of CCB Risk Modeling at JPMC, delivered a Distinguished Alumni Lecture to FSAN students, faculty members and administrators.
+Learn More
+Contact Dr. Bintong Chen
+302-831-2756
+about-FSAN@udel.edu
+Explore the doctorate in FSAN by viewing a recent FSAN information session.
+Admissions Information
+We accept students every other year, in even-numbered years. The application deadline for the next cohort (beginning fall semester 2026) is May 15, 2026. Students seeking financial aid should submit their applications by January 15, 2026, but late applications will be considered if funds are available. Highly-qualified students may receive research scholarships as well as a generous stipend to cover all educational expenses.
+Learn more about the financial services analytics Ph.D. admissions requirements, deadlines, tuition and financial aid available to you.
+Applying to the Program
+Ph.D. Programs
+Economics (Ph.D.)
+Financial Services Analytics (FSAN) (Ph.D.)
+Hospitality Business Analytics (Ph.D.)
+Request Information
+Loading...
+Visit Campus
+Applying to the Program
+Institute for Financial Services Analytics (IFSA)
+IFSA offers research seminars and conferences that connect education and industry in the emerging field of financial services analytics.
+Lerner STEM Business Degrees
+Explore Lerner STEM-designated programs and their career advantages.
+Carol A. Ammon Case Competition
+Graduate student teams present their solutions to current issues faced by the competition’s focal company.

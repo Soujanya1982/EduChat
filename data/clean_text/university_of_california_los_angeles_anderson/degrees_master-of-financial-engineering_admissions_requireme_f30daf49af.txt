@@ -1,0 +1,165 @@
+URL: https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/admissions/requirements
+TITLE: MFE Admissions Requirements | UCLA Anderson School of Management
+
+MFE Admissions Requirements
+To be admitted into the Master of Financial Engineering program, you must possess an impressive quantitative background and have strong communication skills.
+Admissions Criteria
+The UCLA Anderson MFE admissions committee considers several factors in selecting candidates.
+Ability to do graduate-level business and finance coursework
+Evidence of computational programming skills (C++, R, and Python) and familiarity with computers as computational and management tools
+Strong quantitative background, including coursework in linear algebra, multivariate calculus, differential equations, numerical methods and advanced statistics and probability, which includes the following topics: discrete distributions, continuous distributions, density functions, sampling theory, statistical inference, hypothesis testing, ordinary least squares, t-statistics, sampling vs. population moments and chi-square goodness of fit tests
+Excellent writing, speaking and presentation abilities in English
+Evidence of experience with mathematical tools (MATLAB)
+Work or research experience in a quantitative discipline (recommended but not required)
+Progress toward obtaining CFA certification (recommended but not required)
+Experience with statistical and econometric applications (recommended)
+The Business School Advantage
+“
+Getting an MFE from a school of engineering would be like any other science degree but UCLA MFE has the added value of being in a business school. We can enroll in MBA classes and learn alongside with students from different backgrounds. We also have various networking and career events throughout the program. UCLA MFE not only focuses on academic excellence, but also puts a lot of emphasis on our future careers.
+”
+—
+Audrey Zhou ('22)
+Home city and country: Shanghai, China
+Pre-MFE degree(s): Mathematics Economics
+Current employment: Investment Associate, Hat-Trick Capital
+Application Requirements
+Online Application
+We accept applications beginning mid-September through the end of April each year. All applicants must apply to the MFE program through the Division of Graduate Education's online platform.
+Read More
+Important Application Tips:
+Please use your full legal name rather than initials, abbreviations or nicknames. The name listed on the application should be used consistently in all of your official interactions with the university.
+All application materials must be
+electronically
+received by the application completion deadline to be placed in that round. Please
+DO NOT mail your documents
+unless you are offered admission to the MFE program.
+The application is intended to give you the opportunity to present a clear picture of yourself and of the qualities you feel the Admissions Committee should be aware of when considering your application. If you do not feel the application adequately conveys such information, please supplement the form in whatever way you feel is appropriate.
+When filling in the application
+DO
+NOT
+submit a writing sample, a statement of purpose, a diversity statement or a fellowship application. Those items are part of the generic Graduate Division application and
+ARE
+NOT
+required for the MFE program. Make sure you fill out the "
+Master of Financial Engineering"
+section and the "
+Master of Financial Engineering - Essays
+" section, which will appear in the application after you have selected "
+MANAGEMENT MFE – MASTER OF FINANCIAL ENGINEERING
+" as your plan for graduate study.
+Please use the "
+Supporting Documents
+" section to upload any supplemental information (e.g. CFA and/or FRM Certificates, Coursera Course Certificates, Diplomas, Degree Certificates, etc.).
+Please note:
+Although the final (3rd round) deadline is April 30, we will
+consider
+accepting applications after the deadline on a
+case-by-case
+basis. Late application submissions need to be approved by the MFE Admissions Committee before submitting and there is no guarantee that the request will be approved. Please reach out to mfe.admissions@anderson.ucla.edu if you would like to be considered. The subject line should be: "Missed Final Application Deadline - Requesting Approval to Submit Late Application".
+Close
+Application Fee
+A nonrefundable application fee of $200 is required. This fee is paid by credit card when submitting the online application. The application fee is not refundable under any circumstances, regardless of the admission outcome.
+Academic Records
+Scanned copies of transcripts from all educational institutions attended must be uploaded in the online application. Original transcripts or documents are only required
+AFTER
+you have been admitted. Candidates must hold at least a bachelor's degree (four-year degree or equivalent) from a recognized accredited institution. Bachelor's degrees must be conferred prior to the September program start date.
+Read More
+Transcripts:
+The UCLA Anderson MFE Admissions Committee uses the transcript copies you upload with your application to do a preliminary evaluation of your academic qualifications.
+Transcripts from all educational institutions attended must be uploaded in the online application. Only admitted candidates should send us official hard-copy documents upon request.
+List on your application all of the educational institutions you have attended since graduating from high school, regardless of the period of attendance, whether or not the work was completed and whether or not the work was related to your proposed field of study.
+International Applicants: Records needed from schools outside the United States must include multiple documents, as described
+here
+.
+Required Educational Background:
+Candidates for admission to the MFE program must hold at least a bachelor's degree (four-year degree or equivalent) from a recognized accredited institution.
+While no specific undergraduate major is required, most students will have a degree in a quantitative subject matter, such as mathematics, engineering, computer science, physics, etc.
+Applicants who have attended institutions outside the United States should have completed 16 years of study, 12 of these at the elementary and secondary school levels and four at the college level.
+Evidence of strong quantitative skills is required of all candidates, regardless of undergraduate major.
+Close
+GMAT/GRE
+Applicants must take either the Graduate Record Examinations (GRE) or Graduate Management Admission Test (GMAT). The GRE/GMAT score is valid for five years. The Admissions Committee will accept the highest score if a particular test was taken more than once, but it will have access to all your scores.
+Relevant test scores should be sent to the following institution codes:
+GRE: 4837
+GMAT: 2NZ-2F-21
+You are
+required
+to take the GRE or GMAT for admission to the MFE program.
+Only applicants with a PhD are exempt from this requirement.
+Read More
+Applications cannot be reviewed without complete test scores (reported officially by the GRE/GMAT office), and applications are reviewed only in the round when scores are received.
+The GRE/GMAT test is valid for five years.
+Official GRE score reports are sent electronically upon your request from the Educational Testing Service (ETS) to UCLA Anderson MFE Admissions (
+Institution Code 4837
+).
+Official GMAT score reports are sent electronically upon your request from Pearson VUE to UCLA Anderson MFE Admissions (
+Institution Code 2NZ-2F-21
+).
+We primarily evaluate your top score, but all scores reported to UCLA Anderson are visible to the Admissions Committee.
+No minimum GRE/GMAT is required, and the Admissions Committee has the flexibility to consider all scores in the context of your overall academic preparation and management potential.
+For further information and testing arrangements, please visit the
+GRE
+or
+GMAT
+websites.
+Close
+Letters of Recommendation
+Two letters of recommendation (submitted online) are required from individuals, preferably direct professional or academic supervisors, who are well acquainted with your performance in a work setting.
+Read More
+Instructions:
+Each MFE program applicant must register
+two*
+recommenders' professional email addresses (e.g., joebruin@anderson.ucla.edu) so that they can receive instructions on how to submit their letter of recommendation through the online application system. These registered email addresses should not be personal email accounts (e.g., joebruin@gmail.com).
+Evaluations should be requested from individuals who have worked closely with you and who are able to give specific information about your abilities, accomplishments and quantitative capacity.
+If you have been working less than two years, you may include academic recommendations in place of work-related recommendations.
+Letters from family, friends and coworkers are inadmissible.
+*Please note:
+The Graduate Division requires three letters of recommendation for an application to be complete. You can work around this by entering our email address (please use mfe.admissions@anderson.ucla.edu) in the third space. In the first and last name spaces, you can type "3rd Letter." This will "trick" the system into thinking that the recommendation section of your application is complete, and it will allow you to submit your application if you have met all other requirements.
+Close
+Essays
+Applicants are required to submit two essays as part of the online application to the MFE program. One optional essay may also be submitted to supply additional information you think would help us evaluate your potential to succeed in the MFE program. The application essays help the Admissions Committee become acquainted with applicants as individuals, and they demonstrate an applicant's ability to write concisely and economically.
+Read More
+The essay topics can be found within the MFE Supplemental section of the Graduate Division online application. They are as follows:
+REQUIRED ESSAYS:
+Financial engineering requires a combination of mathematical/quantitative abilities and creative thinking. Describe a project you worked on, either as a student or professional, that demonstrates your analytical and creative problem-solving skills. Tell us why this project was interesting to you. (maximum 750 words)
+Why does a career in quantitative finance appeal to you? Based on your abilities and what you know about careers in financial engineering, why do you think this is the right career path for you? (maximum 750 words)
+OPTIONAL ESSAY:
+Feel free to provide any other information you think would help us evaluate your potential to succeed in the program. (maximum 375 words)
+REAPPLICANT ESSAY:
+Reapplicants to the MFE Program do not need to resubmit the two above essays. They are, however, required to complete and submit an essay for the following prompt
+Please describe your academic or career progress since you last applied as well as the ways in which you have enhanced your candidacy. Include updates on short-term and long-term career goals. (750 words)
+Please upload essays in PDF format.
+It is important that applicants respond to essay questions candidly and completely. Essays that fall significantly below the required word count will be detrimental to your application.
+Essays must be written by the applicant. If it is determined that an essay submitted has been written by anyone other than the applicant, the applicant will be denied admission.
+Close
+Work History / Resume
+Work or research experience in a quantitative discipline is recommended but not required for admission to the MFE program. Exceptional undergraduates with strong quantitative backgrounds are encouraged to apply.
+Read More
+On average, admitted students have three years of full-time experience before entering the MFE program.
+Please complete the Professional Experience portion of the application and
+upload a resume as a PDF in the section marked "Resume/CV."
+Include all full-time positions you have held, and account for any employment gaps since college. If you have only held internship positions, you may list them on your resume, however, you must indicate that they were internships and report the start and end date of each one.
+Close
+TOEFL / IELTS (International Applicants)
+TOEFL or IELTS scores are required of all applicants whose native language is not English. Applicants who hold a bachelor’s or higher degree from a university located in the United States or in another country (e.g., Australia, Barbados, Canada, Ireland, Jamaica, New Zealand, United Kingdom) in which English is both the primary spoken language of daily life and the medium of instruction, or who have completed at least two years of full-time study at such an institution, are exempted from the TOEFL / IELTS requirement. Additionally, applicants with a bachelor's degree or higher from a
+WHED-verified institution
+where English is the
+sole language
+of instruction are also exempted from the TOEFL/IELTS requirement.
+Read More
+TOEFL/IELTS:
+Official TOEFL score reports are sent electronically upon your request from the Educational Testing Service (ETS) to UCLA Anderson MFE Admissions by just selecting institution code
+4837 - UCLA ANDERSON SCHL OF MGMT.
+Applicants who are submitting an IELTS score
+must email their Test Report Form (TRF) number to mfe.admissions@anderson.ucla.edu.
+The Admissions Team will then download and attach your official score report.
+TOEFL test scores are valid for two years. Admitted applicants are required, upon arrival at UCLA, to take the UCLA English as a Second Language Placement Examination (ESLPE), an English diagnostic test, before being permitted to register. Depending on the results of the ESLPE, you may be required to complete English as a second language courses beginning in your first term at UCLA. If English courses are required, you should anticipate spending a longer period of time at the university. Admission will be canceled if you do not pass the ESLPE. If you achieved a score of 100 or higher on the TOEFL iBT, or 7.5 or higher on the IELTS, the ESLPE requirement is waived!
+Close
+CFA, FRM, and other Professional Designations:
+Include these in the "Professional Designations" section under the "Master of Financial Engineering" tab, and upload a copy of your results in the "Supporting Documents" tab.
+Interview (by Invitation only)
+Interviews are conducted on an invitation-only basis. Once an application is completed, the Admissions Committee may request an interview with a prospective student.
+I Want To...
+Introduce Myself
+Begin my Application
+Review the FAQ

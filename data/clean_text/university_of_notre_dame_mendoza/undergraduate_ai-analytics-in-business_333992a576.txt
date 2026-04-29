@@ -1,0 +1,68 @@
+URL: https://mendoza.nd.edu/undergraduate/ai-analytics-in-business
+TITLE: AI Analytics in Business - Notre Dame Business Mendoza College of Business
+
+AI Analytics in Business
+Step into the future of business.
+The AI Analytics in Business (MAIB) minor prepares students to use artificial intelligence and analytics to support data driven decision making in business. The minor focuses on how AI enhances analytical work, from exploring data and building models to generating insight and communicating results.
+Through the MAIB minor, students develop practical skills in applying AI enabled analytics to real business problems. In addition to in-depth technology exposure, this program emphasizes judgment, accountability, and effective use of AI tools in professional business contexts.
+Through the MAIB minor, you’ll gain insights into the managerial challenges of introducing new systems into organizations and learn how to use these systems to gain a competitive edge.
+Note: The AI Analytics in Business Minor is open to students from the Class of 2028 and beyond. For the Class of 2026 and 2027, reference the
+Minor in Business Technology and Analytics requirements
+.
+What You’ll Learn
+The MAIB minor contains two core courses, giving you the freedom to shape your educational journey. With 9 credit hours of electives available from a variety of departments across the University of Notre Dame, you can tailor your learning to match your interests and career goals.
+Course Requirements
+Credit Hours
+Focus
+6 Credit Hours
+MBTA Required Course
+9 Credit Hours
+Electives - ITAO or Across ND
+Course List
+All MAIB minors will complete the following course:
+Analytics Workflows with Power BI
+Course Number:
+ITAO 30100
+Credit Hours:
+3
+Business Analytics allows us to make sense of what we see in the real world by using data and a systematic approach to solve real problems and make business decisions. This course provides the fundamental concepts and methods needed to understand the emerging role of business analytics in organizations. You will learn how to properly plan an analytics strategy, collect data, analyze the data and report findings through visualizations and storytelling. Having a strong understanding of concepts in this course will give you a strong foundation in all the areas that support analytics and will help you to better position yourself for success in the remainder of the Business Analytics major and beyond.
+AI in Business
+Course Number:
+ITAO 30170
+Credit Hours:
+3
+This course equips students with practical skills for working with generative AI in modern academic and business settings. Students learn how large language models work and how to use them thoughtfully for data analysis, modeling, research, and communication. The course emphasizes using AI to improve insight and clarity while maintaining responsibility and independent judgment. It is designed for students who want to be prepared, not surprised, by how AI is reshaping business work.
+Electives – ITAO
+MAIB minors must take at least 9 CH from the following courses:
+Note: Some electives may also qualify towards Mendoza College of Business broadening requirements. Students can only double-count up to 3 credits from their major(s) towards the MAIB minor. Students should contact their advisors for more information.
+ACCT 30280: Data Analytics in Accounting
+ACCT 40280: Advanced Analytics for Accounting and Finance
+ACCT 40850: Artificial Intelligence and Accounting
+ITAO 30220 Predictive Analytics
+ITAO 40515 Auditing AI: An Introduction
+ITAO 40420 Machine Learning
+ITAO 40250 Unstructured Data Analytics
+ITAO 40510 Ethics of Data Analytics
+ITAO 30660 Project Management
+ITAO 30810 Intelligence Processes and Supply Chain Analytics
+ITAO 40520 Sports Analytics
+ITAO 40550 Society and Networks
+ITAO 50840 Designing for Human-Centered Artificial Intelligence
+ITAO 30530 Human Performance Analytics
+ITAO 30660 Project Management
+FIN 40260: Python and Data Applications in Finance
+MARK 30120: Marketing Analytics
+MARK 30500 Advertising Management
+MARK 30130 Marketing Analytics
+MARK 40150 Pricing Analytics
+MGTO 30633: Data Storytelling
+How to Apply
+The application form for all minors offered by the Mendoza College of Business opens once in the fall semester and once in the spring semester. The application period has closed for Spring 2026; for Fall 2026:
+Application Opens:
+Monday, September 14, at 12:00 Noon
+Application Closes:
+Friday, October 16, at 5:00 PM
+Mendoza School of Business
+Business Analytics Major
+Mendoza School of Business
+ITAO Department

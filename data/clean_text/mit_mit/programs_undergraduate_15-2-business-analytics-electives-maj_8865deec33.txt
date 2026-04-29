@@ -1,0 +1,64 @@
+URL: https://mitsloan.mit.edu/programs/undergraduate/15-2-business-analytics-electives-major
+TITLE: 15 - 2 Business Analytics Electives - Major | Undergraduate | MIT Sloan
+
+Undergraduate
+15 - 2 Business Analytics Electives - Major
+Updated for Spring 2026
+15-2 Major Requirement
+: Five subjects from the approved list of restricted electives. A minimum of three electives must be Course 15 subjects. A full subject is either 9 or 12 units. A half subject is 6 units.
+RESTRICTED ELECTIVES
+Minimum of three Course 15 subjects (full subject is either 9 or 12 units. A half subject is 6 units) for the major
+15.0161J/14.45J Climate and Energy in the Global Economy (Spring)
+15.0251 Game Theory for Strategic Advantage (Spring)
+15.0341 Econometrics for Managers: Correlation & Causality in a Big Data World (Spring)
+15.0351 Energy Market Dynamics in a Decarbonizing Economy (Spring. half subject) [students cannot receive credit if they have already taken 15.037J/14.44J]
+15.037J/14.44J Energy Economics and Policy (Spring)
+15.0621 Data Mining: Finding the Models and Predictions that Create Value (Fall. half subject)
+15.068 Statistical Consulting (Spring)
+15.0711 The Analytics Edge (Fall and Spring) [cannot double count if used to fulfill Machine Learning requirement]
+15.075 Statistical Thinking and Data Analysis [cannot double count if used in partial fulfillment of Probability+Statistics requirement]
+15.1411 Economics and Analytics of Health Care Industries (Spring) [15-2 elective starting in Spring 2026]
+15.285 Sports Strategy and Analytics (Spring. half subject)
+15.450 Analytics of Finance (Spring)
+15.456 Financial Engineering (Fall)
+15.458 Financial Data Science and Computing (Fall)
+15.561 Digital Revolution: From Foundations to Future Trends (Spring)
+15.563/6.4150 Artificial Intelligence for Business (Spring)
+15.567 The Economics of Information: Strategy, Structure and Pricing (Spring. half subject)
+15.570 Digital Marketing and Social Media Analytics (Fall. half subject)
+15.573 Generative AI for Managers (Spring) [Formerly 15.S68]
+15.669 Strategies for People Analytics (Fall. half subject)
+15.6731 Negotiation Analysis (IAP. half subject)
+15.7611 Introduction to Operations Management (Spring)
+15.762J Supply Chain Analytics (Spring)
+15.773 Hands-On Deep Learning (Spring. half subject)
+15.777 Health Care Lab: Introduction to Healthcare Delivery in the United States (Fall)
+15.785 Product Management (Spring. half subject)
+15.8141 Marketing Innovation (Spring)
+15.818 Pricing (Fall. half subject)
+15.819 Marketing and Product Analytics (Spring)
+15.871 System Dynamics I (Fall and Spring. half subject)
+15.8731System Dynamics for Business and Policy (Fall and Spring)
+15.874J/12.387J People and the Planet: Environmental Governance and Science (Fall)
+15.C08J/17.C08J Causal Inference (Spring)
+15.C571/6.C571 Optimization Methods (Fall. Formerly 15.093J/6.7201) [cannot double count if used as a substitution for 15.053 to fulfill Optimization requirement]
+15.S08 Advanced Data Analytics and Machine Learning in Finance (Spring)
+15.S09 Data, Markets, and the Future of Privacy (Spring. half subject)
+One of the five restricted electives can be one of the management breadth option subjects below:
+15.401 Managerial Finance (Fall and Spring)
+15.417 Laboratory in Investments (Fall)
+15.501 Corporate Financial Accounting (Fall and Spring)
+15.9001 Competitive Strategy (Spring)
+Maximum of two non-Course 15 subjects for the major
+1.022 Introduction to Network Models (Fall)
+1.041J Transportation: Foundations and Methods (Spring)
+6.1200(6.042) Mathematics for Computer Science (Fall and Spring)
+6.3260J/14.15J Networks (Spring)
+6.3950 AI, Decision Making, and Society (Fall)
+9.66J/6.4120J Computational Cognitive Science (Fall)
+14.12 Economic Applications of Game Theory (Fall)
+14.32 Econometrics (Fall and Spring) [cannot double count if used in partial fulfillment of Probability/ Statistics requirement]
+18.06 Linear Algebra (Fall and Spring)
+18.C06 Linear Algebra and Optimization (Fall)
+18.615 Introduction to Stochastic Processes (Spring)
+IDS.012J/6.3730 Statistics, Computation and Applications (Spring)

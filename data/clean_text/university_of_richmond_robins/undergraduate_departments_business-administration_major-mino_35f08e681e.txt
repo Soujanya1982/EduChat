@@ -1,0 +1,180 @@
+URL: https://robins.richmond.edu/undergraduate/departments/business-administration/major-minor.html
+TITLE: Business Administration Major & Minor Requirements - Business Administration - Academic Departments - Undergraduate - Robins School of Business - University of Richmond
+
+Business Administration Major & Minor Requirements
+Major
+The Business Administration Major
+In addition to the requirements for the B.S.B.A. degree outlined below, all business administration majors must complete a concentration. Except as otherwise noted on the concentration pages, a concentration area requires four courses minimum chosen from a single Robins School of Business department. A maximum of seven courses can be taken in any area of concentration.
+Business administration majors must choose a concentration from the following areas: accounting, business analytics, economics, finance, international business, marketing, or management. A concentration in accounting or business analytics is always a secondary concentration to a primary concentration.
+Candidates for a B.S.B.A. must:
+Satisfy the general degree requirements for graduation
+Complete the following foundational business courses:
+ACCT201
+Fundamentals of Financial Accounting
+ACCT205
+Fundamentals of Managerial Accounting*
+BUAD202
+Statistics for Business and Economics
+BUAD205
+Business Communication
+ECON101
+Principles of Microeconomics
+ECON102
+Principles of Macroeconomics
+MATH211
+Calculus I
+Complete the following core courses except as noted:
+BUAD393
+Business Law^
+BUAD394
+Business Ethics^
+BUAD497
+Strategic Management**
+FIN360
+Principles of Financial Management
+AO225
+IT and Data Analytics
+MGMT330
+Organizational Behavior
+AO340
+Operations Management
+MKT320
+Principles of Marketing
+*Accounting concentrators take
+ACCT305
+: Cost and Managerial Accounting in lieu of
+ACCT205
+. ACCT 305 satisfies the RSB core course requirement for ACCT 205, and it also counts as one of the four courses needed to fulfill the accounting concentration.
+**The International Business concentration requires
+IBUS411
+in lieu of
+BUAD497
+.
+^
+BUAD393
+and
+BUAD394
+are required for students entering the University fall 2018 and later.
+Maintain at least a 2.00 overall grade point average in school of business coursework
+Earn 17 units outside the Robins School of Business. Included in these 17 units are the Business Administration major requirements:
+ECON101
+,
+ECON102
+, and
+BUAD202
+.
+Participate in a full semester University of Richmond approved study abroad program or complete a course with an international business or international business economics focus. This international focus course also may satisfy a concentration or major requirement.
+All students declaring a Robins School of Business major or Business Administration minor must first pass an Excel competency exam. Entrepreneurship minors are not required to take the Excel competency exam. Students will have three attempts to demonstrate competency with a grade of 80% or higher. This is not for a grade or academic credit.
+Minor
+The Business Administration Minor
+10 units, including:
+ACCT201
+Fundamentals of Financial Accounting
+ACCT205
+Fundamentals of Managerial Accounting
+BUAD202
+Statistics for Business and Economics
+ECON101
+Principles of Microeconomics
+ECON102
+Principles of Macroeconomics
+FIN360
+Principles of Financial Management
+MATH211
+Calculus I
+MGMT330
+Organizational Behavior
+AO340
+Operations Management
+MKT320
+Principles of Marketing
+The business minor student must complete
+MATH211
+,
+ACCT201
+, and
+ECON101
+courses prior to declaring, and
+ACCT201
+,
+ECON101
+,
+ECON102
+, and
+BUAD202
+requirements prior to enrolling in any other core business administration course.
+All students declaring a Robins School of Business major or Business Administration minor must first pass an Excel competency exam. Entrepreneurship minors are not required to take the Excel competency exam. Students will have three attempts to demonstrate competency with a grade of 80% or higher. This is not for a grade or academic credit.
+Business Administration
+Expand All
+BUAD 100 Applied Business Topics
+Units: 0-0.5
+Description
+Explores various business areas through group and individual projects. Projects could range from business simulations, solving business cases, working on a small research project, debating, etc. Project and topics will vary by semester. Open to participants in the Endeavor program.
+BUAD 101 Introduction to Business
+Units: 1
+Description
+Multidisciplinary course that exposes student to functional areas of business. Focus on acquiring understanding of language and structure of business through study of its functional components: accounting, economics, finance management, and marketing. (Open to first- and second-year students only.)
+BUAD 202 Statistics for Business and Economics
+Units: 1
+Fulfills General Education Requirement(s): IF-Quantitative Data Literacy (IFQD)
+Description
+Theory, methodology, and applications of statistics to contemporary business and economics problems. Includes descriptive statistics, probability theory, probability distributions, one- and two-population statistical inference, analysis of variance, correlation, and regression.
+BUAD 203 Software Tools and Applications
+Units: 0.5
+Description
+Laboratory course providing introduction to software packages with applications for business decision making. Emphasis on understanding spreadsheet applications. (Open to first- and second-year students only.)  Graded Pass/Fail.
+BUAD 205 Business Communication
+Units: 0.5
+Fulfills General Education Requirement(s): IF-Embodied Communication (IFEB)
+Description
+Provides the student with a basic understanding of communication processes in the business environment. Practical experience is gained in written and oral communication as well as small group and interpersonal communication within the business perspective. Offered every semester.
+BUAD 259 Special Topics
+Units: 0-1
+Description
+Business topics not covered in other courses.
+BUAD 310 Financial Statement Analysis
+Units: 1
+Description
+Instruction in analyzing financial statements to evaluate an organization's profitability, liquidity, capital structure, and cash flows. Examination of how management's discretionary accounting choices affect earnings quality.
+Prerequisites
+ACCT 202 and FIN 360, Business School major
+BUAD 359 Special Topics
+Units: 0.25-1
+Description
+Business topics not covered in other courses.  Intended as an elective for business students.
+BUAD 388 Internship
+Units: 0-1
+Description
+Applied field experience for a minimum of 50 work hours. Following the field experience, a short paper is required that describes the organization's history, size, number of locations, ownership, products and services, major competitors, and major customers. Graded pass/fail. May be only taken three times in total across the student's academic career at UR. (Internship requirements do not apply to the summer internship program administered by the Center for Global Engagement).
+BUAD 389 Directed Independent Study
+Units: 0.5-1
+Description
+Specialized study or directed research in area of business or economics.
+BUAD 393 Business Law
+Units: 0.5
+Description
+Introduces the U.S. legal system.  Topics include the U.S. court system, enterprise organization and governance, contracts, including sales contracts under Article 2 of the UCC, torts, intellectual property, bankruptcy and creditors rights, including mortgages and liens under Article 9 of the UCC.
+Prerequisites
+ACCT 201, ECON 101, and ECON 102, Business School major
+BUAD 394 Business Ethics
+Units: 0.5
+Description
+Identify ethical issues encountered in business settings and examine specific moral questions that arise vis-à-vis a firm’s relation to society and to its employees.  Current cases to illustrate the practical importance of reflection on these questions, and enable explicit identification, critical evaluation, and application to various frameworks for attributing moral responsibility and making ethical decisions.  Cases may be drawn from marketing (manipulation of desire in the market, deceptive advertising), management (sweatshops, discrimination in hiring, privacy), finance (insider trading, corruption), accounting (conflicts of interest, fraud), or economics (asymmetric information, moral hazard). The following courses may count as substituted courses:  ECON 233: Ethics and Economics and LDST 450: Leadership Ethics.
+Prerequisites
+ACCT 201, ECON 101, and ECON 102, and BUAD 202 or ECON 170; Business School or Pre-Business School major
+BUAD 396 Advanced Business Law
+Units: 0.5
+Description
+Expands upon the U.S. legal system and its relation to business affairs.  Topics include judicial decision-making, criminal law, real property law, insurance, securities law, negotiable instruments, environmental regulation, antitrust law, and employment law..
+Prerequisites
+BUAD 393, Business School major
+BUAD 469 Bench Top Innovations
+Units: 1
+Description
+A two semester experiential program where 16 students from all disciplines across the University of Richmond will explore, ideate, prototype, manufacture, and commercialize a consumer packaged food or beverage-from idea to revenue in nine months. In the first semester, students will learn and employ design thinking and agile techniques to explore market opportunities and ideate possible solutions. In the second semester, the students will operate in teams typically seen in start-ups (Operations, Marketing, Sales, Finance) as they market and sell their product through traditional retail establishments as well as direct-to-consumers. This course will be managed and staffed by the Marketing department of the Robins School of Business. This is a year long course, offered every year.
+BUAD 497 Strategic Management
+Units: 1
+Description
+Analysis of the external environment and internal resources of a firm leading to the development of strategies and plans for implementing them. The course also provides opportunities for students to integrate knowledge from each of the functional business disciplines through case studies and other learning tools.
+Prerequisites
+BUAD 202 or ECON 170 and FIN 360, MKT 320, MGMT 330, and MGMT 340; Business School major, senior standing

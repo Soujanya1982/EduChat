@@ -1,0 +1,66 @@
+URL: https://www.business.uconn.edu/2026/04/23/innovation-quest-selects-five-top-startups-ranging-from-manufacturing-innovation-to-new-hair-care-option
+TITLE: Innovation Quest Selects Five Top Startups, Ranging from Manufacturing Innovation to New Hair-Care Option  - UConn Today
+
+Entrepreneurship
+Research & Discovery
+April 23, 2026
+|
+Claire Hall
+The student entrepreneurs impressed the judges with both the quality of their ideas and their dedication to bringing them to market
+Colin Sheardwright and Krish Bhuva of the startup Elyton, which won first prize in this year's contest (contributed photo)
+The Innovation Quest (iQ) entrepreneurship competition crowned five new champions on April 20, with innovations that included a novel manufacturing innovation, a system for making tuition payments easier, and tool to help protect creative endeavors from being usurped by AI.
+The students ranged from a second-semester freshman to a ready-to-graduate Ph.D. candidate. Together, they shared $35,000 in prize money.
+“The students we met this year were extremely serious about entrepreneurship and wanting to bring their ideas to the market,’’ says iQ director Kevin Gardiner.   “Every year, the quality of their ideas grows stronger, and the bar keeps getting higher. They are really, really sharp students who have the grit that it takes to succeed as entrepreneurs.”
+As in the past, the competition drew students from a large swath of majors within UConn. Some 170 UConn students participated in the entrepreneurship workshops, with more than 30 entering the formal competition. While last year’s cohort created startups that capitalized on artificial intelligence, this year’s companies were more diverse.
+The 2026 iQ competition was sponsored by alumnus and angel investor Ashok Bahl ‘06 MBA. Bahl was so impressed with the teams that he increased the total prize money from $30,000 to $35,000.
+The winners were selected by 16 judges, including venture capitalists, startup owners, and other experts in business, all of whom volunteered to spend Saturday judging the competition.
+The following companies were selected among the top five new UConn startups:
+Elyton Addresses Need for Manufacturing Innovation
+The first-place winner is startup Elyton, which is creating an automated metal- finishing platform for complex geometries and difficult-to-machine alloys. The system combines pulsed electrochemical machining with robotic multi-axis tool pathing to remove material and produce consistent, high-quality surface finishes.
+Elyton’s approach is uniquely suited to address a major bottleneck in additive manufacturing. Metal 3D printed parts often have rough, intricate, and delicate surfaces that are difficult or impossible to post-process using traditional methods.
+“A simple example would be finishing a complex 3D printed metal aerospace or medical part that is difficult to polish using traditional tools,’’ says co-founder Krish Bhuva ’27 (ENG), a materials science and engineering major. “Our process uses electrochemical machining to improve surface finish without physically contacting the part. There are companies in machining and finishing broadly, but we believe our automated and flexible approach for complex geometries is highly differentiated.’’
+Bhuva and co-founder Colin Sheardwright ’27 (ENG), a robotics engineering major, are the president and vice president of UConn Robotics, where they have been leading a team of 25 students designing and building an underwater remotely operated vehicle for the 2026 MATE ROV World Championship in Newfoundland, Canada.
+“We have both always been interested in advanced infrastructure, automation, and building real systems, which naturally led us toward entrepreneurship and starting a company together as roommates,’’ Bhuva says.
+“My biggest takeaway from iQ was how valuable it is to clearly communicate the problem you are solving,’’ Bhuva says. “Strong technology matters, but being able to explain the value in a simple way is just as important.’’
+Elyton’s leadership will use iQ’s $12,000 grand prize for next steps, which include moving into lab space at the UConn Depot Campus next month, purchasing additional equipment, adding staff, and expanding the company’s prototype capabilities.
+InfinityPay, A Tuition-Payment Platform, Took Second Place
+Thembi Loga ’28 (ENG), a computer science and engineering major and an already established entrepreneur, took second place and a $10,000 prize with InfinityPay. He developed the fintech platform to make it easier for parents and school administration to handle tuition payments.
+Thembi Loga (contributed photo)
+Loga is a native of Malawi in Southeastern Africa. Many schools there rely on fragmented, manual systems, including paper records and spreadsheets, leading to poor tracking of student accounts and administrative inefficiencies.
+InfinityPay provides a secure, transparent, and fully digital payment experience, allowing schools to collect fees through mobile money, bank transfers, and card payments, while enabling real-time tracking, reconciliation, and structured payment plans.
+Loga thinks it would be popular in his home nation and throughout Africa.
+“Through Innovation Quest, the most valuable thing I gained was learning how to refine and clearly communicate our business as we actively build and grow InfinityPay,’’ he says. “Working with experienced mentors and entrepreneurs helped me think more strategically about execution, scalability, and how to move from building a product to scaling a real, impactful business.’’
+Loga became interested in entrepreneurship from a young age, and in 2023 founded InfinityMX, a software development company offering web and mobile app development, branding, and marketing services. He’s worked with over 15 clients and completed more than 20 projects.
+With InfinityPay, he led product development and built the platform himself, leading the company from vision to execution, backed by a strong team of strategic advisors.
+“Our immediate next step is securing our Payment Service Provider (PSP) license so we can operate as a legal payment processor in Malawi,’’ he says. “We have two schools ready to pilot once the license is approved. We’re also actively exploring funding opportunities to help us scale quickly and efficiently.’’
+‘Swipe Dining’ Makes Meal Preferences Easier to Find
+Swipe Dining is a mobile app that
+helps UConn students browse dining hall menus
+, filter by allergens and dietary preferences, and find food that fits their needs across all 19 dining locations.
+Sean Howard holds a photo with his Swipe dining app outside the Union Street Market on March 26, 2026. (Peter Morenus/UConn Photo)
+The startup, the brainchild of Sean Howard ’29 (BUS) took third place and a $6,000 award. A health-conscious student, Howard was looking for an easier way to get nutritional and other information. He even included a feature so students could be alerted when their favorite meal is being served.
+“I’m most looking forward to going to market and seeing this app help as many students as possible,’’ Howard says. “The funding through iQ will allow me to accelerate the process, and I hope to see my app in [multiple] schools this fall.’’
+Howard says the biggest lesson he learned from iQ is to take advantage of UConn’s resources.
+“When [associate director of the Werth Institute for Entrepreneurship & Innovation] Kathy Rocha recommended the iQ program in January, I was hesitant to apply because the app was just an idea at the time,’’ Howard says. “I quickly learned that the valuable part of the iQ program isn’t just the funding but also the mentorship and guidance I received along the way. The virtual workshops, as well as the iQ mentor meetings, were crucial to the development of the app and were a huge reason for my success.’’
+Since it launched in February, Swipe Dining has been downloaded 1,000 times. Howard hopes to introduce the service at other colleges. “I think there’s definitely a market for it. I think there’s a problem to be solved,’’ he says.
+MadeByMe! Fights Theft of Creative Work
+One of the biggest challenges for media creators is how easily their work can be pirated. That’s what motivated Carina Adams-Szabo ’26 (CLAS), a senior majoring in political science and psychological sciences, to create MadeByMe!
+Carina Adams-Szabo (contributed photo)
+MadeByMe! is a simple “one-click” protection tool for creators and can be built directly into social media apps. When a creator uploads a photo or artwork, they can toggle a switch that marks the post as theirs and tells AI programs they do not have permission to use it. The system puts an invisible “shield” over the content that keeps it looking perfect for human followers, but makes it unreadable or corrupts its database if an AI program tries to scan or copy it.
+The company took fourth place and a $3,500 award. Adams-Szabo’s business partner is Abdullah Rashid.
+“What is especially exciting to me is how quickly this has all come together. MadeByMe! did not exist in January, and I am now working on producing pilot-ready versions while also planning to pitch to [startup funding and support network] Y Combinator,’’ Adams-Szabo says. Her team also won first place in AI & Creativity at HackUConn in February.
+“Our belief is straightforward,’’ she says. “Visibility should not automatically mean consent. A creator should be able to share work publicly without surrendering control over how that work is used, learned from, or monetized. That is what MadeByMe! is built to do.’’
+The creator economy is significant, estimated at $250 billion and growing, with more than 165 million new creators joining since 2020. Competitors offer tools that create visible distortion. MadeByMe! is not just technically novel but practical to adopt, she says.
+The company’s next steps include more advanced testing, more discovery work with creators, and beginning partnership conversations with platforms and marketplaces.
+“MadeByMe! Is not anti-AI. It is not anti-innovation. It is pro-consent, pro-individual, and built for the reality of where this market is going,’’ she says.
+affirmHER Merges Science and Hair Care
+Adanma Akoma ’26 Ph.D. has purchased and then thrown away her share of hair products that just didn’t work on her tightly coiled, afro-textured hair.
+Adanma Akoma (contributed photo)
+She took her expertise in materials science and engineering and created affirmHER, a haircare system designed specifically for her hair type developed with principles from materials science. Her startup took fifth place in the iQ competition and won a $3,500 prize.
+“affirmHER was created to address a gap in the haircare market for tightly coiled hair textures, which often experience dryness, breakage, and repeated trial-and-error with products not specifically designed for their structural needs,’’ she says. The product line is built on understanding hair as a fiber.
+“While the haircare industry is highly saturated, many products are still developed with a one-size-fits-all mindset. affirmHER takes a more science-informed approach by focusing on how fiber structure, moisture retention, and fragility differ in tightly coiled hair,’’ Akoma says. “Hair is often viewed through a beauty lens, but healthy beauty starts with understanding and caring for the structure beneath it.’’
+One of the most valuable lessons from Innovation Quest was learning how to clearly communicate both the problem and the opportunity, regardless of what you are pitching, she says. “As a scientist, I was challenged to think not only technically, but also from the perspective of founders, judges, customers, and future partners,’’ Akoma says.
+Her next step is to continue research and development, refine formulas through testing and feedback and build a strong foundation for product launch.
+“My doctoral work helped me develop expertise in nanostructures, and it was also where my interest in innovation grew significantly. I have been fortunate to receive multiple prestigious awards for my independent research, reflecting the discipline, creativity, and problem-solving mindset I now bring to affirmHER,’’ she says.
+“My interest in affirmHER came from both personal experience and observing how overlooked certain consumers remain in product development. As someone with tightly coiled hair, I have personally experienced the time, cost, and frustration of maintaining hair with products that often fail to meet its needs,’’ she says. “I wanted better solutions that help people reclaim their time, spend more intentionally, and manage their hair with confidence. I have always been drawn to solving practical problems through research, design, and entrepreneurship.’’
+The five iQ teams also received an invitation to the Summer InQbator, a UConn business accelerator. They will be joined by Crescent Intelligence, a medical billing and payment software, and Nereis, a miniaturized robotic inspection probe for complex industrial machinery, enabling access to spaces that conventional tools cannot reach.

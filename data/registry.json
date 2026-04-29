@@ -1,0 +1,2762 @@
+[
+  {
+    "college_id": "upenn_wharton",
+    "college_name": "University of Pennsylvania",
+    "business_school": "Wharton School",
+    "display_name": "Wharton School (University of Pennsylvania)",
+    "location": "Philadelphia, PA",
+    "state": "PA",
+    "region": "Northeast",
+    "rank_raw": "1",
+    "rank_numeric": 1,
+    "admission_url": "https://admissions.wharton.upenn.edu/",
+    "seeds": [
+      "https://admissions.wharton.upenn.edu/"
+    ],
+    "allowed_hosts": [
+      "admissions.wharton.upenn.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "uva_mcintire",
+    "college_name": "University of Virginia",
+    "business_school": "McIntire School of Commerce",
+    "display_name": "McIntire School of Commerce (University of Virginia)",
+    "location": "Charlottesville, VA",
+    "state": "VA",
+    "region": "South",
+    "rank_raw": "4",
+    "rank_numeric": 4,
+    "admission_url": "https://www.commerce.virginia.edu/undergraduate/admissions",
+    "seeds": [
+      "https://www.commerce.virginia.edu/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "www.commerce.virginia.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "cornell_dyson",
+    "college_name": "Cornell University",
+    "business_school": "Dyson School of Applied Economics & Mgmt",
+    "display_name": "Dyson School of Applied Economics & Mgmt (Cornell University)",
+    "location": "Ithaca, NY",
+    "state": "NY",
+    "region": "Northeast",
+    "rank_raw": "2",
+    "rank_numeric": 2,
+    "admission_url": "https://dyson.cornell.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://dyson.cornell.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "dyson.cornell.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "umich_ross",
+    "college_name": "University of Michigan",
+    "business_school": "Ross School of Business",
+    "display_name": "Ross School of Business (University of Michigan)",
+    "location": "Ann Arbor, MI",
+    "state": "MI",
+    "region": "Midwest",
+    "rank_raw": "11",
+    "rank_numeric": 11,
+    "admission_url": "https://michiganross.umich.edu/undergraduate/bba/admissions",
+    "seeds": [
+      "https://michiganross.umich.edu/undergraduate/bba/admissions"
+    ],
+    "allowed_hosts": [
+      "michiganross.umich.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "usc_marshall",
+    "college_name": "University of Southern California",
+    "business_school": "Marshall School of Business",
+    "display_name": "Marshall School of Business (University of Southern California)",
+    "location": "Los Angeles, CA",
+    "state": "CA",
+    "region": "West",
+    "rank_raw": "3",
+    "rank_numeric": 3,
+    "admission_url": "https://marshall.usc.edu/programs/undergraduate-programs/admissions",
+    "seeds": [
+      "https://marshall.usc.edu/programs/undergraduate-programs/admissions"
+    ],
+    "allowed_hosts": [
+      "marshall.usc.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "nyu_stern",
+    "college_name": "New York University",
+    "business_school": "Stern School of Business",
+    "display_name": "Stern School of Business (New York University)",
+    "location": "New York, NY",
+    "state": "NY",
+    "region": "Northeast",
+    "rank_raw": "5",
+    "rank_numeric": 5,
+    "admission_url": "https://www.stern.nyu.edu/programs-admissions/undergraduate/admissions",
+    "seeds": [
+      "https://www.stern.nyu.edu/programs-admissions/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "www.stern.nyu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "georgetown_mcdonough",
+    "college_name": "Georgetown University",
+    "business_school": "McDonough School of Business",
+    "display_name": "McDonough School of Business (Georgetown University)",
+    "location": "Washington, DC",
+    "state": "DC",
+    "region": "South",
+    "rank_raw": "4",
+    "rank_numeric": 4,
+    "admission_url": "https://msb.georgetown.edu/programs/undergraduate/admissions/",
+    "seeds": [
+      "https://msb.georgetown.edu/programs/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "msb.georgetown.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "unc_kenan",
+    "college_name": "University of North Carolina",
+    "business_school": "Kenan-Flagler Business School",
+    "display_name": "Kenan-Flagler Business School (University of North Carolina)",
+    "location": "Chapel Hill, NC",
+    "state": "NC",
+    "region": "South",
+    "rank_raw": "9",
+    "rank_numeric": 9,
+    "admission_url": "https://www.kenan-flagler.unc.edu/programs/bsba/admissions/",
+    "seeds": [
+      "https://www.kenan-flagler.unc.edu/programs/bsba/admissions/"
+    ],
+    "allowed_hosts": [
+      "www.kenan-flagler.unc.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_notre_dame_mendoza",
+    "college_name": "University of Notre Dame",
+    "business_school": "Mendoza College of Business",
+    "display_name": "Mendoza College of Business (University of Notre Dame)",
+    "location": "Notre Dame, IN",
+    "state": "IN",
+    "region": "Midwest",
+    "rank_raw": "7",
+    "rank_numeric": 7,
+    "admission_url": "https://mendoza.nd.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://mendoza.nd.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "mendoza.nd.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "emory_goizueta",
+    "college_name": "Emory University",
+    "business_school": "Goizueta Business School",
+    "display_name": "Goizueta Business School (Emory University)",
+    "location": "Atlanta, GA",
+    "state": "GA",
+    "region": "South",
+    "rank_raw": "8",
+    "rank_numeric": 8,
+    "admission_url": "https://goizueta.emory.edu/bba/admissions",
+    "seeds": [
+      "https://goizueta.emory.edu/bba/admissions"
+    ],
+    "allowed_hosts": [
+      "goizueta.emory.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "washington_olin",
+    "college_name": "Washington University in St. Louis",
+    "business_school": "Olin Business School",
+    "display_name": "Olin Business School (Washington University in St. Louis)",
+    "location": "St. Louis, MO",
+    "state": "MO",
+    "region": "Midwest",
+    "rank_raw": "6",
+    "rank_numeric": 6,
+    "admission_url": "https://olin.wustl.edu/EN-US/Academics/BachelorOfScienceInBusinessAdministration/Pages/Admissions.aspx",
+    "seeds": [
+      "https://olin.wustl.edu/EN-US/Academics/BachelorOfScienceInBusinessAdministration/Pages/Admissions.aspx"
+    ],
+    "allowed_hosts": [
+      "olin.wustl.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "cmu_tepper",
+    "college_name": "Carnegie Mellon University",
+    "business_school": "Tepper School of Business",
+    "display_name": "Tepper School of Business (Carnegie Mellon University)",
+    "location": "Pittsburgh, PA",
+    "state": "PA",
+    "region": "Northeast",
+    "rank_raw": "10",
+    "rank_numeric": 10,
+    "admission_url": "https://www.cmu.edu/tepper/programs/undergraduate/admissions/index.html",
+    "seeds": [
+      "https://www.cmu.edu/tepper/programs/undergraduate/admissions/index.html"
+    ],
+    "allowed_hosts": [
+      "www.cmu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "wake_forest_business",
+    "college_name": "Wake Forest University",
+    "business_school": "School of Business",
+    "display_name": "School of Business (Wake Forest University)",
+    "location": "Winston-Salem, NC",
+    "state": "NC",
+    "region": "South",
+    "rank_raw": "18",
+    "rank_numeric": 18,
+    "admission_url": "https://business.wfu.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://business.wfu.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "business.wfu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "villanova_business",
+    "college_name": "Villanova University",
+    "business_school": "School of Business",
+    "display_name": "School of Business (Villanova University)",
+    "location": "Villanova, PA",
+    "state": "PA",
+    "region": "Northeast",
+    "rank_raw": "12",
+    "rank_numeric": 12,
+    "admission_url": "https://www1.villanova.edu/university/business/undergraduate/admissions.html",
+    "seeds": [
+      "https://www1.villanova.edu/university/business/undergraduate/admissions.html"
+    ],
+    "allowed_hosts": [
+      "www1.villanova.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "gatech_scheller",
+    "college_name": "Georgia Institute of Technology",
+    "business_school": "Scheller College of Business",
+    "display_name": "Scheller College of Business (Georgia Institute of Technology)",
+    "location": "Atlanta, GA",
+    "state": "GA",
+    "region": "South",
+    "rank_raw": "15",
+    "rank_numeric": 15,
+    "admission_url": "https://scheller.gatech.edu/degree-programs/undergraduate/admissions.html",
+    "seeds": [
+      "https://scheller.gatech.edu/degree-programs/undergraduate/admissions.html"
+    ],
+    "allowed_hosts": [
+      "scheller.gatech.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_illinois_gies",
+    "college_name": "University of Illinois",
+    "business_school": "Gies College of Business",
+    "display_name": "Gies College of Business (University of Illinois)",
+    "location": "Urbana-Champaign, IL",
+    "state": "IL",
+    "region": "Midwest",
+    "rank_raw": "19",
+    "rank_numeric": 19,
+    "admission_url": "https://giesbusiness.illinois.edu/undergraduate/admission",
+    "seeds": [
+      "https://giesbusiness.illinois.edu/undergraduate/admission"
+    ],
+    "allowed_hosts": [
+      "giesbusiness.illinois.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_richmond_robins",
+    "college_name": "University of Richmond",
+    "business_school": "Robins School of Business",
+    "display_name": "Robins School of Business (University of Richmond)",
+    "location": "Richmond, VA",
+    "state": "VA",
+    "region": "South",
+    "rank_raw": "17",
+    "rank_numeric": 17,
+    "admission_url": "https://robins.richmond.edu/undergraduate/admissions.html",
+    "seeds": [
+      "https://robins.richmond.edu/undergraduate/admissions.html"
+    ],
+    "allowed_hosts": [
+      "robins.richmond.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "boston_questrom",
+    "college_name": "Boston University",
+    "business_school": "Questrom School of Business",
+    "display_name": "Questrom School of Business (Boston University)",
+    "location": "Boston, MA",
+    "state": "MA",
+    "region": "Northeast",
+    "rank_raw": "16",
+    "rank_numeric": 16,
+    "admission_url": "https://www.bu.edu/questrom/undergraduate/admissions/",
+    "seeds": [
+      "https://www.bu.edu/questrom/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "www.bu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_washington_foster",
+    "college_name": "University of Washington",
+    "business_school": "Foster School of Business",
+    "display_name": "Foster School of Business (University of Washington)",
+    "location": "Seattle, WA",
+    "state": "WA",
+    "region": "West",
+    "rank_raw": "32",
+    "rank_numeric": 32,
+    "admission_url": "https://foster.uw.edu/programs/undergraduate/apply/",
+    "seeds": [
+      "https://foster.uw.edu/programs/undergraduate/apply/"
+    ],
+    "allowed_hosts": [
+      "foster.uw.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "northeastern_d",
+    "college_name": "Northeastern University",
+    "business_school": "D'Amore-McKim School of Business",
+    "display_name": "D'Amore-McKim School of Business (Northeastern University)",
+    "location": "Boston, MA",
+    "state": "MA",
+    "region": "Northeast",
+    "rank_raw": "13",
+    "rank_numeric": 13,
+    "admission_url": "https://damore-mckim.northeastern.edu/undergraduate-programs/admissions/",
+    "seeds": [
+      "https://damore-mckim.northeastern.edu/undergraduate-programs/admissions/"
+    ],
+    "allowed_hosts": [
+      "damore-mckim.northeastern.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_wisconsin_madison_wisconsin",
+    "college_name": "University of Wisconsin-Madison",
+    "business_school": "Wisconsin School of Business",
+    "display_name": "Wisconsin School of Business (University of Wisconsin-Madison)",
+    "location": "Madison, WI",
+    "state": "WI",
+    "region": "Midwest",
+    "rank_raw": "22",
+    "rank_numeric": 22,
+    "admission_url": "https://business.wisc.edu/undergraduate/apply/",
+    "seeds": [
+      "https://business.wisc.edu/undergraduate/apply/"
+    ],
+    "allowed_hosts": [
+      "business.wisc.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_miami_herbert",
+    "college_name": "University of Miami",
+    "business_school": "Herbert Business School",
+    "display_name": "Herbert Business School (University of Miami)",
+    "location": "Coral Gables, FL",
+    "state": "FL",
+    "region": "South",
+    "rank_raw": "21",
+    "rank_numeric": 21,
+    "admission_url": "https://herbert.miami.edu/undergraduate/admissions/index.html",
+    "seeds": [
+      "https://herbert.miami.edu/undergraduate/admissions/index.html"
+    ],
+    "allowed_hosts": [
+      "herbert.miami.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_minnesota_carlson",
+    "college_name": "University of Minnesota",
+    "business_school": "Carlson School of Management",
+    "display_name": "Carlson School of Management (University of Minnesota)",
+    "location": "Minneapolis, MN",
+    "state": "MN",
+    "region": "Midwest",
+    "rank_raw": "23",
+    "rank_numeric": 23,
+    "admission_url": "https://carlsonschool.umn.edu/degrees/undergraduate/admissions",
+    "seeds": [
+      "https://carlsonschool.umn.edu/degrees/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "carlsonschool.umn.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "william_mary_raymond",
+    "college_name": "William & Mary",
+    "business_school": "Raymond A. Mason School of Business",
+    "display_name": "Raymond A. Mason School of Business (William & Mary)",
+    "location": "Williamsburg, VA",
+    "state": "VA",
+    "region": "South",
+    "rank_raw": "20",
+    "rank_numeric": 20,
+    "admission_url": "https://mason.wm.edu/programs/undergraduate/admissions/index.php",
+    "seeds": [
+      "https://mason.wm.edu/programs/undergraduate/admissions/index.php"
+    ],
+    "allowed_hosts": [
+      "mason.wm.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "southern_methodist_cox",
+    "college_name": "Southern Methodist University",
+    "business_school": "Cox School of Business",
+    "display_name": "Cox School of Business (Southern Methodist University)",
+    "location": "Dallas, TX",
+    "state": "TX",
+    "region": "South",
+    "rank_raw": "30",
+    "rank_numeric": 30,
+    "admission_url": "https://www.smu.edu/cox/degrees/bba/admissions",
+    "seeds": [
+      "https://www.smu.edu/cox/degrees/bba/admissions"
+    ],
+    "allowed_hosts": [
+      "www.smu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_pittsburgh_katz",
+    "college_name": "University of Pittsburgh",
+    "business_school": "Katz Graduate School of Business",
+    "display_name": "Katz Graduate School of Business (University of Pittsburgh)",
+    "location": "Pittsburgh, PA",
+    "state": "PA",
+    "region": "Northeast",
+    "rank_raw": "34",
+    "rank_numeric": 34,
+    "admission_url": "https://www.business.pitt.edu/katz/undergraduate/admissions",
+    "seeds": [
+      "https://www.business.pitt.edu/katz/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "www.business.pitt.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "binghamton_management",
+    "college_name": "Binghamton University",
+    "business_school": "School of Management",
+    "display_name": "School of Management (Binghamton University)",
+    "location": "Binghamton, NY",
+    "state": "NY",
+    "region": "Northeast",
+    "rank_raw": "31",
+    "rank_numeric": 31,
+    "admission_url": "https://www.binghamton.edu/som/undergraduate/admissions.html",
+    "seeds": [
+      "https://www.binghamton.edu/som/undergraduate/admissions.html"
+    ],
+    "allowed_hosts": [
+      "www.binghamton.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "texas_christian_neeley",
+    "college_name": "Texas Christian University",
+    "business_school": "Neeley School of Business",
+    "display_name": "Neeley School of Business (Texas Christian University)",
+    "location": "Fort Worth, TX",
+    "state": "TX",
+    "region": "South",
+    "rank_raw": "28",
+    "rank_numeric": 28,
+    "admission_url": "https://neeley.tcu.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://neeley.tcu.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "neeley.tcu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "fordham_gabelli",
+    "college_name": "Fordham University",
+    "business_school": "Gabelli School of Business",
+    "display_name": "Gabelli School of Business (Fordham University)",
+    "location": "New York, NY",
+    "state": "NY",
+    "region": "Northeast",
+    "rank_raw": "29",
+    "rank_numeric": 29,
+    "admission_url": "https://www.fordham.edu/gabelli-school-of-business/undergraduate-admissions/",
+    "seeds": [
+      "https://www.fordham.edu/gabelli-school-of-business/undergraduate-admissions/"
+    ],
+    "allowed_hosts": [
+      "www.fordham.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "tulane_a",
+    "college_name": "Tulane University",
+    "business_school": "A.B. Freeman School of Business",
+    "display_name": "A.B. Freeman School of Business (Tulane University)",
+    "location": "New Orleans, LA",
+    "state": "LA",
+    "region": "South",
+    "rank_raw": "35",
+    "rank_numeric": 35,
+    "admission_url": "https://freeman.tulane.edu/undergraduate/admissions",
+    "seeds": [
+      "https://freeman.tulane.edu/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "freeman.tulane.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "trinity_neidorff",
+    "college_name": "Trinity University",
+    "business_school": "Neidorff School of Business",
+    "display_name": "Neidorff School of Business (Trinity University)",
+    "location": "San Antonio, TX",
+    "state": "TX",
+    "region": "South",
+    "rank_raw": "27",
+    "rank_numeric": 27,
+    "admission_url": "https://new.trinity.edu/academics/departments/business-administration",
+    "seeds": [
+      "https://new.trinity.edu/academics/departments/business-administration"
+    ],
+    "allowed_hosts": [
+      "new.trinity.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "purdue_daniels",
+    "college_name": "Purdue University",
+    "business_school": "Daniels School of Business",
+    "display_name": "Daniels School of Business (Purdue University)",
+    "location": "West Lafayette, IN",
+    "state": "IN",
+    "region": "Midwest",
+    "rank_raw": "36",
+    "rank_numeric": 36,
+    "admission_url": "https://business.purdue.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://business.purdue.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "business.purdue.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "elon_love",
+    "college_name": "Elon University",
+    "business_school": "Love School of Business",
+    "display_name": "Love School of Business (Elon University)",
+    "location": "Elon, NC",
+    "state": "NC",
+    "region": "South",
+    "rank_raw": "38",
+    "rank_numeric": 38,
+    "admission_url": "https://www.elon.edu/u/business/undergraduate/admissions/",
+    "seeds": [
+      "https://www.elon.edu/u/business/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "www.elon.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "lehigh_business",
+    "college_name": "Lehigh University",
+    "business_school": "College of Business",
+    "display_name": "College of Business (Lehigh University)",
+    "location": "Bethlehem, PA",
+    "state": "PA",
+    "region": "Northeast",
+    "rank_raw": "26",
+    "rank_numeric": 26,
+    "admission_url": "https://business.lehigh.edu/undergraduate/admissions",
+    "seeds": [
+      "https://business.lehigh.edu/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "business.lehigh.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "brigham_young_marriott",
+    "college_name": "Brigham Young University",
+    "business_school": "Marriott School of Business",
+    "display_name": "Marriott School of Business (Brigham Young University)",
+    "location": "Provo, UT",
+    "state": "UT",
+    "region": "West",
+    "rank_raw": "47",
+    "rank_numeric": 47,
+    "admission_url": "https://marriottschool.byu.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://marriottschool.byu.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "marriottschool.byu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_georgia_terry",
+    "college_name": "University of Georgia",
+    "business_school": "Terry College of Business",
+    "display_name": "Terry College of Business (University of Georgia)",
+    "location": "Athens, GA",
+    "state": "GA",
+    "region": "South",
+    "rank_raw": "33",
+    "rank_numeric": 33,
+    "admission_url": "https://terry.uga.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://terry.uga.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "terry.uga.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "syracuse_martin",
+    "college_name": "Syracuse University",
+    "business_school": "Martin J. Whitman School of Management",
+    "display_name": "Martin J. Whitman School of Management (Syracuse University)",
+    "location": "Syracuse, NY",
+    "state": "NY",
+    "region": "Northeast",
+    "rank_raw": "39",
+    "rank_numeric": 39,
+    "admission_url": "https://whitman.syr.edu/programs/undergraduate/admissions/",
+    "seeds": [
+      "https://whitman.syr.edu/programs/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "whitman.syr.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "bucknell_freeman",
+    "college_name": "Bucknell University",
+    "business_school": "Freeman College of Management",
+    "display_name": "Freeman College of Management (Bucknell University)",
+    "location": "Lewisburg, PA",
+    "state": "PA",
+    "region": "Northeast",
+    "rank_raw": "23",
+    "rank_numeric": 23,
+    "admission_url": "https://www.bucknell.edu/academics/freeman-college-management/undergraduate/admissions",
+    "seeds": [
+      "https://www.bucknell.edu/academics/freeman-college-management/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "www.bucknell.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "miami_farmer",
+    "college_name": "Miami University",
+    "business_school": "Farmer School of Business",
+    "display_name": "Farmer School of Business (Miami University)",
+    "location": "Oxford, OH",
+    "state": "OH",
+    "region": "Midwest",
+    "rank_raw": "45",
+    "rank_numeric": 45,
+    "admission_url": "https://miamioh.edu/fsb/academics/undergraduate/admissions.html",
+    "seeds": [
+      "https://miamioh.edu/fsb/academics/undergraduate/admissions.html"
+    ],
+    "allowed_hosts": [
+      "miamioh.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_colorado_boulder_leeds",
+    "college_name": "University of Colorado Boulder",
+    "business_school": "Leeds School of Business",
+    "display_name": "Leeds School of Business (University of Colorado Boulder)",
+    "location": "Boulder, CO",
+    "state": "CO",
+    "region": "West",
+    "rank_raw": "NR",
+    "rank_numeric": null,
+    "admission_url": "https://www.colorado.edu/business/undergraduate/admissions",
+    "seeds": [
+      "https://www.colorado.edu/business/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "www.colorado.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "fairfield_dolan",
+    "college_name": "Fairfield University",
+    "business_school": "Dolan School of Business",
+    "display_name": "Dolan School of Business (Fairfield University)",
+    "location": "Fairfield, CT",
+    "state": "CT",
+    "region": "Northeast",
+    "rank_raw": "37",
+    "rank_numeric": 37,
+    "admission_url": "https://www.fairfield.edu/dolan/undergraduate/admissions/",
+    "seeds": [
+      "https://www.fairfield.edu/dolan/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "www.fairfield.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_rochester_simon",
+    "college_name": "University of Rochester",
+    "business_school": "Simon Business School",
+    "display_name": "Simon Business School (University of Rochester)",
+    "location": "Rochester, NY",
+    "state": "NY",
+    "region": "Northeast",
+    "rank_raw": "NR",
+    "rank_numeric": null,
+    "admission_url": "https://www.sbs.rochester.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://www.sbs.rochester.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "www.sbs.rochester.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "providence_business",
+    "college_name": "Providence College",
+    "business_school": "School of Business",
+    "display_name": "School of Business (Providence College)",
+    "location": "Providence, RI",
+    "state": "RI",
+    "region": "Northeast",
+    "rank_raw": "43",
+    "rank_numeric": 43,
+    "admission_url": "https://business.providence.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://business.providence.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "business.providence.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "case_western_reserve_weatherhead",
+    "college_name": "Case Western Reserve University",
+    "business_school": "Weatherhead School of Management",
+    "display_name": "Weatherhead School of Management (Case Western Reserve University)",
+    "location": "Cleveland, OH",
+    "state": "OH",
+    "region": "Midwest",
+    "rank_raw": "NR",
+    "rank_numeric": null,
+    "admission_url": "https://weatherhead.case.edu/degrees/undergraduate/admissions/",
+    "seeds": [
+      "https://weatherhead.case.edu/degrees/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "weatherhead.case.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "marquette_business",
+    "college_name": "Marquette University",
+    "business_school": "College of Business Administration",
+    "display_name": "College of Business Administration (Marquette University)",
+    "location": "Milwaukee, WI",
+    "state": "WI",
+    "region": "Midwest",
+    "rank_raw": "NR",
+    "rank_numeric": null,
+    "admission_url": "https://www.marquette.edu/business/undergraduate/",
+    "seeds": [
+      "https://www.marquette.edu/business/undergraduate/"
+    ],
+    "allowed_hosts": [
+      "www.marquette.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_massachusetts_amherst_isenberg",
+    "college_name": "University of Massachusetts Amherst",
+    "business_school": "Isenberg School of Management",
+    "display_name": "Isenberg School of Management (University of Massachusetts Amherst)",
+    "location": "Amherst, MA",
+    "state": "MA",
+    "region": "Northeast",
+    "rank_raw": "41",
+    "rank_numeric": 41,
+    "admission_url": "https://isenberg.umass.edu/undergraduate/admissions",
+    "seeds": [
+      "https://isenberg.umass.edu/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "isenberg.umass.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_tennessee_haslam",
+    "college_name": "University of Tennessee",
+    "business_school": "Haslam College of Business",
+    "display_name": "Haslam College of Business (University of Tennessee)",
+    "location": "Knoxville, TN",
+    "state": "TN",
+    "region": "South",
+    "rank_raw": "53",
+    "rank_numeric": 53,
+    "admission_url": "https://haslam.utk.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://haslam.utk.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "haslam.utk.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "worcester_polytechnic_foisie",
+    "college_name": "Worcester Polytechnic Institute",
+    "business_school": "Foisie Business School",
+    "display_name": "Foisie Business School (Worcester Polytechnic Institute)",
+    "location": "Worcester, MA",
+    "state": "MA",
+    "region": "Northeast",
+    "rank_raw": "42",
+    "rank_numeric": 42,
+    "admission_url": "https://www.wpi.edu/academics/business/undergraduate/admissions",
+    "seeds": [
+      "https://www.wpi.edu/academics/business/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "www.wpi.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_dayton_business",
+    "college_name": "University of Dayton",
+    "business_school": "School of Business Administration",
+    "display_name": "School of Business Administration (University of Dayton)",
+    "location": "Dayton, OH",
+    "state": "OH",
+    "region": "Midwest",
+    "rank_raw": "49",
+    "rank_numeric": 49,
+    "admission_url": "https://www.udayton.edu/business/undergraduate/admissions.php",
+    "seeds": [
+      "https://www.udayton.edu/business/undergraduate/admissions.php"
+    ],
+    "allowed_hosts": [
+      "www.udayton.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "loyola_marymount_business",
+    "college_name": "Loyola Marymount University",
+    "business_school": "College of Business Administration",
+    "display_name": "College of Business Administration (Loyola Marymount University)",
+    "location": "Los Angeles, CA",
+    "state": "CA",
+    "region": "West",
+    "rank_raw": "55",
+    "rank_numeric": 55,
+    "admission_url": "https://cba.lmu.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://cba.lmu.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "cba.lmu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "butler_lacy",
+    "college_name": "Butler University",
+    "business_school": "Lacy School of Business",
+    "display_name": "Lacy School of Business (Butler University)",
+    "location": "Indianapolis, IN",
+    "state": "IN",
+    "region": "Midwest",
+    "rank_raw": "48",
+    "rank_numeric": 48,
+    "admission_url": "https://www.butler.edu/lacy-school-of-business/undergraduate/admissions/",
+    "seeds": [
+      "https://www.butler.edu/lacy-school-of-business/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "www.butler.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_houston_c",
+    "college_name": "University of Houston",
+    "business_school": "C.T. Bauer College of Business",
+    "display_name": "C.T. Bauer College of Business (University of Houston)",
+    "location": "Houston, TX",
+    "state": "TX",
+    "region": "South",
+    "rank_raw": "40",
+    "rank_numeric": 40,
+    "admission_url": "https://www.bauer.uh.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://www.bauer.uh.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "www.bauer.uh.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "the_catholic_busch",
+    "college_name": "The Catholic University of America",
+    "business_school": "Busch School of Business",
+    "display_name": "Busch School of Business (The Catholic University of America)",
+    "location": "Washington, DC",
+    "state": "DC",
+    "region": "South",
+    "rank_raw": "NR",
+    "rank_numeric": null,
+    "admission_url": "https://busch.catholic.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://busch.catholic.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "busch.catholic.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "lipscomb_business",
+    "college_name": "Lipscomb University",
+    "business_school": "College of Business",
+    "display_name": "College of Business (Lipscomb University)",
+    "location": "Nashville, TN",
+    "state": "TN",
+    "region": "South",
+    "rank_raw": "46",
+    "rank_numeric": 46,
+    "admission_url": "https://www.lipscomb.edu/business/undergraduate/admissions",
+    "seeds": [
+      "https://www.lipscomb.edu/business/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "www.lipscomb.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "rutgers_rutgers",
+    "college_name": "Rutgers University–New Brunswick",
+    "business_school": "Rutgers Business School",
+    "display_name": "Rutgers Business School (Rutgers University–New Brunswick)",
+    "location": "New Brunswick, NJ",
+    "state": "NJ",
+    "region": "Northeast",
+    "rank_raw": "44",
+    "rank_numeric": 44,
+    "admission_url": "https://www.business.rutgers.edu/undergraduate/admissions",
+    "seeds": [
+      "https://www.business.rutgers.edu/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "www.business.rutgers.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "susquehanna_sigmund",
+    "college_name": "Susquehanna University",
+    "business_school": "Sigmund Weis School of Business",
+    "display_name": "Sigmund Weis School of Business (Susquehanna University)",
+    "location": "Selinsgrove, PA",
+    "state": "PA",
+    "region": "Northeast",
+    "rank_raw": "NR",
+    "rank_numeric": null,
+    "admission_url": "https://www.susqu.edu/academics/schools-and-departments/sigmund-weis-school-of-business",
+    "seeds": [
+      "https://www.susqu.edu/academics/schools-and-departments/sigmund-weis-school-of-business"
+    ],
+    "allowed_hosts": [
+      "www.susqu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "texas_a_m_mays",
+    "college_name": "Texas A&M University",
+    "business_school": "Mays Business School",
+    "display_name": "Mays Business School (Texas A&M University)",
+    "location": "College Station, TX",
+    "state": "TX",
+    "region": "South",
+    "rank_raw": "50",
+    "rank_numeric": 50,
+    "admission_url": "https://mays.tamu.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://mays.tamu.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "mays.tamu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "seton_hall_stillman",
+    "college_name": "Seton Hall University",
+    "business_school": "Stillman School of Business",
+    "display_name": "Stillman School of Business (Seton Hall University)",
+    "location": "South Orange, NJ",
+    "state": "NJ",
+    "region": "Northeast",
+    "rank_raw": "65",
+    "rank_numeric": 65,
+    "admission_url": "https://www.shu.edu/stillman-business/undergraduate-admissions.cfm",
+    "seeds": [
+      "https://www.shu.edu/stillman-business/undergraduate-admissions.cfm"
+    ],
+    "allowed_hosts": [
+      "www.shu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "bryant_business",
+    "college_name": "Bryant University",
+    "business_school": "College of Business",
+    "display_name": "College of Business (Bryant University)",
+    "location": "Smithfield, RI",
+    "state": "RI",
+    "region": "Northeast",
+    "rank_raw": "51",
+    "rank_numeric": 51,
+    "admission_url": "https://www.bryant.edu/admission/undergraduate-admission",
+    "seeds": [
+      "https://www.bryant.edu/admission/undergraduate-admission"
+    ],
+    "allowed_hosts": [
+      "www.bryant.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "north_carolina_state_poole",
+    "college_name": "North Carolina State University",
+    "business_school": "Poole College of Management",
+    "display_name": "Poole College of Management (North Carolina State University)",
+    "location": "Raleigh, NC",
+    "state": "NC",
+    "region": "South",
+    "rank_raw": "NR",
+    "rank_numeric": null,
+    "admission_url": "https://poole.ncsu.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://poole.ncsu.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "poole.ncsu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "florida_southern_barnett",
+    "college_name": "Florida Southern College",
+    "business_school": "Barnett School of Business",
+    "display_name": "Barnett School of Business (Florida Southern College)",
+    "location": "Lakeland, FL",
+    "state": "FL",
+    "region": "South",
+    "rank_raw": "61",
+    "rank_numeric": 61,
+    "admission_url": "https://www.flsouthern.edu/barnett-school-of-business/undergraduate/admissions.aspx",
+    "seeds": [
+      "https://www.flsouthern.edu/barnett-school-of-business/undergraduate/admissions.aspx"
+    ],
+    "allowed_hosts": [
+      "www.flsouthern.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_missouri_columbia_trulaske",
+    "college_name": "University of Missouri–Columbia",
+    "business_school": "Trulaske College of Business",
+    "display_name": "Trulaske College of Business (University of Missouri–Columbia)",
+    "location": "Columbia, MO",
+    "state": "MO",
+    "region": "Midwest",
+    "rank_raw": "71",
+    "rank_numeric": 71,
+    "admission_url": "https://trulaske.missouri.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://trulaske.missouri.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "trulaske.missouri.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_new_hampshire_peter",
+    "college_name": "University of New Hampshire",
+    "business_school": "Peter T. Paul College of Business & Econ",
+    "display_name": "Peter T. Paul College of Business & Econ (University of New Hampshire)",
+    "location": "Durham, NH",
+    "state": "NH",
+    "region": "Northeast",
+    "rank_raw": "58",
+    "rank_numeric": 58,
+    "admission_url": "https://paulcollege.unh.edu/undergraduate/admissions",
+    "seeds": [
+      "https://paulcollege.unh.edu/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "paulcollege.unh.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_delaware_alfred",
+    "college_name": "University of Delaware",
+    "business_school": "Alfred Lerner College of Business & Econ",
+    "display_name": "Alfred Lerner College of Business & Econ (University of Delaware)",
+    "location": "Newark, DE",
+    "state": "DE",
+    "region": "South",
+    "rank_raw": "52",
+    "rank_numeric": 52,
+    "admission_url": "https://lerner.udel.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://lerner.udel.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "lerner.udel.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_evansville_william",
+    "college_name": "University of Evansville",
+    "business_school": "William L. Schroeder School of Business",
+    "display_name": "William L. Schroeder School of Business (University of Evansville)",
+    "location": "Evansville, IN",
+    "state": "IN",
+    "region": "Midwest",
+    "rank_raw": "NR",
+    "rank_numeric": null,
+    "admission_url": "https://www.evansville.edu/majors/business/admissions.cfm",
+    "seeds": [
+      "https://www.evansville.edu/majors/business/admissions.cfm"
+    ],
+    "allowed_hosts": [
+      "www.evansville.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_st_thomas_opus",
+    "college_name": "University of St. Thomas",
+    "business_school": "Opus College of Business",
+    "display_name": "Opus College of Business (University of St. Thomas)",
+    "location": "St. Paul, MN",
+    "state": "MN",
+    "region": "Midwest",
+    "rank_raw": "62",
+    "rank_numeric": 62,
+    "admission_url": "https://www.stthomas.edu/opus-college-of-business/undergraduate/admissions/",
+    "seeds": [
+      "https://www.stthomas.edu/opus-college-of-business/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "www.stthomas.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "the_business",
+    "college_name": "The College of New Jersey",
+    "business_school": "School of Business",
+    "display_name": "School of Business (The College of New Jersey)",
+    "location": "Ewing, NJ",
+    "state": "NJ",
+    "region": "Northeast",
+    "rank_raw": "53",
+    "rank_numeric": 53,
+    "admission_url": "https://business.tcnj.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://business.tcnj.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "business.tcnj.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_south_carolina_darla",
+    "college_name": "University of South Carolina",
+    "business_school": "Darla Moore School of Business",
+    "display_name": "Darla Moore School of Business (University of South Carolina)",
+    "location": "Columbia, SC",
+    "state": "SC",
+    "region": "South",
+    "rank_raw": "57",
+    "rank_numeric": 57,
+    "admission_url": "https://moore.sc.edu/undergraduate/admissions.php",
+    "seeds": [
+      "https://moore.sc.edu/undergraduate/admissions.php"
+    ],
+    "allowed_hosts": [
+      "moore.sc.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_san_diego_knauss",
+    "college_name": "University of San Diego",
+    "business_school": "Knauss School of Business",
+    "display_name": "Knauss School of Business (University of San Diego)",
+    "location": "San Diego, CA",
+    "state": "CA",
+    "region": "West",
+    "rank_raw": "56",
+    "rank_numeric": 56,
+    "admission_url": "https://www.sandiego.edu/business/undergraduate/admissions/",
+    "seeds": [
+      "https://www.sandiego.edu/business/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "www.sandiego.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "st_john_s_peter",
+    "college_name": "St. John's University",
+    "business_school": "Peter J. Tobin College of Business",
+    "display_name": "Peter J. Tobin College of Business (St. John's University)",
+    "location": "New York, NY",
+    "state": "NY",
+    "region": "Northeast",
+    "rank_raw": "64",
+    "rank_numeric": 64,
+    "admission_url": "https://www.stjohns.edu/academics/schools-and-colleges/tobin-college-of-business/undergraduate-programs",
+    "seeds": [
+      "https://www.stjohns.edu/academics/schools-and-colleges/tobin-college-of-business/undergraduate-programs"
+    ],
+    "allowed_hosts": [
+      "www.stjohns.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "rochester_saunders",
+    "college_name": "Rochester Institute of Technology",
+    "business_school": "Saunders College of Business",
+    "display_name": "Saunders College of Business (Rochester Institute of Technology)",
+    "location": "Rochester, NY",
+    "state": "NY",
+    "region": "Northeast",
+    "rank_raw": "59",
+    "rank_numeric": 59,
+    "admission_url": "https://www.rit.edu/business/undergraduate-programs/admissions",
+    "seeds": [
+      "https://www.rit.edu/business/undergraduate-programs/admissions"
+    ],
+    "allowed_hosts": [
+      "www.rit.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "towson_business",
+    "college_name": "Towson University",
+    "business_school": "College of Business & Economics",
+    "display_name": "College of Business & Economics (Towson University)",
+    "location": "Towson, MD",
+    "state": "MD",
+    "region": "South",
+    "rank_raw": "74",
+    "rank_numeric": 74,
+    "admission_url": "https://www.towson.edu/cbe/undergraduate/admissions.html",
+    "seeds": [
+      "https://www.towson.edu/cbe/undergraduate/admissions.html"
+    ],
+    "allowed_hosts": [
+      "www.towson.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "rutgers_rutgers_2",
+    "college_name": "Rutgers University–Newark",
+    "business_school": "Rutgers Business School–Newark",
+    "display_name": "Rutgers Business School–Newark (Rutgers University–Newark)",
+    "location": "Newark, NJ",
+    "state": "NJ",
+    "region": "Northeast",
+    "rank_raw": "79",
+    "rank_numeric": 79,
+    "admission_url": "https://www.business.rutgers.edu/undergraduate/admissions",
+    "seeds": [
+      "https://www.business.rutgers.edu/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "www.business.rutgers.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "marian_byrum",
+    "college_name": "Marian University",
+    "business_school": "Byrum School of Business",
+    "display_name": "Byrum School of Business (Marian University)",
+    "location": "Indianapolis, IN",
+    "state": "IN",
+    "region": "Midwest",
+    "rank_raw": "76",
+    "rank_numeric": 76,
+    "admission_url": "https://www.marian.edu/academics/schools-colleges/byrum-school-business/undergraduate",
+    "seeds": [
+      "https://www.marian.edu/academics/schools-colleges/byrum-school-business/undergraduate"
+    ],
+    "allowed_hosts": [
+      "www.marian.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "seattle_albers",
+    "college_name": "Seattle University",
+    "business_school": "Albers School of Business & Economics",
+    "display_name": "Albers School of Business & Economics (Seattle University)",
+    "location": "Seattle, WA",
+    "state": "WA",
+    "region": "West",
+    "rank_raw": "77",
+    "rank_numeric": 77,
+    "admission_url": "https://www.seattleu.edu/albers/undergraduate/admissions/",
+    "seeds": [
+      "https://www.seattleu.edu/albers/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "www.seattleu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "christopher_newport_joseph",
+    "college_name": "Christopher Newport University",
+    "business_school": "Joseph W. Luter III School of Business",
+    "display_name": "Joseph W. Luter III School of Business (Christopher Newport University)",
+    "location": "Newport News, VA",
+    "state": "VA",
+    "region": "South",
+    "rank_raw": "NR",
+    "rank_numeric": null,
+    "admission_url": "https://cnu.edu/pcs/academics/business/",
+    "seeds": [
+      "https://cnu.edu/pcs/academics/business/"
+    ],
+    "allowed_hosts": [
+      "cnu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_connecticut_business",
+    "college_name": "University of Connecticut",
+    "business_school": "School of Business",
+    "display_name": "School of Business (University of Connecticut)",
+    "location": "Storrs, CT",
+    "state": "CT",
+    "region": "Northeast",
+    "rank_raw": "63",
+    "rank_numeric": 63,
+    "admission_url": "https://www.business.uconn.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://www.business.uconn.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "www.business.uconn.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "drexel_lebow",
+    "college_name": "Drexel University",
+    "business_school": "LeBow College of Business",
+    "display_name": "LeBow College of Business (Drexel University)",
+    "location": "Philadelphia, PA",
+    "state": "PA",
+    "region": "Northeast",
+    "rank_raw": "67",
+    "rank_numeric": 67,
+    "admission_url": "https://www.lebow.drexel.edu/academics/undergraduate/admissions",
+    "seeds": [
+      "https://www.lebow.drexel.edu/academics/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "www.lebow.drexel.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "saint_louis_richard",
+    "college_name": "Saint Louis University",
+    "business_school": "Richard A. Chaifetz School of Business",
+    "display_name": "Richard A. Chaifetz School of Business (Saint Louis University)",
+    "location": "St. Louis, MO",
+    "state": "MO",
+    "region": "Midwest",
+    "rank_raw": "67",
+    "rank_numeric": 67,
+    "admission_url": "https://www.slu.edu/chaifetz/undergraduate/admissions.php",
+    "seeds": [
+      "https://www.slu.edu/chaifetz/undergraduate/admissions.php"
+    ],
+    "allowed_hosts": [
+      "www.slu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "hult_international_business_hult",
+    "college_name": "Hult International Business School",
+    "business_school": "Hult International Business School",
+    "display_name": "Hult International Business School (Hult International Business School)",
+    "location": "Boston, MA",
+    "state": "MA",
+    "region": "Northeast",
+    "rank_raw": "72",
+    "rank_numeric": 72,
+    "admission_url": "https://www.hult.edu/en/undergraduate/admissions/",
+    "seeds": [
+      "https://www.hult.edu/en/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "www.hult.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "duquesne_palumbo",
+    "college_name": "Duquesne University",
+    "business_school": "Palumbo-Donahue School of Business",
+    "display_name": "Palumbo-Donahue School of Business (Duquesne University)",
+    "location": "Pittsburgh, PA",
+    "state": "PA",
+    "region": "Northeast",
+    "rank_raw": "65",
+    "rank_numeric": 65,
+    "admission_url": "https://www.duq.edu/academics/schools/business/undergraduate/admissions",
+    "seeds": [
+      "https://www.duq.edu/academics/schools/business/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "www.duq.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "roger_williams_gabelli",
+    "college_name": "Roger Williams University",
+    "business_school": "Gabelli School of Business",
+    "display_name": "Gabelli School of Business (Roger Williams University)",
+    "location": "Bristol, RI",
+    "state": "RI",
+    "region": "Northeast",
+    "rank_raw": "78",
+    "rank_numeric": 78,
+    "admission_url": "https://www.rwu.edu/academics/schools-colleges/gabelli-school-business/undergraduate",
+    "seeds": [
+      "https://www.rwu.edu/academics/schools-colleges/gabelli-school-business/undergraduate"
+    ],
+    "allowed_hosts": [
+      "www.rwu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "ohio_business",
+    "college_name": "Ohio University",
+    "business_school": "College of Business",
+    "display_name": "College of Business (Ohio University)",
+    "location": "Athens, OH",
+    "state": "OH",
+    "region": "Midwest",
+    "rank_raw": "79",
+    "rank_numeric": 79,
+    "admission_url": "https://www.ohio.edu/business/undergraduate/admissions",
+    "seeds": [
+      "https://www.ohio.edu/business/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "www.ohio.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_denver_daniels",
+    "college_name": "University of Denver",
+    "business_school": "Daniels College of Business",
+    "display_name": "Daniels College of Business (University of Denver)",
+    "location": "Denver, CO",
+    "state": "CO",
+    "region": "West",
+    "rank_raw": "81",
+    "rank_numeric": 81,
+    "admission_url": "https://daniels.du.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://daniels.du.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "daniels.du.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "adelphi_robert",
+    "college_name": "Adelphi University",
+    "business_school": "Robert B. Willumstad School of Business",
+    "display_name": "Robert B. Willumstad School of Business (Adelphi University)",
+    "location": "Garden City, NY",
+    "state": "NY",
+    "region": "Northeast",
+    "rank_raw": "102",
+    "rank_numeric": 102,
+    "admission_url": "https://ecampus.adelphi.edu/soba/undergraduate/admissions/",
+    "seeds": [
+      "https://ecampus.adelphi.edu/soba/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "ecampus.adelphi.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_oregon_lundquist",
+    "college_name": "University of Oregon",
+    "business_school": "Lundquist College of Business",
+    "display_name": "Lundquist College of Business (University of Oregon)",
+    "location": "Eugene, OR",
+    "state": "OR",
+    "region": "West",
+    "rank_raw": "NR",
+    "rank_numeric": null,
+    "admission_url": "https://business.uoregon.edu/undergraduate/admissions",
+    "seeds": [
+      "https://business.uoregon.edu/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "business.uoregon.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "hofstra_frank",
+    "college_name": "Hofstra University",
+    "business_school": "Frank G. Zarb School of Business",
+    "display_name": "Frank G. Zarb School of Business (Hofstra University)",
+    "location": "Hempstead, NY",
+    "state": "NY",
+    "region": "Northeast",
+    "rank_raw": "59",
+    "rank_numeric": 59,
+    "admission_url": "https://www.hofstra.edu/zarb/undergraduate/admissions.html",
+    "seeds": [
+      "https://www.hofstra.edu/zarb/undergraduate/admissions.html"
+    ],
+    "allowed_hosts": [
+      "www.hofstra.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "longwood_business",
+    "college_name": "Longwood University",
+    "business_school": "College of Business and Economics",
+    "display_name": "College of Business and Economics (Longwood University)",
+    "location": "Farmville, VA",
+    "state": "VA",
+    "region": "South",
+    "rank_raw": "NR",
+    "rank_numeric": null,
+    "admission_url": "https://www.longwood.edu/business/undergraduate/admissions/",
+    "seeds": [
+      "https://www.longwood.edu/business/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "www.longwood.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "texas_state_mccoy",
+    "college_name": "Texas State University",
+    "business_school": "McCoy College of Business",
+    "display_name": "McCoy College of Business (Texas State University)",
+    "location": "San Marcos, TX",
+    "state": "TX",
+    "region": "South",
+    "rank_raw": "75",
+    "rank_numeric": 75,
+    "admission_url": "https://www.mccoy.txstate.edu/undergraduate/admissions.html",
+    "seeds": [
+      "https://www.mccoy.txstate.edu/undergraduate/admissions.html"
+    ],
+    "allowed_hosts": [
+      "www.mccoy.txstate.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "bowling_green_state_schmidthorst",
+    "college_name": "Bowling Green State University",
+    "business_school": "Schmidthorst College of Business",
+    "display_name": "Schmidthorst College of Business (Bowling Green State University)",
+    "location": "Bowling Green, OH",
+    "state": "OH",
+    "region": "Midwest",
+    "rank_raw": "83",
+    "rank_numeric": 83,
+    "admission_url": "https://business.bgsu.edu/undergraduate/admissions.html",
+    "seeds": [
+      "https://business.bgsu.edu/undergraduate/admissions.html"
+    ],
+    "allowed_hosts": [
+      "business.bgsu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "texas_tech_rawls",
+    "college_name": "Texas Tech University",
+    "business_school": "Rawls College of Business",
+    "display_name": "Rawls College of Business (Texas Tech University)",
+    "location": "Lubbock, TX",
+    "state": "TX",
+    "region": "South",
+    "rank_raw": "89",
+    "rank_numeric": 89,
+    "admission_url": "https://www.depts.ttu.edu/rawlsbusiness/undergraduate/admissions/",
+    "seeds": [
+      "https://www.depts.ttu.edu/rawlsbusiness/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "www.depts.ttu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_mary_washington_business",
+    "college_name": "University of Mary Washington",
+    "business_school": "College of Business",
+    "display_name": "College of Business (University of Mary Washington)",
+    "location": "Fredericksburg, VA",
+    "state": "VA",
+    "region": "South",
+    "rank_raw": "84",
+    "rank_numeric": 84,
+    "admission_url": "https://business.umw.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://business.umw.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "business.umw.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "unc_wilmington_cameron",
+    "college_name": "UNC Wilmington",
+    "business_school": "Cameron School of Business",
+    "display_name": "Cameron School of Business (UNC Wilmington)",
+    "location": "Wilmington, NC",
+    "state": "NC",
+    "region": "South",
+    "rank_raw": "87",
+    "rank_numeric": 87,
+    "admission_url": "https://csb.uncw.edu/undergraduate/admissions.html",
+    "seeds": [
+      "https://csb.uncw.edu/undergraduate/admissions.html"
+    ],
+    "allowed_hosts": [
+      "csb.uncw.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_texas_at_dallas_naveen",
+    "college_name": "University of Texas at Dallas",
+    "business_school": "Naveen Jindal School of Management",
+    "display_name": "Naveen Jindal School of Management (University of Texas at Dallas)",
+    "location": "Richardson, TX",
+    "state": "TX",
+    "region": "South",
+    "rank_raw": "70",
+    "rank_numeric": 70,
+    "admission_url": "https://jindal.utdallas.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://jindal.utdallas.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "jindal.utdallas.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "ithaca_business",
+    "college_name": "Ithaca College",
+    "business_school": "School of Business",
+    "display_name": "School of Business (Ithaca College)",
+    "location": "Ithaca, NY",
+    "state": "NY",
+    "region": "Northeast",
+    "rank_raw": "82",
+    "rank_numeric": 82,
+    "admission_url": "https://www.ithaca.edu/business/undergraduate/admissions",
+    "seeds": [
+      "https://www.ithaca.edu/business/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "www.ithaca.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "american_kogod",
+    "college_name": "American University",
+    "business_school": "Kogod School of Business",
+    "display_name": "Kogod School of Business (American University)",
+    "location": "Washington, DC",
+    "state": "DC",
+    "region": "South",
+    "rank_raw": "93",
+    "rank_numeric": 93,
+    "admission_url": "https://www.american.edu/kogod/undergraduate/admissions/",
+    "seeds": [
+      "https://www.american.edu/kogod/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "www.american.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "iona_lapenta",
+    "college_name": "Iona University",
+    "business_school": "LaPenta School of Business",
+    "display_name": "LaPenta School of Business (Iona University)",
+    "location": "New Rochelle, NY",
+    "state": "NY",
+    "region": "Northeast",
+    "rank_raw": "73",
+    "rank_numeric": 73,
+    "admission_url": "https://www.iona.edu/academics/schools-institutes/lapenta-school-of-business/undergraduate",
+    "seeds": [
+      "https://www.iona.edu/academics/schools-institutes/lapenta-school-of-business/undergraduate"
+    ],
+    "allowed_hosts": [
+      "www.iona.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_michigan_dearborn_business",
+    "college_name": "University of Michigan–Dearborn",
+    "business_school": "College of Business",
+    "display_name": "College of Business (University of Michigan–Dearborn)",
+    "location": "Dearborn, MI",
+    "state": "MI",
+    "region": "Midwest",
+    "rank_raw": "90",
+    "rank_numeric": 90,
+    "admission_url": "https://umdearborn.edu/cob/undergraduate/admissions",
+    "seeds": [
+      "https://umdearborn.edu/cob/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "umdearborn.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "sacred_heart_jack",
+    "college_name": "Sacred Heart University",
+    "business_school": "Jack Welch College of Business & Technology",
+    "display_name": "Jack Welch College of Business & Technology (Sacred Heart University)",
+    "location": "Fairfield, CT",
+    "state": "CT",
+    "region": "Northeast",
+    "rank_raw": "85",
+    "rank_numeric": 85,
+    "admission_url": "https://www.sacredheart.edu/academics/jack-welch-college-of-business-technology/undergraduate/admissions/",
+    "seeds": [
+      "https://www.sacredheart.edu/academics/jack-welch-college-of-business-technology/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "www.sacredheart.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "rensselaer_polytechnic_lally",
+    "college_name": "Rensselaer Polytechnic Institute",
+    "business_school": "Lally School of Management",
+    "display_name": "Lally School of Management (Rensselaer Polytechnic Institute)",
+    "location": "Troy, NY",
+    "state": "NY",
+    "region": "Northeast",
+    "rank_raw": "92",
+    "rank_numeric": 92,
+    "admission_url": "https://lallyschool.rpi.edu/undergraduate/admissions",
+    "seeds": [
+      "https://lallyschool.rpi.edu/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "lallyschool.rpi.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "iu_kelley",
+    "college_name": "Indiana University",
+    "business_school": "Kelley School of Business",
+    "display_name": "Kelley School of Business (Indiana University)",
+    "location": "Bloomington, IN",
+    "state": "IN",
+    "region": "Midwest",
+    "rank_raw": "23",
+    "rank_numeric": 23,
+    "admission_url": "https://kelley.iu.edu/programs/undergrad/admissions/index.html",
+    "seeds": [
+      "https://kelley.iu.edu/programs/undergrad/admissions/index.html"
+    ],
+    "allowed_hosts": [
+      "kelley.iu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "iowa_state_ivy",
+    "college_name": "Iowa State University",
+    "business_school": "Ivy College of Business",
+    "display_name": "Ivy College of Business (Iowa State University)",
+    "location": "Ames, IA",
+    "state": "IA",
+    "region": "Midwest",
+    "rank_raw": "~94",
+    "rank_numeric": null,
+    "admission_url": "https://www.ivybusiness.iastate.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://www.ivybusiness.iastate.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "www.ivybusiness.iastate.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "michigan_state_broad",
+    "college_name": "Michigan State University",
+    "business_school": "Broad College of Business",
+    "display_name": "Broad College of Business (Michigan State University)",
+    "location": "East Lansing, MI",
+    "state": "MI",
+    "region": "Midwest",
+    "rank_raw": "~95",
+    "rank_numeric": null,
+    "admission_url": "https://broad.msu.edu/undergraduate/admissions/",
+    "seeds": [
+      "https://broad.msu.edu/undergraduate/admissions/"
+    ],
+    "allowed_hosts": [
+      "broad.msu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_texas_at_arlington_business",
+    "college_name": "University of Texas at Arlington",
+    "business_school": "College of Business",
+    "display_name": "College of Business (University of Texas at Arlington)",
+    "location": "Arlington, TX",
+    "state": "TX",
+    "region": "South",
+    "rank_raw": "~99",
+    "rank_numeric": null,
+    "admission_url": "https://www.uta.edu/academics/schools-colleges/business/admissions",
+    "seeds": [
+      "https://www.uta.edu/academics/schools-colleges/business/admissions"
+    ],
+    "allowed_hosts": [
+      "www.uta.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_california_berkeley_haas",
+    "college_name": "University of California, Berkeley",
+    "business_school": "Haas School of Business",
+    "display_name": "Haas School of Business (University of California, Berkeley)",
+    "location": "Berkeley, CA",
+    "state": "CA",
+    "region": "West",
+    "rank_raw": "2",
+    "rank_numeric": 2,
+    "admission_url": "https://haas.berkeley.edu/undergrad/",
+    "seeds": [
+      "https://haas.berkeley.edu/undergrad/"
+    ],
+    "allowed_hosts": [
+      "haas.berkeley.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "mit_mit",
+    "college_name": "Massachusetts Institute of Technology",
+    "business_school": "MIT Sloan School of Management",
+    "display_name": "MIT Sloan School of Management (Massachusetts Institute of Technology)",
+    "location": "Cambridge, MA",
+    "state": "MA",
+    "region": "Northeast",
+    "rank_raw": "1 (tied)",
+    "rank_numeric": 1,
+    "admission_url": "https://mitsloan.mit.edu/programs/management",
+    "seeds": [
+      "https://mitsloan.mit.edu/programs/management"
+    ],
+    "allowed_hosts": [
+      "mitsloan.mit.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "utaustin_mccombs",
+    "college_name": "University of Texas at Austin",
+    "business_school": "McCombs School of Business",
+    "display_name": "McCombs School of Business (University of Texas at Austin)",
+    "location": "Austin, TX",
+    "state": "TX",
+    "region": "South",
+    "rank_raw": "5 (tied)",
+    "rank_numeric": 5,
+    "admission_url": "https://my.mccombs.utexas.edu/BBA/Prospective-Students",
+    "seeds": [
+      "https://my.mccombs.utexas.edu/BBA/Prospective-Students"
+    ],
+    "allowed_hosts": [
+      "my.mccombs.utexas.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_california_los_angeles_anderson",
+    "college_name": "University of California, Los Angeles",
+    "business_school": "Anderson School of Management",
+    "display_name": "Anderson School of Management (University of California, Los Angeles)",
+    "location": "Los Angeles, CA",
+    "state": "CA",
+    "region": "West",
+    "rank_raw": "~15",
+    "rank_numeric": null,
+    "admission_url": "https://www.anderson.ucla.edu/degrees/undergraduate-program",
+    "seeds": [
+      "https://www.anderson.ucla.edu/degrees/undergraduate-program"
+    ],
+    "allowed_hosts": [
+      "www.anderson.ucla.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "babson_f",
+    "college_name": "Babson College",
+    "business_school": "F.W. Olin Graduate School of Business",
+    "display_name": "F.W. Olin Graduate School of Business (Babson College)",
+    "location": "Wellesley, MA",
+    "state": "MA",
+    "region": "Northeast",
+    "rank_raw": " #1 Entrepreneurship",
+    "rank_numeric": null,
+    "admission_url": "https://www.babson.edu/academics/undergraduate-school/admission/",
+    "seeds": [
+      "https://www.babson.edu/academics/undergraduate-school/admission/"
+    ],
+    "allowed_hosts": [
+      "www.babson.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "ohio_state_fisher",
+    "college_name": "Ohio State University",
+    "business_school": "Fisher College of Business",
+    "display_name": "Fisher College of Business (Ohio State University)",
+    "location": "Columbus, OH",
+    "state": "OH",
+    "region": "Midwest",
+    "rank_raw": "~14",
+    "rank_numeric": null,
+    "admission_url": "https://fisher.osu.edu/undergraduate/admissions",
+    "seeds": [
+      "https://fisher.osu.edu/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "fisher.osu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "penn_state_smeal",
+    "college_name": "Penn State University",
+    "business_school": "Smeal College of Business",
+    "display_name": "Smeal College of Business (Penn State University)",
+    "location": "University Park, PA",
+    "state": "PA",
+    "region": "Northeast",
+    "rank_raw": "~20",
+    "rank_numeric": null,
+    "admission_url": "https://www.smeal.psu.edu/undergrad/apply",
+    "seeds": [
+      "https://www.smeal.psu.edu/undergrad/apply"
+    ],
+    "allowed_hosts": [
+      "www.smeal.psu.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_florida_warrington",
+    "college_name": "University of Florida",
+    "business_school": "Warrington College of Business",
+    "display_name": "Warrington College of Business (University of Florida)",
+    "location": "Gainesville, FL",
+    "state": "FL",
+    "region": "South",
+    "rank_raw": "~20",
+    "rank_numeric": null,
+    "admission_url": "https://warrington.ufl.edu/undergraduate/apply/",
+    "seeds": [
+      "https://warrington.ufl.edu/undergraduate/apply/"
+    ],
+    "allowed_hosts": [
+      "warrington.ufl.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_minnesota_carlson_2",
+    "college_name": "University of Minnesota",
+    "business_school": "Carlson School of Management",
+    "display_name": "Carlson School of Management (University of Minnesota)",
+    "location": "Minneapolis, MN",
+    "state": "MN",
+    "region": "Midwest",
+    "rank_raw": "~25",
+    "rank_numeric": null,
+    "admission_url": "https://carlsonschool.umn.edu/degrees/undergraduate/admissions",
+    "seeds": [
+      "https://carlsonschool.umn.edu/degrees/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "carlsonschool.umn.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "boston_carroll",
+    "college_name": "Boston College",
+    "business_school": "Carroll School of Management",
+    "display_name": "Carroll School of Management (Boston College)",
+    "location": "Chestnut Hill, MA",
+    "state": "MA",
+    "region": "Northeast",
+    "rank_raw": "~20",
+    "rank_numeric": null,
+    "admission_url": "https://www.bc.edu/content/bc-web/schools/carroll-school/undergraduate/apply.html",
+    "seeds": [
+      "https://www.bc.edu/content/bc-web/schools/carroll-school/undergraduate/apply.html"
+    ],
+    "allowed_hosts": [
+      "www.bc.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  },
+  {
+    "college_id": "university_of_arizona_eller",
+    "college_name": "University of Arizona",
+    "business_school": "Eller College of Management",
+    "display_name": "Eller College of Management (University of Arizona)",
+    "location": "Tucson, AZ",
+    "state": "AZ",
+    "region": "West",
+    "rank_raw": "~35",
+    "rank_numeric": null,
+    "admission_url": "https://eller.arizona.edu/programs/undergraduate/admissions",
+    "seeds": [
+      "https://eller.arizona.edu/programs/undergraduate/admissions"
+    ],
+    "allowed_hosts": [
+      "eller.arizona.edu"
+    ],
+    "index_status": "registered",
+    "eval_score": null,
+    "last_scraped_at": null,
+    "last_indexed_at": null,
+    "registered_at": "2026-04-23T23:23:57.915657+00:00",
+    "source": "xlsx"
+  }
+]

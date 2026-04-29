@@ -1,0 +1,63 @@
+URL: https://robins.richmond.edu/undergraduate/departments/analytics-operations/concentration.html
+TITLE: Analytics & Operations Concentration Requirements - Analytics & Operations - Academic Departments - Undergraduate - Robins School of Business - University of Richmond
+
+Analytics & Operations Concentration Requirements
+The Analytics and Operations department offers a concentration in business analytics. This four-unit concentration provides students with the tools and technologies to analyze data for business applications. The business analytics concentration includes coverage of software such as SAS (Statistical Analysis Systems), SQL (Structured Query Language), and Python programming language, with applications in business process optimization and machine learning.
+Business analytics can only be taken as a plus concentration by students who have a major in accounting or economics (business), or another concentration in business administration (accounting, economics, finance, management, marketing).
+For classes of 2029 and beyond, the business analytics concentration requires any four units of AO 301-339 or AO 359 with departmental approval.
+Classes of 2027-2028 may complete the concentration by taking INFO 201/AO 201, INFO 301/AO 301, INFO 302/AO 302, and INFO 303/AO 303.
+Note: students of classes 2027-2028, who wish to earn the concentration by following the newer requirements, should contact Amit Eynan or Tom Mattson.
+Concentration
+The Business Analytics Concentration
+The Analytics and Operations Department offers a concentration in business analytics. This four-course concentration provides students with the tools and technologies to analyze data for business applications. The business analytics concentration includes coverage of software such as SAS (Statistical Analysis Systems), SQL (Structured Query Language), and Python programming language, with applications in business process optimization and machine learning.
+Business analytics can only be taken as a secondary concentration by students who have a primary major in accounting or economics (business), or another primary concentration in business administration (accounting, economics, finance, management, marketing).
+The business analytics concentration requires any four units of AO 301-339 or AO 359 with departmental approval.
+Courses
+Code
+Name
+Description
+AO201
+Data Analysis Software
+Software to analyze data for business and economics applications. This is the first course in the Business Analytics concentration, and is designed for students that do not have any prior background in computer programming.
+AO225
+Information Technology Data and Analytics
+Develops the skills to prepare raw data for analysis of business problems and development of evidence-based recommendations. Work with relational databases to import, structure, cleanse, and transform data. Apply data analysis tools and techniques, d...
+AO249
+Special Topics in Business Analytics
+This course will enable students who have completed AO 201 to further their knowledge by learning the basics of other statistical programming environments beyond SAS and R which are covered in the Business Analytics Concentration.
+AO259
+Special Topics in Business Analytics
+This 200-level course will enable students to further their knowledge by learning the basics of data analysis tools and technologies beyond those covered in other AO courses.
+AO301
+Advanced Applied Statistics
+Regression and simulation methods to solve complex problems in business, society, and the public sector. Selection of the correct statistical technique for the particular problem being solved, running statistical analyses using analytics tools that a...
+AO302
+SQL and Process Optimization for the Business Analyst
+Introduces common techniques for relational data management, including conceptual modeling and Structured Query Language (SQL). Additionally covers topics from business process re-engineering, with a focus on process modeling, performance assessment...
+AO303
+Machine Learning for the Business Analyst
+Process of investigating data through a machine learning lens. Application of machine learning techniques to real-world business use cases. Extract and identify useful features that best represent data, some of the most important machine learning a...
+AO304
+Advanced IT and Data Analytics
+Cloud-based analytics platforms provide organizations with a scalable, flexible, and cost-effective way to collect, store, process, analyze, and visualize large and complex datasets without the need for significant on-premises infrastructure. Student...
+AO339
+Directed Independent Study
+Independent research on an analytics topic conducted under the direct supervision of an instructor. Counts as one of the required analytics concentration courses.
+AO340
+Operations Management
+Introduces a variety of common operations issues that frequently are dealt with both in manufacturing and services industries and that affect other functions of the business. Specific topics include inventory systems, process design and control, qual...
+AO341
+Global Supply Chain Management
+Supply chain from a managerial perspective. Topics will include supply chain network, inventory and distribution systems, globalization and outsourcing. Analytical tools and models to evaluate and improve supply chains’ performance will be introduced...
+AO342
+Managing Processes and Projects
+The study of systems for the purpose of project management, process management, and consulting. Topics include: systems analysis process, measurement of goals and performance within organizations, decision analysis, project management, and the integr...
+AO355
+Health Sector Analysis
+Overview and technical analysis of major sectors within the U.S. healthcare industry. Sectors such as pharmaceuticals, inpatient care, biotechnology, and health information technology will be analyzed in the context of Medicare, commercial insurance,...
+AO359
+Special Topics in Business Analytics
+This 300-level course will enable students to further their knowledge by learning more advanced data analysis techniques in programming, relational and non-relational databases, and/or machine learning beyond those covered in other INFO 300 level cou...
+AO389
+Directed Independent Study
+Independent research on an analytics and/or operations topic conducted under the direct supervision of an instructor. Does not count towards the required analytics concentration.

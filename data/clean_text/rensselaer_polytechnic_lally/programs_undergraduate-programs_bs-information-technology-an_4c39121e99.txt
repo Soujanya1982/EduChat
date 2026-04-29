@@ -1,0 +1,208 @@
+URL: https://lally.rpi.edu/programs/undergraduate-programs/bs-information-technology-and-web-science-stem-designated
+TITLE: Information Technology and Web Science (STEM-designated) B.S.
+
+Earn Your BS in Information Technology and Web Science – A STEM Undergraduate Degree
+Why Study ITWS at RPI?
+In a world where information technology powers nearly everything, Rensselaer’s BS in Information Technology & Web Science (ITWS) prepares you to design, build, and manage solutions that shape how people live, work, and communicate. You’ll master web and IT fundamentals while customizing your studies with a focus track that aligns to your goals.
+Interdisciplinary from day one.
+Combine a strong computing and web core with a focus area you choose—from data science and security to management information systems and more than 20 additional options.
+Future-proof skills.
+Explore issues of security, trust, privacy, content value, and the Web’s evolution—so you can lead technical projects with social and ethical awareness.
+Hands-on learning.
+Project-based coursework and applied problem solving prepare you to ship real solutions.
+What You'll Learn
+Real-World Skills with a STEM Advantage
+Your curriculum emphasizes both
+development and management
+of web and IT systems, giving you the range employers want: coding, data, UX, systems thinking, and leadership. RPI’s Center for Career & Professional Development supports internships, co-ops, and full-time placement.
+Curriculum and Learning Outcomes
+The BS in ITWS requires
+128–130 credit hours
+, including
+36–38 credits of ITWS Core
+and
+32 credits for a Focus Track
+(remaining credits satisfy Institute requirements). The core builds a foundation for applying ITWS in any discipline; the focus track provides depth in your chosen area (see more details below).
+By graduation, you’ll be able to:
+Design and implement web and information systems that are reliable, scalable, and secure.
+Apply data, algorithmic, and computational methods to solve real-world problems.
+Evaluate social, legal, and ethical implications of technology; design with privacy and usability in mind.
+Communicate technical ideas clearly to diverse stakeholders.
+The B.S. in Information Technology and Web Science (ITWS) is an interdisciplinary RPI program, accredited by the Middle States Commission on Higher Education (MSCHE), that is offered by the Lally School of Management. Other programs at Lally, which are more business-focused, are further accredited by the Association to Advance Collegiate Schools of Business (AACSB). Fewer than 6% of the world’s schools of management hold an AACSB accreditation.
+Focus Tracks (Customize Your Degree)
+Choose a track—or design one with your adviser—to fit your interests. Examples include:
+Data Science, Information Security, Human-Computer Interaction, Computer Networking, Web Technologies, Management Information Systems, AI/Intelligent Systems, Communications, Arts, Psychology, Medicine/Health.
+Internship and Career Opportunities
+Most students pursue
+internships
+(typically one academic term or summer) to gain hands-on experience.
+The Center for Career and Professional Development (CCPD)
+offers advising, employer connections, and recruiting events to help you secure roles that match your track.
+Common roles:
+Software or Web Developer, Data Analyst/Engineer, Security Analyst, UX/UI Designer, Product Manager, Systems Analyst.
+Industries:
+Tech, finance, health, media, e-commerce, consulting, government, and startups.
+What Can You Do with a BS in ITWS?
+An ITWS degree opens doors across the digital economy. You’ll be ready to launch into technical, product, or analyst roles—or continue to graduate study—equipped to bridge code, data, people, and policy.
+Careers and Internships
+Leverage RPI’s
+CCPD
+for résumé reviews, interview prep, career fairs, and employer connections across tech and beyond. Many ITWS students secure internships or co-ops that convert to full-time offers.
+Admissions and Program Structure
+Admissions and Program Structure
+ITWS is open to students who want to pair
+computing depth
+with
+domain focus
+. You’ll finish with a portfolio of projects, internship experience, and a specialization that signals your strengths to employers.
+Program Benefits and Outcomes
+A flexible, cross-disciplinary degree aligned to industry needs
+Project-rich coursework and access to internships/co-ops
+Choice of focus track to target careers in data, security, UX, systems, or product
+Preparation for graduate study or immediate entry into high-demand roles
+Program FAQs
+What is the BS in Information Technology & Web Science?
+A STEM-designated undergraduate degree combining a rigorous IT and web core with a customizable focus track, so you graduate with both breadth and depth. The B.S. in Information Technology and Web Science (ITWS) is an interdisciplinary RPI program, accredited by the Middle States Commission on Higher Education (MSCHE), that is offered by the Lally School of Management. Other programs at Lally, which are more business-focused, are further accredited by the Association to Advance Collegiate Schools of Business (AACSB). Fewer than 6% of the world’s schools of management hold an AACSB accreditation.
+How many credits are required? What’s the breakdown?
+128–130 total credits
+, with
+36–38 credits of ITWS Core
+and
+32 credits for your Focus Track
+; remaining credits meet Rensselaer’s degree requirements.
+What are some focus track options?
+Data Science, Information Security, HCI, Networking, Web Technologies, MIS, AI, Communications, Arts, Psychology, Health—and more than a dozen others.
+What kinds of internships are typical?
+One-term internships (Fall, Spring, or Summer) are common and supported by RPI’s CCPD; durations often range three to six months depending on the employer.
+What courses are included?
+You’ll complete the ITWS Core (covering web/IT development and management, data/algorithms, security, and ethics) and a 32-credit focus track of advanced courses selected with your adviser.
+What skills will I develop?
+Full-stack/web development, scripting and data handling, networking/security foundations, UX and human-centered design, project management, and communication—always grounded in responsible, ethical tech practice.
+Curriculum
+Completion of the B.S. in Information Technology and Web Science requires a total of 128 - 130 credit hours:
+ITWS Core Requirements (24 - 26 credits)
+The ITWS core requirements establish a solid foundation for applying ITWS to any discipline.
+Focus Track Requirement (44 credits)
+The required focus track provides an opportunity for in-depth study of an ITWS application area. Focus track options include arts, communication and networks, law, management information systems, medicine, psychology, and numerous others. In consultation with a faculty adviser, students may also design their own focus track through the selection of courses that match their individual interests.
+Rensselaer Degree Requirements (60 credits)
+The Rensselaer requirements ensure the degree’s breadth and its consistency with long-established Rensselaer traditions.
+The B.S. in Information Technology and Web Science (ITWS) is an interdisciplinary RPI program, accredited by the Middle States Commission on Higher Education (MSCHE), that is offered by the Lally School of Management. Other programs at Lally, which are more business-focused, are further accredited by the Association to Advance Collegiate Schools of Business (AACSB). Fewer than 6% of the world’s schools of management hold an AACSB accreditation.
+PROGRAM OUTCOME
+Students who successfully complete this program will be able to demonstrate:
+Skill in core information technology and web science development methods
+Foundation skill and knowledge in engineering and/or computer science core
+Knowledge of the management concerns for the effective use of (especially web) technology
+An ability to be creative and use well-developed problem solving skills
+Communication, leadership skills and ability to work in teams
+Knowledge of the social, legal, and ethical issues in employing technology around the world
+An ability to recognize and respond to human-computer interaction issues to make technology more usable
+Broad knowledge of science, humanities, and/or business topical courses
+Application expertise through completion of a chosen focus track
+An ability to complete the culminating experience designed to prepare graduate for both acceptance into graduate study program and/or direct entry into ITWS career
+ITWS CORE REQUIREMENTS (24-26 CREDITS)
+Introduction to Information Technology and Web Science - 4 credits
+Web Systems Development - 4 credits
+Database Systems or Data Resource Management (choose 1) - 4 credits
+Information Technology and Web Science Capstone or Senior Thesis (choose 1) - 4-6 credits
+Web Science Systems Development - 4 credits
+Managing IT Resources - 4 credits
+FOCUS TRACK REQUIREMENT (44 CREDITS)
+Along with the 8 required courses (32 credits) for your focus track, you must take the corresponding required technical track courses:
+Note:
+Along with the 8 required courses (32 credits) for your focus track, you must take the corresponding required technical track courses:
+ITWS Technical Track Requirements by Focus Track
+Technical Track
+Focus Tracks
+Courses
+Computer Engineering
+Civil Engineering
+Computer Hardware
+Computer Networking (hardware focused)
+Mechanical/Aeronautical Engineering
+ECSE-2610
+Computer Components and Operations
+ENGR-2350
+Embedded Control
+ECSE-2660
+Computer Architecture, Networking and Operating Systems
+Computer Science
+Cognitive Science
+Computer Networking (software focused)
+Information Security
+Machine and Computational Learning
+CSCI-2200
+Foundations of Computer Science
+CSCI-2300
+Introduction to Algorithms
+CSCI-2500
+Computer Organization
+Information Systems
+Arts
+Communication
+Economics
+Entrepreneurship
+Finance
+Management Information Systems
+Medicine
+Pre-Law
+Psychology
+STS
+CSCI-2200
+Foundations of Computer Science
+CSCI-2500
+Computer Organization
+One of the following:
+MGMT-2100
+Managerial Statistics
+BIOL-4200
+Biostatistics
+CSCI-2300
+Introduction to Algorithms
+Web Science
+Data Science
+Science Informatics
+Web Technologies
+CSCI-2200
+Foundations of Computer Science
+CSCI-2300
+Introduction to Algorithms
+CSCI-2500
+Computer Organization
+RENSSELAER DEGREE REQUIREMENTS (60 CREDITS)
+Math/Science Requirements (24 credits)
+Calculus 1 - 4 credits
+Math Elective - 4 credits
+Computer Science 1 - 4 credits
+Data Structures - 4 credits
+Physical Science Elective - 4 credits
+Life Science Elective - 4 credits
+Humanities, Arts and Social Science Requirements (24 credits)
+IT and Society - 4 credits
+Intro to Human Computer Interaction - 4 credits
+Humanities Elective - 4 credits
+Social Science Elective - 4 credits
+2 HASS Electives - 8 credits
+Free Elective Requirement (12 credits)
+3 Free Electives - 12 credits
+ARCH
+The Arch is a unique approach to education that provides flexibility in the semester schedule, allowing students to pursue professional and personal development opportunities that prepare them to meet the multifaceted challenges of the 21st century. The Arch is a requirement of the Rensselaer curriculum.
+Summer Here
+During The Arch, students remain on campus for the summer after their sophomore year, taking junior-level classes, and receive focused attention from professors at this pivotal point in their academic progression.
+The World Away
+Then, students leave the Troy campus for a semester during the traditional junior year—either fall or spring—to pursue their passions in the form of co-ops, internships, civic engagement, research, or international experiences. Students who pursue these opportunities during their academic career are better prepared for future professional careers and graduate school.
+For more information regarding the Arch, please visit
+https://info.rpi.edu/the-arch
+ITWS MINOR
+The ITWS minor requires a minimum of 16 credit hours that must be approved by the minor advisor in ITWS.
+Requirements
+ITWS-1100 Introduction to ITWS
+ITWS/IHSS-1220 IT and Society
+ITWS-2110 Web Systems Development (CSCI 1200 Data Structures is a pre-requisite for ITWS-2110)
+ITWS-4310 Managing IT Resources*
+* MGMT Majors only – Take ITWS-4100 Information Technology and Web Science Capstone or other course as approved by faculty advisor.
+Curriculum and Focus Tracks - Fall 2020/Spring 2021
+Curriculum and Focus Tracks - Fall 2021/Spring 2022
+Curriculum and Focus Tracks - Fall 2022/Spring 2023
+Curriculum and Focus Tracks - Fall 2023/Spring 2024
+Curriculum and Focus Tracks - Fall 2024/Spring 2025
+Curriculum and Focus Tracks - Fall 2025/Spring 2026

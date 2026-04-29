@@ -1,0 +1,165 @@
+URL: https://robins.richmond.edu/undergraduate/departments/management/concentration.html
+TITLE: Management Concentration Requirements - Management - Academic Departments - Undergraduate - Robins School of Business - University of Richmond
+
+Management Concentration Requirements
+Management Consulting Concentration
+Management Consulting
+Organizations regularly engage management consultants in an effort to maintain their competitive edge and improve performance. Students who complete the Management Consulting Concentration are prepared to contribute to performance improvement initiatives inside many types of organizations, including corporations, professional services firms, and governmental and non-profit organizations.  Students who complete this concentration develop proficiency to:
+Measure and interpret an organization's performance
+Diagnose an organization's threats and opportunities
+Recommend activities for the organization to address threats or opportunities
+Carry out those activities as a member of a project team
+Communicate clearly the purpose, scope, and benefits of their work
+In addition to satisfying the B.S.B.A. degree requirements, students in the Management Consulting concentration are required to take five units of courses as noted below.
+Two required classes
+MGMT250
+Introduction to Consulting
+MGMT450
+Consulting Process and Practicum
+One class, chosen from:
+MGMT332
+Managing Groups and Teams
+MGMT333
+Cross-Cultural Management
+AO341
+Global Supply Chain Management
+MGMT344
+Bargaining and Negotiations in Organizations
+MGMT348
+Environmental Management
+MGMT351
+Managing Innovation
+Two classes, chosen from:
+AO301
+Advanced Applied Statistics
+AO302
+SQL and Process Optimization for the Business Analyst
+AO303
+Machine Learning for the Business Analyst
+AO304
+Advanced IT and Data Analytics
+ECON242
+Data Analysis & Computing for Economics & Business
+ECON270
+Introductory Econometrics
+ECON370
+Advanced Econometrics
+ECON373
+Forecasting and Time Series Analysis
+MKT327
+Marketing and Data Insights
+Students concentrating in Management Consulting may take only one MGMT and/or AO course to transfer towards their concentration requirements; MGMT 250 and MGMT 450 must be taken in the Robins School of Business; these courses may not transfer from another school.
+Management Entrepreneurship Concentration
+Management Entrepreneurship
+Innovation and Entrepreneurship has become a driving force in economic and societal change. The proliferation of new ventures and small businesses stimulates many new career and professional opportunities. Even large, established organizations today recognize the value creation potential of innovative and entrepreneurial opportunities. The Entrepreneurship Concentration provides students with the skills and mindset needed to succeed in fast-moving environments. Students engage in new concept creation from idea generation, to validation, and execution. Students also acquire knowledge and training in applied creativity through innovation for organizations of all types and sizes.
+In addition to satisfying the B.S.B.A. degree requirements, students in the Entrepreneurship concentration are required to take four units of MGMT courses as noted below.
+MGMT247
+Introduction to Entrepreneurship
+MGMT351
+Managing Innovation
+MGMT352
+New Venture Creation
+One class, chosen from:
+MGMT331
+Personnel/Human Resource Management
+MGMT332
+Managing Groups and Teams
+MGMT333
+Cross-Cultural Management
+MGMT344
+Bargaining and Negotiations in Organizations
+MGMT348
+Environmental Management
+Students concentrating in Management Entrepreneurship may take no more than two of the four MGMT Entrepreneurship courses abroad, including either MGMT 247 or MGMT 351, and one elective that fulfills the concentration.
+Management
+Expand All
+MGMT 247 Introduction to Entrepreneurship
+Units: 1
+Fulfills General Education Requirement(s): IF-Written Communication (IFWC)
+Description
+An overview of new venture formation processes with the objective of providing students with the skills needed to recognize innovative ideas and develop them into value-creating initiatives (i.e., starting businesses). Emphasis is on developing plans related to new venture exploration, as well as effectively communicating (i.e., pitching) ideas to stakeholders who can provide necessary resources for firm formation and growth
+Prerequisites
+ACCT 201 and ECON 101
+MGMT 250 Introduction to Consulting
+Units: 1
+Description
+An introduction to the field of management consulting, including a broad look at the major firms in the industry and an examination of career paths. The steps involved in consulting projects are explored in depth, with an emphasis on creating project plans, designing and conducting analyses, identifying opportunities and developing solutions for clients. Students will also learn to structure and deliver presentations and discover the key elements in high-performing consulting teams. Offered every semester
+MGMT 259 Special Topics in Management
+Units: 0-1
+Description
+Management topics not covered in other courses.
+MGMT 330 Organizational Behavior
+Units: 1
+Description
+Behavioral science concepts and their application to analysis of individual and group behavior in an organizational setting. Conceptual areas include organizational culture, personality, motivation, learning, perception, communications, attitudes, and small groups. Offered every semester.
+Prerequisites
+ACCT 201, ECON 101, ECON 102, either ECON 170 or BUAD 202, which may be taken concurrently, and business school major or minor or pre-business major
+MGMT 331 Personnel/Human Resource Management
+Units: 1
+Description
+Human resources decisions made by managers in general, and personnel managers in particular. Steps in employment relationship including job design, human resources requirements, staffing, training, goal setting, performance assessment, rewards, and human resource planning and development.
+Prerequisites
+MGMT 330, Business School major
+MGMT 332 Managing Groups and Teams
+Units: 1
+Description
+Overview of how to effectively manage groups and teams in organizations. Topics focus on internal and external dynamics of groups and teams. Emphasis is on developing a theoretical grasp of issues and problems as well as an understanding of the practical implications concerning covered topics.
+Prerequisites
+MGMT 330
+MGMT 333 Cross-Cultural Management
+Units: 1
+Fulfills General Education Requirement(s): IF-Power/Equity/Identity/Cult (IFPE)
+Description
+Introduction to challenges and opportunities associated with organizational management in the international context. Focuses on key cultural dimensions and differences across countries, and how management principles and concepts (e.g., motivation, leadership, communication, teams) can be applied and adapted to an international, cross-cultural environment.
+Prerequisites
+MGMT 330, Business School major
+MGMT 339 Directed Independent Study
+Units: 0.5-1
+Description
+Independent research on a management topic conducted under the direct supervision of an instructor.
+Prerequisites
+Permission of the instructor
+MGMT 344 Bargaining and Negotiations in Organizations
+Units: 1
+Description
+Multi-disciplinary study of concepts related to bargaining and negotiations. Situations involving interpersonal behavior and group conflict will be examined, using research findings from several academic disciplines including psychology, communications, and organizational behavior. A primary objective is to have students discover and improve their own bargaining styles through participation in role-plays and simulations based on real-life scenarios.
+Prerequisites
+MGMT 330, Business School major
+MGMT 348 Environmental Management
+Units: 1
+Description
+Study of various challenges being faced by today's organizations created by heightened concern all around the world for the protection of our natural environment. Topics studied include such issues as the climate crisis, changing cultural norms and regulations, individual and organizational environmental footprints, and building sustainability into regional and global business models.
+Prerequisites
+ECON 101
+MGMT 351 Managing Innovation
+Units: 1
+Description
+Explores paths to growth through innovation in existing companies (rather than in a startup environment) with a focus on organizational effectiveness. The theory and practice of promoting and managing innovation are considered in the context of case studies and the most recent academic thinking on topics like organizational design, resource allocation, culture development, and “managing clever people.” The goal of the course is to prepare students to participate in, lead, and advise innovation teams to increase the likelihood of a desired corporate outcome.
+Prerequisites
+ACCT 201 and ECON 101
+MGMT 352 New Venture Creation
+Units: 1
+Description
+Designed to provide students with theoretical and practical understanding of new ventures. Examines the start-up-, operational-, and growth-related issues that the aforementioned entrepreneurial ventures typically encounter. Teaches how a new venture opportunity is developed through hands-on problem solving and organizational development. Students are required to participate in an immersive new venture experience, subject to approval.
+Prerequisites
+MGMT 247
+MGMT 353 Sustainability and Accountability in Business
+Units: 1
+Description
+Discussion and analysis of sustainability and accountability challenges in business. Current sustainable business cases are used to highlight those challenges and potential solutions and to examine how organizations can measure their environmental and societal impact and report on their sustainability activities.
+Prerequisites
+ECON 101
+MGMT 359 Special Topics in Management
+Units: 0.5-1
+Description
+Management topics not covered in other courses to enhance the Management concentration.
+MGMT 406 Summer Undergraduate Research
+Units: 0
+Description
+Documentation of the work of students who receive summer fellowships to conduct research [or produce a creative arts project] in the summer. The work must take place over a minimum of 6 weeks, the student must engage in the project full-time (at least 40 hours per week) during this period, and the student must be the recipient of a fellowship through the university. Graded S/U.
+MGMT 450 Consulting Process and Practicum
+Units: 1
+Description
+Intended to aid top senior students with the knowledge and experience to achieve successful full-time positions with leading consulting firms. Taught collaboratively and includes accounting, operations and strategy faculty. Consulting-related topics in class with team project to perform an actual consulting project for a local organization.
+Prerequisites
+INFO 201, Business School senior standing

@@ -1,0 +1,430 @@
+URL: https://mason.wm.edu/undergraduate/academics/majors-concentrations/index.php
+TITLE: Majors & Concentrations | Undergraduate Business | William & Mary School of Business
+
+All currently admitted William & Mary students interested in a business major or minor must apply for admission to the Undergraduate Business program. The admission process is competitive.
+Business Major and Concentration Curriculum Guide (PDF)
+Majors Options
+A major allows you to deepen your knowledge base in a specific discipline of business by exploring both the theoretical and technical aspects of that discipline. After being immersed in the Integrated Foundation Semester, you will choose a discipline which will serve as the primary focus of the remainder of your business education.
+Accounting
+Business Analytics
+Finance
+Marketing
+Accounting Major
+The accounting major is designed to provide students with fundamentals of business while preparing them for a variety of careers both in business and in the public sector. The accounting major requires 15 credit hours in addition to the undergraduate core curriculum. Thinking CPA? Students considering the CPA route are advised to speak with an academic advisor about ways to meet CPA exam and licensure requirements.
+Required Courses & Descriptions
+Expand
+Section
+Expand
+Financial Reporting & Analysis
+BUAD 301 | 3 credits
+This course focuses on the financial reporting environment: evaluating the quality of the reported information, analyzing reporting choices, and assessing the role of financial information in resource allocation decisions. Topics traditionally included in intermediate accounting are covered by analyzing key business transactions on the financial statements and measures of performance evaluations such as profitability, competitiveness, and leverage. This course is designed to be taken as either a one-semester course or as part of a two-semester sequence with BUAD 302.
+Advanced Financial Reporting and Analysis
+BUAD 302 | 3 credits
+This course focuses on an advanced study of topics in financial reporting that are traditionally considered in intermediate accounting. Reporting issues related to topics such as pensions, stock options, and deferred taxes are considered with reference to original source materials and accounting research.
+Strategic Cost Management
+BUAD 303 | 3 credits
+Applications of cost analysis to inventory valuation and income determination and planning and control of routine operations and non-routine decisions. This course emphasizes the relevance of cost concepts to modern decision tools. Substantial use of problems and cases.
+Auditing & Internal Controls
+BUAD 404 | 3 credits
+Application of technology, modeling, statistics, and other auditing procedures within the framework of generally accepted auditing standards. Reporting, ethics, international practices, and case applications are emphasized.
+Federal Taxation
+BUAD 405 | 3 credits
+An analysis of the federal income tax laws. Development of conceptual awareness of federal income tax structure and tax planning and gaining ability to determine solutions to problems confronting the individual and business taxpayer.
+Elective Course & Description (optional)
+Expand
+Section
+Expand
+Not-for-Profit Acct & Analysis
+BUAD 304 | 3 credits
+This course focuses on accounting and financial management concepts unique to the nonprofit sector. Topics include: the preparation and use of not-for-profit financial statements, tax reporting, audit requirements, and managerial planning and control. Students will learn both how to create reports and how to analyze information from the perspective of nonprofit managers, board members, regulators, donors, and creditors.
+Accounting Info Systems
+BUAD 305 | 3 credits
+This course offers students a comprehensive exploration of the intersection between accounting principles and modern technology, equipping them with the knowledge and skills required to effectively manage financial data within organizations. Through a combination of theoretical concepts and hands-on practical exercises, students learn how to design, implement, and maintain accounting systems, emphasizing the use of software and databases. This course delves into topics including information systems and data management, as well as security, confidentiality, and privacy. It includes data flow diagrams, internal controls, auditing in a computerized environment, and the integration of financial systems. The course enables students to critically evaluate the role of technology in accounting, preparing them for careers in auditing, financial analysis, or management accounting, where proficiency in leveraging information systems is increasingly essential.
+Audit & Innov. Challenge
+BUAD 492 | 1 credit
+This course offers students a comprehensive exploration of the intersection between accounting principles and modern technology, equipping them with the knowledge and skills required to effectively manage financial data within organizations. Through a combination of theoretical concepts and hands-on practical exercises, students learn how to design, implement, and maintain accounting systems, emphasizing the use of software and databases. This course delves into topics including information systems and data management, as well as security, confidentiality, and privacy. It includes data flow diagrams, internal controls, auditing in a computerized environment, and the integration of financial systems. The course enables students to critically evaluate the role of technology in accounting, preparing them for careers in auditing, financial analysis, or management accounting, where proficiency in leveraging information systems is increasingly essential.
+Financial Transparency and Global Markets
+BUAD 306 | 3 credits
+This course introduces students to worldwide financial reporting standards, regulatory regimes, and capital markets. Students will gain an appreciation for how the above have developed differently across countries due to cultural differences, economic differences, and variation in political and legal systems. Students will learn what these differences mean for analyzing and comparing companies. The course will also familiarize students with how multi-national companies identify and manage operational risks and risks related to foreign currency. Finally, students will learn about similarities and differences in how countries tackle other reporting issues, such as sustainability reporting and corporate tax policies.
+Business Analytics Major
+In addition to the core curriculum, students majoring in business analytics may choose an emphasis in either data science or supply chain. Each major and emphasis requires students to complete 12 credits in the discipline.
+Data Science Emphasis Required Courses & Descriptions
+Expand
+Section
+Expand
+Developing Business Intelligence
+BUAD 466 | 3 credits
+The course focuses on the collection, representation, and analysis of evidence in support of decision-making and process improvement. The course will examine hard and soft measures, criteria for evaluation, and performance measurement.
+Predictive Analytics
+BUAD 467 | 3 credits
+This course focuses on solving business problems with data using predictive techniques, particularly in situations where the problem statement is ambiguous. The course covers five integral elements of analysis, including 1) general problem framing, 2) framing analytics problems, 3) managing, evaluating, and cleaning data, 4) methodology selection, and 5) model building/reporting. This approach enables students to experience a predictive business analytics problem from start to finish, with a particular emphasis on providing, receiving, and implementing feedback for improvement.
+Prescriptive Analytics
+BUAD 468 | 3 credits
+This course focuses on solving business problems using prescriptive techniques. The course covers optimization models, including linear programming, and simulation models, including Monte Carlo simulation. This course will focus on how prescriptive modeling techniques can be used to make decisions for different business applications.
+Data Science Emphasis Electives (Choose One) Courses & Descriptions
+Expand
+Section
+Expand
+Big Data Analytics with Machine Learning
+BUAD 460 | 3 credits
+This course is designed to equip students with the kinds of analytical skills used in the era of Big Data to reveal the hidden patterns in and relationships among data elements being created by internal transaction systems, social media, and the Internet of Things. Students will use the open-source programming language R for the development of Data Mining (and other statistically-based) analytical solutions.
+Lean Six Sigma Toolkit
+BUAD 461 | 3 credits
+This course focuses on developing lean processes within a variety of operating environments. Tools and strategies leading to improved process management are included. The course also focuses on Six Sigma approaches to process quality and includes emphasis on tools and procedures for implementing Six Sigma strategies within organizations.
+Healthcare Informatics
+BUAD 462 | 3 credits
+Successful management of health delivery requires a scientific, information-driven approach. This course explores the use of information and information-based technologies to address challenges in rising costs, quality of health outcomes, and timely access to those who need healthcare. Through hands-on analysis of industry data, students will diagnose issues, identify alternatives and develop a plan to deliver value-based healthcare. Topics include a comparative analysis of healthcare in other nations, digitization of health processes, health informatics exchange, accountable care organizations, and business model innovations in health sector. Students will learn about regulatory reforms in U.S. health sector and various career opportunities in health sector.
+Supply Chain Analytics
+BUAD 463 | 3 credits
+Mathematical optimization techniques and applied solutions for problems in logistics, distribution, facility location, transportation, and supply chain networks.
+Supply Chain Management
+BUAD 465 | 3 credits
+Over the last five years, technology, specifically the WEB, has revolutionized the way firms do business with each other. The usual stumbling blocks of poor information availability: incompatible organizational structures and information systems, and the high cost of collaboration are being "blown to bits" by tailored supply chain initiatives and web-centric software. This course will explore these initiatives and tools that firms are using to manage supply chains and B2B integration.
+Advanced Modeling Techniques
+BUAD 469 | 3 credits
+This course is designed to provide students with the skills necessary to develop advanced decision models using a variety of programming and database tools. These models apply concepts from probability theory and statistical inference across a broad range of business disciplines. Particular emphasis is placed on the development of Monte Carlo simulation models.
+Project Management
+BUAD 482 | 3 credits
+This course will focus on the concepts and tools related to the management of projects within organizations. Students will examine all phases of project management including selection, planning, scheduling, control, and termination. Topics include writing project plans, developing work breakdown structures, project scheduling, resource management, earned value analysis, and project risk management.
+Supply Chain Emphasis Required Courses & Descriptions
+Expand
+Section
+Expand
+Lean Six Sigma Toolkit
+BUAD 461 | 3 credits
+This course focuses on developing lean processes within a variety of operating environments. Tools and strategies leading to improved process management are included. The course also focuses on Six Sigma approaches to process quality and includes emphasis on tools and procedures for implementing Six Sigma strategies within organizations.
+Supply Chain Analytics
+BUAD 463 | 3 credits
+Mathematical optimization techniques and applied solutions for problems in logistics, distribution, facility location, transportation, and supply chain networks.
+Supply Chain Management
+BUAD 465 | 3 credits
+Over the last five years, technology, specifically the WEB, has revolutionized the way firms do business with each other. The usual stumbling blocks of poor information availability: incompatible organizational structures and information systems, and the high cost of collaboration are being "blown to bits" by tailored supply chain initiatives and web-centric software. This course will explore these initiatives and tools that firms are using to manage supply chains and B2B integration.
+Supply Chain Emphasis Electives (Choose One) Courses & Descriptions
+Expand
+Section
+Expand
+Big Data Analytics with Machine Learning
+BUAD 460 | 3 credits
+This course is designed to equip students with the kinds of analytical skills used in the era of Big Data to reveal the hidden patterns in and relationship among data elements being created by internal transaction systems, social media, and the Internet of Things. Students will use the open-source programming language R for the development of Data Mining (and other statistically-based) analytical solutions.
+Healthcare Informatics
+BUAD 462 | 3 credits
+Successful management of health delivery requires a scientific, information-driven approach. This course explores the use of information and information-based technologies to address challenges in rising costs, quality of health outcomes, and timely access to those who need healthcare. Through hands-on analysis of industry data, students will diagnose issues, identify alternatives and develop a plan to deliver value-based healthcare. Topics include a comparative analysis of healthcare in other nations, digitalization of health processes, health informatics exchange, accountable care organizations, and business model innovations in health sector. Students will learn about regulatory reforms in U.S. health sector and various career opportunities in health sector.
+Developing Business Intelligence
+BUAD 466 | 3 credits
+The course focuses on the collection, representation, and analysis of evidence in support of decision-making and process improvement. The course will examine hard and soft measures, criteria for evaluation, and performance measurement.
+Predictive Analytics
+BUAD 467 | 3 credits
+This course focuses on solving business problems with data using predictive techniques, particularly in situations where the problem statement is ambiguous. The course covers five integral elements of analysis, including 1) general problem framing, 2) framing analytics problems, 3) managing, evaluating, and cleaning data, 4) methodology selection, and 5) model building/reporting. This approach enables students to experience a predictive business analytics problem from start to finish, with a particular emphasis on providing, receiving, and implementing feedback for improvement.
+Prescriptive Analytics
+BUAD 468 | 3 credits
+This course focuses on solving business problems using prescriptive techniques. The course covers optimization models, including linear programming, and simulation models, including Monte Carlo simulation. This course will focus on how prescriptive modeling techniques can be used to make decisions for different business applications.
+Advanced Modeling Techniques
+BUAD 469 | 3 credits
+This course is designed to provide students with the skills necessary to develop advanced decision models using a variety of programming and database tools. These models apply concepts from probability theory and statistical inference across a broad range of business disciplines. Particular emphasis is placed on the development of Monte Carlo simulation models.
+Project Management
+BUAD 482 | 3 credits
+This course will focus on the concepts and tools related to the management of projects within organizations. Students will examine all phases of project management, including selection, planning scheduling, control, and termination. Topics include writing project plans, developing work breakdown structures, project scheduling, resource management, earned value analysis, and project risk management.
+Finance Major
+In addition to the core curriculum, students majoring in finance complete 12 credits in the discipline. These credits focus understanding of finance beyond basic formulae to a more critical look at financial statements, portfolio risk and return, and corporate financial strategy.
+Additionally, the
+Boehly Center for Excellence in Finance
+provides opportunities for advanced financial training, career exploration, networking, and experiential learning through financial firm-sponsored competitions as well as through industry-leader and dedicated faculty-taught courses. The Center capitalizes on William & Mary's ideal size by offering uniquely personalized programs, including alumni mentor matching and academic and career advising.
+Required Courses & Descriptions
+Expand
+Section
+Expand
+Investments
+BUAD 327 | 3 credits
+An introduction to portfolio management, fixed income, and derivative instruments.
+Corporate Valuation
+BUAD 329 | 3 credits
+This course focuses on corporate valuation and credit analysis. Students will learn common methodologies for valuing corporate entities used by professionals working in investments, private equity, venture capital, and investment banking. The course will familiarize students with various data sources and software used in the financial industry.
+Elective Courses & Descriptions (Choose Two)
+Expand
+Section
+Expand
+Applied Financial Concepts
+BUAD 422 | 3 credits
+The goal of this course is to expose the student to practices and developments within several specialized areas of the financial services sector through the case method of instruction. Key objectives are to develop the student's problem-solving ability and oral and written communication skills through the quantitative and qualitative analysis of actual business situations. Active student participation in case discussion and analysis is required. This course is offered through the Distinguish program and requires an application.
+Corporate Financial Strategy
+BUAD 423 | 3 credits
+Advanced topics in the theory and practice of financial decision-making. Cases and readings are used to examine the tools and techniques of financial strategy formulation and implementation under various environmental settings.
+Derivatives and Risk Management
+BUAD 424 | 3 credits
+An examination of the markets of derivative securities, valuation, trading strategies, and their applications in managing risk. The emphases are on financial engineering and the quantitative methods in the valuation of derivative securities.
+Advanced Investments
+BUAD 427 | 3 credits
+An examination of the advanced topics of equity and fixed-income investments.
+Experiential Elective Courses & Descriptions (Choose One)
+Expand
+Section
+Expand
+Student Managed Investment Fund
+BUAD 421 | 3 credits
+The purpose of this course is to provide portfolio management and security analysis experience through the management of the Mason School Managed Investment Fund (SMIF). Students select companies from the S&P stock universe, do research on their business model and competitive environment, make forecasts of future financial performance and perform valuation analyses, write an investment report, and present orally a recommendation to their colleagues and faculty for inclusion in a real endowment portfolio of common stocks. This course may be repeated one time.
+Fundamentals of Hedge Fund Management
+BUAD 426 | 1 credit
+This course is designed to give students a broad overview of the hedge fund industry and what is needed to launch a hedge fund and hedge fund manager by providing an overview of hedge fund structures, primary internal and external parties, and key regulatory, legal, and ethical considerations. This course is offered through the Distinguish program and requires an application.
+Special Topic - CFA Challenge
+BUAD 492 | 2 credits (1 cr F + 1 cr S)
+The CFA Challenge is a course designed around the national CFA Challenge competition. A small group of students works with a finance professor in looking for, valuing, and pitching a company. As a capstone to the class, students compete in the Virginia State CFA Challenge. This course requires instructor permission.
+Special Topics Courses (Experiential Finance Topics Only)
+BUAD 492 | 1-3 credits
+A course designed for special topics and for special opportunities to utilize the expertise of a faculty member.
+Marketing Major
+In addition to the core curriculum, students majoring in marketing complete 12 credits in the discipline. These credits focus understanding of marketing beyond basic principles to look more critically at advertising strategies, decision theory, marketing in a digital work, and consumer behavior.
+Required Courses & Descriptions
+Expand
+Section
+Expand
+Marketing Research
+BUAD 452 | 3 credits
+Introduction to fundamentals of marketing research. Use of research information in marketing decision-making. Topics include research design, interrogative techniques, data collection methods, scaling sampling, and alternative methods of data analysis. Students design and execute their own research projects.
+Consumer Behavior
+BUAD 446 | 3 credits
+This consumer-firm relationship is analyzed through the application of concepts drawn from contemporary behavioral science to concrete business cases and practices. Relevant concepts from the fields of cultural anthropology, sociology and psychology are applied to problems encountered in marketing to various consumer groups.
+Electives Courses & Descriptions (Choose Four)
+Expand
+Section
+Expand
+Product and Brand Management
+BUAD 445 | 3 credits
+Product management is a course that establishes an understanding of product development and management process from a consumer as well as a corporate perspective. With an emphasis on application, topics will cover the processes and techniques to conceive, develop, and manage products and services over their life cycle. While much of the course will focus on the development of new products, decisions relating to the effective management of a product portfolio will also be discussed.
+Marketing Strategy
+BUAD 448 | 3 credits
+Managerial techniques in planning and executing marketing programs. Emphasis on decision-making related to marketing segmentation, product innovation and positioning, pricing, and promotion. Extensive use of cases, readings, and a management simulation.
+Global Marketing
+BUAD 450 | 3 credits
+This course includes theories of and justifications for free trade, a study of environments across international markets (including the economic environments, the cultural environments, the political/ regulatory environments, and the physical geographic environments)and the practice of marketing including global marketing management for large, small and medium sized firms. Topics include globalization, global strategies, international service marketing and marketing in the developing world.
+Customer Insights for Innovation
+BUAD 451 | 3 credits
+Many business opportunities and decisions depend on an understanding of customers' values, needs, aspirations, and behaviors. These unique insights inform the development of products, services, and brands that are valued by customers and differentiated from competition. This course will be an immersive and experiential introduction to customer insights research, including fieldwork using a variety of qualitative research methods. In addition, these methods will be applied within the context of generating concepts for new products and services that address the insights identified.
+Sustainability Inspired Innovation and Design
+BUAD 453 | 3 credits
+Many companies are embracing sustainability as the inspiration and impetus for the next wave of product and service innovation. In this course, we will explore the reasons behind this growing interest in sustainability means to consumers, and the opportunities it presents to companies that want to "do well while doing good". This course will also emphasize the process and outcome of product and service innovation, from creative idea generation to concept evaluation. Specifically, students will gain significant hands-on experience with the tools and techniques of "Design Thinking" in a studio setting, with a focus on developing innovative ideas that promote the principles of sustainability.
+Advertising and Digital Marketing
+BUAD 456 | 3 credits
+A study of how to use advertising and marketing communications, with special emphasis on AI and digital media, to build and sustain relationships with consumers. Development of an integrated marketing communication campaign will emphasize the presentation of products to consumers through relevant media to include digital channels. Topics will include situation analysis, target market identification, promotional tactics, analytics and evaluation.
+Concentration Options
+A concentration allows Business Majors to study a business discipline outside of their major by taking 6-9 additional credits of coursework. This exposure and experience in a secondary discipline allows students to individualize their studies and enhance their degrees.
+Accounting
+Business Analytics
+Consulting
+Finance
+Innovation & Entrepreneurship
+Management & Organizational Leadership
+Marketing
+Supply Chain Analytics
+Sustainability
+Accounting Concentration
+Students majoring in another business discipline may add a concentration in Accounting by completing an additional six credits of coursework in the area beyond Principles of Accounting (BUAD 203).
+Courses cannot double count for both a major and a concentration.
+Required Course & Description
+Expand
+Section
+Expand
+Financial Reporting and Analysis
+BUAD 301 | 3 credits
+This course focuses on the financial reporting environment: evaluating the quality of the reported information, analyzing reporting choices, and assessing the role of financial information in resource allocation decisions. Topics traditionally included in intermediate accounting are covered by analyzing key business transactions on the financial statements and measures of performance evaluations such as profitability, competitiveness, and leverage. This course is designed to be taken as either a one-semester course or as part of a two-semester sequence with BUAD 302 - Advanced Financial Reporting and Analysis.
+Elective Courses & Descriptions (Choose One)
+Expand
+Section
+Expand
+Advanced Financial Reporting and Analysis
+BUAD 302 | 3 credits
+This course focuses on an advanced study of topics in financial reporting that are traditionally considered in intermediate accounting. Reporting issues related to topics such as pensions, stock options, and deferred taxes are considered with reference to original source materials and accounting research.
+Strategic Cost Management
+BUAD 303 | 3 credits
+Applications of cost analysis to inventory valuation and income determination and planning and control of routine operations and non-routine decisions. This course emphasizes the relevance of cost concepts to modern decision tools. Substantial use of problems and cases.
+Auditing and Internal Controls
+BUAD 404 | 3 credits
+Application of technology, modeling, statistics, and other auditing procedures within the framework of generally accepted auditing standards. Reporting, ethics, international practices, and case applications are emphasized.
+Federal Taxation
+BUAD 405 | 3 credits
+An analysis of the federal income tax laws. Development of conceptual awareness of federal income tax structure and tax planning and gaining ability to determine solutions to problems confronting the individual and business taxpayer.
+Business Analytics Concentration
+Students majoring in another business discipline may add a concentration in Business Analytics by completing an additional six credits of coursework in the area.
+Courses cannot double for both a major and a concentration
+.
+Elective Courses & Descriptions (Choose Two)
+Expand
+All
+Expand
+Big Data Analytics with Machine Learning
+BUAD 460 | 3 credits
+This course is designed to equip students with the kinds of analytical skills used in the era of Big Data to reveal the hidden patterns in and relationships among data elements being created by internal transaction systems, social media, and the Internet of Things. Students will use the open-source programming language R for the development of Data Mining (and other statistically-based) analytical solutions.
+Developing Business Intelligence
+BUAD 466 | 3 credits
+The course focuses on the collection, representation, and analysis of evidence in support of decision-making and process improvement. The course will examine hard and soft measures, criteria for evaluation, and performance measurement.
+Predictive Analytics
+BUAD 467 | 3 credits
+This course focuses on solving business problems with data using predictive techniques, particularly in situations where the problem statement is ambiguous. The course covers five integral elements of analysis, including 1) general problem framing, 2) framing analytics problems, 3) managing, evaluating, and cleaning data, 4) methodology selection, and 5) model building/reporting. This approach enables students to experience a predictive business analytics problem from start to finish, with a particular emphasis on providing, receiving, and implementing feedback for improvement.
+Prescriptive Analytics
+BUAD 468 | 3 credits
+This course focuses on solving business problems using prescriptive techniques. The course covers optimization models, including linear programming, and simulation models, including Monte Carlo simulation. This course will focus on how prescriptive modeling techniques can be used to make decisions for different business applications.
+Consulting Concentration
+Students majoring in a business discipline may add a concentration in Consulting by completing an additional six credits of coursework in the area.
+Courses cannot double count for both a major and a concentration.
+Elective Courses & Descriptions (Choose Two)
+Expand
+All
+Expand
+Management Consulting
+BUAD 431 | 3 credits
+This course examines the management consulting process and prepares students for a role as either an internal or external consultant. The course is designed to provide a framework for understanding the art and science of providing management counsel to client organizations in the public and private sectors. The course follows the process of a typical consulting engagement in identifying key project requirements, feasibility and design alternatives.
+Change Management and Organizational Transformation
+BUAD 437 | 3 credits
+The course will focus on effective process design, change management, and transforming the organization through changes in process, people, and technology. Topics will include stakeholder analysis, goal/strategy alignment, generating buy-in, effectively informing processes, performance measurement and incentives.
+Developing Business Intelligence
+BUAD 466 | 3 credits
+The course focuses on the collection, representation, and analysis of evidence in support of decision-making and process involvement. The course will examine hard and soft measures, criteria for evaluation, and performance measurement.
+Project Management
+BUAD 482 | 3 credits
+This course will focus on the concepts and tools related to the management of projects within organizations. Students will examine all phases of project management, including selection, planning, scheduling, control, and termination. Topics include writing project plans, developing work breakdown structures, project scheduling, resource management, earned value analysis, and project risk management.
+Finance Concentration
+Students majoring in another business discipline may add a concentration in Finance by completing an additional six credits of coursework in the area beyond Financial Management (BUAD 323).
+Students are required to take either BUAD 327 or BUAD 329 but may take both to fulfill the concentration requirements.
+Courses cannot double count for both a major and a concentration.
+Required Courses & Descriptions (Choose One or Both)
+Expand
+Section
+Expand
+Investments
+BUAD 327 | 3 credits
+An introduction to portfolio management, fixed income, and derivative instruments.
+Corporate Valuation and Credit Analysis
+BUAD 329 | 3 credits
+This course focuses on corporate valuation and credit analysis. Students will learn common methodologies for valuing corporate entities used by professionals working in investments, private equity, venture capital, and investment banking. The course will familiarize students with various data sources and software used in the financial industry.
+Elective Courses & Descriptions (Choose One if taking only one required course)
+Expand
+Section
+Expand
+Student Managed Investment Fund
+BUAD 421 | 3 credits
+The purpose of this course is to provide portfolio management and security analysis experience through the management of the Mason School Managed Investment Fund (SMIF). Students select companies from an S&P stock universe, do research on their business model and competitive environment, make forecasts of future financial performance and perform valuation analyses, write an investment report, and present orally a recommendation to their colleagues and faculty for inclusion in a real endowment portfolio of common stocks. This course may be repeated one time.
+Applied Financial Concepts
+BUAD 422 | 3 credits
+The goal of this course is to expose the student to practices and developments within several specialized areas of the financial services sector through the case method of instruction. Key objectives are to develop the student's problem-solving ability and oral and written communication skills through the quantitative and qualitative analysis of actual business situations. Active student participation in case discussion and analysis is required. The course is offered through the Distinguish program and requires an application.
+Corporate Financial Strategy
+BUAD 423 | 3 credits
+Advanced topics in the theory and practice of financial decision-making. Cases and readings are used to examine the tools and techniques of financial strategy formulation and implementation under various environmental settings.
+Derivatives and Risk Management
+BUAD 424 | 3 credits
+An examination of the markets of derivative securities, valuation, trading strategies, and their applications in managing risk. The emphases are on financial engineering and the quantitative methods in the valuation of derivative securities.
+Advanced Investments
+BUAD 427 | 3 credits
+An examination of the advanced topics of equity and fixed-income investments.
+Behavioral Economics and Finance
+BUAD 428 | 3 credits
+A review of prominent psychological biases and heuristics affecting individual decision-making. Applications to economics, finance, public policy, and social science.
+Innovation & Entrepreneurship Concentration
+Students majoring in a business discipline may add a concentration in Innovation & Entrepreneurship by completing BUAD 340 Introduction to Innovation and Entrepreneurship and an additional six credit hours.
+Courses cannot double count for both a major and a concentration.
+Required Course & Description
+Expand
+Section
+Expand
+Introduction to Innovation and Entrepreneurship
+BUAD 340 | 3 credits
+This course exposes students to fundamental innovation and entrepreneurship concepts and will also provide an entry point into the Innovation & Entrepreneurship minor. Students will learn about the mindsets and tools associated with innovation and entrepreneurship and will be prepared to hit the ground running in subsequent project-based Innovation & Entrepreneurship courses.
+Elective Courses & Descriptions (Choose Two)
+Expand
+Section
+Expand
+Entrepreneurial Ventures
+BUAD 443 | 3 credits
+Entrepreneurial Ventures focuses on the issues, decisions, and problems faced by entrepreneurial owners and innovators who wish to create and manage new and smaller enterprises, family businesses, technology-based enterprises, or franchises. Students will develop the knowledge and skill set relevant for the creation, operation, and ultimate success of the venture based on enterprise.
+Customer Insights for Innovation
+BUAD 451 | 3 credits
+Many business opportunities and decisions depend on an understanding of customers' values, needs, aspirations, and behaviors. These unique insights inform the development of products, services, and brands that are valued by customers and differentiated from competition. This course will be an immersive and experiential introduction to customer insights research, including fieldwork using a variety of qualitative research methods. In addition, these methods will be applied within the context of generating concepts for new products and services that address the insights identified.
+Sustainability Inspired Innovation and Design
+BUAD 453 | 3 credits
+Many companies are embracing sustainability as the inspiration and impetus for the next wave of product and service innovation. In this course, we will explore the reasons behind this growing interest in sustainability, what sustainability means to consumers and the opportunities it presents to companies that want to "do well while doing good." This course will also emphasize the process and outcome of product and service innovation, from creative idea generation to concept evaluation. Specifically, students will gain significant hands-on experience with the tools and techniques of "Design Thinking" in a studio setting, with a focus on developing innovative ideas that promote the principles of sustainability.
+Creative Problem Solving
+BUAD 457 | 3 credits
+A study of the processes of creativity and innovation in complex problem-solving, informed by both business and interdisciplinary approaches. Throughout the course, students engage in a mix of experiential, experimental, and reflective exercises designed to promote integrative and creative problem-solving, with an emphasis on the techniques, frameworks, and mindsets that drive innovation in organizations.
+Special Topics: Product Management
+BUAD 492 | 3 credits
+Management & Organization Leadership Concentration
+Students majoring in a business discipline can add a management & organizational leadership concentration by completing six credits.
+Courses cannot double count for both a major and a concentration.
+Elective Courses & Descriptions (Choose Two)
+Expand
+All
+Expand
+Teams: Design, Selection, and Development
+BUAD 435 | 3 credits
+This course is designed to develop the knowledge and skills to enable students to improve the performance of most teams. Working in teams has become the norm in most organizations, yet most people have many misconceptions about what makes groups effective. Groups can be exhilarating or maddening. This course will cover work in a variety of teams, including project teams, self-directed teams, research teams, consulting teams, and multinational teams. Topics include team design, principles of selection, team performance management and rewards, managing transnational teams, and team facilitation.
+Business & Society
+BUAD 436 | 3 credits
+This course explores the complex relationship between business and the wider social context in which it operates and the challenges leaders face in balancing their economic, ethical, legal, and citizenship responsibilities to their various stakeholders. In this era of 'globalization,' corporations may be as large as nations in terms of economic and social impact. Topics include corporate social responsibility and citizenship, ecological and natural resource concerns, business-government relations, technological change, public relations, and corporate governance.
+Change Management and Organizational Transformation
+BUAD 437 | 3 credits
+The course will focus on effective process design, change management, and transforming the organization through changes in process, people, and technology. Topics will include stakeholder analysis, goal/strategy alignment, generating buy-in, effectively informing processes, performance measurement, and incentives.
+Leadership
+BUAD 438 | 3 credits
+This field-based course is designed to develop the ability to work with and through others in order to make effective contributions as a member of an organization. The course emphasizes developing a leadership orientation, understanding critical leadership issues, and developing appropriate leadership skills.
+The Psychology of Decision Making
+BUAD 442 | 3 credits
+An examination and analysis of the cognitive factors that aid or hinder choosing alternative courses of action. The major emphasis will be on psychological processes underlying choice and judgment. Applications to business decision and policy-making will be considered. (Cross-listed with PSYC 442)
+Marketing Concentration
+Students majoring in another business discipline may add a concentration in Marketing by completing an additional six credits of coursework in the area beyond Principles of Marketing (BUAD 311).
+Courses cannot double count for both a major and a concentration.
+Elective Courses & Descriptions (Choose Two)
+Expand
+All
+Expand
+Product and Brand Management
+BUAD 445 | 3 credits
+Product management is a course that establishes an understanding of product development and management process from a consumer as well as a corporate perspective. With an emphasis on application, topics will cover the processes and techniques to conceive, develop, and manage product and services over their life cycle. While much of the course will focus on the development of new products, decisions relating to the effective management of a product portfolio will also be discussed.
+Consumer Behavior
+BUAD 446 | 3 credits
+The consumer-firm relationship is analyzed through the application of concepts drawn from contemporary behavioral science to concrete business cases and practices. Relevant concepts from the fields of cultural anthropology, sociology, and psychology are applied to problems encountered in marketing to various consumer groups.
+Marketing Strategy
+BUAD 448 | 3 credits
+Managerial techniques in planning and executing marketing programs. Emphasis on decision-making related to marketing segmentation, product innovation and positioning, pricing, and promotion. Extensive use of cases, readings, and a management simulation.
+Customer Insights for Innovation
+BUAD 451 | 3 credits
+Many business opportunities and decisions depend on an understanding of customers' values, needs, aspirations, and behaviors. These unique insights inform the development of products, services, and brands that are valued by customers and differentiated from competition. This course will be an immersive and experiential introduction to customer insights research, including fieldwork using a variety of qualitative research methods. In addition, these methods will be applied within the context of generating concepts for new products and services that address the insights identified.
+Marketing Research
+BUAD 452 | 3 credits
+Introduction to fundamentals of marketing research. Use of research information in marketing decision-making. Topics include research design, interrogative techniques, data collection methods, scaling, sampling, and alternative methods of data analysis. Students design and execute their own research projects.
+Sustainability Inspired Innovation & Design
+BUAD 453 | 3 credits
+Many companies are embracing sustainability as the inspiration and impetus for the next wave of product and service innovation. In this course, we will explore the reasons behind this growing interest in sustainability, what sustainability means to consumers and the opportunities it presents to companies that want to "do well while doing good." This course will also emphasize the process and outcome of product and service innovation, from creative idea generation to concept evaluation. Specifically, students will gain significant hands-on experience with the tools and techniques of "Design Thinking" in a studio setting, with a focus on developing innovative ideas that promote the principles of sustainability.
+Advertising & Digital Marketing
+BUAD 456 | 3 credits
+A study of how to use advertising and marketing communications, with special emphasis on digital media, to build and sustain relationships with consumers. Development of an integrated marketing communication campaign will emphasize the presentation of products to consumers through relevant media to include digital channels. Target market identification, situation analysis, promotional strategy and tactics, and evaluation within budgetary constraints will be stressed.
+Supply Chain Analytics Concentration
+Students majoring in another business discipline may add a concentration in Supply Chain Analytics by completing an additional six credits of coursework in the area.
+Courses cannot double count for both a major and a concentration.
+Elective Courses & Descriptions (Choose Two)
+Expand
+All
+Expand
+Lean Six Sigma Toolkit
+BUAD 461 | 3 credits
+This course focuses on developing lean processes within a variety of operating environments. Tools and strategies leading to improved process management are included. The course also focuses on Six Sigma approaches to process quality and includes emphasis on tools and procedures for implementing Six Sigma strategies within organizations.
+Note: This course combines the existing BUAD 459 and BUAD 461 courses into a single course. Students who took BUAD 459 under a previous catalog may not take the new 3 credit BUAD 461 version.
+Supply Chain Analytics
+BUAD 463 | 3 credits
+Mathematical optimization techniques and applied solutions for problems in logistics, distribution, facility location, transportation, and supply chain network.
+Supply Chain Management
+BUAD 465 | 3 credits
+Over the last five years, technology, specifically the WEB, has revolutionized the way firms do business with each other. The usual stumbling blocks of poor information availability: incompatible organizational structures and information systems, and the high cost of collaboration structures and information systems, and the high cost of collaboration are being "blown to bits" by tailored supply chain initiatives and web-centric software. This course will explore these initiatives and tools that firms are using to manage supply chains and B2B integration.
+Sustainability Concentration
+Students majoring in a business discipline may add a concentration in sustainability by completing an additional six credits of coursework in the area.
+Courses cannot double count for both a major and a concentration.
+Elective Courses & Descriptions (Choose Two)
+Expand
+All
+Expand
+Business & Society
+BUAD 436| 3 credits
+This course explores the complex relationship between business and the wider social context in which it operates and the challenges leaders face in balancing their economic, ethical, legal, and citizenship responsibilities to their various stakeholders. In this era of ‘globalization’ corporations may be as large as nations in terms of economic and social impact. Topics Include: corporate social responsibility, and citizenship, ecological and natural resource concerns, business-government relations, technological change, public relations, and corporate governance.
+Sustainability Inspired Innovation and Design
+BUAD 453 | 3 credits
+Many companies are embracing sustainability as the inspiration and impetus for the next wave of product and service innovation. In this course, we will explore the reasons behind this growing interest in sustainability, what sustainability means to consumers and the opportunities it presents to companies that want to "do well while doing good." This course will also emphasize the process and outcome of product and service innovation, from creative idea generation to concept evaluation. Specifically, students will gain significant hands-on experience with the tools and techniques of "Design Thinking" in a studio setting, with a focus on developing innovative ideas that promote the principles of sustainability.
+Introduction to Environmental Science and Policy
+ENSP 101 | 3 credits
+This team-taught interdisciplinary course brings together perspectives and approaches to environmental problems from natural sciences, social sciences, and humanities. Examines key environmental concepts by exploring case studies such as pollution and contamination disputes, ecosystem management in the Chesapeake Bay, and biodiversity.

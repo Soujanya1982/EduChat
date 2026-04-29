@@ -1,0 +1,100 @@
+URL: https://www.bucknell.edu/admissions-aid/tuition-fees-financial-aid/financial-aid-policies-faq/fafsa-simplification
+TITLE: FAFSA Simplification
+
+FAFSA Simplification
+The FAFSA Simplification Act and the FUTURE Act are two pieces of legislation passed by Congress that are in the process of being implemented. This legislation intends to change the financial aid process by:
+Making the financial aid process and eligibility for Federal Pell Grants more predictable for low-income students
+Reducing the number of Free Application for Federal Student Aid (FAFSA) form questions
+Streamlining the calculation of financial need
+Expanding federal aid eligibility for specific populations
+Ultimately improving educational outcomes for low-income students
+Expanding the 2024-25 application to include the 11 most common languages spoken by English learner students and their parents
+While some provisions of this legislation went into effect for the 2023–24 academic year, most will be implemented for the 2024–25 academic year.
+Section Navigation
+Triangle Icon
+What Does FAFSA Simplification Mean for You?
+The FAFSA for the upcoming academic year
+typically
+becomes available at
+fafsa.gov
+on Oct. 1. For the 2024–25 academic year only, the FAFSA will not become available online until December 2023. The exact date in December is to be determined. Bucknell encourages prospective students to complete the CSS Profile as soon as possible. The CSS Profile is available for students to complete beginning Oct. 1.
+Students can list up to 20 schools on their FAFSA via the online application.
+Beginning with the 2024–25 academic year, the FAFSA will be less complex. The number of questions will be reduced from 108 to less than 50 and prior-prior year tax information will be automatically transferred from the IRS database through a process called Federal Taxpayer Information (FTI).
+Students, spouses, parents and stepparents will now need to provide their consent in the new "Consent to Retrieve and Disclose Federal Tax Information" section of the FAFSA for federal student aid eligibility.
+This consent will allow the IRS to share FTI.
+Historically, the FAFSA calculated a student's Expected Family Contribution (EFC), which was used to determine a student's eligibility for need-based federal and state aid. Most notably, a student's EFC needed to be below a specific threshold to qualify for the Federal Pell Grant, Federal Supplemental Educational Opportunity Grant (SEOG) and the Pennsylvania State Grant. The EFC is being replaced with the Student Aid Index (SAI). Federal Pell Grant eligibility will now be determined by family size and family income in relation to the federal poverty level.
+If any contributor to the FAFSA form (students, spouses, parents or stepparents) does not provide consent in the new "Consent to Retrieve and Disclose Federal Tax Information" section, submission of the form will still be allowed. However, an SAI — the amount of need-based financial aid the student is eligible to receive — will not be calculated.
+The EFC was calculated based on several primary factors, including: household size, number of students in college, and prior-prior year taxable and untaxed income and assets — for both a student and for the parent(s) of a dependent student. The SAI will no longer take into account most sources of untaxed income. The SAI will also not take into account the number of students in college. This could impact a student's eligibility for federal and state need-based financial aid (i.e. Pell Grant, SEOG, Pennsylvania State Grant, Federal Work Study, the subsidy on the Federal Direct Student Loan).
+Please note that Bucknell University will still take into account the number of students in college when awarding need-based financial aid from the University.
+Please note that Bucknell University will still take into account a family's total income (taxable and untaxed) along with the non-custodial parent information.
+In the past, for divorced or separated parent families, the custodial parent (typically the parent the student lived with) provided their information on the FAFSA. Beginning with the 2024–25 FAFSA form, the parent who provided the greatest financial support (regardless of living arrangements) will be required to list their information on the FAFSA. If financial support is split 50/50 between both parents, the parent who has the higher income is required to provide their financial information on the FAFSA.
+Frequently Asked Questions
+What is FSA ID and who needs it?
+Plus Icon (Large)
+All students and contributors must create a Federal Student Aid (FSA) account at
+StudentAid.gov
+to complete the FAFSA form online.
+Students and contributors will use their FSA ID account username and password to log in to their accounts.
+Even if a parent or spouse contributor doesn't have a Social Security number, they can still get an FSA ID using their Individual Taxpayer Identification Number to fill out their portion of the student's FAFSA form online. Download
+How to get an FSA ID without a Social Security number
+(pdf).
+How do I or other contributors create an FSA ID?
+To
+create an FSA ID
+, you'll need your Social Security number (SSN). Other information required is full name and date of birth. You'll also need to create a memorable username and password and complete challenge questions and answers to retrieve your account information if you forget it. You'll be required to provide your email address or mobile phone number when you make your FSA ID. Providing a mobile phone number and/or email address that you have access to will make it easier to log in to ED online systems and allow you to verify your FSA ID before using it on the FAFSA and additional account recovery options.
+Do parents and students need to wait until FAFSA 2024-25 opens in December to create an FSA ID?
+No. The FSA ID process is not changing. It's even better that parents and students can create the FSA ID and have it ready anytime before the FAFSA application starts.
+Do parents without social security numbers also need to have an FSA ID?
+Yes. Starting 2024-25, parents and/or spouses who are not U.S. Citizens or Eligible Noncitizens can use their Individual Taxpayer Identification Number (ITIN) to create an FSA ID once their taxes are still required.
+My parent remarried. Is the parent's spouse required to get an FSA ID as well?
+If the parent you indicate on the FAFSA is the parent who remarried, it'll depend on how they filed taxes. If they filed jointly, only one parent needs an FSA ID. If they filed separately, both parents would need their own FSA ID
+What are "contributors" on the FAFSA 2024-25?
+Plus Icon (Large)
+Contributor is a new term introduced on the 2024-25 FAFSA form. It refers to anyone asked to provide information on a student's FAFSA form, i.e., the student, the student's spouse, a biological or adopted parent, or the parent's spouse (stepparent).
+A contributor is NOT a grandparent, foster parents, legal guardian, brother or sister, aunt or uncle, even if they helped provide for or raise the student.
+A contributor on the FAFSA form doesn't mean they are financially responsible for the student's education costs.
+What is consent and why do I have to provide it?
+Plus Icon (Large)
+The Future Act
+requires every contributor on the FAFSA to provide consent to share their tax information in the application so that the IRS can share this information with Federal Student Aid. All parties whose federal tax information is included on a student's FAFSA form must consent annually.
+The consent will be required when a student submits the FAFSA, chooses Income-Driven Repayment when starting loan repayment, or submits the Total and Permanent Disability discharge within the U.S. Department of Veterans Affairs for totally and permanently disabled students.
+The consent is necessary not only for the Department of Education to request federal tax information from the IRS but also to use that information in the federal student aid application process, as well as other actions such as redisclosing that information to certain eligible entities (e.g., higher education institutions).
+What happens if I, as a student, spouse or parent don't want to provide consent on the FAFSA?
+If a student, spouse or parent doesn't provide consent on the FAFSA, the Student Aid Index (SAI) will not be calculated, and the student will not be eligible for any federal aid.
+Will non-custodial parents be contributors if they have not claimed the child on their taxes?
+Starting with the Simplified FAFSA, students will determine which parent to report based on which one provides the most financial support. It is OK if the parent or parents reported do not claim the student on their taxes. The reported parents will provide consent to transfer their tax data even if they do not claim the student on their taxes.
+What happens if a contributor provides consent but doesn't sign the application?
+Starting 2024-25, there will be only two options for filing a FAFSA form: electronically, through
+studentaid.gov
+, or the option to file on paper, which will also be available. However, once an application is started online, all parties must complete it online. So that means that if a signature is missing, the parent or the contributor who needs to complete their section and/or sign the application must obtain an FSA ID and get into the application and complete their section.
+There is no option to print a signature page. For this reason, financial aid administrators will not be able to submit complete FAFSA forms because of the consent provision that all contributors must provide and sign.
+Students and parents will be required to have an FSA ID to complete the FAFSA application online. If they choose to mail a paper FAFSA, both will need to provide consent on the paper FAFSA, and both will need to provide wet signatures and mail the application to the Department of Education address on the paper application. This method is not recommended due to complexity and increased processing time.
+In what situations will there be a match with IRS, but IRS wouldn't provide information?
+Fraud or identity theft are the most likely reasons for the IRS not providing tax information to the applicant or the contributor. If the contributor has been flagged by the IRS, possibly due to identity theft or a breach of some sort to their information, then the IRS response code will be IRS enabled to provide information.
+What if I am a contributor and don't want to provide my information in my student's FAFSA?
+Plus Icon (Large)
+Being a contributor does NOT implicate financial responsibility. However, if a required contributor refuses to provide their information, it will result in an incomplete FAFSA form, and the student will become ineligible for federal student aid.
+What is the Student Aid Index (SAI)?
+Plus Icon (Large)
+SAI, or Student Aid Index, is replacing the term Expected Family Contribution, known as EFC. The SAI brings a change in the methodology used to determine aid.
+The SAI is a number used to determine eligibility for need-based aid. It is calculated using information the student (and contributors, if required) provides on the FAFSA form.
+The SAI will replace the Expected Family Contribution (EFC) starting in the 2024–25 award year.
+A student’s SAI can be a negative number down to –1500.
+How is Pell Grant eligibility determined?
+Plus Icon (Large)
+Maximum Pell Grant - Students may qualify for a maximum Pell Grant based on family size, adjusted gross income, poverty guidelines, and tax filing status. Students qualifying for a maximum Pell Grant will have a Student Aid Index (SAI) between –1500 and 0.
+Student Aid Index (SAI) - Students who don’t qualify for a maximum Pell Grant may still be eligible if their calculated SAI is less than the maximum Pell Grant award for the award year. The student’s Pell Grant award will be equal to the maximum Pell Grant for the award year minus their SAI.
+What if my parents are divorced? Who is the contributor to my FAFSA?
+Plus Icon (Large)
+Students who live with a single/divorced/widowed parent and receive the most support from that parent will report only one parent on the FAFSA.
+What constitutes unusual circumstances on the FAFSA 2024-25?
+Plus Icon (Large)
+Unusual circumstances are when a student is unable to contact a parent or where contact with the parent poses a risk to the student.
+Starting in the 2024–25 award year, applicants who indicate on their FAFSA form that they have unusual circumstances will be granted provisional independent status.
+Examples of unusual circumstances include human trafficking, legally granted refugee or asylum status, parental abandonment or estrangement, and student or parental incarceration.
+What you need to know:
+Students with unusual circumstances will be granted provisional independent status and can complete the FAFSA form without providing parental information.
+Students with this provisional independent student status will receive an estimate of their federal student aid eligibility.
+A financial aid administrator will make the final determination of a student’s unusual circumstances based on the documentation that the student submits to the school, or the financial aid administrator may perform their own personal assessment.
+If a school approves a student’s unusual circumstances, their independent student status will remain as long as the student stays at the same school and their circumstances don’t change.
+All unusual circumstances must be documented.

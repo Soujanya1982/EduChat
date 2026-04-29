@@ -1,0 +1,176 @@
+URL: https://eller.arizona.edu/programs/undergraduate/academics/online/curriculum/foundation
+TITLE: Online Undergraduate Foundational Curriculum | Eller College of Management
+
+Online Undergraduate foundational business administration Curriculum
+The Eller Online Undergraduate program allows students to work at their own pace.
+If you want to complete coursework at full-time status, then you would take two courses every seven weeks (four classes or 12-14 units per semester). If you prefer part-time enrollment options then you will be coached to take complimentary courses at your own pace. Your advisor/success coach will provide advising, study strategies and academic support and registration assistance along the way.
+Course Dates
+The following foundational business courses are available for self-registration through your
+UAccess Student Center
+.
+FALL 2026
+SPRING 2027
+SUMMER 2026
+Aug 24 - Oct 14
+Oct 15 - Dec 9
+Jan 13 - March 5
+March 15 - May 5
+May 18 - July 2
+July 6 - Aug 21
+ACCT 200
+ACCT 210
+ACCT 200
+ACCT 210
+ACCT 200
+ACCT 210
+BNAN 276
+BCOM 214
+BNAN 276
+BCOM 214
+BNAN 276
+BCOM 214
+ECON 200
+BNAN 277
+ECON 200
+BNAN 277
+ECON 200
+BNAN 277
+MIS 112
+MIS 111
+MIS 112
+MIS 111
+MIS 112
+MIS 111
+MATH 116 (full semester)
+MATH 116 (full semester)
+MATH 116
+Course Descriptions
+ACCT 200 Financial Accounting
+Session: 7 Week-First
+Course Description:
+This course provides an introduction to financial accounting that concentrates on concepts, relationships and the procedures involved in preparing and analyzing financial statements of for-profit business organizations. Concepts in this class include accounting for assets, liabilities and owners' equity.
+Prerequisite
+: MATH 112
+Offered:
+Fall, Spring and Summer
+ACCT 210 Managerial Accounting
+Session: 7 Week-Second
+Course Description:
+This course provides an introduction to managerial accounting that concentrates on concepts, relationships and the procedures involved in understanding the strategic decision making process of managers in for-profit business organizations. Concepts in this class include the use of accounting data in the managerial process, cost allocation systems and budgeting.
+Prerequisite(s):
+ACCT 200
+Offered:
+Fall, Spring and Summer
+BCOM 214 Business Communications 1
+Session: 7 Week-Second
+Course Description:
+Introduce students to successful business communication strategies and practices and to help them improve and develop their business communication skills for increased success in future coursework and the workplace.
+Prerequisite(s):
+ACCT 200 and BNAN 276
+Offered:
+Fall, Spring and Summer
+BNAN 276 Statistical Inference in Management
+Session: 7 Week-First
+Course Description:
+This is a first course in business statistics, with an emphasis on techniques for data analysis and inference in management. Students are assumed to be familiar with basic descriptive statistics, probability theory and probability distributions. Presentation of technical material is combined with hands-on analysis of data to aid managerial decision making. Meeting will be a mix of lecture and problem-solving. There are two objectives for the course. First, to develop a conceptual understanding of statistics and the role of data analysis in management. Second, to master the mechanics of applied statistics.
+Prerequisite(s):
+MATH 116 (Business Calculus) or MATH 122A/B (Calculus 1)
+Offered:
+Fall, Spring and Summer
+BNAN 277 Analytical Methods in Business
+Session: 7 Week-Second
+Course Description:
+Corporations today are said to be data rich but information poor. For example, retailers can easily process and capture millions of transactions every day. In addition, the widespread proliferation of social and economic activity on the Internet leaves behind a rich trail of micro-level data on consumers, their purchases, interactions, retailers and their offerings, auction bidding, music sharing and more. The business media, recruiters and the companies that hire our students constantly tell us of the need for business people to manage very large data sets and use analytical modeling to achieve business results. This course will provide foundations of quantitative analyses to equip students with the necessary background to further develop their analytical skills in their business majors. It will focus on analysis of real business datasets in the context of business-related decision making. This course introduces and reinforces the concepts, methods and applications of quantitative and statistical tools that are used by business decision makers. It will be taught as a sequel to BNAN 276, reviewing statistics concepts and single linear regression and moving to multiple linear regression and other concepts that are useful to business analytics, such as visualization techniques and software. The course will have a heavy focus on hands-on analysis of real business datasets. It will use Excel and another business-relevant statistical package, such as SPSS or SAS.
+Prerequisite(s):
+BNAN 276
+Offered:
+Fall, Spring and Summer
+ECON 200 Basic Economic Issues
+Session: 7 Week-First
+Course Description:
+National and international economic issues. An introduction to economic analysis.
+Offered:
+Fall, Spring and Summer
+MATH 116 Calculus Concepts for Business Majors
+Session: Dependent on semester
+Typically offered in 15 Week format for Spring and Fall
+Typically offered in 7 Week 1 for Summer
+Introductory topics in differential and integral calculus, with particular emphasis on understanding the principal concepts and their applications to business. Microsoft Excel and graphing calculators will be used as tools for further understanding these concepts. Except as per University policy on repeating a course, credit will not be given for this course if the student has credit in a higher level math course. Such students may be dropped from the course.
+More info
+Offered:
+Fall, Spring and Summer
+MIS 111 Computers and Internetworked Society (LECTURE)
+Session: 7 Week-Second
+Course Description:
+This course introduces students to concepts of computer technology and the impacts of Internet on social, organizational, personal and ethical issues. Students develop a sufficient understanding of computers and other issues to form critical opinions about them, as well as acquire and hone skills to recognize and evaluate their role in interacting with the Internet.
+Offered:
+Fall, Spring and Summer
+MIS 112 Computers and Internetworked Society (LAB)
+Session: 7 Week-First
+Course Description:
+This is an integrated lecture-lab course designed to introduce students to the analytical methods and tools used for business problem solving with an emphasis on analysis techniques, algorithmic design and implementation.
+NOTE:
+Lab course was previously listed as MIS 111L
+Offered:
+Fall, Spring and Summer
+General Education Requirements
+Eller Online students must also complete UA General Education requirements to earn their degree. While many Eller Online students bring prior transfer coursework to fulfill UA general education requirements, some students may need to plan for additional non-Eller or general education courses in order to complete their Eller degree. Please work with your
+Advisor/Success Coach
+to review your particular coursework and plan for these additional requirements, if needed.
+Preparing for Eller Professional Admissions
+In preparation for the transition into the selective upper-division phase of Eller College, called
+Professional Admissions
+, students much complete foundational courses in business. In order to be eligible to apply for Professional Admission to the Eller College of Management, you must meet the following requirements:
+GPA Requirement:
+Have a
+minimum cumulative GPA of at least 2.75
+on 12 or more completed, graded UA units. If fewer than 12 UA units have been completed, a transfer GPA will be calculated using all
+attempted coursework from all
+transfer institutions previously attended.
+Unit Requirement:
+Have completed a minimum of 36 units of work acceptable to the University of Arizona, and be on track to complete 50 credits by the end of the semester in which applying.
+Foundation Coursework Requirement
+: You must be complete or in progress with the necessary foundation prerequisite coursework. All foundation courses must be successfully completed by the end of the regular semester in which a student applies. Students who do not pass a foundation course that was in progress during the semester in which they applied will lose their Professional Admission and need to re-apply in a future term. The following required courses must be complete or may be in progress as noted below:
+Accounting Sequence:
+At least one complete and the other can be in progress. Acceptable courses include:
+ACCT 200 (Financial Accounting)
+ACCT 210 (Managerial Accounting)
+Business Math Sequence:
+At least two complete and the other can be in progress. Acceptable courses include:
+MATH 116 (Business Calculus)
+BNAN 276 (Business Statistics)
+BNAN 277 (Analytical Methods for Business)
+Note:
+Math 116 can be replaced with an approved Calculus course
+Please speak with the Eller Success Coach for more information about alternative Math options.
+Composition Sequence:
+At least one complete and the other can be in progress. Acceptable courses include:
+ENGL/WRIT 101
+OR
+ENGL/WRIT 107 (English Composition I)
+ENGL/WRIT 102
+OR
+ENGL/WRIT 108 (English Composition II)
+OR
+ENGL/WRIT 109H (Advanced Composition)
+Economics Sequence:
+Course(s) can be complete or in progress. Acceptable course(s) include:
+ECON 200 (Basic Economic Issues)
+OR
+ECON 201A (Microeconomics)
+and
+ECON 201B (Macroeconomics)
+Management Information Systems Course(s):
+Course(s) can be complete or in progress
+.
+Acceptable course(s) include:
+MIS 111 (Computers in an Internetworked Society)
+and
+MIS 112/111L (Excel Lab)
+MIS 112/111L is required for students who entered the UA in Fall 2012 or later.
+Business Communication Course:
+Course is typically in progress the semester in which applying for Professional Admissions:
+BCOM 214
+BCOM 214 is required for all students who began at the University of Arizona Fall 2015 or later.
+Good Academic Standing:
+Students must be in good academic standing (UA GPA of 2.0 or higher) at the UA in order to be eligible to start the cohort. Students may not start the upper-division cohort on Academic Probation (UA GPA).

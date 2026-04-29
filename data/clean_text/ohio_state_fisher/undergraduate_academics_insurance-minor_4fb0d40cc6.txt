@@ -1,0 +1,59 @@
+URL: https://fisher.osu.edu/undergraduate/academics/insurance-minor
+TITLE: Insurance Minor | Fisher College of Business
+
+Insurance Minor
+The Insurance Minor is designed to provide students across all university departments with an opportunity to complement their major studies with a Minor in Insurance; to engage students from a variety of departments to create an interdisciplinary classroom experience; and to prepare students for the various employment opportunities in the field of insurance.
+Prerequisite Courses: Before taking the minor courses, it is required that each student takes the following courses:
+College Algebra - Math 1130 or 1148 or equivalent or higher
+Microeconomics - ECON 2001.01 or equivalent
+The Insurance Minor consists of 15 credit hours, 6 of which are required and 9 of which are electives.
+Insurance Minor Advising Sheet
+Required Courses
+BUSFIN 3300 - Principles of Insurance
+Prerequisites: ECON 2001.02, 2002.01; and BUSMHR 2292
+Description: Basic Principles and main characteristics of the Insurance Industry and the fundamentals of risk identification, insurance contracts, and annuities.
+BUSFIN 4310 - Property & Liability Insurance
+Prerequisites: BUSFIN 3300, BUSOBA 2320, 2321, and BUSMHR 2292
+Description: Fundamentals of property and liability insurance, including commercial property and liability contracts, and the regulation and financial analysis or property and liability insurers
+Elective Courses
+BUSFIN 4311 - Personal Insurance
+Prerequisites: BUSFIN 3300, BUSOBA 2320, 2321, and BUSMHR 2292
+Description: Topics on the basics of life insurance, health insurance, disability and long term care insurance, homeowners and renters insurance, auto insurance.
+BUSFIN 4312 - Employee Benefits Plan
+Prerequisites: BUSFIN 3300, BUSOBA 2320, 2321, and BUSMHR 2292
+Description: Fundamentals of insurance topics related to the human resource function such as health and retirement benefits, and COBRA.
+BUSFIN 4265 - Financial Institutions
+Prerequisites: BUSFIN 4211 and 4221
+Description: Financial Institutions play an extremely important role in the functioning of the global economy and in the operation of our firms. When financial institutions fail to act properly the results can be catastrophic, both for financial markets and greater society as a whole.
+BUSFIN 3400 - Intro to Real Estate
+Prerequisites: ECON 2001.01 or 2002.01; BUSMHR 2292 or Real Estate Minor declared
+Description: A basic overview of Real Estate Industry covering topics related to finance, law, property management, land planning and acquisition, urban economics and green development.
+BUSFIN 4411 - Property Management
+Prerequisites: BUSFIN 3400, 3220, 3500; BUSOBA 2320, 2321; BUSMHR 2292
+Description: An overview of tasks performed by property management personnel/companies and the differentiation of the management approaches used for commercial and residential managers
+BUSOBA 4234 - Service Operations
+Prerequisites: BUSOBA 2320, 2321, 3230, ACCTMIS 2200, 2300, and BUSMHR 2292
+Description: Surveys a broad framework of key operations management challenges, while also focusing on a broad variety of different services via in-depth case studies.
+ACCTMIS 3400 - Tax Accounting I
+Prerequisites: ACCTMIS 3200 and BUSMHR 2292
+Description: Fundamentals of the federal income tax, and how it influences taxpayer decisions. Emphasis is on the individuals and businesses organized as proprietorships, but rules generally applicable to all taxpayers are covered.
+BUSMHR 4326 - Compensation and Benefits Administration
+Prerequisites: BUSMHR 2292, 3200, ACCTMIS 2200, 2300, and BUSOBA 2320, 2321
+Description: Provides a comprehensive framework and state-of-the-art tools for designing compensation systems via assessment of organizations needs, internal and external equity, and compensation administration.
+ECON 5860 - Health Economics
+Prerequisites: ECON 4400, 5410 or Stat 2450; and ECON 4001.01 or equivalent, or Grad standing
+Description: An introductory course to the field of health economics. Students will apply concepts from introductory and intermediate microeconomics to problems that are faced in health and medical care. The focus is on individual demand for medical care; health insurance; markets for, and institutional features of, health care providers; measuring and pricing quality, and healthcare reform.
+CSCFFS 3260 - Fundamentals of Financial Planning
+Prerequisites: CSCFFS 2260 or 9 credit hour of BUSFIN courses at the 3000-level or higher
+Description: This course provides an introduction to personal financial planning from the perspective of the financial planning professional. It is a required course in the seven-course Certified Financial Planner (CFP) sequence that qualifies students to sit for the CFP Exam after obtaining their Bachelors degree.
+CSCFFS 4260 - Family Tax Planning
+Prerequisites or concurrent: CSCFFS 3260
+Description: Analyze and evaluate financial decisions by families at various points in family life cycle, apply economic principles and understanding of basic tax policy to family financial decisions.
+Contact the Undergraduate Programs Office
+614-292-2715
+undergraduate@fisher.osu.edu
+Undergraduate Programs Office
+Fisher College of Business
+120 Schoenbaum Hall
+210 W. Woodruff Ave.
+Columbus, OH 43210-1144

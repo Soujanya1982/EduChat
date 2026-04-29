@@ -1,0 +1,64 @@
+URL: https://robins.richmond.edu/undergraduate/robins-student/excel-competency-exam/index.html
+TITLE: Excel Competency Exam - Robins School of Business - University of Richmond
+
+Excel Exam Information
+Excel is a fundamental business tool, and business school graduates should maintain at least a working level of competency in its functionality and applications. In addition, many courses within the Robins School of Business expect that students are familiar with and comfortable working with Excel. To assure our students possess at least a basic level of competency in Excel, the Robins School requires that all pre-business students beginning with the Fall 2018 entering class obtain a grade of at least 80 percent on an Excel competency exam prior to declaring an Accounting, Business Administration, or Economics-Business major or a Business minor. Students will have three attempts to obtain this grade.
+The Excel Competency Exam tests basic Excel skills along the following topic areas:
+General Concepts (such as cells, worksheets, formulas, IF statements)
+Data Sorting and Filtering
+General Formatting
+Conditional Formatting
+Autofill
+Tables
+Data Tables
+Named Ranges
+Spark Lines
+Charts
+Pivot Tables
+Printing & Page Setups
+Functions
+Text: Left, Right, Trim, Mid, Concatenate
+Logical: If, And, Or
+Lookups: VLookup, HLookup
+Numeric: Average, AverageIf, AverageIfS, Sum, SumIf, SumIfs, Max, Min, Count, CountIf, CountIfs, Round, SumProduct
+Dates: NetworkDays, WorkDay
+Student Preparation Path
+Student Resources
+The Robins School provides a number of resources to assist students in preparing for the Excel Competency Exam.
+Instructional Resources
+Visit UR IS
+to access Lynda.com Excel tutorials.
+BUAD 203: Software Tools (.5 unit elective) is available to register in class during fall and spring semesters as well as online during Summer I.
+Campus Resources
+You can view our Excel Competency Workshop here:
+2. Technology Consultants are available for individual appointment times through the
+Weinstein Learning Center's Technology Studio
+located in Boatwright Library.
+Finally, before taking the Excel Competency Exam, review these exam-specific tutorials and supporting documents to prepare for the exam.
+Final Preparation Resources
+Overview:
+Documents
+Cell Referencing and Named Ranges:
+Documents
+AutoFill:
+Documents
+Sorting and Filtering:
+Documents
+Formatting:
+Documents
+Tables:
+Documents
+Data Tables:
+Documents
+Sparklines:
+Documents
+Charts:
+Documents
+Pivot Tables:
+Documents
+Functions:
+Documents
+Print Page Formats:
+Documents
+Common Errors:
+Documents

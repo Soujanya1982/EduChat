@@ -1,0 +1,110 @@
+URL: https://carlsonschool.umn.edu/centers-institutes/analytics-for-good/gender-equality-action-group
+TITLE: Analytics for Good Institute Equality Action Group | Minnesota
+
+Analytics for Good Institute Equality Action Group
+In this section
+Analytics For Good Institute
+Mission
+Impact
+Engagement Mode
+People & Partners
+Teaching Cases
+Team
+The Analytics for Good Institute has organized a group of faculty researchers studying issues related to gender equality in the workplace. Rigorous academic research provides answers and insights that are essential to designing effective policies that lead to systemic change. Although individual projects explore various specific questions, the collective research of this group ultimately addresses three major themes: Funding & Founders, Entry & Advancement, and Value & Voice.
+Professor Mary Zellmer-Bruhn leads the group, along with
+Ravi Bapna and Ellen Trader
+.
+Mary Zellmer-Bruhn
+Dr. Mary Zellmer-Bruhn is a Professor of Organizational Behavior in the Work and Organizations Department. She joined the Carlson School of Management in 1999. Professor Zellmer-Bruhn's research focuses on teamwork, the formation and design of teams, the social capital benefits of teamwork in organizations, entrepreneurial teams, knowledge management and team routines, cross-cultural teamwork, and the impact of gender on teams.
+Faculty Profile
+Funding & Founders
+Women account for less than 10% of U.S. mutual fund managers, a field with great influence and power (e.g., U.S. managers control nearly half of global assets under management). We seek to develop programs that reduce the capital and non-capital barriers women face as they strive to lead and influence.
+Read Vivian Fang's Profile
+Vivian Fang
+Accounting Department
+Vivian Fang has developed a proposal to study how women can be more engaged in funding ventures and managing money. The question at the core of her project is, "What is the optimal mix of male and female fund managers to maximize fund performance?"
+Read Vivian Fang's Profile
+Read Paul Vaaler's Profile
+Paul Vaaler
+Strategic Management & Entrepreneurship Department
+One of Vaaler's current projects is studying gender-related differences in remittances and venture investment trends among US-based migrant communities, particularly among the substantial Twin Cities migrant communities from Somalia and Liberia.
+Read Paul Vaaler's Profile
+Manchester, Shaver & Yu
+Professor
+Colleen Manchester
+(Department of Work & Organizations), along with Professors
+Myles Shaver
+and
+Sandy Yu
+(Strategic Management & Entrepreneurship), propose to study if business accelerators and incubators attract more women-run businesses when they provide childcare and healthcare benefits. Building on past work, this research will examine claims that low rates of female entrepreneurship reflect that women are less likely to initiate and develop start-up business opportunities.
+Entry & Advancement
+Women earn only 19% of undergraduate degrees in computer and information sciences in the U.S. and make up only 7% of CEOs at Fortune 500 companies. Many admissions, hiring, and advancement decisions are made with machine learning models, perpetuating the disparities. This can be due to “algorithmic bias,” whereby models systematically produce unfair decisions for groups of people (e.g., women). We propose a fairness-aware augmented decision-making pipeline that highlights the roles played by human decision makers.
+Adomavicius & Yang
+Information & Decision Sciences Department
+Professors
+Gedas Adomavicius
+and
+Mochen Yang
+are seeking access to data on how companies use algorithmic tools for decision making. They intend to use this data to study how algorithms may impact equitable hiring and advancement and the resulting implications for gender and racial equality.
+Read Sofia Bapna's Profile
+Sofia Bapna
+Information & Decision Sciences Department
+Women are significantly underrepresented in many STEM fields, including information technology (IT). Bapna and collaborators Russell Funk and Alan Benson are studying ways to increase women's participation in job searches in these fields. In various projects, they are exploring how factors like maternity leave benefits, job rejection communications, and job description advertisements impact women’s participation in IT job searches.
+Read Sofia Bapna's Profile
+Value & Voice
+Female contributions to work products are often diminished. To amplify the value of women’s contributions, we aim to narrow disparities related to performance appraisals and team dynamics,We also see to demonstrate causal links between interventions and outcomes related to current and future women leaders in influential sectors. Initially, we plan to focus on the Twin Cities before extending to a national scale.
+Read Elizabeth Campbell's Profile
+Elizabeth Campbell
+Department of Work and Organizations
+Campbell's work in this area seeks to narrow disparities related to performance appraisals and team dynamics. In particular she is designing studies of how diminished women's roles impact teams, and how that leads to diminished value of women's work products
+Read Elizabeth Campbell's Profile
+Read Colleen Manchester's Profile
+Colleen Manchester
+Department of Work and Organizations
+Diversity initiatives are prevalent, but not always effective. Manchester and her co-authors are investigating whether leaders can increase diversity initiative effectiveness by using certain types of rhetoric. Outcomes measured will include employee attitudes and efforts towards facilitating an inclusive and diverse workplace.
+Read Colleen Manchester's Profile
+Published Work
+Participating faculty (indicated in
+bold
+) have already published research on these topics. Examples are linked below.
+Funding & Founders
+Cummings, Michael E. and
+Vaaler, Paul M
+., Migrant Gender and the Venture Funding Impact of Remittances to Developing Countries (August 7, 2019).
+Bapna, Sofia
+and Ganco, Martin, Gender Gaps in Equity Crowdfunding: Evidence from a Randomized Field Experiment (March 12, 2020). Available at SSRN:
+https://ssrn.com/abstract=3263533
+or
+http://dx.doi.org/10.2139/ssrn.3263533
+Entry & Advancement
+Adomavicius, G.
+, &
+Yang, M.
+(2019). Integrating Behavioral, Economic, and Technical Insights to Address Algorithmic Bias: Challenges and Opportunities for IS Research. Economic, and Technical Insights to Address Algorithmic Bias: Challenges and Opportunities for IS Research (September 3, 2019).
+http://dx.doi.org/10.2139/ssrn.3446944
+Benson, A.
+Rethinking the Two-Body Problem: The Segregation of Women Into Geographically Dispersed Occupations. Demography 51, 1619–1639 (2014).
+https://doi.org/10.1007/s13524-014-0324-7
+Chan, J.
+, & Wang, J. (2014). Hiring biases in online labor markets: The case of gender stereotyping. Paper presented at 35th International Conference on Information Systems: Building a Better World Through Information Systems, ICIS 2014, Auckland, New Zealand.
+https://aisel.aisnet.org/icis2014/proceedings/EconomicsandValue/18/
+Langer, N., Gopal, R. D., &
+Bapna, R.
+(2020). Onward and Upward? An Empirical Investigation of Gender and Promotions in Information Technology Services. Information Systems Research.
+https://doi.org/10.1287/isre.2019.0892
+Wanberg, C. R., Ali, A. A.
+, & Csillag, B. (2020). Job seeking: The process and experience of looking for a job.
+https://www.annualreviews.org/doi/full/10.1146/annurev-orgpsych-012119-044939
+Aguiar Wicht, L.,
+Waldfogel, J.
+, & Waldfogel, S. (2018). Playlisting Favorites: Is Spotify Gender-Biased? (No. 2018-07). Joint Research Centre (Seville site).
+https://ideas.repec.org/p/ipt/decwpa/201807.html
+Value & Voice
+Bhave, D. P., &
+Glomb, T. M.
+(2009). Emotional labour demands, wages and gender: A within‐person, between‐jobs study. Journal of Occupational and Organizational Psychology, 82(3), 683-707.
+https://doi.org/10.1348/096317908X360684
+Martin, S. L., Liao, H., &
+Campbell, E. M.
+(2013). Directive versus empowering leadership: A field experiment comparing impacts on task proficiency and proactivity. Academy of Management Journal, 56(5), 1372-1395.
+https://doi.org/10.5465/amj.2011.0113

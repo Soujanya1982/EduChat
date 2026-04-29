@@ -1,0 +1,189 @@
+URL: https://warrington.ufl.edu/current-students/undergraduate/advising/electives
+TITLE: Undergraduate Electives - UF Warrington College of Business
+
+Undergraduate electives
+Enhancing your degree with specialized courses
+Business majors are encouraged to take additional business courses to serve as their electives. Other courses outside the college may also be useful and may count toward your general education, restricted elective, or minor requirements.
+When choosing an elective, ask yourself the following questions:
+Will this course expand my knowledge of business?
+Will this course give me a broader personal or professional perspective?
+Will this course help me develop skills that I can use in the workplace?
+How will this course look on my resume/transcript?
+Would this course be worth discussing in a job interview?
+Does this course really interest me?
+Does this course count toward a minor or some other degree requirement?
+Recommended business courses
+Ethics in Global Business
+BUL 4443
+Explores issues involving the role of individuals, citizens, business, and government in promoting profitable but responsible commerce and socially beneficial business activity.
+Principles of Entrepreneurship
+ENT 3003
+Practical, hands-on understanding of the stages of entrepreneurial process. Focus on the decision-making process within a start-up company.
+Venture Capital & Private Equity
+FIN 4934
+Students will learn about venture capital and private equity investing by exercising the skills used by professional firms. Learning activities will include developing and evaluating business plans, valuation and calculating potential investment returns, deal structuring, and developing debt structuring models.
+Sales Management
+MAR 4403
+Principles, methods and problems relating to the management of a sales force; selection/training, organization, compensation/stimulation, and control.
+Real Estate Analysis
+REE 3043
+Principles of real estate decision making within the context of our economic, social, legal and political-governmental systems.
+Real Estate Investment Decision Making
+REE 4303
+Explores real estate investment and the demands, skills and challenges of decision-making for those who make such investments.
+Business electives for general studies majors
+General Studies (BABA-GBA) majors must take 11-12 credits of required business electives from the Heavener School of Business or Fisher School of Accounting. These courses must be 3,000-4,000 level courses.
+Only one GEB professional communication course (GEB2216 or GEB3218) can be used as a business elective. Additionally, you must complete both courses (GEB2216 or GEB3218) to have one of them count towards the business electives requirement. Internship courses, independent study, or assistantship credit will not count toward this requirement. Business electives must be taken at UF or through an approved study abroad program. Courses taken as S/U option will not count toward this requirement.
+Accounting
+Financial Accounting and Reporting 1
+ACG 3101
+This course covers the theoretical structure of financial accounting, required financial statements, revenue recognition, operating assets and current liabilities.
+Business Processes and Accounting Information System 2
+ACG 3401
+This course provides an examination of the accounting information systems in a business organization. Coverage extends over topics such as business processes, internal controls, and the fundamentals of accounting information systems analysis, design, implementation and control.
+Financial Accounting and Reporting 2
+ACG 4111
+Continuation of ACG 3101 and includes coverage of accounting for investments, non-current liabilities and equities, accounting for income taxes, derivatives, accounting changes, statement of cash flows and earnings per share.
+Cost and Managerial Accounting
+ACG 4341
+Extends cost and managerial coverage beyond that covered in ACG 2071. Topics include quantitative cost estimation, standard costing, flexible budgets, inventory management, pricing decisions, balanced scorecard, costs of quality, capital budgeting, transfer pricing and performance evaluations.
+Business Administration – General
+Leading Organizations
+GEB 3017
+Provides a strategic foundation for leadership practice in a variety of professions. Increases the capacity to lead with and without authority, across boundaries, and from any political or organization positions
+Effective Career Management
+GEB 3035
+Systematically designed course based on the cognitive information processing theory for career problem solving and decision-making. The course is delivered via modularized multi-media instructional materials. The course is designed to inform students about career planning and management interventions and to accommodate students at different levels of decidedness about their career aspirations.
+Professional Writing in Business
+GEB 2216
+Designed to teach business students fundamental written communication skills focusing on those areas central to professional writing in business.
+Professional Speaking in Business
+GEB 3218
+Designed to teach business students the fundamental communication skills necessary for succeeding in a business setting, including presentations and speeches, interpersonal skills, and interviewing.
+Entrepreneurship
+Principles of Entrepreneurship
+ENT 3003
+Practical, hands-on understanding of the stages of entrepreneurial process. Focus on the decision-making process within a start-up company.
+Introduction to Social Entrepreneurship
+ENT 3503
+Social entrepreneurship involves using the skills and strategies of business to innovatively and sustainably solve social, environmental, and economic problems. The ventures created by social entrepreneurs can be non-profits, for-profits, or innovative hybrid models. This course aims to educate, inspire, and empower students to become change makers.
+Creativity and Innovation in the Business Environment
+ENT 4614
+Examination of the creativity process and the organizational environment of several organizations recognized as creative and innovative. Course is organized around class discussions, workshops, projects, both individual and team-based, cases, a field trip and visiting experts. The course is very interactive and is based in experiential learning.
+Special Topics
+FIN 4934
+Special topics in entrepreneurship-related fields of study. Past topics have included Business Plan Lab, Small and Family Business, Entrepreneurship Post Mortem, and Dilemmas & Debates.
+Finance
+Financial Management
+FIN 4414
+An integrative examination of theory and practice of managerial finance, financing and investing decisions as affected by risk, timing and financial markets.
+Equity & Capital Markets
+FIN 4504
+Financial markets; institutions & instruments associated with equity funds; the mechanics & mathematics of stock prices; security analysis & factors influencing stock values.
+Special Topics
+FIN 4934
+Special topics in finance-related fields of study. One of previous special topics discussed investment management.
+Introduction to Financial Planning & Wealth Management
+FIN 3124
+An examination of the financial planning process, professional conduct and regulation, and education planning. Students analyze personal financial information, construct financial statements, develop financial strategies, and understand the components of a written financial plan.
+Estate & Tax Planning
+FIN 4132
+A focus on the fundamentals of estate planning, including the transfers of wealth by gift or at death. Trusts, guardianships and post mortem planning are covered. Also covers the taxation of income by federal government, focusing on the planning and preparation of federal tax returns around estate planning.
+Financial Plan Development
+FIN 4128
+Covers retirement needs, individual, corporate, and government retirement plans, plus group benefits plans. Examines professional issues in financial planning, including ethical considerations, regulation and certification requirements, written and oral communication skills, and professional responsibility.
+Risk Management and Insurance
+RMI 3011
+Identification of various types of risks; principles underlying selection of appropriate means of handling risks; introduction to life, health, property, liability and other area of insurance.
+Information Systems & Operations Management
+Computing in the Business Environment
+ISM 3004
+Presents fundamental concepts from two perspectives: the individual business computer user and the corporate business computing environment. Introduces common business computing applications; this is not a hands on applications training course. Students use their existing computer skills to complete assignments.
+Business Systems 1
+ISM 3254
+Introduces the basic tools for building business systems using object-oriented and event-driven programming paradigms. Emphasis will be placed on using Java, C# and J# to illustrate these ideas.
+Business Systems 2
+ISM 3255
+Continues developing the basic tools for building business systems using object-oriented and event-driven programming paradigms. Emphasis will be placed on using C++ to illustrate these ideas.
+Business Systems Design and Applications
+ISM 4113
+Conceptual foundations of the process, data and object oriented approaches for the analysis and design of business systems. Systems development life cycle, rapid application design, CASE tools also covered.
+Database Management
+ISM 4210
+Introductory course on database management. Topics covered include various stages in a database development process such as conceptual, logical, application, and physical design.
+Business Data Communications 1
+ISM 4220
+Various aspects of telecommunication systems, the use of local and wide area networks, the Internet, wireless technologies and distributed systems for decision making and strategic management questions relating to business goals, long-range planning and budgeting.
+Information Systems and Operations Strategy
+ISM 4330
+Policy and management issues surrounding information systems and operations management in today’s enterprises.
+Managerial Operations Analysis 1
+QMB 4701
+Introduces the concepts and applications of management science; become more confident in understanding and using deterministic analytic models.
+Managerial Operations Analysis 2
+QMB 4702
+Overview of stochastic applications of Management Science. Students will learn stochastic modeling techniques and introductory visual basic.
+Management
+Ethics in Global Business
+BUL 4443
+Explores issues involving the role of individuals, citizens, business, and government in promoting profitable but responsible commerce and socially beneficial business activity.
+Organizations: Structure and Behavior
+MAN 3240
+Individual group & organizational issues that affect & shape businesses. Topics: individual differences, motivation, communication, decision making, leadership, power, organizational structure & design, and change.
+Human Resource Management
+MAN 4301
+Major human resource management functional areas. Topics: organizational employment planning, employment regulation, job analysis, performance assessment, recruitment & selection, training & development, employee/labor relations, and compensation
+Integrated Product and Process Design 1
+MAN 4538
+The first part of a two-course sequence in which multidisciplinary teams of engineering and business students partner with industry sponsors to design and build authentic products and processes-on time and within budget. Working closely with industry liaison engineers and a faculty coach, students gain practical experience in teamwork and communication, problem solving and engineering design, and develop leadership, management and people skills.
+Integrated Product and Process Design 2
+MAN 4539
+Continuation of the two-course sequence in which multidisciplinary teams of engineering and business students partner with industry sponsors to design and build authentic products and processes, on time and within budget.
+Strategic Management
+MAN 4723
+Evaluation of the key functions of organizations & integration of these functions to achieve competitive advantages. Topics: strategic formulation, implementation, and evaluation.
+Leadership
+MAN 4930
+Covers the knowledge, skills, and foundation in leadership necessary to be effective in a variety of settings. Students will develop an understanding of the components that make leadership successful.
+Marketing
+Introduction to Retailing Systems and Management
+MAR 3231
+Functions, institutions and activities of retailing goods and services.
+Professional Selling
+MAR 3400
+Basic survey in professional selling. Teaches the importance of the selling role and provides basic professional selling skills; begins the preparation for a future role in sales or sales management.
+Consumer Behavior
+MAR 3503
+Emphasizes both descriptive and conceptual analysis of consumer behavior w/focus on theory and research essential to an understanding of individual choice behavior. Intensive use of contributions from the social and behavioral science literatures.
+Sales Management
+MAR 4403
+Principles, methods and problems relating to the management of a sales force; selection/training, organization, compensation/stimulation, and control.
+Marketing Management
+MAR 4803
+Development and analysis of overall marketing strategies involving product and brand development, channels of distribution, pricing and promotion with consideration of marketplace conditions and related factors affecting implementation and execution.
+Real Estate
+Real Estate Analysis
+REE 3043
+Principles of real estate decision making within the context of our economic, social, legal and political- governmental systems.
+Real Estate Investment Decision Making
+REE 4303
+Explores real estate investment and the demands, skills and challenges of decision-making for those who make such investments.
+Restricted electives
+When choosing electives, be sure to determine if you still need restricted electives. All business students who are not General Studies majors must complete 7 credits of either 3/4000 level courses or any level foreign language. This includes courses from outside of the business school (ex. ADV3008, AEC3030c, SPM3012, etc.). Internship, independent study courses graded S/U, or assistantship credit will not count toward this requirement.
+Common restricted electives
+ADV3008 Principles of Advertising
+AEC3030C Effective Oral Communication
+AEC3414 Leadership Development
+ENT3003 Principles of Entrepreneurship
+FYC3005 Intro to Personal and Family Financial Planning
+SDS3340 Career and Lifespan Planning
+SDS3482 Stress and Anxiety Management
+Research electives
+The following courses can help you develop research focused skills:
+EDF3423: Educational Research
+EDF4430: Measurement and Evaluation in Education
+EDF4440: Program Evaluation in Educational Settings
+EDF4470: Survey Research Methods in Education
+Need help with electives?
+Your advising team can guide you through decisions about which electives to take so you stay on track to graduation.
+Contact an advisor

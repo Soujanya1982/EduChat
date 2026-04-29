@@ -1,0 +1,222 @@
+URL: https://business.tcnj.edu/about-the-school-of-business/financial-learning-center
+TITLE: Financial Learning Center – School of Business
+
+Financial Learning Center
+The TCNJ School of Business Financial Learning Center was established in 2007. It installed a dual-access Bloomberg terminal that provides students with access to the same market data, news, and technology available to professional traders in financial institutions. In 2024, the School of Business installed a new ticker outside of the Financial Learning Center, which is located in the Business Building, Room 231.
+Students must reserve time to use the Bloomberg terminal for intervals up to 2 hours (no more than one 2-hour slot per day) by following
+these instructions
+. Please note the email for approving reservations is only monitored during business hours (M-F, 8:00 am to 4:00 pm).  Be sure to request reservations for evenings and weekends during these hours. You will receive a calendar approval or decline with an email explanation.
+Note: No food or drink of any kind is allowed in this room, and the room is not to be used as a meeting space.
+To create a Bloomberg account:
+Log into the Bloomberg computer with your TCNJ login and password.
+Click on the Bloomberg icon on the desktop.
+Press
+< GO >
+without entering a username or password.
+Provide the information requested. Be sure to provide your cell phone number.
+Remain near the terminal to activate the account as Bloomberg will provide account information via text message within a few minutes.
+If you have difficulties with the system, Bloomberg has help available directly from the terminal via their
+Customer Support website.
+Bloomberg Market Concepts is an 8 hour web-based, self-paced introduction to finance woven from 70 Bloomberg terminal functions, Bloomberg News and Bloomberg Television. It covers four topics: Economic Indicators, Curr
+encies, Fixed Income and Equities. BMC is accessible at BMC<GO>. There is no charge for TCNJ students completing the BMC on the Bloomberg terminal.
+See Fact Page.
+Getting started at the Bloomberg terminal
+:
+Log-in
+|
+Navigation
+|
+Where’s Help
+|
+Downloading
+|
+E-mailing
+|
+Printing
+|
+Opening Excel Spreadsheet
+|
+Company Search
+|
+Company Financials
+|
+Financial Analysis
+|
+Stock Prices
+|
+Finding Options
+|
+Comparative Return Analysis
+|
+Total Return Analysis
+|
+Historical Beta
+|
+Analyst Recommendations
+|
+Corporate Bonds
+|
+Government Bonds
+|
+Exchange Rates
+|
+Spot and Forward Rates
+|
+Company News
+|
+Graphing
+|
+League Tables
+|
+M&A Analysis
+|
+Yield Curves
+|
+Fair Market Curve Indices
+|
+Forward Curve Analysis
+|
+Futures
+Log-in
+Students can now log into the Bloomberg computer using their TCNJ login and password.
+Click on desktop Bloomberg icon (if program not already open).
+Once Bloomberg has launched, hit the red <
+DEFAULT
+> key to login to Bloomberg.
+Type your assigned Bloomberg login ID and password into the boxes in the upper left hand corner of the screen and hit
+< GO >
+Student can now begin using Bloomberg.
+Navigation
+Yellow Market Sector Keys
+<CMDTY>: Commodities, futures, options, spot rates
+<CORP>: Corporate Debt
+<CRNCY>: Spots, futures, options on over 100 currencies
+<EQUITY>: ADRs, mutual funds, rights, stocks, options, warrants
+<GOVT>: Worldwide sovereign and agency securities
+<INDEX>: World financial markets, economic indices.
+<M-MKT>: Continuously issued and short-term dated paper
+<MTGE>: Mortgage-backed security pass-throughs
+<MUNI>: U.S. municipality issued debt
+Green Action Keys
+GO: Activates all commands
+MENU: Go back one level
+PAGE UP/PAGE DOWN: Navigate between pages
+Tip: Use the Cancel key to start over
+Where’s Help?
+At the cursor prompt at the top of the screen enter your term and hit the <HELP> key.
+Example: Beta <HELP> Choose from the results screen for more information on your topic.
+Sector Help
+SECTOR KEY <GO> then <HELP>
+Example: <CMDTY> <GO> then <HELP> (The help key can be used at any screen or menu level)
+Instant Message with Bloomberg
+Type IB HELP <GO> or Hit the <HELP> key twice and type your question.
+Downloading from Bloomberg
+Open Microsoft Excel, click on Bloomberg from the menu and choose Import Data. For more information about using this feature enter BBXL <GO> at the terminal.
+Emailing from Bloomberg
+Enter GRAB <GO>
+This will email the screen to you as a screen shot.
+To email data that you copied and pasted into Excel, save the file to the My Documents folder. Enter PFM <GO>. Click on Compose.
+Printing from Bloomberg
+To print from Bloomberg hit the green Print key at the top right of the keyboard. Your print job will be sent to networked printer.
+Opening an Excel Spreadsheet from USB drive
+Open Excel
+Click on Open documents and type e:\ in the file name field
+Search by Company Name
+Type company name at cursor prompt and hit the <HELP> key
+Example: Dell Inc <HELP> <GO>
+Search by Ticker Symbol
+Find the ticker symbol for the company:
+Hit the <EQUITY> key, then enter TK <GO>
+Enter the company name <GO>
+If you know the ticker symbol for the company go directly by entering:
+Ticker Symbol <EQUITY> <GO>
+Company Financials
+Enter Ticker Symbol <EQUITY> <GO>
+Then choose 9) Fundamentals and Earnings Analysis OR go directly by entering:
+Ticker Symbol <EQUITY> CH1 <GO> for a Financial Summary
+Ticker Symbol <EQUITY> CH2 <GO> for Income Statements
+Ticker Symbol <EQUITY> CH3 <GO> for Balance Sheets
+Ticker Symbol <EQUITY> EE <GO> for Earning Estimates
+Ticker Symbol <EQUITY> HE <GO> for a Price/Earnings Ratio Table
+Tip: For definitions and information on calculations in a company’s financial statement type FDO <GO>
+Financial Analysis
+Enter Ticker Symbol <EQUITY> <GO>
+Then choose 9) Fundamentals and Earnings Analysis and then 1) Financial Analysis OR go directly by entering:
+Ticker Symbol <EQUITY> FA <GO>
+Historical Stock Prices
+Enter:
+Ticker Symbol <EQUITY> <GO>, then choose 4) Historical Prices OR go directly by entering:
+Ticker Symbol <EQUITY> HP <GO> for Historical Prices
+Ticker Symbol <EQUITY> GP <GO> for a Historical Price Graph with Volume
+Finding Options
+Enter:
+Ticker Symbol <EQUITY> <GO> then choose 6) Options, Warrants and Contracts OR go directly by entering:
+Ticker Symbol <EQUITY> OMON <GO> (OMON = Option Monitor. This will provide all current and future Calls and Puts for the equity.)
+Comparative Return Analysis
+Compare the stock price, returns and dividends of two equities:
+Enter: Ticker Symbol <EQUITY> Ticker Symbol <EQUITY> COMP <GO>
+Total Return Analysis
+For an Equity:
+Ticker Symbol <EQUITY> <GO> then choose 10) Relative Performance/Total Return OR go directly by entering:
+Ticker Symbol <EQUITY> TRA <GO>
+For an Index:
+Index Symbol <INDEX> <GO> then choose 10) Relative Performance/Total Return OR go directly by entering:
+Index Symbol <INDEX> TRA <GO>
+Historical Beta
+Enter:
+Ticker Symbol <EQUITY> <GO> then choose 11) Risk/Volatility Analysis OR go directly by entering:
+Ticker Symbol <EQUITY> BETA
+Analyst Recommendations
+Enter:
+Ticker Symbol <EQUITY> <GO> then choose 7) News/Research/Chat OR go directly by entering:
+Ticker Symbol <EQUITY> ANR <GO>
+Finding Corporate Bonds
+Search by Issuer:
+Ticker Symbol <CORP> <GO> (This will list all bonds issued by the equity. Choose a specific bond for more information.)
+To search for specific bond:
+Ticker Symbol Coupon Rate Maturity <CORP> <GO>
+Example: IBM 5.4 01/26/09 <CORP> <GO>
+Finding Government Bonds
+Enter: WB <GO> for a listing of major government bonds around the world
+To find US Treasury Bonds directly enter:
+CT10 <GOVT> <GO> for the 10 year bond or CT5 <GOVT> <GO> for the 5 year (This formula can be used for any US benchmark bond)
+To find the 3 month T-Bill enter: CB3 <GOVT> <GO>
+For US Generic Bonds enter:
+USGG5YR <INDEX> <GO> for the 5 year or USGG10YR <INDEX> <GO> (This formula can be used for any US generic bond)
+Exchange Rates
+For Exchange Rates by region enter:
+<CRNCY> TKC <GO>
+For World Currency Rates enter:
+<CRNCY> WCR <GO>
+Spot and Forward Rates
+For Spot and Forward Rates enter:
+<CRNCY> FRD <GO>
+Company News
+Enter Ticker Symbol <EQUITY> <GO> then choose 7) News/Research/Chat OR go directly by entering:
+Ticker Symbol <EQUITY> CN <GO>
+Using the Graphing Function
+Enter:
+G <GO> then choose 1 <GO> to create a new graph. Follow instructions to set-up a graph.
+League Tables [for Equity or Bond deals]
+Enter:
+LEAG <GO> then choose the appropriate League Table
+M&A Analysis
+Enter:
+MA <GO>
+Click on #7 for League Tables
+Yield Curves
+Enter:
+YCRV <GO>
+Fair Market Curve Indicies
+Enter:
+FMCI <GO>
+Forward Curve Analysis
+Enter:
+FWCV <GO>
+Futures
+To display prices of major futures conturacts:
+Enter:
+WF <GO>
+For information about Bloomberg L.P., visit their website at:
+https://www.bloomberg.com
+.

@@ -1,0 +1,223 @@
+URL: https://robins.richmond.edu/undergraduate/departments/accounting/major-concentration.html
+TITLE: Accounting Major & Concentration Requirements - Accounting - Academic Departments - Undergraduate - Robins School of Business - University of Richmond
+
+Accounting Major & Concentration Requirements
+Major
+The Accounting Major
+In addition to the requirements for the B.S.B.A. degree outlined below, all accounting majors must complete seven additional courses in accounting.
+Candidates for a B.S.B.A. must:
+Satisfy the general degree requirements for graduation
+Complete the following pre-business courses:
+ACCT201
+Fundamentals of Financial Accounting
+BUAD202
+Statistics for Business and Economics
+BUAD205
+Business Communication
+ECON101
+Principles of Microeconomics
+ECON102
+Principles of Macroeconomics
+MATH211
+Calculus I
+Complete the following core courses except as noted:
+AO225
+Information Technology and Data Analytics
+AO340
+Operations Management
+BUAD393
+Business Law
+BUAD394
+Business Ethics
+BUAD497
+Strategic Management *
+FIN360
+Principles of Financial Management
+MGMT330
+Organizational Behavior
+MKT320
+Principles of Marketing
+*The International Business concentration requires
+IBUS411
+in lieu of
+BUAD497
+.
+Participate in a full semester University of Richmond approved study abroad program or complete a course with an international business or international business economics focus. This international focus course also may satisfy a concentration or major requirement.
+Required accounting core courses:
+ACCT301
+Intermediate Financial Accounting I
+ACCT302
+Intermediate Financial Accounting II
+ACCT305
+Cost and Managerial Accounting
+ACCT307
+Accounting Information Systems
+ACCT312
+Federal Tax 1
+ACCT417
+Auditing
+ACCT431
+Advanced Financial Accounting
+Substitutions in the accounting major are permitted if approved by the chair of the accounting department.
+Note: A grade point average of no less than 2.0 in the accounting coursework comprising the major is required.
+All students declaring a major or minor in the Robins School of Business must first pass an online Excel competency exam. Students will have three attempts to demonstrate competency with a grade of 80% or higher. This is not for a grade or academic credit.
+Students who have completed
+ACCT305
+cannot register for
+ACCT205
+, Fundamentals of Managerial Accounting.
+Only two Accounting electives may be taken abroad. Accounting majors
+may receive transfer credit for
+ACCT305
+. They cannot receive transfer credit for any other 300- or 400-level accounting courses required for the Accounting major.
+Concentration
+The Accounting Concentration
+The accounting concentration is available only to students enrolled full time in the Robins School of Business with a major or concentration in business analytics, economics business, finance, international business, management consulting, management entrepreneurship, or marketing.
+In addition to satisfying the B.S.B.A. degree requirements for a Robins School major, the accounting concentration requires a minimum of four courses and a maximum of six chosen from:
+ACCT301
+Intermediate Financial Accounting 1 (required)
+ACCT302
+Intermediate Financial Accounting 2 (required)
+Two to four courses additional, chosen from:
+ACCT305
+Cost and Managerial Accounting
+ACCT307
+Accounting Information Systems
+ACCT312
+Federal Tax 1
+ACCT313
+Federal Tax 2
+ACCT359
+ST: Cybersecurity for Accountants
+ACCT359
+ST: Forensic Accounting
+ACCT359
+ST: Sustainability Initiatives and Reporting
+ACCT417
+Auditing
+ACCT431
+Advanced Financial Accounting
+Notes: Both
+ACCT301
+and
+ACCT302
+are required in the concentration. Some of the accounting courses are not offered every semester or every year. Many of the upper-level accounting courses have prerequisites that should be taken into account when planning your curriculum.
+Accounting concentrators take
+ACCT305
+: Cost and Managerial Accounting in lieu of
+ACCT205
+.
+ACCT 305
+satisfies the RSB core course requirement for
+ACCT205
+, and it also counts as one of the four courses needed to fulfill the accounting concentration. Students who have completed
+ACCT 305
+cannot register for
+ACCT205
+, Fundamentals of Managerial Accounting.
+Only two Accounting electives may be taken abroad.
+Accounting
+Expand All
+ACCT 201 Fundamentals of Financial Accounting
+Units: 1
+Description
+Introductory financial accounting course focusing on the financial statements that businesses produce to tell their financial story, including profitability, the flow of cash, and the balances these companies have in their various accounts.  Discussion of how these financial statements are developed and how investors, creditors, and others use the information in these financial reports to make economic decisions.
+ACCT 205 Fundamentals of Managerial Accounting
+Units: 1
+Description
+Introduction to fundamental managerial accounting concepts and the interrelationships among them. Managerial accounting improves the quality of managers' decisions regarding the internal operation of their organizations. Examines how managerial accounting relates to financial accounting and how different interpretations of the term “cost”, such as direct vs. indirect, variable vs. fixed, controllable vs. uncontrollable, and irrelevant vs. relevant affects managers’ decisions making. Also addresses operational budgeting and performance evaluation.
+Prerequisites
+ACCT 201
+ACCT 215 Volunteer Income Tax Assistance 1
+Units: 0.5
+Description
+Participation in the national Internal Revenue Service (IRS)-sponsored program that assists individuals with preparing and filing their tax returns. Interact with members of the Richmond community and make a significance difference in their lives by helping them complete their tax returns. Note: Does not count toward the accounting major or concentration.
+ACCT 259 Special Topics in Accounting
+Units: 0-1
+Description
+Accounting topics not covered in other courses.
+Prerequisites
+Prerequisites are set by the instructor
+ACCT 301 Intermediate Financial Accounting 1
+Units: 1
+Description
+Close examination of the creation of financial statements and the theory and process behind the numbers and formats used on those financial reports. Provides the theoretical and practical foundation needed to address all financial reporting topics with particular emphasis on financial statement formats, revenue recognition, cash and receivables, inventory, property, plant and equipment, intangibles, and investments. Discussion centers around U.S. GAAP requirements, although International Financial Reporting Standards will also be discussed.
+Prerequisites
+ACCT 201
+ACCT 302 Intermediate Financial Accounting 2
+Units: 1
+Description
+Continues the coverage of some of the most complex accounting issues faced by entities in producing their financial statements such as the reporting of contingencies, leases, deferred taxes, defined benefit pension plans, and earnings per share in order to enable decision-makers to look beyond financial statement explanations and figures to an understanding of the accounting rules and how they are implemented in arriving at financial information that is presented fairly according to U.S. GAAP.
+Prerequisites
+ACCT 301
+ACCT 305 Cost and Managerial Accounting
+Units: 1
+Description
+Exploration of the concepts and tools that assist managers in making complex operational decisions in a dynamic environment in order to determine the cost of goods sold and to value the inventories that manufacturing companies reported on their external financial statements and support the decision-making of cross-functional management teams within manufacturing, merchandising, and service organizations. Interpretation of relevant information in the context of developing, implementing, and evaluating operational plans and objectives.
+Prerequisites
+ACCT 301, Business School major
+ACCT 307 Accounting Information Systems
+Units: 1
+Description
+Introduction to accounting information systems with specific emphasis on business processes, risks, and internal controls. Development of an analytics mindset and use data analytics tools (e.g., Excel) to analyze information and make informed business decisions.
+Prerequisites
+ACCT 301 and MGMT 225 or MGMT 325, Business School major
+ACCT 312 Federal Tax 1
+Units: 1
+Description
+Focuses on federal taxation in the United States. In-depth look at individual income taxation, including filling out a basic individual tax return and consideration of the tax consequences of personal investment decisions. Also examines entity taxation. Discusses differences between corporate and partnership taxation an the effects of the Tax Cuts and Jobs Act of 2017 (tax reform) as well as potential upcoming tax law changes.
+Prerequisites
+ACCT 301, Business School major
+ACCT 313 Federal Tax 2
+Units: 1
+Description
+In-depth look at how business entities are taxed under the U.S. tax code. Focuses specifically on the tax rules for C corporations, partnerships, and S corporations. Also covers the Tax Cuts and Jobs Act of 2017 (tax reform) impacted entity taxation and how future tax law changes may impact entity taxation.
+ACCT 315 Volunteer Income Tax Assistance 2
+Units: 0.5
+Description
+Follow-up course to ACCT 215 provides extended involvement with the national Internal Revenue Service (IRS)-sponsored program that assists individuals with preparing and filing their tax returns.  As in ACCT 215, students will interact with members of the Richmond community and help them complete their tax returns.  Gain supervisory skills though reviewing and approving the work of other volunteers prior to submitting completed tax returns to the IRS for processing. Note: Does not count toward the accounting major or concentration.
+Prerequisites
+ACCT 215
+ACCT 328 Directed Independent Study
+Units: 0.5-1
+Description
+Independent research on an accounting topic conducted under the direct supervision of an instructor.
+Prerequisites
+Permission of instructor
+ACCT 359 Special Topics in Accounting
+Units: 0.5-1
+Description
+Accounting topics not covered in other courses to enhance the accounting major and concentration.
+Prerequisites
+Prerequisites are set by the instructor
+ACCT 388 Professional Accounting Internship
+Units: 0-1
+Description
+This course provides the opportunity to focus on your career goals through academic discussions and reflections on current accounting issues while working in a professional accounting internship with a public or private enterprise. The internship is required to be pre-approved by the instructor and requires a minimum of 150 hours of work. This course may not be counted toward the accounting major or concentration.
+Prerequisites
+ACCT 301
+ACCT 406 Summer Undergraduate Research
+Units: 0
+Description
+Documentation of the work of students who receive summer fellowships to conduct research [or produce a creative arts project] in the summer. The work must take place over a minimum of 6 weeks, the student must engage in the project full-time (at least 40 hours per week) during this period, and the student must be the recipient of a fellowship through the university. Graded S/U.
+Prerequisites
+Approval by a faculty member
+ACCT 415 Volunteer Income Tax Assistance 3
+Units: 0.5
+Description
+Building on ACCT 315 (VITA 2) this course provides managerial experience in the national Internal Revenue Service sponsored program, Volunteer Income Tax Assistance (VITA).  VITA provides free tax preparation and filing services to low-income communities. As in VITA 2, students will work with community members helping them file their tax returns and performing quality review of returns prepared by other volunteers.  In addition, VITA 3 students will be Assistant Site Managers working with the Site Manager to run the VITA site operations gaining managerial skills.
+Prerequisites
+ACCT 315
+ACCT 417 Auditing
+Units: 1
+Fulfills General Education Requirement(s): IF-Written Communication (IFWC)
+Description
+Professional standards for evaluating and reporting on financial statements, and the ethical, legal, and competitive environment of auditing.
+Prerequisites
+ACCT 302, Business School major
+ACCT 431 Advanced Financial Accounting
+Units: 1
+Description
+Focuses on business combinations and consolidated financial statements. Preparation of consolidated financial statements with outside ownership and with intra-entity transactions. Covers foreign currency transactions and hedging foreign exchange risk, and translation of foreign currency financial statements. Introduces  government accounting and not-for-profit accounting.
+Prerequisites
+ACCT 302 and senior standing

@@ -1,0 +1,35 @@
+URL: https://robins.richmond.edu/undergraduate/departments/analytics-operations/facts.html
+TITLE: Fact Sheet - Management - Academic Departments - Undergraduate - Robins School of Business - University of Richmond
+
+Analytics & Operations Fact Sheet
+Organizations are gathering and analyzing more data than ever before. This trend is continuing to accelerate, and business managers are actively seeking business school graduates with data management and data analysis skills. The Analytics & Operations department offers introductory and advanced courses in the areas of business analytics, operations, and supply chain management. The faculty and students in the Analytics & Operations Department are interested in how organizations can organize and utilize data, in combination with statistical and optimization methods and information technology, to improve the quality and speed of business decisions and processes.
+The Business Analytics concentration will expose students to SAS (Statistical Analysis System), SQL (Structured Query Language), Python programming language, R programming language, and Alteyrx, including the advanced functionality of Microsoft Excel. The Business Analytics concentration may be added as a complement to an Accounting major or Economics Business major or as a second concentration to a Business Administration major to complement a concentration in accounting, economics, finance, international business, management consulting, management entrepreneurship, or marketing.
+Students concentrating in Business Analytics are strongly encouraged to take INFO 201 Data Analysis Software during their sophomore year. INFO 301 Advanced Applied Statistics, INFO 302 SQL and Process Optimization for the Business Analyst, and INFO 303 Machine Learning for the Business Analyst can be taken in any order.
+Visit the University of Richmond catalog for more information
+.
+Students completing business analytics coursework have been hired by many top firms, including:
+Accenture
+Aetna
+Allianz
+Avascent
+Baker Tilly Virchow Krause, LLP
+Berkeley Research Group
+Booz Allen Hamilton
+CapTech Ventures, Inc
+Carmax
+Deloitte Consulting
+EY
+FDM Group
+FTI Consulting
+Grant Thornton
+Guidehouse
+IBM
+KCIC
+Kearney
+KPMG
+Mercer
+Optimity Advisors
+PwC
+SC&H Group
+UnitedHealth/Optum
+Veris Consulting

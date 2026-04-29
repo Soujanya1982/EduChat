@@ -1,0 +1,17 @@
+URL: https://www.duq.edu/admission-and-aid/how-to-apply/international/apply-now/undergraduate/_props.html
+TITLE: Properties File for /admission-and-aid/how-to-apply/international/apply-now/undergraduate
+
+Section Properties
+To edit the following section properties, please check out this page and go to the
+Page Properties screen. Changes will take effect immediately in OU Campus - this file
+does not need to be published.
+However, the PCF files within this directory must be republished for changes to appear
+on:
+the production server
+.
+Current Folder
+/admission-and-aid/how-to-apply/international/apply-now/undergraduate
+Folder Properties
+Section Title
+Undergraduate
+Â©

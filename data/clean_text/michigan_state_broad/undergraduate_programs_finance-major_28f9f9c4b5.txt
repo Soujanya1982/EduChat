@@ -1,0 +1,370 @@
+URL: https://broad.msu.edu/undergraduate/programs/finance-major
+TITLE: Major in Finance - MSU Broad College of Business
+
+skip to main content
+Undergraduate Programs
+Pause
+Earning a finance degree at Broad isn’t just rewarding and challenging—it opens countless doors.
+Employers across the nation recognize the value of a finance degree from Broad. Our graduates are highly regarded and sought after for their knowledge, skill and superior work ethic.
+Watch Finance videos
+What can I do with this degree?
+Corporate finance   |   Capital markets and investment banking   |   Commercial banking   |   Financial advising and investments
+Business Core Curriculum and Degree Requirements
+To build a solid business foundation, there are common degree requirements for all Broad majors.
+View Requirements
+Major in Finance Requirements
+Major Field Requirements: 2.0 Minimum GPA
+Required Courses
+These required courses introduce the basic concepts that define the field of finance. They provide students with essential knowledge and financial tools that are common to careers in the field.
+ACC 300 Intermediate Financial Accounting I -OR- ACC 305 Intermediate Accounting for Finance Majors
+ACC 300 Intermediate Financial Accounting I
+3 CREDITS
+U.S. and international concepts and procedures for preparing financial statements. Revenue recognition. Accounting for receivables, inventory, plant assets, intangibles and current liabilities. Applied research methods.
+View full course description at the Office of the Registrar.
+-OR-
+ACC 305 Intermediate Accounting for Finance Majors
+3 Credits
+Major measurement, valuation and reporting concepts and procedures underlying the assets, liabilities, owners’ equity, revenues and expenses contained in financial statements. Analysis, interpretation and use of financial statements.
+View full course description at the Office of the Registrar.
+FI 312 Introduction to Investments
+3 Credits
+Theoretical and empirical analyses of securities. Risk and return formation. Security analysis and concepts of market efficiency. Common stocks, bonds, options, futures and mutual funds.
+View full course description at the Office of the Registrar.
+FI 355 Financial Modeling*
+3 credits
+Development of computer spreadsheet-based models to analyze corporate financial strategies and valuation issues.
+*This course is required for students admitted to the finance major fall 2025 or later. For students admitted to the finance major
+prior
+to fall 2025, this course can be used as a major selection course.
+View full course description at the Office of the Registrar.
+FI 414 Advanced Business Finance (Tier II)
+3 Credits
+Advanced financial management of business firms. Theoretical analysis and case applications. Capital budgeting, capital structure, valuation, risk management, mergers and corporate restructuring.
+View full course description at the Office of the Registrar.
+Major Selection Courses
+Students must earn nine (9) credits from the following finance major selection courses.
+FI 412 Advanced Investments
+3 Credits
+Financial market turbulence and evolving societal trends create both challenges and opportunities for investors. Investment concepts, core theories and leading investment techniques. Develop the ability to integrate a wide range of skills and interdisciplinary knowledge for investment excellence.
+View full course description at the Office of the Registrar.
+FI 413 Management of Financial Institutions
+3 credits
+Management, decision-making and policy formulation for depository and non-depository financial institutions emphasizing commercial banking. Savings banks, credit unions and non-bank financial institutions including investment banks.
+View full course description at the Office of the Registrar.
+FI 422 Financial Data Analytics
+3 credits
+Introduction to the analysis of real-world financial data in a variety of settings. Applying textual analysis to large documents, identifying “sentiment” in Google search data, and back-testing trading strategies. Developing the programming skills necessary to both collect and prepare data for analysis. Identifying, downloading, cleaning, and shaping data.
+View full course description at the Office of the Registrar.
+FI 424 Deep Learning and Neural Networks in Finance
+3 credits
+Basic concepts of deep learning and neural networks in finance and economics. Practical experience implementing deep learning methods with state-of-the-art algorithms in a variety of machine learning packages with applications such as forecasting, algorithmic trading, and fraud detection.
+View full course description at the Office of the Registrar.
+FI 444 Entrepreneurial Finance
+3 credits
+Financing, valuation and sale of entrepreneurial ventures. Business plans, financing sources, financial contracting, real options, staged investments, and exit strategies.
+View full course description at the Office of the Registrar.
+FI 451 International Financial Management
+3 credits
+Financial management of multinational firms. Theoretical and applied aspects of international capital budgeting, capital structure, cash management, asset pricing and risk management. Cross-cultural and ethical considerations.
+View full course description at the Office of the Registrar.
+FI 457 Security Analysis
+3 credits, 6 credits maximum
+Fundamental analysis of individual stocks. Discounted cash flow valuation, relative valuation, special situations. Management of a real-money stock portfolio, the Michigan State University Student Investment Fund.
+View full course description at the Office of the Registrar.
+FI 465 Sales and Relationship Management in Wealth Management
+3 credits
+Issues, concepts, and tactics used in the financial planning and wealth management profession to market, sell, and manage ongoing client relationships. Focus will be on those who will be working in the industry after graduation.
+View full course description at the Office of the Registrar.
+FI 473 Debt and Money Markets
+3 credits
+Role and nature of international debt and money markets. Corporate and government bond valuation, fixed income derivative instruments and bond portfolio management. Special role of “time” in debt and money markets.
+View full course description at the Office of the Registrar.
+FI 475 Behavioral Finance
+3 credits
+Examination of the effect of cognitive and psychological biases on financial decision-making. Analysis of the related consequences for market prices, investor performance, and corporate management.
+View full course description at the Office of the Registrar.
+FI 478 Investment Strategies and Speculative Markets
+3 credits
+Pricing, trading strategies, hedging applications and markets for forwards, futures, swaps and options.
+View full course description at the Office of the Registrar.
+FI 480 Financial Risk Management
+3 CREDITS
+Ways in which risks are quantified and managed by financial institutions. Nature of financial institutions and their regulation, the Basel Accords, coherent risk measures, value at risk, copulas, credit risk, operational risk, liquidity risk, and the financial crisis of 2007.
+View full course description at the Office of the Registrar.
+FI 490 Independent Study
+1-3 CREDITS
+Department approval required.
+FI 491 Topics in Finance
+1-4 credits (VARIABLE), 9 credits maximum
+Current and emerging issues in finance to supplement and enrich existing courses.
+View full course description at the Office of the Registrar.
+Suggested Course Combinations
+Here are suggested major selection courses for the most popular career paths in the world of finance, along with some potential job titles in each area.
+Corporate Finance Path
+Corporate finance involves more than setting the right debt/equity ratio that you learned about in FI 311 (though this is part of it). You’ll be analyzing revenues and expenses to make sure companies are using their capital most effectively, helping companies make the right capital investments to grow to their full potential (making shareholders happy and potentially putting a lot more quality employees to work), evaluating projects and structuring deals to help keep growth on a solid footing.
+Careers in this field include chief financial officer (CFO), treasurer, financial analyst, project manager, cash manager, corporate development officer and strategic planner.
+FI 355 Financial Modeling
+3 credits
+Development of computer spreadsheet-based models to analyze corporate financial strategies and valuation issues.
+View full course description at the Office of the Registrar.
+FI 413 Management of Financial Institutions
+3 credits
+Management, decision-making and policy formulation for depository and non-depository financial institutions emphasizing commercial banking. Savings banks, credit unions and non-bank financial institutions including investment banks.
+View full course description at the Office of the Registrar.
+FI 424 Deep Learning and Neural Networks in Finance
+3 CREDITS
+Basic concepts of deep learning and neural networks in finance and economics. Implement deep learning methods with state-of-the-art algorithms in a variety of machine learning packages.
+View full course description at the Office of the Registrar.
+FI 451 International Financial Management
+3 credits
+Financial management of multinational firms. Theoretical and applied aspects of international capital budgeting, capital structure, cash management, asset pricing and risk management. Cross-cultural and ethical considerations.
+View full course description at the Office of the Registrar.
+FI 457 Security Analysis
+3 CREDITS
+Fundamental analysis of individual stocks. Discounted cash flow valuation, relative valuation, special situations. Management of a real-money stock portfolio, the Michigan State University Student Investment Fund.
+View full course description at the Office of the Registrar.
+FI 473 Debt and Money Markets
+3 CREDITS
+Role and nature of international debt and money markets. Corporate and government bond valuation, fixed income derivative instruments and bond portfolio management. Special role of “time” in debt and money markets.
+View full course description at the Office of the Registrar.
+Capital Markets and Investment Banking Path
+Jobs in capital markets involve objective, scientific analysis of economic and market factors that help companies make the right investment decisions. Often this involves helping companies raise the capital they need to keep growing.
+Investment bankers help a company with its financing needs, and also aid in facilitating mergers and acquisitions. It’s a very complex world, but the rewards can be significant both for you and for the companies you help to grow and thrive.
+Common job titles in these areas include debt capital markets officer, equity capital markets officer, investment banker, financial strategist, trader and mergers & acquisitions analyst.
+The Chartered Financial Analyst (CFA) designation, along with an MBA, are highly recommended for this career path.
+FI 355 Financial Modeling
+3 credits
+Development of computer spreadsheet-based models to analyze corporate financial strategies and valuation issues.
+View full course description at the Office of the Registrar.
+FI 413 Management of Financial Institutions
+3 credits
+Management, decision-making and policy formulation for depository and non-depository financial institutions emphasizing commercial banking. Savings banks, credit unions and non-bank financial institutions including investment banks.
+View full course description at the Office of the Registrar.
+FI 422 Financial Data Analytics
+3 CREDITS
+Analysis of real-world financial data in a variety of settings. Apply textual analysis to large documents, identifying “sentiment” in search data, and back-testing trading strategies. Develop programming skills to collect and prepare data for analysis.
+View full course description at the Office of the Registrar.
+FI 451 International Financial Management
+3 credits
+Financial management of multinational firms. Theoretical and applied aspects of international capital budgeting, capital structure, cash management, asset pricing and risk management. Cross-cultural and ethical considerations.
+View full course description at the Office of the Registrar.
+FI 457 Security Analysis
+3 credits, 6 credits maximum
+Fundamental analysis of individual stocks. Discounted cash flow valuation, relative valuation, special situations. Management of a real-money stock portfolio, the Michigan State University Student Investment Fund.
+View full course description at the Office of the Registrar.
+FI 473 Debt and Money Markets
+3 credits
+Role and nature of international debt and money markets. Corporate and government bond valuation, fixed income derivative instruments and bond portfolio management. Special role of “time” in debt and money markets.
+View full course description at the Office of the Registrar.
+FI 475 Behavioral Finance
+3 CREDITS
+Examination of the effect of cognitive and psychological biases on financial decision-making. Analysis of the related consequences for market prices, investor performance, and corporate management.
+View full course description at the Office of the Registrar.
+FI 478 Investment Strategies and Speculative Markets
+3 credits
+Pricing, trading strategies, hedging applications and markets for forwards, futures, swaps and options.
+View full course description at the Office of the Registrar.
+Financial Planning and Wealth Management Path
+As a financial advisor, you’ll do more than crunch numbers; you will be helping people make good decisions about their future. Whether it’s managing their investment portfolio, figuring out how to control their debt, navigating the complicated tax code or maximizing retirement income, people want an expert they can trust. It’s a role that requires not only technical knowledge but also strong people skills like communication, relationship management, listening and being empathic.
+The title “financial advisor” is a broad description of many other types of careers you can have in this field. Other jobs include chief investment officer, portfolio manager, relationship manager, financial planner, investment analyst, trust officer, retirement plan specialist and account executive.
+The Financial Planning and Wealth Management minor will provide you with a solid understanding of the cutting-edge concepts and techniques you need to become that trusted advisors. As a registered CFP program, you will be able to take the CFP exam upon graduation, earning you the most widely recognized designation for financial advisors.
+Required Courses
+FI 370 Introduction to Financial Planning and Wealth Management
+3 CREDITS
+Techniques used to develop and implement comprehensive plans to achieve a person’s overall financial objectives. Budgeting, liability management, investing, tax planning, risk management, employee benefits, retirement planning, and estate planning.
+View full course description at the Office of the Registrar.
+FI 380 Principles or Insurance and Risk Management
+3 CREDITS
+Overview of techniques for measuring and managing risk. Pure risks related to mortality, health-related expenses, property damage, and product liability. Management techniques studied include risk assumption, prevention, diversification, and transfer via insurance and non-insurance market mechanisms.
+View full course description at the Office of the Registrar.
+FI 460 Estate and Income Tax Planning
+3 CREDITS
+Estate planning and income tax planning issues for the financial planner and wealth management advisor.
+View full course description at the Office of the Registrar.
+FI 470 Advanced Financial Planning and Wealth Management
+3 CREDITS
+Capstone course focused on all aspects of financial planning, Client management, planning tools and software applications. Creation of a comprehensive financial plan.
+View full course description at the Office of the Registrar.
+Elective Courses
+FI 412 Advanced Investments
+3 CREDITS
+Financial market turbulence and evolving societal trends create both challenges and opportunities for investors. Investment concepts, core theories, and leading investment techniques. Develop the ability to integrate a wide range of skills and interdisciplinary knowledge for investment excellence.
+View full course description at the Office of the Registrar.
+FI 413 Management of Financial Institutions
+3 CREDITS
+Management, decision-making and policy formulation for depository and non-depository financial institutions emphasizing commercial banking. Savings banks, credit unions and non-bank financial institutions including investment banks.
+View full course description at the Office of the Registrar.
+FI 457 Security Analysis
+3 credits
+Fundamental analysis of individual stocks. Discounted cash flow valuation, relative valuation, special situations. Management of a real-money stock portfolio, the Michigan State University Student Investment Fund.
+View full course description at the Office of the Registrar.
+FI 473 Debt and Money Markets
+3 credits
+Role and nature of international debt and money markets. Corporate and government bond valuation, fixed income derivative instruments and bond portfolio management. Special role of “time” in debt and money markets.
+View full course description at the Office of the Registrar.
+FI 478 Investment Strategies and Speculative Markets
+3 credits
+Pricing, trading strategies, hedging applications and markets for forwards, futures, swaps and options.
+View full course description at the Office of the Registrar.
+FI 491 Topics in Finance
+1-4 CREDITS
+Current and emerging issues in finance to supplement and enrich existing courses.
+View full course description at the Office of the Registrar.
+Commercial Banking Path
+Today’s bankers function as the lifeblood of our economy: enabling companies and individuals to get the funding they need to grow and thrive. Commercial bankers help companies with their cash management needs, not only to keep the lights on, but also to fuel the investment in growth and innovation that has put our economy at the top of the global scale.
+Other than “banker,” job titles in this area include cash management specialist, commercial lender, private banker, branch manager and mortgage lender.
+FI 355 Financial Modeling
+3 credits
+Development of computer spreadsheet-based models to analyze corporate financial strategies and valuation issues.
+View full course description at the Office of the Registrar.
+FI 413 Management of Financial Institutions
+3 credits
+Management, decision-making and policy formulation for depository and non-depository financial institutions emphasizing commercial banking. Savings banks, credit unions and non-bank financial institutions including investment banks.
+View full course description at the Office of the Registrar.
+FI 444 Entrepreneurial Finance
+3 credits
+Financing, valuation and sale of entrepreneurial ventures. Business plans, financing sources, financial contracting, real options, staged investments and exit strategies.
+View full course description at the Office of the Registrar.
+FI 473 Debt and Money Markets
+3 credits
+Role and nature of international debt and money markets. Corporate and government bond valuation, fixed income derivative instruments and bond portfolio management. Special role of “time” in debt and money markets.
+View full course description at the Office of the Registrar.
+FI 478 Investment Strategies and Speculative Markets
+3 credits
+Pricing, trading strategies, hedging applications and markets for forwards, futures, swaps and options.
+View full course description at the Office of the Registrar.
+Digital Track Path
+The Digital Track will prepare future business leaders with skills in data science and analytics to cope with challenges in the emerging digital economy.
+Recent advances in artificial intelligence using big data are rapidly transforming many parts of our society, including the financial sector. These changes reach beyond simple automation of manual labor and have begun replacing mental tasks associated with white-collar jobs. To cope with these rapid changes in the financial sector, there is an increasing demand for students with the ability to harness these new data science and analytics tools for traditional corporate decisions. The Finance Digital Track fills this void and exposes students to various aspects of the digital economy through an integrated curriculum that combines regular business training and modern computing technology.
+Effective Fall, 2020, the Department of Finance will offer a specialized Digital Track for students interested in experiencing in-depth exposure to modern computing applications in finance. In addition to the traditional requirements for finance majors, students in the Digital Track will take Finance course sections identified as “Digital” in MSU’s Schedule of Courses (schedule.msu.edu). For classes taken in the Fall of 2021 and later, the classes have to be completed with the grade of 3.0 or higher. Overall, students must take 9 credits.
+The Department of Finance will honor students who complete four Digital Track Finance classes with a non-transcriptable Finance Digital Track acknowledgement.
+FI 312 Introduction to Investments
+3 Credits
+Theoretical and empirical analyses of securities. Risk and return formation. Security analysis and concepts of market efficiency. Common stocks, bonds, options, futures, and mutual funds. Digital content includes an overview of commonly used data and methodology in investments. Assignments include the application of computer programming to the fundamentals of finance. Please check for an appropriate section at MSU’s Schedule of Courses (
+schedule.msu.edu
+).
+View full course description at the Office of the Registrar.
+FI 355 Financial Modeling
+3 Credits
+Development of computer spreadsheet-based models to analyze corporate financial strategies and valuation issues. (All sections of FI 355 qualify for the Digital Track).
+View full course description at the Office of the Registrar.
+FI 412 Advanced Investments
+3 CREDITS
+Financial market turbulence and evolving societal trends create both challenges and opportunities for investors. Investment concepts, core theories, and leading investment techniques. Develop the ability to integrate a wide range of skills and interdisciplinary knowledge for investment excellence.
+View full course description at the Office of the Registrar.
+FI 422 Financial Data Analytics
+3 credits
+Introduction to the analysis of real-world financial data in a variety of settings. Applying textual analysis to large documents, identifying “sentiment” in Google search data, and back-testing trading strategies. Developing the programming skills necessary to both collect and prepare data for analysis. Identifying, downloading, cleaning, and shaping data.
+View full course description at the Office of the Registrar.
+FI 424 Deep Learning and Neural Networks in Finance
+3 credits
+Basic concepts of deep learning and neural networks in finance and economics. Practical experience implementing deep learning methods with state-of-the-art algorithms in a variety of machine learning packages with applications such as forecasting, algorithmic trading, and fraud detection.
+View full course description at the Office of the Registrar.
+FI 491 Topics in Finance
+3 credits
+For 2022/2023 Academic Year: FI 491 Section 005 (Advanced Investments) counts toward Digital Track Certification.
+Current and emerging issues in finance to supplement and enrich existing courses.
+View full course description at the Office of the Registrar.
+Insurance and Risk Management Path
+The Insurance and Risk Management minor provides a comprehensive overview of all types of insurance including health, property and casualty. It gives students the foundation and tools to establish and manage a risk management framework in an ever-changing world.
+Required Courses
+FI 380 Principles of Insurance and Risk Management
+3 CREDITS
+Overview of techniques for measuring and managing risk. Pure risks related to mortality, health-related expenses, property damage, and product liability. Management techniques studied include risk assumption, prevention, diversification, and transfer via insurance and non-insurance market mechanisms.
+View full course description at the Office of the Registrar.
+FI 381 Enterprise Risk Management and Insurance Theory
+3 CREDITS
+Using Enterprise Risk Management to identify and manage business risk in any industry. Risk identification, ERM processes, structures for individual and business-to-business insurance coverages, and new and creative alternative risk management structures.
+View full course description at the Office of the Registrar.
+FI 481 Advanced Enterprise Risk Management and Insurance Concepts
+3 CREDITS
+Capstone course for the Insurance and Risk Management minor. Macro risk and crisis management topics. Management of system-wide real and financial crises.
+View full course description at the Office of the Registrar.
+Elective Courses (at least two of the following)
+EC 301 Intermediate Microeconomics
+3 CREDITS
+Theories of consumer choice, production, cost, perfect competition, and monopoly. Welfare economics, general equilibrium, externalities, and public goods.
+View full course description at the Office of the Registrar.
+EC 330 Money, Banking, and Financial Markets
+3 CREDITS
+Money markets and financial intermediation. Money, the Federal Reserve System, and monetary policy. Regulation of money markets.
+View full course description at the Office of the Registrar.
+FI 412 Advanced Investments
+3 CREDITS
+Financial market turbulence and evolving societal trends create both challenges and opportunities for investors. Investment concepts, core theories, and leading investment techniques. Develop the ability to integrate a wide range of skills and interdisciplinary knowledge for investment excellence.
+View full course description at the Office of the Registrar.
+FI 413 Management of Financial Institutions
+3 CREIDTS
+Management, decision-making and policy formulation for depository and non-depository financial institutions emphasizing commercial banking. Savings banks, credit unions and non-bank financial institutions including investment banks.
+View full course description at the Office of the Registrar.
+FI 414 Advanced Business Finance (W)
+3 CREDITS
+Advanced financial management of business firms. Theoretical analysis and case applications. Capital budgeting, capital structure, valuation, risk management, mergers, and corporate restructuring.
+View full course description at the Office of the Registrar.
+FI 480 Financial Risk Management
+3 CREDITS
+Ways in which risks are quantified and managed by financial institutions. Nature of financial institutions and their regulation, the Basel Accords, coherent risk measures, value at risk, copulas, credit risk, operational risk, liquidity risk, and the financial crisis of 2007.
+View full course description at the Office of the Registrar.
+MKT 319 Customer and Market Insights
+3 CREDITS
+Research methods designed to obtain information for marketing decisions. Research design, data collection, and interpretation of information to aid in making managerial decisions.
+View full course description at the Office of the Registrar.
+STT 467 Insurance Operations
+3 CREDITS
+Regulation, marketing and distribution, underwriting, risk control, premium auditing, the claim function, actuarial operations, and reinsurance.
+View full course description at the Office of the Registrar.
+CFA Partner Program
+The Broad College of Business is a CFA Program Partner of the
+CFA Institute
+, a global membership organization that awards the Chartered Financial Analyst (CFA) designation. The Chartered Financial Analyst program is a powerful avenue for boosting a career in finance at an early stage. The CFA designation is considered the gold standard when it comes to accreditations in fields such as financial management and investment analysis – in fact, for potentially lucrative careers in investment banking, mutual fund management and as the chief investment officer (CIO) of an investment company, the CFA is generally required.
+The CFA examination process is widely considered one of the most rigorous credentialing programs, but the hard work should more than pay off throughout the rest of a career. Throughout the investment industry, those who have earned the CFA designation earn more and have greater responsibilities than those that do not. The exam is given in three levels – the Level I exam is held twice a year, while Levels II and III are only given once per calendar year.
+Finance majors at MSU may apply for a partial scholarship to help offset the cost of the exam. For more details, visit the Department of Finance’s page on the
+CFA Partner Program
+.
+Financial Markets Institute
+The
+Financial Markets Institute (FMI)
+provides comprehensive training to a select group of highly motivated finance and accounting students at Broad. Scholars enjoy invaluable opportunities, such as co-managing a multi-million dollar investment fund and visiting financial services firms across the United States.
+Based on student preparation, the institute provides employers with the confidence that FMI scholars have the technical and soft skills necessary to make immediate contributions to their firms.
+Explore the FMI
+Financial Planning and Wealth Management
+The Financial Planning and Wealth Management minor is designed to provide students with a solid understanding of the concepts and techniques used by wealth management advisors to help individual and institutional clients. As the industry continues to evolve, students will gain the necessary skills to help firms meet the expanding needs of their client base.
+Learn More About the Minor
+Student Organizations
+The Michigan State University Finance Association (MSUFA) connects members with employers who offer internships and full-time jobs within finance and is a great way to learn more about careers in the field. The association sponsors career fairs as well as site visits to national financial centers such as New York, Chicago and Los Angeles. Membership can significantly help you build the knowledge base and network of contacts that can give you a tremendous advantage when you leave the halls of MSU and enter the world of finance.
+Finance Association
+The Student Investment Association (SIA) is an undergraduate student organization with the mission to educate undergraduates about investing through a real-money portfolio, educational seminars, professional speakers and investing competitions.
+Student Investment Association
+The Spartan Global Development Fund (SGDF) is a student-run initiative working to expand awareness and support for microfinance while building lasting partnerships in the quest for permanent solutions to global poverty.
+The Spartan Global Development Fund helps promote the causes of sustainability and entrepreneurship by providing interest-free micro loans to small businesses in less-developed areas of the world. While the loans SGDF arranges may be small – typically ranging from $100 to $3,000 – their effects can be substantial.
+While the fund is student-run, its membership also includes Michigan State alumni and faculty, and relies on financial support from the entire community.
+Spartan Global Development Fund
+The Wealth Management Association is a Registered Student Organization at the Eli Broad College of Business at Michigan State University. We are dedicated to training and educating the next generation of financial advisors.
+We host a number of employers who provide insight on what a career in the wealth management and financial planning industry can look like while also offering internships and full-time jobs for our members.
+Wealth Management Association
+The Alternative Investments Group (“AIG”) is a premiere investment-focused student organization at Michigan State University. Members within AIG hold a wealth and diversity of experience in the alternative space, as well as unique goals and ambitions within the financial markets industry. In joining AIG, members become knowledgeable in alternative asset classes, financial markets, and valuations, while simultaneously immersing themselves in a tightly knit network of diverse, driven students and alumni working at top financial institutions.
+Alternative Investments Group
+Mastering finance isn’t just a matter of analyzing numbers and data. The Department of Finance prepares students to look beyond quantitative reasoning in order to discover innovative solutions to the most prominent issues confronting today’s businesses.
+Department of Finance
+In partnership with Dow and Broad alumna, Kathy Roeser, Broad students have access to Barron’s in Education Program! Check out details through the button below and register for access by scanning QR code!
+Barron’s in Education Program
+Explore
+Advising
+Admissions
+Financial Markets Institute
+CFA Partner Program
+Insurance & Risk Management Minor
+Minor in Financial Planning & Wealth Management
+top
+Undergraduate Education
+MBA & Master's Programs
+Doctoral Programs
+Executive Education
+Career Management
+Research & Innovation
+Policies
+Internal
+Get Connected with Broad:
+Business College Complex
+632 Bogue St
+East Lansing, MI 48824

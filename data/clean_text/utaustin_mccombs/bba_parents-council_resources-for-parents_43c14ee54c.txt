@@ -1,0 +1,60 @@
+URL: https://my.mccombs.utexas.edu/bba/parents-council/resources-for-parents
+TITLE: Student Resources for Parents - MyMcCombs
+
+Student Resources for Parents
+Career Resources: What to Wear
+Dress for Success
+All students should check out the
+Career Management Guide on How to Dress
+for networking, recruiting, and other career opportunities. Our guide includes tips on how to dress for business casual and professional events.
+Computer & Software
+Students should have a notebook computer that is capable of running the most current version of Microsoft Windows and Office. For most business students, Windows PC’s are
+recommended
+over Apple MacBooks. Some McCombs classes use software that can only run on Microsoft Windows. Others use program functions (for example, in Excel) that are not supported in the Mac version of the software.
+Students who have Macs can run Windows programs, but doing so can sometimes be complicated and/or frustrating. Students who have a Mac should be prepared to: install Windows on their Mac using Boot Camp. Use virtualization software (e.g. Parallels or VMware Fusion). Invest time to learn these products and to troubleshoot compatibility issues that may arise. This guidance is especially important for students who think they might want to be an MIS major.
+Tablet computers (e.g., iPads, Android devices) cannot be used in place of a notebook computer.
+Software Management
+Four years is a long time for a computer, isn’t it? Yes, it is. Both in terms of hardware durability and obsolescence. But, it is possible to use the same computer for four years if you follow a few guidelines (and have a little luck):
+Buy the most current technology now so that it’s not already down the path to obsolescence;
+Do not be too rough on it;
+Be diligent about protecting your computer against viruses;
+Keep software upgraded and be prepared to make some hardware upgrades/replacements; and
+Plan on a maintenance check-up after two years, including a complete hard drive clean and reload.
+Recommended Specifications
+There are two “high-ends” in the notebook computer world: the smallest ones (executive models), which are expensive and often lack important features that students need (e.g., optical drives), and the fastest ones (gaming machines), which are also expensive and are usually large and hard to carry around. Business students
+don’t need
+the fastest computers; however, they do need them be fast enough to handle whatever computing is like four years from now, so avoid lower end machines. Laptops do need to be easy to carry to class, team meetings, etc. Walt Mossberg, who writes the technology column for the Wall Street Journal, recommends the following minimum specs:
+4 gigabytes of RAM memory;
+Intel i5 processor (or AMD equivalent);
+Hard drive of at least 500 gigabytes.
+He also notes about graphics that “Usually cheaper machines have weak graphics hardware and costlier ones have better graphics. Better graphics can make a machine faster.”
+Software
+You will need Microsoft Windows and Microsoft Office (Word, Excel, PowerPoint, Access and Outlook). UT Austin has a contract with Microsoft that allows you to buy these products for a very reasonable price after you arrive on campus. In addition,
+BevoWare
+is a university-provided suite of system tools, including antivirus software, available for students at no cost.
+Some courses require special software that is purchased specifically for that class (similar to a textbook) and
+should not
+be purchased in advance so that you are sure to have the right version.
+Recommended Accessories
+In order to get the most out of your computer, we recommend a few additional accessories:
+USB thumb drive
+: A USB thumb drive is inexpensive and allows you to carry files with you, share them with others, and gives you a place to store files when using a lab computer.
+External hard drive
+: An external hard drive gives you a large capacity storage option for keeping files and, importantly, a place to back up your work so all is not lost in the event your notebook computer is lost, stolen, or damaged.
+Personal laser printer
+: Printing is available throughout the University, but a laser printer provides a fast, economical way to print in your residence hall or apartment.
+Insurance
+: Insurance for your notebook computer gives you peace of mind for the things your warranty does not cover. A stand-alone policy is available from the Campus Computer Store for a low monthly fee
+Cable lock
+: Protect your computer in the library, study room, or dorm room with a cable lock.
+Personal Property Registration
+: The UT Police Department offers personal property registration services for free to all UT students, faculty and staff.
+Items with a serial number can be registered
+in case they are lost or stolen.
+Computer Support
+McCombs Computer Services offers on-site technical support for students at the SWAT Shop (located in the basement of the CBA building). For questions about software, devices, etc., contact Computer Services:
+Email:
+notebooks@mccombs.utexas.edu
+Phone:
+512-232-6690
+Get additional tech support

@@ -15,8 +15,8 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 from groq import Groq
+from embed import Embedder
 from pinecone import Pinecone
-from sentence_transformers import SentenceTransformer
 
 import config
 
@@ -100,7 +100,7 @@ def pinecone_indexed_colleges() -> set[str]:
 
 # ── RAG (multi-college, lazy-init resources) ──────────────────────────────────
 class RAG:
-    _embedder: SentenceTransformer | None = None
+    _embedder: Embedder | None = None
     _pinecone_index = None      # shared Pinecone Index handle (stateless API)
     _groq: Groq | None = None   # shared Groq client
 
@@ -111,7 +111,7 @@ class RAG:
                 raise SystemExit("GROQ_API_KEY not set. Copy .env from rag_prototype/.env.")
             RAG._groq = Groq(api_key=api_key)
         if RAG._embedder is None:
-            RAG._embedder = SentenceTransformer(config.EMBED_MODEL)
+            RAG._embedder = Embedder(config.EMBED_MODEL)
         if RAG._pinecone_index is None:
             pc_key = os.environ.get("PINECONE_API_KEY")
             if not pc_key:
@@ -121,7 +121,7 @@ class RAG:
 
     def retrieve(self, college_id: str, question: str, k: int = config.TOP_K):
         """Embed question, query Pinecone namespace, return (docs, metas)."""
-        q_emb = RAG._embedder.encode(question).tolist()
+        q_emb = RAG._embedder.embed_one(question)
         results = RAG._pinecone_index.query(
             vector=q_emb,
             top_k=k,

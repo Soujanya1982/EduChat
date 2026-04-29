@@ -1,0 +1,190 @@
+URL: https://www.marquette.edu/business/undergraduate/majors/operations-supply-chain.php
+TITLE: Operations & Supply Chain Management Major // Business // Marquette University
+
+Skip to content
+marquette.edu
+//
+Search
+//
+A-Z Index
+//
+Give to Marquette
+Marquette University
+College of Business Administration
+College of Business Administration
+Marquette.edu
+//
+Business
+//
+Undergraduate
+//
+Majors
+//
+Operations & Supply Chain Management Major
+In the contemporary business landscape, the imperative for robust supply chain management has never been more crucial. Heightened geo-political tensions, sustainability pressures and technological disruptions have been impacting our supply chains in providing us with products and services that we rely on daily. They are a stark reminder of the monumental importance that supply chains have, not only for our daily lives, but for the prosperity of our businesses and a wider society. Ahead of us are some of the greatest opportunities in recent history in supply chain field, as we will have to find answers to how we improve the resilience of our supply chains, how to make them more sustainable, geo-politically balanced, and transformed via digital technologies?
+If you have ever wondered how to
+be the difference
+, how to create an impact, come to Marquette, join operations and supply chain program/major, and seize the opportunity by exploring answers to these challenges.
+About the major
+REAL-WORLD VALUE.
+According to the world-renowned consulting firm Gartner, Marquette undergraduate and graduate supply chain programs have been consistently placed in the elite group of Top 20 US supply chain programs. Moreover, our industry-driven and highly applied curriculum has been ranked in the top three in the nation. See a detailed curriculum description below.
+INTERNSHIPS & FULL-TIME EMPLOYMENT.
+We recognize the need to integrate our students into the real-world of supply chain management. All students are required to complete at least one internship to be eligible for graduating with supply chain major. Marquette’s Center for Supply Chain Management provides to all supply chain majors a very robust support and guidance in preparing students for securing internships, as well as full time employment, both at the local and national level. This is reflected in the fact that more than 50% of our seniors have two or more internships by the time they graduate, and we are continuously maintaining near 100% placement rate into full time employment within three months of graduation.
+NETWORKING
+.
+Success in your career depends on developing a broad professional network. Work with the college's
+Center for Supply Chain Management
+or get involved in the OSCM student organization to start and build this professional network before you graduate. Center for Supply Chain Management offers amazing opportunities to build your network through initiatives such as Supply Chain Club,
+Women in Supply Chain Management
+, and
+Coaches Corner.
+CURRICULUM.
+Our operations and supply chain curriculum offers students a myriad of choices to shape their educational path. It consists of a variety of courses grounded in cutting edge research and market requirements.
+Curriculum
+Learning Outcomes
+More info
+Expand all
+|
+Collapse all
+OSCM 3001 - Intro to Operations and Supply Chain Management
+The course examines manufacturing and service firms' operations and supply chain functions from a managerial perspective. Core concepts and issues following the SCOR model include planning, sourcing, making, delivering, returning, and enabling the operational flow of materials, cash flow, and information from suppliers to customers. Students will engage in applied exercises to reinforce theoretical lectures. The course also integrates marketing, economics, accounting, and finance touchpoints related to the supply chain.
+The focus of the course is to learn and apply the following topics in conjunction with the SCOR model:
+PLAN
+Operational Management – value proposition, process management, and SIPOC analysis.
+Operational Strategy - creation of strategic, tactical, and operational strategies; core competency analysis
+New Product and Service Design – design for manufacturing considerations, service blueprinting
+Supply Chain Introduction – supply chain structure and partners, vertical and horizontal integration
+Forecasting and SIOP – forecasting methods and sales and operations planning aggregate models
+SOURCE
+Procurement – strategic sourcing process, Kraljic matrix, make vs. buy modeling
+Supplier Management – contracting process, supplier scorecards, risk mitigation techniques
+MAKE
+Manufacturing Models – manufacturing types, layouts, and line balancing
+Material Resource Planning – dependent demand review with BOM and MRP models
+Manufacturing Capacity – capacity measurements, Little's Law, Theory of Constraints
+DELIVER
+Inventory Management – Classic inventory measures: turnover, EOQ, service levels, safety stock, ROP
+Logistics – transportation, warehouse management, and network design, including reverse logistics.
+Customer Service Management – department structure, KPI metrics for order fulfillment, and improvement strategies.
+ENABLE
+• All applicable Industry 4.0 elements discussed in each section.
+OSCM 4005 - Digital Supply Chain Technologies
+Industry 4.0 is a term that supports the evolution of a new industrial revolution - one that sees the convergence of both existing and new technologies in creating a digital supply chain that is connected, analyzes all available information to derive insight, and drives optimal decision-making back into the physical world. Following the SCOR-DS model, the course reviews multiple areas of Industry 4.0 elements in place today. The course combines case studies, active problem-solving, and student discussion/presentations.
+Course content
+:
+Following the SCOR-DS model, the course explores each of the following topics:
+INTRODUCTION
+– historical introduction of industrial revolutions
+Industrial Revolutions – the historical perspective on each industrial revolution and the effects on society, workers, wealth, and work are explored.
+Industry 4.0 – definition of I4.0, elements, and cost-benefit analysis
+ORCHESTRATE
+– the activities associated with integration the supply chain strategies
+Digital ecosystems – explores digital infrastructure requirements, define data and movement
+Cybersecurity – defined within industry and society, breach prevention and resolution are discussed.
+PLAN
+– activities associated with plans to operate the supply chain
+Artificial Intelligence and Machine Learning – introduces AI and ML in supply chain management. Applied exercises are included in the lecture and assignments.
+Planning and Simulations – review forecasting and inventory historical methods and discuss the use of AI and ML in forecasting and demand management
+SOURCE
+– activities associated with procuring products and services
+Blockchain uses paperless supply chain transactions and additional uses of BC technologies in agriculture, manufacturing, ordering, and services.
+TRANSFORM
+– activities associated with creation of products
+Additive Manufacturing – compare traditional and additive manufacturing; evaluate and apply AM’s seven families, including AM limitations
+Robotics – use of manufacturing and logistics robots today, robotic technical definition and application, review robotics productivity measurements.
+ORDER
+– the activities associated with customer purchase of product and services
+Internet of Things – use of IOT in industry and supply chain, discussion and analysis of sensors, application of IOT in supply chain areas such as manufacturing, procurement, and logistics.
+FULFILL
+– activities associated with fulfilling orders for products and services
+Augmented and Virtual Reality – use of intelligent products to aid logistics, warehouse, and training applications
+Autonomous Vehicles – use of drones in supply chain warehouse and delivery.
+RETURN
+– activities associated with returning of products
+OSCM 4010 - Manufacturing, Planning and Control
+The course focuses on leading-edge techniques used in manufacturing planning and control. Topics include demand management, ERP systems, forecasting, sales and operations planning (S&OP), master production scheduling (MPS), material requirements planning (MRP), capacity requirements planning (CRP), and lean manufacturing. Additionally, students are given hands-on experience with automation in manufacturing. Specific topics include:
+Demand Management - what role does demand management play in planning - what communication linkages between demand management and planning?
+Forecasting - using regression, trends, moving averages, and causal modeling; using Pyramid Forecasting.
+Sales and Operating Planning (SOP) - how SOP links to strategic planning and exploring the fundamental activities of S&OP.
+Master Production Schedule (MPS) - understanding the role of master production scheduling, scheduling techniques, and how to structure bills of material (BOM).
+Material Requirements Planning (MRP) - How MRP fits in the system, the MRP record, and its time-phased logic.
+Capacity Planning (CRP) - how to estimate capacity and to use finite schedules.
+Automation - exploring the role and how manufacturing utilizes robotics, with hands-on experience with programming robots in Marquette’s Automation Lab
+Lean Manufacturing – exploring the “The Toyota Way”  and the 14 TPS principles.
+OSCM 4015 - Supply Chain Service and Customer Management
+This course focuses on customer fulfillment and will address the problems and challenges arising from designing, managing, and delivering customer and consumer-facing services. These service-specific issues include the challenge and breakthrough design, service productivity, quality, innovation and flexibility, demand and capacity management, workforce planning, scheduling, technology management, strategy, and integration.
+OSCM 4020 - Quality & Process Management
+This course examines the principles, tools, and practices of quality and process management in both manufacturing and service industries. Topics include quality management philosophies, effective team structures, measurement of quality, productivity and competitiveness, quality assurance, statistical process control, and capability, Lean Six Sigma and DMAIC, ISO 9000 and ISO 14000, and SERVQUAL. The interrelationships of each concept are explored by examining customer focus, leadership and organizational change, process design, and benchmarking.
+OSCM 4025 - Purchasing and Supply Management
+This course delves into vital operational, tactical, and strategic purchasing and supply management challenges in modern business. Students introduced to the strategic role that purchasing and supply management plays in corporate success. They will then learn how to design category strategy, starting with spend analytics, supplier segmentation, supplier evaluation and selection, and buyer-supplier relationship management. Throughout this process, students will learn fundamental principles of negotiations and contracting and familiarize themselves with various tools and techniques to evaluate total cost trade-offs, determine supply base risk exposure through value-at-risk evaluation, how to compress and systematically manage strategic lead-time, and how to incorporate in their decision-making basic principles of sustainability. This approach will help them in their purchasing and supply chain management careers. Students will develop critical thinking skills through a combination of conceptual learning and practical applications by utilizing case-based learning, in-class discussion, project work, data analytics tools, and interaction with industry leaders.
+OSCM 4035 - Supply Chain Sustainability and Resilience
+This course explores the emerging field of supply chain sustainability and risk management factors, focusing on the integration of environmental, social, and economic factors for creating sustainable and resilient supply chains. The course provides students with a comprehensive understanding of the latest concepts, frameworks, tools, and best practices in supply chain sustainability and resilience. The course first introduces sustainability and resilience as a strategic lens through which companies will make decisions in the future, with concepts such as the triple bottom line, circular economy, and design for resilience at its core. Students are then taken on a journey of discovering how managers can improve supply chains regarding sustainability and resilience by understanding consumer behavior, managing manufacturing footprint, logistics sustainability, and sustainable procurement. Students will learn the value and application of various tools, such as multi-tier supply chain mapping, sustainability performance measurement, and analyzing total supply chain costs on this journey. Students will develop critical thinking skills through a combination of conceptual learning and practical applications by utilizing case-based learning, computer simulations, and interaction with industry leaders
+.
+OSCM 4040 - Global Logistics Management
+This course focuses on global logistics and global trade management and relates these practices to global supply chain management. Key objectives are to help students think critically about how end-to-end global logistics and trade management concepts are fundamental to the overall functioning of the business (regardless of which other disciplines a student may study) and to provide a “vocabulary” for students to carry forward into the rest of their studies and beyond. We also consider and explore how to enhance global logistics by adopting more sustainable and resilient perspectives within their end-to-end operations. Finally, during the course, we also explore the interconnections between logistics and other business functions, such as finance, accounting, marketing, and information technology
+.
+OSCM 4057 - Enterprise Systems in Supply Chain Management
+It focuses on how an information system like ERP supports and integrates core business processes within an organization and across its supply chains. Based on a combination of lectures and in-class exercises using SAP’s ERP system. It includes a discussion of critical ERP concepts and issues from functional, technical, and implementation viewpoints. It also includes hands-on working experience (through simulation) in manufacturing and distribution using SAP in the following areas: Sales Order Process, Purchasing, MRP, Production Ordering, Accounting, and Forecasting.
+Note: This is the same course as INSY 4057 and credit cannot be earned for both INSY 4057 and OSCM 4057.
+OSCM 4060 - Supply Chain Analytics
+This course focuses on performance and decision support analytics in supply chain context. It deals with data analytics applied to supply chain processes such as demand forecasting, inventory management, supply chain planning, transportation, distribution, network design, sustainability, pricing, and revenue management. Students will develop analytical skills in predictive data mining, machine learning, optimization, and Monte Carlo simulation techniques. These techniques will also give students a framework to support managerial decision-making in supply chain management. The course will utilize Excel (along with add-ins), Power BI, and introduce you to Python for interfacing with other supply chain software. We will also demonstrate the applicability of artificial intelligence to specific topics covered in this course.
+OSCM 4065 - Supply Chain Risk and Resilience
+This intensive course delves deep into the foundational and advanced concepts of supply chain resiliency and risk management. In today's volatile business environment, understanding how to build resilient supply chains is paramount. The course introduces students to the multifaceted nature of supply chain risks, from geopolitical to environmental disruptions. Students will dissect case studies of significant supply chain disruptions, analyzing causes and fallout to understand the vital importance of proactive risk management. A key focus will be on strategies to enhance supply chain resiliency, such as diversifying supplier bases, leveraging technology for real-time monitoring, and investing in contingency planning. Students will gain insights into effective tools and best practices by examining successful and failed risk management tactics. Furthermore, the course emphasizes hands-on learning. Through simulations and group projects, students will face various supply chain challenges, requiring them to implement the concepts of resilience and risk mitigation. By the course's end, students will be equipped with the knowledge and skills to design, adapt, and manage supply chains that can withstand shocks and disruptions, ensuring business continuity and competitive advantage.
+OSCM 4080 - Applied Procurement
+Combines comprehensive classroom work on the tasks, processes, and procedures involved in the procurement function with on-the-job work, which executes essential procurement functions against real-world priorities in a local company or Marquette University Purchasing Department. The instructor will evaluate the student's in-class work. On-the-job work will be reviewed and supported by professional procurement staff from a local company. The key objectives of the course are (1) to help students understand and think critically about the essential functions of procurement, (2) to execute those functions in a real-world environment, and (3) to add value to their assigned company. The value to the student and the company will be enhanced by linking classroom work with applied work addressing real-world needs.
+OSCM 4082 - Applied Lean Six Sigma
+An advanced survey course in Operations and Supply Chain Management (OSCM) combines the two most prevalent continuous improvement methodologies – Lean and Six Sigma – into a single comprehensive approach. Students are exposed to the Lean Six Sigma methodology and thinking that underscores the necessity for process standardization, target management, and problem-solving. Around this framework, the various tools that are application-specific are covered. Demonstrates how using Lean and Six Sigma together at the appropriate times can significantly benefit a company’s processes. There is an ever-increasing amount of content and material related to these continuous improvement strategies, and classroom instruction includes the concepts, processes, tools, analyses, and procedures conveyed through presentation formats. There is also hands-on application and training, business case learning, real-world examples, and best practice review. The required project involves working directly in the sponsoring company’s business area or a Marquette University department, applying the skills learned in class. In this setting, the students facilitate actual Lean Six Sigma events, activities, and projects, focusing on completing a semester-long project approved and mentored by the sponsor. The ultimate goal is to have each student emerge from the class fully prepared and comfortable in setting up, managing, facilitating, and monitoring continuous improvement projects and programs.
+OSCM 4085 - Applied Logistics
+Entails a combination of traditional classroom lectures with applied work in a real-world setting. The objectives are to provide students with the theoretical foundations of network design and modeling and expose students to the nuances and complexities of network modeling and application in the real world. To these ends, students work in teams on a real-world project in an area company under the supervision of a professional designated by the company. Classroom work will be evaluated by the instructor and applied work will be evaluated by both the work supervisor and the instructor.
+OSCM 4130 - Integrated Supply Chain Strategy (Capstone)
+Developing an appropriate supply chain strategy, one that, if correctly executed, will help deliver a competitive advantage to a firm, has become a critical process for most, if not all, organizations. This course presents a synthesis of strategic and supply chain management principles and how supply chain strategies are developed and executed, including lean and agile-based approaches. Reflective of dramatically increased uncertainty in a post-pandemic world, we also explore how organizations can incorporate more sustainable and resilient perspectives within their chosen strategy. Students will develop critical thinking skills through conceptual learning and practical applications by utilizing case-based learning, computer simulations, and a live project with an industry-leading organization that looks to develop a more sustainable and resilient supply chain strategy.
+OSCM3986/4986 – Internship Work Period
+After acquiring an internship in operations and supply chain that is at least 240 hours during summer break or spring or fall semester, students may apply to take this three credit course.  During their internship experience students will write several papers on their challenges and accomplishments, their overall experience, company leadership, values and culture, and new skills acquired.  Students will update their resume and LinkedIn profiles with this experience prior to the end of the internship.
+INSY 4053 - Project Management
+A fundamental understanding of how to manage a project using concepts and tools, while leveraging best practices, is essential. Students learn to properly initiate and plan a project, and explore the different project methodologies. Additionally, students learn the behavioral skills necessary to successfully launch, lead and realize benefits from projects in profit and nonprofit organizations. While providing a project management framework, Information Systems majors may decide on a software implementation, Operations and Supply Chain Management majors may focus on new product design or product innovation, Marketing majors might select a CRM implementation and Accounting or Finance majors may choose an Fintech implementation
+MANA 3034 - Negotiations
+Examines the art and science of negotiations with the aim of developing student's negotiation abilities. This development is achieved through readings, discussion, and active participation in negotiation exercises. Designed to complement the skills learned in other business courses. Representative negotiations to be completed in the course include salary negotiations, car and home purchases, customer contracts, vendor contracts, venture capital arrangements, and partnership agreements among others.
+Learning Outcomes
+As one of many methods of assuring that the goals of our educational mission are successfully met, the college regularly and systematically engages in the assessment of a variety of competencies. As part of this assurance of learning, each program defines and collects data on learning goals; statements of the knowledge, skills and attitudes that we want our graduates to possess. We use them for continuous improvement and they are the criteria on which organizations such as AACSB evaluate our accreditation. The following is the current Learning Goal for the Operations and Supply Chain Major along with the goals for the Undergraduate Business Core.
+Understand and analyze operations and supply chain management issues in a firm.
+Below are the specific performance outcomes assessed to help determine if students meet the above outcome.
+Understand, analyze and develop manufacturing planning and control frameworks/systems for various manufacturing and supply chain environments.
+Understand the importance and role of quality in the overall success of an organization. Apply analytical tools to evaluate and improve the quality of products and processes.
+Understand, analyze and apply operational, tactical and strategic concepts of purchasing and supply management.
+Understand and apply logistics and distribution concepts to improve supply chain operations.
+Understand the principles of how supply chain strategies are developed and executed.
+Undergraduate Business Core Learning Goals
+Apply effective written and oral communication skills to business situations.
+Analyze the global business environment.
+Analyze the local business environment.
+Use critical thinking skills in business situations.
+Apply an ethical understanding and perspective to business situations.
+OSCM Major Requirements - Marquette University Undergraduate Bulletin
+Considering an Operations and Supply Chain Management major?
+Operations and Supply Chain minor requirements
+Center for Supply Chain Management
+5-year Accelerated Degree Program
+Majors
+Accounting
+Accelerating Ingenuity in Markets (AIM)
+Business Economics
+Business Analytics
+Entrepreneurship
+Finance
+Human Resources
+Information Systems
+International Business
+Marketing
+Operations and Supply Chain Management
+Real Estate
+Contact us
+Beth Krey
+, Assistant Dean
+(414) 288-7142 or (800) 524-8702
+beth.krey@marquette.edu
+or
+biz@marquette.edu
+Sara Koenig, Student Services
+(414) 288-5151
+sara.koenig@marquette.edu
+©

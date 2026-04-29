@@ -1,0 +1,100 @@
+URL: https://lerner.udel.edu/centers/institute-for-financial-services-analytics
+TITLE: Institute for Financial Services Analytics - Lerner - University of Delaware
+
+Home
+>
+Centers
+>
+Institute for Financial Services Analytics
+Established in 2012 as an interdisciplinary collaboration among the University of Delaware’s Lerner College of Business and Economics, UD’s College of Engineering and JP Morgan Chase & Co., the Institute for Financial Services Analytics (IFSA) is at the intersection of industry and education, forming and informing the dynamic and important field of financial services analytics (FSAN).
+By applying modern data science techniques such as artificial intelligence and machine learning, FSAN converts vast amounts of data into meaningful information for business and consumers, leading to improvements in risk management, enhanced customer service, customized product offerings and more efficient business operations.
+With a mission to foster cutting-edge research, groundbreaking education and collaborative community outreach in the field of financial services analytics, IFSA is represented by expert faculty members from 4 colleges and 10 departments across the UD campus. We are at the forefront of promoting awareness, stimulating discussion, exchanging ideas and developing solutions to the unique, complicated and intriguing problems facing businesses in the financial services industry.
+Research
+Our faculty are at the heart of IFSA’s mission to conduct cutting-edge research. With diverse interests and backgrounds from areas such as business administration, electrical engineering, computer science, finance, management information systems and statistics, IFSA faculty fellows and affiliated faculty members bring a truly interdisciplinary approach to researching and addressing the complicated issues and problems facing the financial services industry. Through their research, these faculty members seek to develop new data-driven tools and technologies that turn data into value for businesses and consumers alike.
+Current areas of research include:
+Visualizing and accelerating the business analytics process
+Business and social network analytics
+Causal learning
+Fairness in machine learning and applications
+Graph-based data science, such as hypergraph neural networks
+Financial risk analytics
+Customer targeting and loan optimization
+Education
+In keeping with our mission of groundbreaking education, IFSA supports the
+Financial Services Analytics (FSAN) Ph.D. program
+, the first of its kind in the nation focusing on analytics research for the financial services industry. Graduates are equipped with the tools, techniques and theoretical knowledge to spearhead innovation in both the financial services industry and academia. FSAN students are challenged and shaped by cutting-edge research collaborations with IFSA faculty, corporate internships and rigorous coursework in subjects like machine learning, data mining, process analysis and optimization.
+Ph.D. students work closely with their advisors to choose research topics, refine dissertation topics and conduct important research in relevant areas such as:
+Learning Bayesian network structure in layers
+Machine learning on hypergraphs
+Conversational information system
+Fair ranking in information retrieval systems
+Mitigating gender bias in word embedding via latent structure understanding
+Recent graduates have gone on to find success in the banking, health care and financial technology industries as data scientists, modelers and managers, as well as professors in reputable universities.
+IFSA Advisory Board
+IFSA Advisory Board Founding Members
+Morgan Dean, Head of CCB Risk Modeling at JPMorgan Chase & Co. , UD alum, founding chair of the board
+Jennifer Golek, Head of Finance Product and Data Solutions, Capital One
+Juan M. Licari, Executive, Bank of America
+Danielle Manley, Treasurer, Barclays, UD alum
+Mark Warren, Managing Director – Risk Modeling Unit, Citi
+FengQin Faith Zhao, Head of CCB Credit Risk Modeling at JPMorgan Chase & Co.
+Tracy Shickel, Associate Vice President, Corporate Engagement, UD
+Gonzalo Arce, IFSA Senior Fellow, Charles Evans Professor of ECE, UD
+Xiao Fang, IFSA Senior Fellow, Professor of AMIS, UD
+Paul Laux, IFSA Senior Fellow, Professor of Finance, UD
+Bintong Chen, IFSA Director, Chaplin Tyler Professor of BUAD, UD
+Community Collaboration
+At the forefront of IFSA’s community outreach efforts are the Institute’s annual conferences and monthly distinguished speaker series which bring together industry and academic leaders to discuss and exchange ideas pertinent to the financial services industry.
+Past conference themes include:
+Risk management and analytics for social good
+Consumer analytics and industry applications
+Big data analytics and industry implications
+Machine learning in financial services
+IFSA also hosts monthly seminars open to the campus and local community. Speakers at these events include participants from world-renown universities and Fortune 500 companies.
+Seminars have focused on current topics such as:
+When should we trust artificial intelligence?
+Initial coin offerings: financing growth with cryptocurrency token sales
+Anchors, target values and credit card payments
+Data science in finance
+When econometrics meets sentiment
+Structural deep learning in financial asset pricing
+One threshold doesn’t fit all: tailoring machine learning predictions of consumer default for low- and moderate-income areas
+Additionally, the Institute is open to industry collaboration on joint research projects leading to real problem solving for the company and enhanced learning opportunities for our students.
+Past research projects include:
+Achieving process intelligence via process mining
+Process improvement and optimization for enterprise storage service management
+Using metrics for continual improvement in application delivery
+Context-aware integrated search for mortgage documents
+News
+IFSA launches advisory board to strengthen industry ties
+-
+UD’s Institute for Financial Services Analytics launched its inaugural advisory board, bringing together industry and academic leaders to strengthen collaboration, guide strategy and enhance student opportunities in financial services analytics.
+UD’s Xiao Fang’s Research Shapes Responsible AI Future
+-
+Professor Xiao Fang’s 26-year commitment to artificial intelligence research is helping businesses design transparent, accountable AI systems, offering timely solutions as new global regulations reshape how organizations deploy emerging technologies.
+UD Lerner’s Chen, Asarta Appointed Named Professors
+-
+Oliver Yao, dean of the UD’s Lerner College announced the appointments of Bintong Chen to Chaplin Tyler Professor and Carlos Asarta to Bank of America Professor of Business. Their appointments were effective September 1, 2024.
+Lifelong Lerner: Mingxing Gong
+-
+Mingxing Gong, a member of UD’s Lerner Class of 2022, shared his favorite UD memories, how he has grown during his time at UD and his plans following graduation.
+Outstanding Lifelong Lerner: Minghui He
+-
+Minghui He, who earned a doctorate in financial services analytics in 2016 and works as a research scientist at Amazon, spoke with Lerner about her journey to the FSAN program and what she learned through the program.
+Contact Information
+Bintong Chen
+302-831-2756
+bchen@udel.edu
+Kelly Chan
+302-831-6526
+kellyc@udel.edu
+Institute for Financial Services Analytics
+Alfred Lerner College of Business
+Purnell Hall 350
+University of Delaware
+Newark, DE 19716
+302-831-6526
+about-fsan@udel.edu
+The Institute for Financial Services Analytics, a joint program between the Lerner College of Business and Economics and the College of Engineering, is the result of a collaboration between the University of Delaware and JPMorgan Chase & Co.
+Institute for Financial Services Analytics
+Directory

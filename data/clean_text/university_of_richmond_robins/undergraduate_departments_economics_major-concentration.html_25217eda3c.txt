@@ -1,0 +1,427 @@
+URL: https://robins.richmond.edu/undergraduate/departments/economics/major-concentration.html
+TITLE: Economics Major & Concentration Requirements (RSB) - Economics - Academic Departments - Undergraduate - Robins School of Business - University of Richmond
+
+Economics Major & Concentration Requirements
+Bachelor of Science in Business Administration
+The Bachelor of Science in Business Administration Degree
+In addition to the requirements for the B.S.B.A. degree outlined below, all Economics majors in the Business School must complete eight additional courses in economics.
+Candidates for a B.S.B.A. must:
+Satisfy the general degree requirements for graduation
+Complete the following pre-business courses:
+ACCT201
+Fundamentals of Financial Accounting
+ACCT205
+Fundamentals of Managerial Accounting
+BUAD202
+Statistics for Business and Economics
+BUAD205
+Business Communication
+ECON101
+Principles of Microeconomics
+ECON102
+Principles of Macroeconomics
+MATH211
+Calculus I
+Complete the following core courses except as noted:
+BUAD393
+Business Law
+BUAD394
+Business Ethics
+BUAD497
+Strategic Management *
+FIN360
+Principles of Financial Management
+AO225
+IT and Data Analytics
+MGMT330
+Organizational Behavior
+AO340
+Operations Management
+MKT320
+Principles of Marketing
+*The International Business concentration requires
+IBUS411
+in lieu of
+BUAD497
+.
+Participate in a full semester University of Richmond approved study abroad program or complete a course with an international business or international business economics focus. This international focus course also may satisfy a concentration or major requirement.
+Eight economics core courses, including:
+ECON270
+Introductory Econometrics
+ECON271
+Microeconomic Theory
+ECON272
+Macroeconomic Theory
+Four units of economics electives (at least two of which must be at the 300 level,
+special topics
+ECON259
+or
+ECON359
+offered for one unit can count toward the electives
+)
+ECON480
+Senior Capstone Seminar or
+ECON490
+Honors Seminar in Economics
+Note: A grade point average of at least C (2.00) is required in the major with no course grade below a C- (1.7) in an economics course required for the major. Majors are encouraged to take
+ECON101
+and
+ECON102
+and
+BUAD202
+during their first year, and
+ECON271
+and
+ECON272
+during their second year. A basic foundation in calculus (e.g.,
+MATH190
+,
+MATH211
+,
+MATH212,
+and
+MATH235
+) is required for
+ECON271
+.
+ECON249
+and
+ECON368
+do not count as electives.
+All students declaring a major or minor in the Robins School of Business must first pass an online Excel competency exam. Students will have three attempts to demonstrate competency with a grade of 80% or higher. This is not for a grade or academic credit.
+Only two Economics electives may be taken abroad. ECON 271 must be taken prior to going abroad in order to take 300- or 400-level economics courses abroad.
+Bachelor of Arts
+The Bachelor of Arts Degree
+Note:
+A grade point average of C (2.00) is required in the major with no course grade below a C- (1.7) in an economics course required for the major.
+11 units, including:
+BUAD202
+Statistics for Business and Economics
+ECON101
+Principles of Microeconomics
+ECON102
+Principles of Macroeconomics
+ECON270
+Introductory Econometrics
+ECON271
+Microeconomic Theory
+ECON272
+Macroeconomic Theory
+Four units of economics electives (at least two of which must be at the 300 level,
+special topics
+ECON259
+or
+ECON359
+offered for one unit can count toward the electives
+)
+)
+ECON480
+Senior Capstone Seminar, or both
+ECON490
+Honors Seminar in Economics and
+ECON491
+Honors Thesis in Economics
+Note:
+Majors are encouraged to take
+ECON101
+and
+ECON102
+and
+BUAD202
+during their first year, and
+ECON 271
+and
+ECON 272
+during their second year. A basic foundation in calculus (e.g.,
+MATH 190
+,
+MATH 211
+,
+MATH 212,
+and
+MATH 235
+) is required for
+ECON 271
+.
+ECON249
+and
+ECON368
+do not count as electives.
+Concentration
+The Economics Concentration (for Business Administration and Accounting majors only)
+Four courses, including:
+ECON271
+Microeconomic Theory
+ECON270
+Introductory Econometrics or
+ECON272
+Macroeconomic Theory
+Two units of economics electives, at least one of which must be at the 300 level.
+Special topics
+ECON259
+or
+ECON359
+offered for one unit can count toward the electives
+.
+Note:
+ECON249
+and
+ECON368
+do not count as electives.
+Only two Economics electives may be taken abroad. ECON 271 must be taken prior to going abroad in order to take 300- or 400-level economics courses abroad.
+Economics
+Expand All
+ECON 101 Principles of Microeconomics
+Units: 0-1
+Fulfills General Education Requirement(s): AI-Social Inquiry (AISO)
+Description
+Provides students with the analytical perspective to think critically about the market system and social objectives it may serve. Topics include supply and demand, market structure, production, market failure (e.g., pollution), and benefits and costs of government intervention. Offered fall and spring.
+ECON 102 Principles of Macroeconomics
+Units: 1
+Description
+The study of national income determination within a global economy. Topics include inflation, unemployment, GDP determination, money supply, balance of payments, currency markets and role of fiscal and monetary policies. Offered fall and spring.
+Prerequisites
+ECON 101
+ECON 105 Introduction to Global Economics
+Units: 1
+Description
+Survey of international economic issues for nonmajors. The U.S.'s role in the global economy is covered analytically, historically, and institutionally, with special attention given to balance of payments analysis, exchange rate determination, gains from trade, trade policy, the IMF, GATT, and other topics. Note: This course has no prerequisites and fulfills no prerequisites for other economics or business courses. Cannot be used as an elective toward the arts and sciences or business school economics major or toward the business administration major. Students with majors in the School of Business may not register for ECON 105.
+ECON 120 Conversations in Economics
+Units: 0.5
+Description
+Topics course in economics, providing students with insight into many applications of economics.
+Prerequisites
+ECON 101
+ECON 170 Statistical Analysis for Business and Economics (Accelerated Version).
+Units: 1
+Fulfills General Education Requirement(s): IF-Quantitative Data Literacy (IFQD)
+Description
+Theory, methodology, and applications of statistics to contemporary business and economics problems. Includes descriptive statistics, probability theory, probability distributions, one- and two-population statistical inference, analysis of variance, correlation, and regression. Covers the same topics as BUAD 202, but in more mathematical depth. May use this course as the BUAD 202 pre-requisite for any course in the Business School. Students with a course in high-school level statistics and/or stronger mathematical foundations should consider this course in place of BUAD 202. May not take both Econ 170 and BUAD 202 for credit.
+Prerequisites
+MATH 190 or MATH 211 or MATH 212 or MATH 235 with a minimum grade of C-
+ECON 200 The Economics of Money, Banking, and Financial Markets
+Units: 1
+Description
+Role and functions of money; operation of financial institutions; structure and influence of Federal Reserve System; effects of money and credit on economic activity.
+Prerequisites
+ECON 101 and ECON 102
+ECON 201 Games and Experiments in Economics
+Units: 1
+Description
+Introduction to game theory. Based on a scientific metaphor that many interactions that we do not usually think of as games such as market competition, collusion, auctions, elections, bargaining can be treated and analyzed as games. Study of how to recognize and model strategic situations, how and when their actions will affect the decisions of others, and how to gain advantage in strategic situations.
+Prerequisites
+ECON 101
+ECON 210 The Economics of the European Union
+Units: 1
+Fulfills General Education Requirement(s): IF-Written Communication (IFWC)
+Description
+Seminar-style economics class on economic foundations underlying the past, present and future of the European Union. Combines lecture material on the economics of regional integration with reading-, writing-, and discussion-intensive activities meant to illuminate the past 70 years of European integration and raise important questions for its future.
+Prerequisites
+ECON 101 and ECON 102
+ECON 211 Economic Development in Asia, Africa, and Latin America
+Units: 1
+Fulfills General Education Requirement(s): IF-Power/Equity/Identity/Cult (IFPE)
+Description
+Comparative analysis of economic growth, income and wealth distribution, trade and finance, population, agriculture, and industrialization in Latin America, Africa, and Asia.
+Prerequisites
+ECON 101 and ECON 102
+ECON 215 International Monetary Economics
+Units: 1
+Description
+Introduction to the fields of open-economy macroeconomics and international finance. Builds upon the closed-economy models of previous courses and extends them by considering the impacts of domestic and foreign policies on key variables such as interest rates, output, current accounts, and exchange rates. Additional topics covered include national income accounting, government intervention, and the history of international monetary systems.
+Prerequisites
+ECON 101 and ECON 102
+ECON 220 History of Economic Thought
+Units: 1
+Description
+Survey of the development of economic analysis with emphasis on early mercantilist writers, Adam Smith and the evolution of the Classical School, the Neoclassical revolution, Marxian economics and socialism, Keynesian economics, Austrian economics, and new classical economics.
+Prerequisites
+ECON 101 and ECON 102
+ECON 221 American Economic History
+Units: 1
+Description
+Use of economic theory and methods to study American history with special emphasis on economic growth. Topics include Native American development up to the arrival of Europeans, transportation revolutions, slavery, agriculture and monetary controversies in the late 19th century, health and nutrition, immigration, technological change, the Great Depression and New Deal, and civil rights.
+Prerequisites
+ECON 101 and ECON 102, each with a minimum grade of C-
+ECON 230 Environmental Economics
+Units: 1
+Description
+Development and application of economic principles to understand and evaluate causes and solutions to environmental problems such as pollution and conservation. Topics include economics of biodiversity protection, climate change, natural resource damage assessment, measurement of environmental values, and alternative strategies for pollution control. (Same as Environmental Studies 230).
+Prerequisites
+ECON 101
+ECON 231 Law and Economics
+Units: 1
+Description
+Application of economic analysis to the field of law. Using goals of efficiency and wealth maximization, shows how economic theory can unify property law, contract law, tort law, and criminal law, as well as offering new insights to traditional legal questions.
+Prerequisites
+ECON 101
+ECON 233 Ethics and Economics
+Units: 1
+Description
+Explores ethical considerations that arise in economic analyses. In positive economics, how are choices informed by considerations of duty or virtue (in addition to utility)? In normative economics, how do concepts of welfare and efficiency derive from ethical theories, and how have these changed over time? What competing ethical theories add to our understanding of public policy issues? Preparation for a complex world when economic analysis is viewed as complementary to a critical-thinking process about ethical frameworks. Addresses additional questions such as: What is the moral philosophy behind capitalism? What are the moral limits to markets? Do businesses create and rely upon moral capital?
+Prerequisites
+ECON 101
+ECON 234 Urban Economics
+Units: 1
+Description
+Introduction to the field of urban and regional economics. Study of urban growth and decline, the monocentric city model, and urban challenges. Application and interpretation of computer-generated statistical output.
+Prerequisites
+ECON 101 and ECON 102
+ECON 235 Gender Economics
+Units: 1
+Description
+This course will examine economic theories and empirical evidence relating to the role of gender in the economy, with a focus on women in the workforce, family formation (marriage and children), and current issues. In taking this course, students will learn to apply economic research methods to the study of gender and to engage with cutting-edge economic research. Students will also develop communication skills via multiple in-class presentations and writing assignments.
+Prerequisites
+ECON 101
+ECON 236 Behavioral and Experimental Economics
+Units: 1
+Description
+Introduces students to key topics in behavioral economics, with a focus on experimental methods.
+Behavioral economics blends economics and psychology to examine the decision-making processes of economic agents and
+the systematic ways in which they deviate from rationality. In taking this course, students will explore the causes and
+consequences of these deviations using theoretical, empirical, and experimental evidence. Students will also develop a research
+project, posing a question and proposing an experiment.
+Prerequisites
+ECON 101 and BUAD 202
+ECON 242 Data Analysis & Computing for Economics & Business
+Units: 1
+Fulfills General Education Requirement(s): IF-Quantitative Data Literacy (IFQD)
+Description
+Introduction to data analysis and programming in economics/business. Students will learn general-purpose programming techniques and how to use computing tools for data preparation and analysis, along with their application to economic/business problems.
+Prerequisites
+ECON 101
+ECON 259 Special Topics in Economics
+Units: 0-1
+Description
+Major areas in economics, application of economic principles, and analysis of policy issues.
+Prerequisites
+ECON 101 and ECON 102
+ECON 269 Independent Study
+Units: 0.5-1
+Description
+Specialized study or directed research in an area of economics. Students are expected to produce a final academic product to be completed during the semester for which he/she is registered for the course. Independent studies may not duplicate available course offerings and content and do not count as one of the required economics electives in the economics major, mathematical economics major, or economics minor unless written permission is obtained from the Economics department chair in advance.
+ECON 270 Introductory Econometrics
+Units: 1
+Fulfills General Education Requirement(s): IF-Quantitative Data Literacy (IFQD)
+Description
+Techniques for rigorously testing economic theory and preparation for basic empirical work in economics. Topics will include basic data analysis, a review of comparisons of means, regression analysis (including estimation, functional form, dummy variables, inference, assumptions, violations of assumptions, corrections for violations). Students will be provided with the opportunity to use actual economic data to test economic theories. Offered fall and spring.
+Prerequisites
+ECON 101, ECON 102; one of BUAD 202, ECON 170, DSST 189, DSST 329, DSST 330; one of MATH 190, MATH 211, MATH 212, MATH 235. All four courses must have a minimum grade of C-
+ECON 271 Microeconomic Theory
+Units: 0-1
+Description
+Theory of price determination in both output and input markets; in-depth analysis of behavior of individual consumers, firms, and industries under various market structures; theories of exchange and distribution. Offered fall and spring.
+Prerequisites
+ECON 101, ECON 102, and one of MATH 190, MATH 211, MATH 212, MATH 235, each with a minimum grade of C-
+ECON 272 Macroeconomic Theory
+Units: 1
+Description
+Theory of national income determination; short/medium-run monetary and fiscal policy issues are examined using Keynesian and New Classical models; long-run analysis focuses on recent extensions of the neoclassical growth model. Offered fall and spring.
+Prerequisites
+ECON 102 and ECON 271, each with a minimum grade of C-
+ECON 300 Industrial Organization and Public Policy
+Units: 1
+Description
+Designed to identify features of industries with various degrees of competition. Issues to be explored include: identifying dominant firm, tight or loose oligopoly, competitive, and monopoly industries; product vs. geographic markets; technological innovations; collusion, product differentiation; mergers; advertising; efficiency; price discrimination; etc. In addition, antitrust policies will be reviewed as they pertain to these issues.
+Prerequisites
+ECON 271 with a minimum grade of C-
+ECON 310 International Trade: Causes, Consequences, and Controversies
+Units: 1
+Description
+Through both theoretical and empirical approaches, students will study international trade in goods and services and develop a framework for analysis of trade policy issues.  Major themes include the causes and patterns of trade, the gains from trade and their distribution, the consequences of trade policies such as tariffs and voluntary export restraints, and the institutions of the world trading system including regional trade agreements.  The course also considers many of the current issues related to trade such as dumping, trade-related intellectual property rights, trade and the environment, and the decisions of multinational firms.
+Prerequisites
+ECON 271 with a minimum grade of C-
+ECON 315 International Macroeconomics
+Units: 1
+Description
+An advanced course in international finance and macroeconomics focusing on the factors that determine countries' capital flows and trade balances. The course will introduce several models of intertemporal welfare maximization to help students think about optimal consumption and investment decisions across time as well as the influence of fiscal policy in an open economy setting. Economics 272 is recommended but not required before you take this course.
+Prerequisites
+ECON 271 with a minimum grade of C-
+ECON 330 Environmental and Resource Economic Theory
+Units: 1
+Description
+A rigorous treatment of environmental and resource issues, with particular emphasis on problem of designing appropriate institutions and regulations. Topics include public goods, emission fees and tradable permits, nonmarket valuation, depletion of nonrenewable natural resources, and management of renewable natural resources. Economics 270 is recommended but not required
+before taking this course. (Same as Environmental Studies 330.)
+Prerequisites
+ECON 271 with a minimum grade of C-
+ECON 331 Labor Economics
+Units: 1
+Description
+Economic analysis of labor markets including labor supply, investment in human capital, labor demand, and wage determination. Policy issues include labor unions, discrimination, and analysis of government programs affecting labor markets.
+Prerequisites
+ECON 271 with a minimum grade of C-
+ECON 332 Public Economics
+Units: 1
+Description
+Economic analysis of government spending and taxation with particular emphasis on current public policy issues (e.g., social security, health care and fundamental income tax reform).
+Prerequisites
+ECON 271 with a minimum grade of C-
+ECON 341 Mathematical Economics
+Units: 1
+Fulfills General Education Requirement(s): IF-Written Communication (IFWC)
+Description
+Examines various economic concepts by means of mathematical analysis.
+Prerequisites
+ECON 271, MATH 212 or MATH 235, MATH 245, with a minimum grade of C-; and one of CMSC 150 or ECON 242
+ECON 359 Special Topics in Economics
+Units: 0.5-1
+Description
+Major areas in economics, application of economic principles, and analysis of policy issues to enhance the Economics major.
+Prerequisites
+ECON 101 and ECON 102
+ECON 368 Global Vision: A Student-Managed ETF Portfolio
+Units: 0.5
+Description
+Introduces students to the role of pure economic analysis in the construction of investment portfolios. The asset class and sector allocations of the portfolio flow from on-going assessment of domestic and international economic conditions. The portfolio choices are implemented using Exchange Traded Funds (ETFs). This investment vehicle eliminates the need for the technical training necessary for evaluating individual securities. The portfolio recommended by the class is implemented through the financial support of the university. The formal output of the semester is well suited to student participation at existing undergraduate research conferences and competitions.
+Prerequisites
+One 200- or 300-level economics course with a minimum grade of C- and permission of instructor
+ECON 369 Independent Study
+Units: 0.5-1
+Description
+Specialized study or directed research in an area of economics. Students are expected to produce a final academic product to be completed during the semester for which he/she is registered for the course. Typically, independent studies may not duplicate available course offerings and content. Independent studies do not count as one of the required economics electives in the economics major, mathematical economics major, or economics minor unless written permission is obtained from the Economics department chair in advance.
+Prerequisites
+ECON 271 or ECON 272, a written outline worthy of advanced credit, and permission of the economics department chair and, for business students, the Associate Dean for Undergraduate Business Programs
+ECON 370 Advanced Econometrics
+Units: 1
+Description
+Techniques for rigorously testing economic theory. Reinforces and extends the econometric techniques developed in Economics 270. Topics include a review of the classical linear regression model as well as model extensions to categorical and limited dependent variables, panel data estimation, instrumental variables, simultaneous equation systems, time-series analysis, and causal analysis.
+Prerequisites
+ECON 270 with a minimum grade of C-
+ECON 372 Advanced Macroeconomics
+Units: 1
+Description
+Examination of selected topics in macroeconomics beyond the basic theory level covered in Economics 272. Topics may include forecasting, time-series econometrics, growth theory, analysis of dynamic, stochastic general-equilibrium models, and open-economy macroeconomics.
+Prerequisites
+ECON 270 and ECON 272, each with a minimum grade of C-
+ECON 373 Forecasting and Time Series Analysis
+Units: 1
+Description
+Empirical course in macroeconomic forecasting and time-series analysis. Topics include macroeconomic data, effective graphing techniques, ARIMA modeling, VAR modeling, how to evaluate forecasts, smoothing models, and the impact of forecasting on policymaking.
+Prerequisites
+ECON 270 and ECON 272 both with a minimum grade of C-
+ECON 406 Summer Undergraduate Research
+Units: 0
+Description
+Documentation of the work of students who receive summer fellowships to conduct research [or produce a creative arts project] in the summer. The work must take place over a minimum of 6 weeks, the student must engage in the project full-time (at least 40 hours per week) during this period, and the student must be the recipient of a fellowship through the university. Graded S/U.
+Prerequisites
+Approval by faculty member
+ECON 480 Senior Capstone Seminar
+Units: 1
+Fulfills General Education Requirement(s): IF-Written Communication (IFWC)
+Description
+Utilizes theoretical and applied economic models from previous economics courses. Semester assignments guide students in learning how to use and interpret data and to create forecasts, conducting in-depth empirical research on a current issue of relevance, reviewing economic theory that is useful for understanding how the economy works, evaluating ethical issues confronting economists, and understanding the international interdependence of the world economy. Offered fall and spring.
+Prerequisites
+ECON 270, ECON 271, and ECON 272, each with a minimum grade of C-, and senior standing
+ECON 490 Honors Seminar in Economics
+Units: 1
+Fulfills General Education Requirement(s): IF-Written Communication (IFWC)
+Description
+Honors seminar. Offered each fall.
+Prerequisites
+Departmental invitation
+ECON 491 Honors Thesis in Economics
+Units: 1
+Description
+Capstone independent research project and honors paper. Note: Participation in the honors program fulfills the capstone requirement. Offered each spring.
+Prerequisites
+Departmental invitation

@@ -1,0 +1,6 @@
+URL: https://www.hult.edu/undergraduate/bba/entrepreneurship
+TITLE: Entrepreneurship Major - BBA | Hult Undergraduate
+
+Application deadline: {{ugDeadline}}
+Our enrollment advisors will be ready to support you throughout the process.
+Apply Now

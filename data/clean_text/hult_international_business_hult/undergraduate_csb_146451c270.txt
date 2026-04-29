@@ -1,0 +1,8 @@
+URL: https://www.hult.edu/undergraduate/csb
+TITLE: Bachelor's in Computer Science for Business | Hult International Business School
+
+Upcoming Application Deadline
+Submit your application by
+{{ugDeadline}}
+for 2026 intakes.
+Apply Now

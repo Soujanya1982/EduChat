@@ -1,0 +1,153 @@
+URL: https://mitsloan.mit.edu/programs/undergraduate/double-major-course-15-2-business-analytics-course-6-5-electrical-engineering-computing
+TITLE: Double Major: Course 15-2 Business Analytics + Course 6-5 Electrical Engineering with Computing | Undergraduate | MIT Sloan
+
+Undergraduate
+Double Major: Course 15-2 Business Analytics + Course 6-5 Electrical Engineering with Computing
+This roadmap should be viewed as one plan for structuring your schedule. There is a lot of flexibility when you take Course 15 classes. Even if you think it is too late to declare Course 15, email:
+ugeducation@sloan.mit.edu
+or come see us in E52-150 (Suite 133).
+Subjects that fulfill both
+Course 15
+and
+Course 6-5
+are
+bold.
+Updated fall 2025.
+First Year Fall
+6.100A
+or
+6.100L
+15.276
+1
+18.01
+Science GIR
+HASS
+First Year Spring
+6.1903 or 6.904
+15.053
+18.02
+Science GIR
+HASS
+Sophomore Year Fall
+6.1010
+2
+6.120A or
+6.1200
+3
+18.C06
+or
+18.06
+or
+18.S084
+4
+15.301
+5
+HASS
+Sophomore Year Spring
+6.2000
+6.1910
+6.3700 or 18.05
+6
+15.076
+HASS
+Junior Year Fall
+6.1210
+6.3100
+15.780
+Science GIR
+Junior Year Spring
+6.9000
+6.3900
+7
+15-2 Restricted Elective
+Science GIR
+Senior Year Fall
+6.C571/15.C571
+8
+Course 6 EE Track Subject
+9
+HASS
+HASS
+Senior Year Spring
+15-2 Restricted Elective
+10
+Course 6 EE Track Subject
+9
+HASS
+10
+HASS
+Notes:
+1
+Course 15/6 double majors have petitioned Course 6 to count
+15.276
+as a substitute for 6.UAT (Course 6 EECS Subject). Please note, though, Course 15 will not allow the reverse substitution (6.UAT will not substitute for
+15.276
+).
+2
+6.1010
+fulfills a
+requirement for 15-2
+and can count as a Course 6 EECS subject.
+3
+6.1200
+can count as a
+15-2 Restricted Elective
+and fulfills a requirement for 6-5. 6.120A does not count as a 15-2 Restricted Elective, so students who take 6.120A will need to take an additional
+15-2 Restricted Elective
+.
+4
+18.C06
+or
+18.06
+can count as a
+15-2 Restricted Electiv
+e and fulfills a requirement for 6-5.
+5
+15.312 is no longer being offered. Students who have previously taken 15.312 can substitute this course for
+15.301
+.
+6
+18.05
+can fulfill the
+Probability+Statistics requirement for Course 15
+and is a 6-5 Math Subject. Course 15/6 double majors can also count
+6.3700
+to fulfill these Course 15 and Course 6 requirements.
+7
+6.3900
+fulfills the
+15-2 Machine Learning requirement
+and can count as a Course 6 EE Track Subject.
+8
+6.C571/15.C571J
+can count as a Course 15
+15-2 Restricted Elective
+and a Course 6 EE Track Subject. Course 15 will allow
+6.C571/15.C571
+as a substitute for
+15.053
+. Students who chose this will need to select a different
+15-2 Restricted Elective
+as
+6.C571/15.C571
+cannot double count as fulfilling the
+15-2 Optimization
+requirement and as a
+15-2 Restricted Elective
+.
+9
+Please check the
+Course 6 website
+for list of subjects that fulfill each requirement bucket. Take note of level, CI-M status, prerequisites and semesters offered.
+10
+Joint Course 15 HASS subject
+15.0161J
+can count toward the HASS requirement and also towards the minimum three Course 15
+15-2 Restricted Electives.
+**For students considering an MEng in Course 6 and wanting to complete their MEng in one year, you will want to plan your course road with two “extra” courses that you can apply toward your MEng. If you are planning on getting
+funding through an RA-ship/TA-shi
+p for your MEng, you are restricted to two courses per MEng semester. Having two “extra” courses to apply toward your MEng will allow the possibility of graduating in a year (an MEng is typically six courses plus thesis).
+These “extra” courses cannot be double counted
+, i.e. used towards fulfilling your undergraduate Course 6 requirements, your undergraduate Course 15 requirements, GIRs, or 180 units beyond GIRs. Please
+see the Course 6 website
+for a list of eligible courses and confirm with Course 6 in advance and prior to taking a specific course if you would like that course to count toward your MEng.

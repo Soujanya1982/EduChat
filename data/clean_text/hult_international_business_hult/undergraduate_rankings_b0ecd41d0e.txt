@@ -1,0 +1,6 @@
+URL: https://www.hult.edu/undergraduate/rankings
+TITLE: Undergraduate Business School Rankings, Accreditations, Awards - BBA | Hult International Business School
+
+Application deadline: {{ugDeadline}}
+Our enrollment advisors will be ready to support you throughout the process.
+Apply Now

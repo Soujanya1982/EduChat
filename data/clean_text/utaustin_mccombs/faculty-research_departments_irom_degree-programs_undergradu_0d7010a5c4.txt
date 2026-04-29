@@ -1,0 +1,77 @@
+URL: https://www.mccombs.utexas.edu/faculty-research/departments/irom/degree-programs/undergraduate/business-analytics
+TITLE: Undergrad Business Analytics - McCombs School of Business
+
+BBA in Business Analytics
+Businesses are generating and collecting a massive amount of data from both business transactions and user generated data.
+Students that graduate with a degree in Business Analytics will be prepared to leverage statistical analysis, data mining, natural language processing, optimization, and machine learning to provide practical recommendations to improve business results in a wide variety of areas, including finance, marketing and supply chain management. They will also understand the ethical issues surrounding the design, development, and use of these technologies.
+Students that graduate from this major would be good candidates for data modeling positions in both large companies such as Amazon, Google, Walmart, Uber, etc., as well as small businesses, government agencies, startups and consulting companies.
+Download a Business Analytics degree plan
+
+What Will I Learn?
+Students in the Business Analytics major will learn:
+To understand and critically apply the concepts and methods of business analytics.
+To critically analyze and synthesize data.
+To use data and models to create viable solutions to complex unstructured business problems.
+To interpret results, evaluate solutions, and identify appropriate courses of action for a given managerial situation.
+To develop critical thinking, ethical and social responsibility, necessary to understand the complex social, cultural, and ethical context of business problems and the associated use of analytics tools and methods, and to instill a sense of ethical decision-making.
+
+What Kind of Job can I Get?
+Business Analytics majors can be found working in careers such as:
+Analyst Manager
+Business Analyst
+Business Intelligence Analyst
+Data Analyst
+Data Scientist
+Marketing Data Analyst
+Risk Analyst
+Supply Chain Data Analyst
+Business Analytics Major Requirements
+B.B.A. in Business Analytics (15 hours)
+BAX 305: Programming for Data Analytics (3 hours)
+BAX 327: Data Management (3 hours)
+BAX 357: Predictive Analytics (3 hours)
+BAX 358: Optimization Methods and Decision Making (3 hours)
+BAX 375: Business Analytics in Practice – Capstone (3 hours)
+Major electives (15 hours)
+Business Analytics Major electives (15 hours)
+Prescribed BAX electives (6 hours)
+Free electives (9 hours)
+Prescribed Elective Courses
+BAX 365: Ethics of Business Analytics (3 hours)
+BAX 366: Advanced Programming for Business Analytics (3 hours)
+BAX 367: Advanced Predictive Analytics (3 hours)
+BAX 368: Advanced Optimization Methods and Decision Making (3 hours)
+Elective Courses
+BAX 338: Supply Chain Modeling and Optimization (3 hours)
+BAX 360: Information and Analysis (3 hours)
+BAX 362: Auditing and Control (3 hours)
+BAX 372.2: Topics in Business Analytics: Predictive Analytics and Data Mining (3 hours)
+BAX 372.4: Topics in Business Analytics: User Generated Content Analytics (3 hours)
+BAX 372.5: Topics in Business Analytics: Financial Technology (3 hours)
+BAX 372.6: Topics in Business Analytics: Optimization Methods in Finance (3 hours)
+BAX 372.7: Topics in Business Analytics: People Analytics (3 hours)
+BAX 372.8: Topics in Business Analytics: Pricing and Channels (3 hours)
+BAX 372.9: Topics in Business Analytics: Data Analytics for Marketing (3 hours)
+BAX 372.10: Topics in Business Analytics: Data Driven Marketing (3 hours)
+BAX 372.16: Topics in Business Analytics: Supply Chain Analytics (3 hours)
+BAX 372.17: Topics in Business Analytics: Health Care Analytics (3 hours)
+BAX 372.20: Topics in Business Analytics: Financial and Econometric Time Series Modeling (3 hours)
+BAX 372.23: Topics in Business Analytics: Social Media Analytics (3 hours)
+Core Course Descriptions
+BAX 305: Programming for Data Analytics
+Covers general principles of computer languages, and basic object-oriented programming principles.
+Develops problem-solving skills to translate business problems from ‘English’ into programs written using the Python language. Builds on topics covered in STA 235 and further develops techniques to explore and visualize data. Covers automatic function optimization needed for decision-making. Students will use Python for hands-on work.
+Restricted to business students; upper-division standing required, no other prerequisites.
+BAX 327: Data Management
+This course will teach students how to tailor data strategy to business strategy and master the technical skills related to understanding data sources, acquiring data, storing data efficiently, and processing the data in pre pa ration for analysis.
+All skills will be taught within a data architecture framework that includes technical skills for organizing and retrieving data from relational data stores, as well as non-relational (NoSQL) data stores. Students will learn how to engineer and manage data pipelines, create data stores for analytics and use data management specific APIs (application programming interfaces).
+This course will also teach students the importance of implementing data governance, understanding data limitations, and assessing the fairness of data collection and usage.
+Restricted to business students; upper-division standing required, no other prerequisites.
+BAX 357: Predictive Analytics
+This course introduces machine learning and artificial intelligence techniques with a focus on business applications and decision-making. Coursework covers predictive frameworks, including tree-based techniques and artificial neural networks and their applications in business contexts, establishes solid foundations for evaluating models to understand their impact in a given business context, discusses issues related to algorithmic decision-making, and algorithmic bias and fairness. This course involves coding.
+Restricted to business students; prerequisites upper-division standing and STA 301, 301H, 309, or 309H.
+BAX 358: Optimization Methods and Decision Making
+This course covers decision-making in deterministic settings. Optimization and planning in various contexts including portfolio selection, production planning, marketing allocations, revenue management and pricing will be discussed. Tools and techniques covered will include linear, quadratic, nonlinear, and integer programming. Students will use Python for hands-on work.
+Restricted to business students; prerequisites upper-division standing and MIS 304 or BAX 305, and one of the following: STA 235 and SC 235, or STA 371G, or STA 371H.
+BAX 375: Business Analytics in Practice
+Designed to develop an understanding and appreciation for the role of business analytics in the context of the broader operations of a firm. Explores the use of business analytics in firms, the impact on business performance, and the ways that it can enhance firm value, through a series of case studies.

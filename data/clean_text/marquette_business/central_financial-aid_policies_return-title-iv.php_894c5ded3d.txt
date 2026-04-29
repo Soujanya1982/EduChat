@@ -1,0 +1,155 @@
+URL: https://www.marquette.edu/central/financial-aid/policies/return-title-iv.php
+TITLE: Withdrawals and Return of Title IV Financial Aid // Marquette Central // Marquette University
+
+Skip to content
+marquette.edu
+//
+Search
+//
+A-Z Index
+//
+Give to Marquette
+Marquette University
+Student Financial Aid
+Student Financial Aid
+Marquette.edu
+//
+Marquette Central
+//
+Student Financial Aid
+//
+Policies
+//
+Withdrawals and Return of Title IV Financial Aid
+When a student drops or ceases to be enrolled in all classes during a term it is considered a withdrawal. When the published withdrawal procedures are followed (e.g., dropping all classes, notifying college, completing the withdrawal paperwork), this is an Official Withdrawal. If a student does not notify the college, does not drop enrollment, and/or never attends or participates in classes it is considered an Unofficial Withdrawal. In all cases, the financial aid the student has received is earned through participation and involvement in all classes through the duration of the student’s semester classes. The percentage of aid earned for the term is based on the percentage of the term or payment period completed. The date of withdrawal may be the date of official notice of withdrawal, the last date of attendance, or the date the school became aware the student ceased attendance depending on the type of withdrawal.
+Expand all
+|
+Collapse all
+Official Withdrawal Process
+Students who register for classes and subsequently decide to withdraw from the university after late registration must file application to withdraw through their college.
+See more information on how to withdraw from the university
+A withdrawing student should complete the official form for withdrawal from all courses. This will enable Marquette to refund the maximum possible institutional charges. At that point, eligibility for federal financial aid will be determined based on several factors, including the last date of attendance as reported by the student’s college/school and the date the student initiates the withdrawal.
+Unofficial Withdrawal
+If a student ceases attendance (drops or withdraws) from all his or her Title IV eligible courses in a payment period, the student must be considered a withdrawal for federal financial aid purposes.
+A student is considered withdrawn if the student does not complete all the days in the payment period that the student was scheduled to complete.
+Tuition, Housing and/or Food Adjustments When Withdrawing from Courses
+See more information on Withdrawals and Your Account
+https://www.marquette.edu/central/bursar/withdrawal.php
+Federal Return of Title IV Funds
+Federal Title IV Financial Aid received (Federal Pell Grant, Iraq-Afghanistan Service Grant (IASG), Federal Supplemental Education Opportunity Grant (FSEOG), Federal Direct Loans, and PLUS/Grad PLUS use a pro rata schedule to determine the amount of these funds the student has earned at the time of withdrawal up through the 60% point in the payment period (semester). After the 60% point in the payment period, a student is considered to have earned 100% of the Federal Student Aid funds the student received and was scheduled to receive during the period.
+The percentage of earned aid is determined by dividing the number of the student’s completed calendar days by the total number of calendar days in the student’s full enrollment period.  This includes weekends and holidays but excludes any scheduled breaks of 5 days or greater.
+Example – Student was enrolled full time in Regular Term Classes but withdrew 44 calendar days into the term.  The total calendar days in the term was 111 days (including weekends and holidays) minus a break of 5 consecutive days, leaving 106 days.  44 days completed divided by 106 days in the scheduled term = 41.5%.  The student has earned 41.5% of the Title IV aid received for the term.  The Title IV aid received multiplied by 41.5% of the term completed = the aid student has earned for the semester.  Total federal Title IV aid received minus the aid earned = aid to be returned to the various federal programs.
+Return of federal aid received at Marquette occurs in this order:
+1. Unsubsidized Direct Loan
+2. Subsidized Direct Loan
+3. Direct Grad PLUS or Parent PLUS Loan
+4. Pell Grant
+5. Iraq and Afghanistan Service Grant
+6. FSEOG
+The return of Federal Funds must occur as soon as possible but no later than 45 days after the date the school determined the student withdrew.
+Withdrawal from Modules
+A module is any class that does not span the full semester or term.  If some courses span the entire period but some do not (modules), the program is determined to be offered in modules for any student scheduled to attend at least one course that does not span the entire period and withdraws during the period. The following information applies to students enrolled in modules who withdraw from course(s).
+With the September 2, 2020 federal final regulations, the following rules for students enrolled in modules went into effect as of 7/1/2021.  If the student who has withdrawn meets any of these exemptions, the student is not considered a withdrawal therefore the Return of Title IV Funds calculation is not required.
+R2T4 Exemption – Graduation during scheduled enrollment period-
+A student who completes all the requirements for graduation from his or her program before completing the days in the scheduled payment period is
+not
+considered to have withdrawn.  This exemption applies whether the student is enrolled in classes that span the entire payment period (this is for Clock Hour Schools) or are enrolled in modules.
+R2T4 Exemption – Successful Completion of 49% or More Days in the Payment Period
+Successful completion of one module that includes 49% or more of the number of countable days in the payment period
+or
+A combination of successfully completed modules that when combined equal 49% or more of the number of countable days in the payment period.
+R2T4 Exemption – Successful Completion of Half-Time Enrollment
+In standard-term and nonstandard-term programs offered in modules, it is not considered a withdrawal if the student successfully completes Title IV eligible coursework equal to or greater than half-time enrollment.
+Half-time is the definition of half-time according to the student’s program of study:
+Undergraduate - minimum of 6 credits
+Graduate - minimum of 4 credits per term
+Dental, Law and Health Science Professional - minimum of 6 credits
+Successful Completion
+:
+If a student successfully completes one or more modules, the number of days completed becomes the
+Numerator
+of the calculation to determine whether (s)he qualifies for the 49% or > R2T4 withdrawal exemption.
+Completion of one or more modules and earned at least one passing grade for module(s)
+Incompletes (no matter how identified or without any grade) are
+not
+considered successful completion (such as clinicals, thesis, dissertation, etc. when no passing grade is assigned upon completion of the module)
+Failing grades are never considered successful completion for purposes of this exemption from R2T4.
+R2T4 Exemption – Written Confirmation that a student will attend a later session.
+No R2T4 Freeze Date (No RFD)
+This applies to students who have withdrawn, are enrolled in modules, and who do not meet any of the R2T4 exemptions.  Marquette has a No RFD policy.  Student enrollment changes are monitored throughout the enrollment period and may impact the denominator used in the Return of Title IV Funds calculation.
+If the student only received a Federal Pell Grant and/or Iraq-Afghanistan Service Grant, the days in a module only need to be included in the R2T4 denominator if the student attends even one day in the module.  These programs require a reduction to the grant for any coursework that the student did not attend.
+If the student receives Direct Loan or FSEOG during the enrollment period, the days in the module must be included in the R2T4 calculation if the student attended any days at any time during the enrollment period.  This is because the student’s Cost of Attendance is affected by the student’s enrollment in all modules during the payment period.
+Post-Withdrawal Disbursement
+For a student who has withdrawn, if less aid has been disbursed than the student has earned and the student meets the post-withdrawal criteria, a post-withdrawal disbursement will be calculated.
+Post-Withdrawal of Grant Funds:
+Must be disbursed within 45 days of the date of the school’s determination of the student withdrawal.
+Post-Withdrawal of Loan Funds:
+Must be offered to the student within 30 days of the date of the school’s determination that the student has withdrawn.
+Must provide at least 14 days for the student to respond to accept or decline the funds.
+The disbursement of requested funds must be made no later than 180 days from the date of the school’s determination the student has withdrawn.
+In most cases, the cash management regulations require a school to refund a Title IV credit balance to a student within 14 days. However, when a student withdraws with an outstanding Title IV credit balance, a school is first required to perform an R2T4 calculation to determine whether adjustments to the credit balance will occur.
+Credit balances from an application of a Post-Withdrawal Disbursement, an Institutional Refund Calculation, or Private Scholarship Disbursement, will be refunded as soon as possible but no later than 14 days after any R2T4 adjustment has been made to the student’s account.
+See more information about Bursar Refunds:
+https://www.marquette.edu/central/bursar/billing-refunds.php
+Unearned Title IV Aid Due Back from Student
+When there is a withdrawal the Return of Title IV funds calculation may result in the student being responsible for returning funds.  For Marquette students, though uncommon, this may occur when the student’s institutional costs (direct costs such as tuition, fees, housing, and food on student’s bursar account) are quite low, the amount of unearned aid is greater, and the amount to be returned by the school does not cover the amount of unearned Title IV aid to be returned.
+The statute specifies that a student is responsible for all unearned Title IV aid that the school is not required to return. The initial amount of unearned Title IV aid due from the student (or parent, for Direct PLUS Loan funds) is determined by subtracting the amount returned by the school from the total amount of unearned Title IV funds to be returned. This is called the initial amount due from the student because a student does not have to immediately return loan funds or the full amount of any grant repayment due.
+Student Repayment of Unearned Loan Funds:
+When the calculation results in the student repayment of unearned loan for the semester of the withdrawal, the outstanding loans are paid by the student according to the terms of the student’s promissory note(s).
+Student Repayment of Unearned Grant Funds:
+The regulations limit the amount a student must repay to the amount by which the original grant overpayment exceeds 50% of the total grant funds disbursed to or that could have been disbursed to the student for the semester of withdrawal.
+The initial amount of unearned Title IV grant aid due from the student is determined by subtracting the grant to be repaid by the student from the initial amount of overall unearned aid due from the student.  The amount of grant overpayment due from a student is limited to the amount by which the original grant overpayment exceeds half of the total Title IV grant funds disbursed or that could have been disbursed to the student.  If the resulting amount is less than $50.00, the student is not responsible for returning funds to Title IV grant programs.
+Grant overpayments may be resolved through full and immediate repayment to the institution, repayment arrangements satisfactory to the school, or overpayment collection procedures negotiated with the Default Resolution Group.
+Students who owe overpayments resulting from withdrawal initially will retain their eligibility for Title IV funds for a maximum of 45 days from the earlier of: the date the school sends the student notice of the overpayment, or the date the school was required to notify the student of the overpayment. Within 30 days of determining that a student who withdrew must repay all or part of a Title IV grant, a school must notify the student that they must repay the overpayment or make satisfactory arrangements to repay the overpayment.
+Three formulas exist for determining the amount of the refund: the federal "return of Title IV aid" formula derived from the 1998 Reauthorization of the Higher Education Act, October 29, 2010 Final Rules and September 2, 2020 Final Rules
+,
+state of Wisconsin grant refund policy, and Marquette’s refund policy.
+Students who in addition to or do not receive federal Title IV funds will have their refunds calculated using the state of Wisconsin grant refund policy (if applicable) and Marquette’s refund policy, and private scholarship and loan refund policies.
+If any refund remains after the required return of Title IV aid, the refund will be used to repay state funds, Marquette funds, other private sources and the student in accordance with state regulations first and then in proportion to the amount paid by each non-federal source.
+For purposes of repayment, if funds are released to a student because of a credit balance on the student’s account, the student may be required to repay some federal grants. Worksheets used to determine the amount of refund or repayment are available upon request.
+The following example illustrates how the Marquette refund policy and federal policies work together.
+Example:
+A student withdrew on Thursday of the third week of classes in a 110-calendar-day term. Her charges of $5,000 were paid as follows: $1,200 Federal Direct Loan, $1,100 Federal Pell Grant, $2,000 Marquette scholarship and $700 paid by the student.
+Under the federal return of Title IV aid policy, $1,200 would be returned to the Federal Direct Loan program and $732 would be returned to the Federal Pell Grant Program. Under Marquette’s refund policy (60 percent during the third week = $3,000 tuition refund), $791 would be returned to the Marquette scholarship fund and $277 would be returned to the student. In summary, of the $5,000 in institutional charges, $3,000 would be refunded as follows
+Program
+Title IV
+$1,932
+Marquette University
+$791
+Student
+$277
+Total
+$3,000
+A summary of the refund breakdown will be sent to the student’s home address.
+Summary of the Requirements of 34 CFR 668.22 Treatment of Title IV Aid When a Student Withdraws
+The law specifies how your school must determine the amount of Title IV program assistance that you earn if you withdraw from school. The Title IV programs that are covered by this law are: Federal Pell Grants, Iraq and Afghanistan Service Grants, Academic Competitiveness Grants, National SMART grants, TEACH Grants, Stafford Loans, PLUS Loans, Federal Supplemental Educational Opportunity Grants (FSEOG) and Federal Perkins Loans.
+When you withdraw during your payment period or period of enrollment (your school can define these for you and tell you which one applies), the amount of Title IV program assistance that you have earned up to that point is determined by a specific formula. If you received (or your school or parent received on your behalf) less assistance than the amount that you earned, you may be able to receive those additional funds. If you received more assistance than you earned, the excess funds must be returned by the school and/or you.
+The amount of assistance that you have earned is determined on a prorated basis. For example, if you completed 30% of your payment period or period of enrollment, you earn 30% of the assistance you were originally scheduled to receive. Once you have completed more than 60% of the payment period or period of enrollment, you earn all the assistance that you were scheduled to receive for that period.
+If you did not receive all of the funds that you earned, you may be due a Post-withdrawal disbursement. If your Post-withdrawal disbursement includes loan funds, your school must get your permission before it can disburse them. You may choose to decline some or all of the loan funds so that you don’t incur additional debt. Your school may automatically use all or a portion of your Post-withdrawal disbursement of grant funds for tuition, fees and housing and food charges (as contracted with the school). The school needs your permission to use the Post-withdrawal grant disbursement for all other school charges. If you do not give your permission (some schools ask for this when you enroll), you will be offered the funds. However, it may be in your best interest to allow the school to keep the funds to reduce your debt at the school.
+There are some Title IV funds that you were scheduled to receive that cannot be disbursed to you once you withdraw because of other eligibility requirements. For example, if you are a first-time, first-year undergraduate student and you have not completed the first 30 days of your program before you withdraw, you will not receive any Direct Loan funds that you would have received had you remained enrolled past the 30th day.
+If you receive (or your school or parent receive on your behalf) excess Title IV program funds that must be returned, your school must return a portion of the excess equal to the lesser of:
+1. your institutional charges multiplied by the unearned percentage of your funds, or
+2. the entire amount of excess funds.
+The school must return this amount even if it didn’t keep this amount of your Title IV program funds.
+If your school is not required to return all of the excess funds, you must return the remaining amount. Any loan funds that you must return, you (or your parent for a PLUS Loan) repay in accordance with the terms of the promissory note. That is, you make scheduled payments to the holder of the loan over a period of time.
+Any amount of unearned grant funds that you must return is called an overpayment. The maximum amount of a grant overpayment that you must repay is half of the grant funds you received or were scheduled to receive. You do not have to repay a grant overpayment if the original amount of the overpayment is $50 or less. You must make arrangements with your school or the Department of Education to return the unearned grant funds.
+The requirements for Title IV program funds when you withdraw are separate from any refund policy that your school may have. Therefore, you may still owe funds to the school to cover unpaid institutional charges. Your school may also charge you for any Title IV program funds that the school was required to return. If you don’t already know what your school’s refund policy is, you can ask your school for a copy. Your school can also provide you with the requirements and procedures for officially withdrawing from school.
+If you have questions about your Title IV program funds, you can call the Federal Student Aid Information Center at 1-800-4-FEDAID (1-800-433-3243). TTY users may call 1-800-730-8913. Information is also available on Student Aid on the Web at www.studentaid.ed.gov.
+Policies Links
+Satisfactory Academic Progress Standards
+Return of Title IV financial aid
+Consumer Information
+Financial student aid penalties for drug convictions
+Disbursement of Financial Aid
+Campus Safety Resource Guide
+Office of Student Financial Aid Code of Ethics
+University Code of Conduct on Student Loans and Lenders
+Student
+Rights
+and
+Responsibilities
+PROBLEM WITH THIS WEBPAGE?
+Report an accessibility problem
+To report another problem, please contact
+marquettecentral@marquette.edu
+©

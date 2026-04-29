@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: educhat
+    runtime: python
+    # Pre-cache the 23 MB fastembed ONNX model during build so cold starts
+    # don't download it on first request.
+    buildCommand: >-
+      pip install -r requirements.txt &&
+      python -c "from embed import Embedder; Embedder('sentence-transformers/all-MiniLM-L6-v2').embed_one('warmup')"
+    startCommand: uvicorn api:app --host 0.0.0.0 --port $PORT
+    plan: free
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false       # set manually in Render dashboard
+      - key: PINECONE_API_KEY
+        sync: false       # set manually in Render dashboard

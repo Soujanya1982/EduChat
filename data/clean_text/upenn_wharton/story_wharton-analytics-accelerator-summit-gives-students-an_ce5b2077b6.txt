@@ -1,0 +1,69 @@
+URL: https://undergrad.wharton.upenn.edu/story/wharton-analytics-accelerator-summit-gives-students-an-opportunity-to-apply-classroom-knowledge-to-real-business-problems
+TITLE: Wharton Analytics Accelerator Summit Gives Students an Opportunity to Apply Classroom Knowledge to Real Business Problems - Undergraduate
+
+The Wharton Analytics Accelerator Summit offers students across the University a chance to team up with others to build models for real companies to solve business problems.
+On a gloomy Friday morning, analytics enthusiasts gathered at the Wharton School for the
+Wharton Analytics Accelerator Summit
+.
+Now in its second year, the Analytics Accelerator, a program of the
+Wharton Customer Analytics Initiative
+, once again paired student teams with corporate partners to solve real problems with analytical solutions. The program is competitive — only 24 students were chosen out of 200 applicants. Similarly, four companies were chosen out of the 30 that requested to partner with WCAI: the
+Barnes Foundation
+,
+Fuel Cycle
+,
+Hachette Book Group
+, and
+Reed Smith
+. To kick off the Accelerator, the students were split into teams and given four weeks to work with the data sets provided by the organizations. Their hard work culminated with the final Summit, where they presented their findings to an audience of corporate partners, students, and other analytics enthusiasts.
+The four companies featured this year spanned a range of industries, operating in the arts, publishing, market research, and the legal sector. The participating students were equally diverse, coming from undergraduate, MBA, and even post-doc levels and across Penn’s numerous academic departments.
+Developing Valuable Skills
+The Accelerator Challenge is designed to be a well-rounded and immersive learning experience. Students not only had to show exceptional modeling and statistical analysis skills but also present their work to an audience with varying levels of experience in analytics and statistical methods. In addition, the students had to balance this with their classes and other extracurricular activities at Penn.
+Kelly Herring, WG’20
+, was part of the team that partnered with market research firm Fuel Cycle to work with data provided by their client Rent-A-Center.
+“In the real world, work is everyone’s clear first priority, whereas here [at Penn] folks have schoolwork and extracurriculars. This adds another interesting challenge to teamwork, because you’re trying to work around so many schedules and competing priorities and still ensure there’s a quality product. So I really appreciated the team’s willingness to make time for this and really crank when needed,” she said.
+The Fuel Cycle/Rent-a-Center team answering questions from the audience.
+Analytics in Real-Life Conditions
+Since the datasets that students used came directly from the participating companies, teams had to manage all the issues that arose when using data collected by companies at various times using different methodologies. In some cases, this meant that some data was missing or multiple different datasets that had to be merged and standardized.
+For Kelly and her team, the data they were given posed many challenges that they had to circumnavigate. They had multiple different datasets and had to decide which fields should be merged and which ones they could discard as irrelevant to their analysis.
+“Our team had to think very carefully about exactly which analyses we wanted to do and what the goal was, so we could be sure to include all necessary data fields,” she said.
+The lack of perfect data pushed Kelly’s team to come up with ways to get more out of what they were given. This, she says, was similar to what she has done in previous professional settings.
+“I think working with the data was about as real as it could be — the data was true, messy, and incomplete client data. Because of that, making assumptions to use for analyses and finding creative ways to pull out insights were pretty similar to what I’ve seen in true client services.”
+Teammates Kelly Herring, WG’20, presenting their project
+Navigating Group Dynamics
+The Accelerator was not only an exercise in data analytics but in agile teamwork. Since teams were put together by the organizers, the students had to get to know their group members quickly. Since participating students came from across Penn’s schools and from various degree levels, they also had to leverage their individual strengths to create optimal models and solutions and give well-crafted presentations.
+“At the beginning of the project, we had folks go around and highlight what ‘stretch’ experiences they wanted to get out of the accelerator. Some said working with more data, some said presenting. As we were working, we tried to allow folks opportunities to work on these stretch goals while making sure we were still being practical about what could be accomplished feasibly given existing skills to make sure team members were not overexerting themselves to finish tasks by deadlines.”
+The Accelerator is not designed to be a competition. The impact of the models that the student teams built remains to be seen as the partner companies put them into use and observe the results over the next several months. Meanwhile, the students walked away with valuable experience that will help them succeed in their future careers.
+— Elis Pill, C’19
+Posted: November 13, 2018
+Analytics
+Competitions
+Conferences
+Driving Insights
+MBA
+The Wharton School
+Undergrad
+Wharton Customer Analytics (WCA)
+Wharton Customer Analytics (WCA)
+is the preeminent academic research center focusing on the development and application of business analytics methods. WCA focuses on all aspects of the customer experience. Through research and experiential learning engagements, we work with companies to transform business thinking, translate research findings, and teach students.
+Student Resources
+WCAI Online Courses for Students
+WCAI Student Data Portal
+Wharton Analytics Fellows
+Related Content
+Read More Stories
+A Wharton Undergrad Pursues Passions for ESG and Innovation
+3 Ways Wharton’s STEP Pre-Orientation Program Impacts Undergraduates After Freshman Year
+Media & Entertainment Industry Alums Share Creative Solutions to COVID Disruption
+Major: Economics. Minor: Humanity. The Storyteller behind Humans of Penn
+Slowing the Rising Tide of Early Internship Recruiting at Wharton
+Helping Undergrads Navigate Industry Recruiting
+Why This Statistics Undergrad Spent Winter Break Volunteering in Washington, D.C.
+Predicting Random Forest Fires in California
+How To Land a Data Science Internship
+What You Can Expect at the Penn Wharton Startup Showcase
+How I Found My Social Impact Path at Penn — and How You Can Find Yours
+Wharton’s Matt Fallon Clinches Spot on U.S. Olympic Team
+How Wharton and Penn Challenge This Undergrad, and Why Perseverance Matters
+What This Undergrad Learned about Her Leadership Style While Sailing in the Caribbean
+Undergrad Reflects on Recruiting Process: Part 4, The Choice

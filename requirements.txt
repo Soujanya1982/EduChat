@@ -10,7 +10,7 @@ uvicorn[standard]>=0.30,<1.0
 
 # ── LLM / embeddings ─────────────────────────────────────────────────────────
 groq>=1.0
-sentence-transformers>=3.0
+fastembed>=0.3          # ONNX-based embeddings (~100 MB RAM vs sentence-transformers' ~500 MB)
 
 # ── Vector store ─────────────────────────────────────────────────────────────
 pinecone>=5.0        # serverless index, one namespace per college

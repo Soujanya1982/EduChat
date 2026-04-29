@@ -1,0 +1,137 @@
+URL: https://www.business.uconn.edu/financial-risk-management
+TITLE: Master of Science in Financial and Enterprise Risk Management | Graduate Programs in Financial and Enterprise Risk Management | School of Business | University of Connecticut
+
+MS in Financial and Enterprise Risk Management
+A top-ranked master’s degree within a specialized area of finance. Prepare for your in-demand risk management career path.
+APPLY TODAY
+REQUEST INFORMATION
+UConn's Master's in Financial and Enterprise Risk Management is a 36-credit program offered full-time or part-time. The MS degree is held in-person in Stamford, Connecticut, and offers a mix of financial risk management and enterprise risk management courses. Students develop the skills needed to succeed in roles such as risk analysis, enterprise risk management, commercial banking, investment banking, and more.
+MS in Financial and Enterprise Risk Management at a Glance
+Location
+Complete the MS program in-person:
+UConn Stamford Campus
+1 University Place
+Stamford, Connecticut 06901
+Length
+36 credits (33 credits for U.S. citizens and permanent residents)
+Term
+Fall only
+Course Fees
+2024-2025: $1,500/credit
+STUDENT TESTIMONIAL
+"At UConn I'm honing my financial skills, enriching my network, and propelling my career."
+-Luis Cruz Dosamantes '24 FERM
+Academics and Curriculum
+The UConn Financial and Enterprise Risk Management master's degree prepares students to develop and direct investment strategies and manage the financial risk of firms, institutions, and private clients. Graduates are prepared to pursue careers in finance or risk management, or a Ph.D. in areas such as finance, mathematics, or economics. Students who add on the optional concentration in Quantitative Methods in Risk Management (QRM) gain deeper training in programming and financial modeling with computer and software applications.  The Master's degree is available full-time, part-time, or via an accelerated undergraduate-to-graduate path.
+Full-Time
+First Semester, Fall (A)
+FNCE 5310 – Introduction to U.S. Capital Markets*
+This course is designed for students who have limited experience and knowledge about the U.S. capital markets. Students will learn about the U.S. capital markets through classroom lectures, assignments, and corporate visits/presentations.
+*Students who are not on an F-1 or J-1 visa, and Accelerated MS students, are waived from Introduction to U.S. Capital Markets.
+FNCE 5312 – Risk Management of Financial Institutions
+The course covers the activities of different types of financial institutions and the standard methods in which financial institutions identify their risks and manage them. We analyze various dimensions of financial risk such as market risk, credit risk, volatility risk, and model risk. Furthermore, the course introduces banking regulations such as capital requirement, Basel I, II, III, and discusses the 2008 financial crisis.
+FNCE 5313 – Introduction to Econometric Analysis for Risk Managers
+The mathematical foundation for modeling financial risk as well as key concepts in algebra, statistics, calculus, time series and econometrics principles with applications to modeling risk management as a dynamic process over time.
+Second Semester, Spring (A)
+FNCE 5322 – Risk Management in Equity Markets
+Strategies for security selection and asset allocation and evidence on returns and volatility, equity price behavior and asset pricing models, portfolio performance evaluation methods, valuation models, equity risk measurement and optimal allocation of funds. Students will learn pricing of equity derivatives and their applications in risk management of equity-linked products and strategies.
+FNCE 5321 – Financial Time Series & Volatility Modeling
+This course aims to provide the participants a solid background to identify various risks in the financial markets using advanced financial models and to acquire the analytical and programming abilities to analyze related risks in different financial settings. The course covers the following topics: (i) financial time series, volatility models, and risk estimation; (ii) modeling risk exposures with value at risk and expected shortfall; (iii) multivariate risk models; (iv) introduction to simulation methods (Monte Carlo simulation, historical simulation); (v) backtesting and stress testing.
+FNCE 5332 – Risk Management in Fixed Income Markets
+Bond fundamentals and risk, models of term structure, the use of interest rate derivative in hedging interest rate risk, the use of mortgage-backed and other asset-backed securities (MBS, CMBS), and other debt instruments (CDOs, CLOs etc.) to manage credit and cash flow risks, in addition to valuation and trading strategies of pooled assets and derivative bonds using Monte Carlo and option pricing techniques.
+Capstone Projects begin
+Capstone Group Projects
+are graded as part of FNCE 5334 and run like a consulting job.
+Third Semester, Summer
+FNCE 5331 – Advanced Topics in Derivatives Pricing
+This course covers topics from quantitative finance and include probability theory, Monte Carlo simulation, and partial differential equations. On the application side, special attention is paid to exotic derivatives, the impact of skew and correlation on pricing and risk analysis, and derivatives from energy, equity, and rates that involve multiple underlying tradable assets. Throughout the semester, these topics are considered in the context of enterprise risk management systems, and they motivate discussions of advanced VAR and stress testing techniques.
+FNCE 5323 – Applications in Enterprise Risk Management I
+First in a two-part series on applications in Enterprise Risk Management. Introduces students to the current practice in the application of various enterprise risk management tools and techniques to real life situations. Material will be delivered through several sections, and include papers and articles written by both academics and practitioners.
+FNCE 5343 – Legal & Ethical Issues in Risk Management
+In a world in which addressing financial risks is becoming ever more complicated, what do you need to know from the standpoint of law and ethics to advance and protect your company’s interests?  Risk management is a key driver for business in the modern developed economy.  How do legal and ethical considerations affect decision-making in these areas?  For example, what are the consequences of “too big to fail” and how does the Dodd-Frank Act and stress-testing seek to address those issues?  How do the SEC’s and CFTC’s regulatory activities work?  How do anti-money-laundering laws and regulations and internationally directed U.S. anti-bribery and anti-corruption laws like the FCPA work?  What are specific financial crimes and U.S. government enforcement?  How should corporate governance be structured to best accomplish risk management?  How does antitrust law impact (a) joint action by competitors to set industry standards or seek action with respect to risk management generally and (b) financial market trading practices specifically?  How do foreign laws affect U.S.-based companies in these areas?  For the legally astute person, assessing how key fields of law affecting one’s company will likely be evolving is always highly important, and especially so in areas like financial risk management that are so central to political as well as business concerns.  How might evolution of the law play out in these areas, and how could one anticipate — and properly, as a matter of both law and ethics -- influence those developments?
+Fourth Semester, Fall (B)
+FNCE 5333 – Applications in Enterprise Risk Management II
+Second in a two-part series; a continuation of Applications in Enterprise Risk Management I. Examines the financial regulatory environment and explores advanced issues and strategies in financial risk management. Analyzes an enterprise’s governance, control environment and processes within COSO and SOX frameworks.
+FNCE 5341 – Risk Management in Credit Markets
+Pricing, measurement, and management of credit risk; credit risk modeling; use of credit derivatives to manage and control credit risk; building and managing portfolios, including long/short, and market neutral strategies; measurement of credit risk, including Actuarial, Merton, and Copula function; and portfolio construction, performance evaluation, asset allocation, and portfolio risk management (VAR, Hedging, Portfolio insurance).
+FNCE 5344 – Enterprise Risk Management 1.5 credits
+1.5 credit course.  A real-world approach to Enterprise Risk Management (ERM) in identifying, managing, and mitigating risk. A review of enterprise risks will include strategic, operational (e.g., supply chain), technological, and regulatory risk. The steps necessary to achieve an effective ERM process through a methodology for identifying, prioritizing, quantifying, decision-making and messaging of enterprise risks. This will include industry tools, reports and case studies providing a practical guide for implementing ERM. There will also be a discussion of the value of ERM to the enterprise and its various stakeholders.
+FNCE 5334 – Risk Management Project 1.5 credits
+1.50 credits. Students must complete work on projects sponsored by businesses and other organizations. Projects vary from applied research outputs to tangible products such as software.
+Fifth Semester (Optional), Spring (B)
+Concentration in Quantitative Methods in Risk Management
+FNCE 5351 – Excel Visual Basic Applications in Financial Risk Management
+The course trains students with advanced knowledge of financial risk management to build risk measurement and management tools by using Excel VBA. It assumes prior knowledge of the VBA language. It provides an advanced learning forum for students to develop specific applications on their own. These deliverable risk management applications are graded.
+FNCE 5352 – Financial Programming and Modeling
+This course will introduce the students to a wide variety of algorithms that are used in machine learning applications.   Students will code a few algorithms completely and learn to use software packages that implement others.  Instruction and assignments will use the R and Python programming ecosystems.  Students will be exposed to Machine Learning at scale using the Keras and TensorFlow libraries.  Throughout the course, special attention will be given to applications of these algorithms to finance.
+FNCE 5353 – Fintech Applications in Risk Management
+The course addresses how financial technology helps companies better manage their risks. Financial Technology has been a significant disruption to the Financial Services Industry and Financial Markets around the world. This course will review the major FinTech trends and the risks these trends have created for both legacy enterprises and new entrants. The course will include real-life examples and case studies to reinforce the course concepts. Topics will include mitigation of cybersecurity risk (e.g. by using encryption or hashing), payment risk (e.g. by using P2P systems), fraud risk (e.g. by using applications of machine learning to fraud detection and default prediction), operation risk (e.g. by using smart contracts).
+Part-Time
+Under the part-time option, students are allowed the maximum possible flexibility to take as many or few courses as they wish every semester.  However, courses are still lock-step and part-time students must wait until the course is offered again next academic year. International students must study full-time.
+A
+suggested sequence
+of courses for part-time students is as follows:
+Fall I – 2 courses
+Spring I – any 2 courses (should take FNCE 5321 Financial Time Series & Volatility Modeling)
+Summer I - any 2 courses (should take FNCE 5331 - Advanced Topics in Derivatives Pricing)
+Fall II – 3 courses + FNCE 5334 - Risk Management Project
+Spring II – 1 remaining course from Spring I
+Summer II - 1 remaining course from Summer I
+Total – 11 courses (33 credits)
+All courses are lockstep and must be taken in sequence
+Under the above scheme, part-time students will graduate in May of their second year in the program.
+However, the program allows the students the maximum possible flexibility to choose as many or few courses as the part-time student wishes, subject to the following caveats:
+Domestic students will be allowed to take as many (not exceeding 3) or as few (including not taking any course) courses they choose during each semester.
+All domestic students are strongly advised to take at least one course each semester.
+All domestic students are strongly advised to take the Financial Modeling course sequence before they take the Financial Risk Management sequence, to the extent possible.
+Domestic students must finish the experiential learning project with the group to which he/she is assigned.
+All domestic students are strongly advised to finish the program within 2 years.
+All domestic students must finish the program (33 credits for the 15-month, 42 credits for the 20-month program) within 3 years from starting the program.
+***Important - Students need to take a certain number of credits to be eligible for financial aid and to not have to repay loans.  Students should be careful about their funding availability if they choose to take less credits per semester.  Students are responsible to check with Financial Aid Office regarding this issue.
+Accelerated Undergraduate-to-Graduate
+The
+Accelerated MS in Financial and Enterprise Risk Management
+is designed for current undergraduate students who are completing a bachelor's degree in business, a STEM-related field, or other appropriate majors. This 30-credit option is offered at our Stamford campus location.
+First Semester, Fall
+FNCE 5312 – Risk Management of Financial Institutions
+The course covers the activities of different types of financial institutions and the standard methods in which financial institutions identify their risks and manage them. We analyze various dimensions of financial risk such as market risk, credit risk, volatility risk, and model risk. Furthermore, the course introduces banking regulations such as capital requirement, Basel I, II, III, and discusses the 2008 financial crisis.
+FNCE 5313 – Introduction to Econometric Analysis for Risk Managers
+The mathematical foundation for modeling financial risk as well as key concepts in algebra, statistics, calculus, time series and econometrics principles with applications to modeling risk management as a dynamic process over time.
+FNCE 5341 – Risk Management in Credit Markets
+Pricing, measurement, and management of credit risk; credit risk modeling; use of credit derivatives to manage and control credit risk; building and managing portfolios, including long/short, and market neutral strategies; measurement of credit risk, including Actuarial, Merton, and Copula function; and portfolio construction, performance evaluation, asset allocation, and portfolio risk management (VAR, Hedging, Portfolio insurance).
+Second Semester, Spring
+FNCE 5321 – Financial Time Series & Volatility Modeling
+This course aims to provide the participants a solid background to identify various risks in the financial markets using advanced financial models and to acquire the analytical and programming abilities to analyze related risks in different financial settings. The course covers the following topics: (i) financial time series, volatility models, and risk estimation; (ii) modeling risk exposures with value at risk and expected shortfall; (iii) multivariate risk models; (iv) introduction to simulation methods (Monte Carlo simulation, historical simulation); (v) backtesting and stress testing.
+FNCE 5322 – Risk Management in Equity Markets
+Strategies for security selection and asset allocation and evidence on returns and volatility, equity price behavior and asset pricing models, portfolio performance evaluation methods, valuation models, equity risk measurement and optimal allocation of funds. Students will learn pricing of equity derivatives and their applications in risk management of equity-linked products and strategies.
+FNCE 5332 – Risk Management in Fixed Income Markets
+Bond fundamentals and risk, models of term structure, the use of interest rate derivative in hedging interest rate risk, the use of mortgage-backed and other asset-backed securities (MBS, CMBS), and other debt instruments (CDOs, CLOs etc.) to manage credit and cash flow risks, in addition to valuation and trading strategies of pooled assets and derivative bonds using Monte Carlo and option pricing techniques.
+Third Semester, Summer
+FNCE 5331 – Advanced Topics in Derivatives Pricing
+This course covers topics from quantitative finance and include probability theory, Monte Carlo simulation, and partial differential equations. On the application side, special attention is paid to exotic derivatives, the impact of skew and correlation on pricing and risk analysis, and derivatives from energy, equity, and rates that involve multiple underlying tradable assets. Throughout the semester, these topics are considered in the context of enterprise risk management systems, and they motivate discussions of advanced VAR and stress testing techniques.
+FNCE 5323 – Applications in Enterprise Risk Management I
+First in a two-part series on applications in Enterprise Risk Management. Introduces students to the current practice in the application of various enterprise risk management tools and techniques to real life situations. Material will be delivered through several sections, and include papers and articles written by both academics and practitioners.
+FCNE 5343 – Legal & Ethical Issues in Risk Management
+In a world in which addressing financial risks is becoming ever more complicated, what do you need to know from the standpoint of law and ethics to advance and protect your company’s interests?  Risk management is a key driver for business in the modern developed economy.  How do legal and ethical considerations affect decision-making in these areas?  For example, what are the consequences of “too big to fail” and how does the Dodd-Frank Act and stress-testing seek to address those issues?  How do the SEC’s and CFTC’s regulatory activities work?  How do anti-money-laundering laws and regulations and internationally directed U.S. anti-bribery and anti-corruption laws like the FCPA work?  What are specific financial crimes and U.S. government enforcement?  How should corporate governance be structured to best accomplish risk management?  How does antitrust law impact (a) joint action by competitors to set industry standards or seek action with respect to risk management generally and (b) financial market trading practices specifically?  How do foreign laws affect U.S.-based companies in these areas?  For the legally astute person, assessing how key fields of law affecting one’s company will likely be evolving is always highly important, and especially so in areas like financial risk management that are so central to political as well as business concerns.  How might evolution of the law play out in these areas, and how could one anticipate — and properly, as a matter of both law and ethics -- influence those developments?
+FNCE 5344 – Enterprise Risk Management 1.5 credits
+1.5 credit course.  A real-world approach to Enterprise Risk Management (ERM) in identifying, managing, and mitigating risk. A review of enterprise risks will include strategic, operational (e.g., supply chain), technological, and regulatory risk. The steps necessary to achieve an effective ERM process through a methodology for identifying, prioritizing, quantifying, decision-making and messaging of enterprise risks. This will include industry tools, reports and case studies providing a practical guide for implementing ERM. There will also be a discussion of the value of ERM to the enterprise and its various stakeholders.
+FNCE 5334 – Risk Management Project 1.5 credits
+1.50 credits. Students must complete work on projects sponsored by businesses and other organizations. Projects vary from applied research outputs to tangible products such as software.
+Experiential Learning Requirement
+Application Process
+Applications to the MS in Financial and Enterprise Risk Management program are accepted on a rolling basis and reviewed by the admissions committee.
+APPLY  NOW
+Applicants must fulfill all of the following requirements:
+Completed application for admission.
+Official transcripts from all colleges and universities at which the applicant has completed course or degree work.
+Completion of a one-semester college-level calculus or statistics course with a grade of "C" or better.
+An undergraduate degree (B.S. or B.A.) from a 4-year program at an accredited university or college.
+A minimum undergraduate grade-point average (GPA) of 3.0 for at least the last 2 years.
+REQUEST MORE INFORMATION
+START/CONTINUE YOUR APPLICATION
+Mission
+The mission of the Master's of Science in Financial and Enterprise Risk Management is to provide an outstanding program in the design, development, and execution of financial risk management strategies and systems. Through collaboration with the financial services industry in the State of Connecticut, the program provides a forum for interaction of academics and practitioners to focus on the practice of creating economic value by managing exposure to risk.
+Theory and Practice
+The program provides a unique blend of theory and practice designed for financial professionals who develop and direct investment strategies and/or manage the financial risk of firms, institutions, and private clients. The theoretical component is analytical and quantitative, the practice component emphasizes the behavioral issues and human factors in the design and implementation of internal control, communication and governance of exposure to risk.
+The program either utilizes or provides exposure to a variety of risk management-related software to enhance the program’s real world focus and the hands-on learning experience for the student. Free of cost programming workshops are provided on Excel VBA, Python, R, C##, FinTech, Bloomberg, and MATLAB by experts. We have Bloomberg representatives come on campus to train students and have 3 Bloomberg Terminals at the Stamford campus.
+Our curriculum includes four seminar classes taught by experts and top practitioners currently working in their industries. Our Capstone project runs exactly like a consulting job, with projects sponsored by local companies, which provides students with additional real world work experience in the risk management industry. Our Experiential Learning Requirement, which can be fulfilled in a variety of ways, including competitions, the Student Managed Fund, internships and work experience, also provides students with hands on experience in the risk management field.

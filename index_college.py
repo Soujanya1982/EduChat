@@ -17,8 +17,8 @@ import re
 from pathlib import Path
 
 from dotenv import load_dotenv
+from embed import Embedder
 from pinecone import Pinecone, ServerlessSpec
-from sentence_transformers import SentenceTransformer
 
 import config
 
@@ -60,15 +60,15 @@ def chunk_text(text: str, size_tokens: int, overlap_tokens: int) -> list[str]:
 
 
 # ── Lazy singletons ───────────────────────────────────────────────────────────
-_embedder: SentenceTransformer | None = None
+_embedder: Embedder | None = None
 _pinecone_index = None
 
 
-def _get_embedder() -> SentenceTransformer:
+def _get_embedder() -> Embedder:
     global _embedder
     if _embedder is None:
         print(f"[embed] loading {config.EMBED_MODEL}")
-        _embedder = SentenceTransformer(config.EMBED_MODEL)
+        _embedder = Embedder(config.EMBED_MODEL)
     return _embedder
 
 
@@ -160,7 +160,7 @@ def index_college(college: dict) -> dict:
         if not chunks:
             continue
 
-        embeddings = embedder.encode(chunks, show_progress_bar=False).tolist()
+        embeddings = embedder.embed_batch(chunks)
         for i, (chunk, emb) in enumerate(zip(chunks, embeddings)):
             pending.append({
                 "id":     f"{slug}__{i}",

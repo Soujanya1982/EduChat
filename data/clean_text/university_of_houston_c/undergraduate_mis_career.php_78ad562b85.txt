@@ -1,0 +1,37 @@
+URL: https://www.bauer.uh.edu/undergraduate/mis/career.php
+TITLE: Careers - Undergraduate MIS | Bauer College of Business at UH
+
+home button
+Undergraduate
+Mis
+Careers
+Careers
+Our MIS program provides the skill set to enter any of the following general areas within the information technology arena. We have successful alumni who are employed in all of these areas and their success has been based on the skills they acquired from our program.
+Analyst/Project Manager
+As stated above, this is the currently the most common path for the MIS professional and most entry level jobs for MIS majors fall into this category. The two central courses in the MIS curriculum (MIS 3360 Systems Analysis and Design and MIS 4374 IT Project Management) provide the core skill set for the program.
+Database Technologies
+Central to most every technology application is the database where the transaction and archival data resides. The MIS 3376 Database Management Systems course is a required skill (with an advanced course MIS 4386 Database Management II available as a senior elective option). The typical technology role here is the "database administrator" (called DBA). Emerging technology areas in the database arena involve: data warehousing (development of large integrated data storage environments); data mining, data modeling or business analytics (the use of various analysis tools to extract historical patterns and develop projections for the future); and business intelligence (the use of tools to scan external data environments and couple findings with internal data in order to discern trends and opportunities relevant to the success of the business).
+IT Infrastructure
+The role of computer hardware, networking, security and communications technologies continues to expand with "mobile technologies" and "cloud computing" becoming a common part of every corporate computing environment. This area continues to grow and offer new job opportunities for MIS professionals as the existing technologies mature and new infrastructure opportunities are implemented. There are two elective courses (MIS 4477 Network & Security Infrastructure and MIS 4381 Management of IT Security) available to support students interested in these roles.
+IT Consulting
+In addition to roles in traditional corporate MIS environments, consulting firms provide another employment avenue for our graduates. There are many large and small technology consulting firms that provide expertise in all areas of MIS. These firms are often employed to provide: specialized IT solutions; large-scale project development alternatives; and MIS planning and strategic management services. There is a senior elective (MIS 4397 Business Systems Consulting) which covers the roles and skills sets needed for the future MIS consultant.
+IT Audit and Compliance
+New to the MIS arena is the emergence of IT Auditing and compliance. These new roles result from the legal requirements of Sarbanes-Oxley (aka SOX). See for example this. The intent of the law it to assure that publicly traded corporations insure that risks of fraud in financial reporting are minimized. This had resulting in significant internal controls being established for financial reporting and transaction processing systems. Most large public accounting firms offer Sarbanes-Oxley advisory services. Additionally, all publicly traded companies have teams that utilize IT expertise to insure SOX compliance. (The MIS 4373 Transaction Processing III elective course covers the areas of IT Audit and SOX compliance).
+The increased demand for MIS skills and the quality of our program are reflected in job hiring statistics from the Bauer College. The table below shows the significantly higher starting salaries for our MIS graduates as compared to other areas of specialization in the Bauer College of Business.
+Student Resources
+The DISC Department
+Prospective Students
+Rockwell Career Center
+UBP Advising
+Advising
+Find Your Advisor
+Degree Plans
+Declare MIS Major
+UH Academic Catalog: MIS Course Descriptions & Prerequisites
+Graduation
+Also View
+MISSO Student Organization
+Student Organizations
+Learning Abroad
+Leadership Certificate
+Back To Top

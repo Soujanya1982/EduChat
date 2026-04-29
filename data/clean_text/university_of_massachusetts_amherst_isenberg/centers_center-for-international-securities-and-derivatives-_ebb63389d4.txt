@@ -1,0 +1,9 @@
+URL: https://www.isenberg.umass.edu/centers/center-for-international-securities-and-derivatives-markets/wrds
+TITLE: WRDS Platform : Isenberg School of Management : UMass Amherst
+
+Wharton Research Data Services (WRDS)
+Wharton Research Data Services (WRDS) is a global standard for business research. From the classroom to the boardroom, WRDS is more than just a data platform — data validation, flexible delivery options, simultaneous access to multiple data sources, research-based analytics, and dedicated client support provided by doctoral-level professionals.
+WRDS globally accessed, efficient web-based service gives researchers access to accurate, vetted data and WRDS doctoral-level experts.
+600+ datasets from more than 50 vendors across multiple disciplines are accessible to support users at all experience levels.  The CISDM database is one of these databases.
+Access WRDS Platform
+https://wrds-www.wharton.upenn.edu/

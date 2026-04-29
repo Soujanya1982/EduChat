@@ -1,0 +1,65 @@
+URL: https://undergrad.wharton.upenn.edu/story/what-this-undergrad-learned-about-mortgage-tech-while-interning-for-a-blockchain-startup
+TITLE: What This Undergrad Learned About Mortgage Tech While Interning for a Blockchain Startup - Undergraduate
+
+Vibhav Jagwani, W’20, E’20, shares his summer internship experience at a startup and how the M&T curriculum helped him prepare.
+Vibhav Jagwani
+,
+W’20
+,
+E’20
+, came to Wharton’s dual-degree
+Jerome Fisher Program in Management and Technology
+(M&T) to pursue a long-term goal of founding his own startup. He got a taste for working in that entrepreneurial environment last summer interning at blockchain startup
+elphi
+as a full stack developer.
+When he applied, the company only had five employees and two dropped out by the time arrived for his first day of work. Vibhav didn’t want to work in big tech the summer after his sophomore year and saw elphi as a opportunity to learn from a small team and take on bigger responsibilities. He was also inspired by the elphi’s founder, who spent 10 years serving in the Israeli army before heading to business school.c
+At elphi, Vibhav learned how the company addressed inefficiencies in the U.S. mortgage process through blockchain. He worked with the Corda platform to develop applications to fix issues like loan origination and securitization.
+Exercising M&T Skills
+Although he’s majoring in computer science and finance, Vibhav didn’t know how to code prior to coming to Penn. Through classes from
+Penn Engineering
+and Wharton, the M&T curriculum helped him develop necessary skill sets to handle the technical and business sides of his summer internship role.
+Vibhav fell in love with computer science during his freshman year. “I came in as a systems engineer. My plan was to do a bunch of math and get out of here and then I took an electrical engineering class where the barrier to building stuff is pretty large. Then I took a computer science class where the barrier to creation was much less, and once you get the bug it just hits you,” he said.
+The Wharton coursework coupled with his role as president of Penn Microfinance
+also gave him a solid foundation to begin understanding elphi’s business model, which involves eliminating inefficiencies like excessive intermediaries at every step of the mortgage process.
+Exploring Blockchain and Mortgage Tech
+The startup itself brought together two of Vibhav’s interests: blockchain and mortgage tech. While most people think of cryptocurrency when they think of blockchain, there are many other applications for the technology, which he got to explore firsthand.
+The experience also allowed him to apply both halves of his education in an entrepreneurial setting. For example, his manager encouraged developers to not only create their products but present them. “I was developing [half the time] and presenting the other half of the time to potential clients and VCs as the tech lead,” said Vibhav. “I’d just only gone through two years at Penn and literally started developing a year before.”
+Although he received an offer to return to work with elphi, Vibhav wants to explore something new and experience the West Coast. This summer, he will head to the San Francisco-based late-stage startup Lending Home to work with cross-functional teams. In the future, he hopes to use his experiences at Penn and in the startup space to found his own company and give back to other communities.
+“I think that in the long run, I’d like to return to places where opportunity isn’t so prevalent and apply the learnings that I’ve gathered, whether they be in microfinance or the credit space in general, based on competencies I developed last summer and will hopefully develop this summer.”
+— Jonathan Lahdo
+Posted: May 8, 2019
+Driving Insights
+Internships
+Philadelphia
+Real Estate
+Student Profiles
+Technology
+The Wharton School
+Undergrad
+The Wharton School
+Vibhav Jagwani, W’20, E’20
+Hometown
+Singapore, Singapore
+Wharton Concentration
+Finance
+Engineering Major
+Computer Science
+Activities/Clubs
+Penn Microfinance
+Related Content
+Read More Stories
+Students, Get Involved With Social Impact This Semester
+Students Chat With the Dean About Diversity at Wharton
+How the Summer Program for Undergraduate Research Helped This Undergrad Discover Passion for Real Estate Finance
+How Creativity and Innovation Drive This Undergrad
+Roaming Rwanda: How GRIP Gave This Wharton Undergraduate A Glimpse Into Global Health
+Wharton’s Matt Fallon Clinches Spot on U.S. Olympic Team
+This Wharton Senior’s Letter Writing Project Gets Global Attention
+3 Lessons This Undergrad Learned from Arts and Entertainment Leaders in Los Angeles
+Their Stories Then, Their Careers Now
+(105) Days of Summer
+How Data Science Led This Undergrad to Business Analytics
+How to Learn from Wins and Losses — and Other Lessons from Poker
+From Student to Teaching Assistant: Same Class, Different Takeaways
+Making Moves
+Black Wharton: Empowering Excellence at Penn

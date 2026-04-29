@@ -1,0 +1,62 @@
+URL: https://fisher.osu.edu/undergraduate/academics/real-estate-minor
+TITLE: Real Estate Minor | Fisher College of Business
+
+Real Estate Minor
+The Real Estate Minor is designed to provide students across all university departments with an opportunity to complement their major studies with an exploration of real estate; to engage students from a variety of departments to create an interdisciplinary classroom experience; and to prepare students for the various employment opportunities in the field of real estate.
+The minor requires successful completion of a minimum of 15 hours, composed of one required course, and four or five electives. Finance specialization students can overlap one course with their specialization electives.
+Real Estate Minor Advising Sheet
+Required Course (1 course - 3 credit hours)
+BUSFIN 3400 - Introduction to Real Estate
+Prerequisites: ECON 2001.01 or 2002.01; BUSMHR 2292 or Real Estate Minor declared
+Description: A basic overview of Real Estate Industry covering topics related to finance, law, property management, land planning and acquisition, urban economics and green development.
+Elective Courses (4-5 courses: 12 credit hours)
+BUSFIN 4410  - Real Estate Finance (3 credits)
+Prerequisites: BUSFIN 3120 or 3220; BUSFIN 3400
+Description: Basics of the mortgage markets and related finance investments and models of real estate valuation.
+BUSFIN 4411 - Property Management (3 credits)
+Prerequisites: BUSFIN 3400, 3220, 3500; BUSOBA 2320, 2321; BUSMHR 2292
+Description: An overview of tasks performed by property management personnel/companies and the differentiation of the management approaches used for commercial and residential managers
+BUSFIN 4412 - Real Estate Law (3 credits)
+Prerequisites: BUSFIN 3400, 3220, 3500; BUSOBA 2320, 2321; BUSMHR 2292
+Description: An introduction to the various aspects of real estate law including deeds, land ownership, mortgages and basic contract law.
+BUSFIN 4413 - Planning & Development (3 credits)
+Prerequisites: BUSFIN 3400, 3220, 3500; BUSOBA 2320, 2321; BUSMHR 2292
+Description: An overview of all the stages of development process, including discovery, site selection, market survey, product selection, design, approval process, financing, and leading and management.
+BUSFIN 5402 - Real Estate Valuation (3 credits)
+Prerequisites: BUSFIN 3400, and Real Estate Minor declared
+Description: Real estate financial modeling course covering valuations of existing income producing property  as well as ground up construction.
+BUSML 4380 - Advanced Logistics Management (1.5 credits)
+Prerequisites: BUSML 3380; ACCTMIS 2200, 2300; BUSOBA 2320, 2321; BUSMHR 2292
+Description: Advanced coverage of the concepts and methods used to plan and manage logistics activities in a business environment; in-depth understanding of the components of logistics management and tradeoffs required to manage the integrated flow of goods.
+BUSML 4388 - Logistics Execution II (1.5 credits)
+Prerequisites: BUSML 4381; ACCTMIS 2200, 2300; BUSOBA 2320, 2321; BUSMHR 2292
+Description: This course will equip students with warehouse management skills, including facility layout, financial analysis, and labor relations. There will also be an additional focus on carrier operations, transportation pricing, and third-party service providers.
+CRP 3400 - Planning for Sustainable Economic Development (3 credits)
+Prerequisites: ECON 2001.01
+Description: Understanding the intersection of economics, the environment, and development in order to use planning tools to promote sustainable economic development.
+CRP 3600 - Land Development Planning (3 credits)
+Prerequisites: None
+Description: Planners shape cities. The land development process requires understanding the impacts of new development and redevelopment in order to reimagine more vibrant sites.
+CRP 5400 - Planning for Housing (3 credits)
+Prerequisites: None
+Description: The creation of a range of housing to support growth and revitalization of cities and regions. Includes housing uses, meaning, design, and role.
+CONSYSM 2205 - Intro to Construction Project Management (3 credits)
+Prerequisites or concurrent: Math 1148,1149, 1150, or 1151
+Description: Overview of commercial, industrial, institutional, transportation and residential sectors of the construction industry and the role of the construction manager. Introduction to planning, scheduling, estimating, safety and ethics in construction.
+CONSYSM 2310 - Electrical and Lightning Systems (3 credits)
+Prerequisites or concurrent: Math 1148,1149, 1150, or 1151; Physics 1200 or 1250
+Description: Concepts of electricity and illumination applied to the design and installation of electrical and lighting systems in the buildings including safety, code requirements, installation methods, electrical schematics, and construction blueprints.
+CONSYSM 2345 - Mechanical Systems for Buildings (3 credits)
+Prerequisites or concurrent: Math 1148,1149, 1150, or 1151; Physics 1200 or 1250
+Description: Fundamentals of HVAC, plumbing, fire protection and noise and vibration control and their impact on building design and construction.
+CONSYSM 5670 - Green Building and Sustainable Construction (3 credits)
+Prerequisites: Jr, Sr, or Grad standing
+Description: Introduction to LEED rating systems, major components of sustainable building design and construction as well as other environmental and economic issues of sustainable built environments.
+Contact the Undergraduate Programs Office
+614-292-2715
+undergraduate@fisher.osu.edu
+Undergraduate Programs Office
+Fisher College of Business
+120 Schoenbaum Hall
+210 W. Woodruff Ave.
+Columbus, OH 43210-1144

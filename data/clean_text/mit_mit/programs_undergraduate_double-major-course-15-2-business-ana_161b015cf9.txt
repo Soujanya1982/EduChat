@@ -1,0 +1,130 @@
+URL: https://mitsloan.mit.edu/programs/undergraduate/double-major-course-15-2-business-analytics-course-6-4-artificial-intelligence-and-decision-making
+TITLE: Double Major: Course 15-2 Business Analytics + Course 6-4 Artificial Intelligence and Decision Making | Undergraduate | MIT Sloan
+
+Undergraduate
+Double Major: Course 15-2 Business Analytics + Course 6-4 Artificial Intelligence and Decision Making
+This roadmap should be viewed as one plan for structuring your schedule. There is a lot of flexibility when you take Course 15 classes. Even if you think it is too late to declare Course 15, email:
+ugeducation@sloan.mit.edu
+or come see us in E52-150 (Suite 133).
+Subjects that fulfill both
+Course 15
+and
+Course 6-4
+are
+bold.
+Updated fall 2025.
+First Year Fall
+6.100A or 6.100L
+15.276
+1
+18.01
+Science GIR
+HASS
+First Year Spring
+6.1010
+15.053
+6
+18.02
+Science GIR
+HASS
+Sophomore Year Fall
+6.1200
+2
+18.06 or 18.C06
+2
+15.301
+3
+Science GIR
+HASS
+Sophomore Year Spring
+6.1210(6.006)
+6.3700 or 18.05
+4
+15.076
+Science GIR
+HASS
+Junior Year Fall
+6.3900
+5 7
+6.C571/15.C571
+6 7
+15.780
+HASS
+Junior Year Spring
+Course 6 Center Subject
+7
+Course 6 Center Subject
+7
+15-2 Restricted Elective
+HASS
+Senior Year Fall
+Course 6 Center Subject
+7
+Additional Course 6 or Course 18 Subject
+7
+15-2 Restricted Elective
+HASS
+Senior Year Spring
+Course 6 Application_CIM
+7
+Course 6 AI+D_AUS Subject
+8
+HASS
+Notes:
+1
+Course 15/6 double majors have petitioned Course 6 to count
+15.276
+as a substitute for 6.UAT (EECS Additional Subject). Please note, though, Course 15 will not allow the reverse substitution (6.UAT will not substitute for
+15.276)
+.
+2
+6.1200
+and
+18.06/18.C06
+can count as
+15-2 Restricted Electives
+and are required for 6-4.
+3
+15.312 is no longer being offered. Students who have previously taken 15.312 can substitute this course for
+15.301
+.
+4
+18.05
+can fulfill the
+Probability+Statistics requirement for Course 15
+and is a 6-4 Math Subject. Course 15/6 double majors can also count 6.3700 to fulfill these Course 15 and Course 6 requirements.
+5
+6.3900(6.036)
+fulfills the
+15-2 Machine Learning requirement
+and can count as a Course 6 Data-centric Subject requirement for 6-4.
+6
+6.C571/15.093
+J can count as a Course 15
+15-2 Restricted Elective
+and can count as either a Course 6 Decision-centric or Computation-centric Subject. Course 15 will allow
+6.C571/15.C571
+as a substitute for
+15.053
+. Students who chose this will need to select a different
+15-2 Restricted Elective
+as
+6.C571/15.C571
+cannot double count as fulfilling the
+15-2 Optimization
+requirement and as a
+15-2 Restricted Elective
+.
+7
+Please check the
+Course 6 websit
+e for list of subjects that fulfill each requirement bucket. Take note of level, CI-M status, prerequisites and semesters offered.
+8
+Joint Course 15 HASS subject 15.0161J can count toward the HASS requirement and also towards the minimum three Course 15 15-2 Restricted Electives.
+**For students considering an MEng in Course 6 and wanting to complete their MEng in one year, you will want to plan your course road with two “extra” courses that you can apply toward your MEng. If you are planning on getting
+funding through an RA-ship/TA-ship
+for your MEng, you are restricted to two courses per MEng semester. Having two “extra” courses to apply toward your MEng will allow the possibility of graduating in a year (an MEng is typically six courses plus thesis).
+These “extra” courses cannot be double counted
+, i.e. used towards fulfilling your undergraduate Course 6 requirements, your undergraduate Course 15 requirements, GIRs, or 180 units beyond GIRs. Please
+see the Course 6 website
+for a list of eligible courses and confirm with Course 6 inadvance and prior to taking a specific course if you would like that course to count toward your MEng.

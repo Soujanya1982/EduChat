@@ -1,0 +1,393 @@
+URL: https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/admissions/faq
+TITLE: FAQ | UCLA Anderson School of Management
+
+FAQ
+FAQ
+Application Deadlines
+The application for the UCLA Anderson MFE program, beginning September 2026, is now live! Please refer to our frequently asked questions (FAQs) for further information.
+APPLY
+The application period is divided into three rounds/deadlines:
+ROUND 1
+Deadline:
+December 31, 2025
+Tentative decision release date
+March 1
+ROUND 2
+Deadline:
+March 1, 2026
+Tentative decision release date
+April 30
+ROUND 3
+Deadline:
+April 30, 2026
+Tentative decision release date
+May 31
+ROUND
+1
+Application Deadline
+December 31
+Tentative d
+ecision release date March 1
+ROUND
+2
+Application Deadline
+March 1
+Tentative d
+ecision release date April 30
+ROUND
+3
+Application Deadline
+April 30
+Tentative d
+ecision release date May 31
+Before contacting us, please take a moment to review these frequently asked questions.
+We aim to make sure you’re as informed as possible during the application process. If you’re not able to find the answer you need, feel free to
+email us
+.
+Prospective Applicants – General
+Does the MFE qualify as a STEM program?
+Read More
+Yes, the UCLA Anderson MFE program qualifies as STEM, which can extend an international student's Optional Practical Training (OPT) by 24 months - for a total of 36 months. OPT is temporary employment for practical training directly related to the student's major area of study.
+OPT rules may be found here
+.
+Close
+Are there any prerequisites for this program?
+Read More
+All prospective students are expected to have a strong quantitative background, including linear algebra, multivariate calculus, differential equations, numerical methods and advanced statistics and probability. In addition, applicants should have some experience or coursework in computer programming (e.g., C++, Java, or Python), plus statistical and econometric modeling (e.g., R, SAS, STATA, or MATLAB). It is important to demonstrate competence in your quantitative abilities and analytical skills in your application, through undergraduate math courses and/or your GMAT or GRE score.
+Close
+How long is the program?
+Read More
+The MFE program is 15 months in length from start to finish. Classes begin in September and end in December of the following year.
+Close
+How large is the entering class?
+Read More
+Our target class size for the entering class is between 95 and 100 students. The class is divided into two cohorts.
+Close
+Do I need to know programming languages to enter the program?
+Read More
+Yes! Applicants should have some experience or coursework in computer programming (e.g., C++, Java, or Python), plus statistical and econometric modeling (e.g., R, SAS, STATA, or MATLAB).
+Close
+How is the MFE program different than the MBA and MSBA programs offered by UCLA Anderson?
+Read More
+The MFE program differs from the MSBA in that quantitatively focused MFE students take courses directly related to modern finance theory and practice such as stochastic calculus and data analytics and machine learning. The MSBA program aims to prepare graduate-level students with the knowledge, training, and skills required to fulfill business analytics roles. The Anderson MBA programs are longer in duration (2 to 3 years in length, depending on the program) and require work experience. In addition, the coursework in the MBA programs is broader and geared toward students with an interest in general management theories and practice.
+Close
+Which test is preferred, the GRE or the GMAT?
+Read More
+The MFE program will accept a test score report from either the GRE or the GMAT. Preference to one exam is not given over the other, but every applicant is required to submit a GRE or GMAT score in order for their application to be considered complete and to gain admission to our program. Only applicants with a PhD are exempt from this requirement.
+Close
+What is the academic calendar schedule for the program?
+Read More
+The MFE curriculum is held on-campus and is cohort-based. The 15-month program typically begins in September and ends the following year in December.
+Please note: Students cannot accelerate their studies and graduate early. This is a 15-month, full-time program, and the courses are only offered once per year.
+Close
+What kind of jobs do UCLA Anderson MFE graduates land?
+Read More
+MFE graduates land a wide range of roles across multiple industries, often based upon the level of quantitative ability and technical skills they bring to the program. Students with stronger technical backgrounds, if interested, are more likely to land roles in fintech or become “data scientist.” Financial engineers pursue rewarding careers in a variety of areas: some work within banks that create, sell and trade financial instruments, also known as the “sell side”; and many work on the “buy side” within investment firms, mutual funds, hedge funds or corporations and governments that need to earn a return on their investors’ money, raise capital and manage various risks.
+For an in-depth overview of career outcomes and the career services support we offer, please see the
+Career Impact
+page.
+Close
+How much do MFE graduates make in their first job out of the program?
+Read More
+The average base salary (without bonus) for the Class of 2021 was $116,000. The average first year total compensation (with bonus) was $129,000.
+Close
+Can I work while I am in the program?
+Read More
+UCLA Anderson's MFE Program is a full-time program. Part-time student status is not permitted. Students may work full-time (up to 40 hours per week) during their summer internship the quarter prior to graduation, and may work part-time (up to 20 hours per week) during Winter, Spring, and the final Fall quarter with program approval. Graduate students must maintain a GPA of 3.0 each quarter and cumulatively, prioritizing academics over employment.
+Close
+Will there be a rolling admissions process or is there a deadline for release of admissions decisions?
+Read More
+Yes, we will have a rolling admissions process. There will not be a particular deadline for release of admissions decisions.
+Close
+Can I defer my admission?
+Read More
+We assume that applicants each year are serious about entering UCLA Anderson when admitted; therefore, Anderson does not grant admission deferrals. Instead, all admission offers must be either accepted or declined.
+Close
+Will prerequisite courses completed on Coursera or MOOCs be eligible for consideration?
+Read More
+Yes, we will consider pre-requisite courses completed on Coursera or MOOCs, but a strong application should have additional evidence of a quantitative background, such as a bachelor degree or substantial work experience in a related field.
+Close
+Do you accept transfer credits?
+Read More
+No. We do not accept transfer credits.  You must apply online and go through the entire admissions process to see if you qualify for an offer of admission.  If you are admitted, we require that you take all the courses offered in the curriculum while you are in the program, even if you had already taken them at another university.
+Close
+Are course waivers accepted?
+Read More
+Course waivers will not be accepted.
+Close
+Can I take individual MFE courses?
+Read More
+No, the MFE courses are only available to students enrolled in the program.
+Close
+Do I need a laptop computer for the MFE Program?
+Read More
+Yes. UCLA Anderson is fully networked, students often use computers in class. Every student is required to have a laptop computer that is compatible with the Anderson network. Admitted students receive details about computer requirements with their orientation materials.
+Close
+International
+What type of degree does the admissions committee require for domestic and international applicants?
+Read More
+At a minimum, students must satisfy the UCLA Graduate Division admissions requirements:
+The general requirement for admission for a U.S. student is a bachelor's degree from a regionally accredited institution, comparable in standard and content to a bachelor's degree from the University of California. A scholastic average of B (3.0 on a 4.0 scale) or better is required (or its equivalent if the letter grade system is not used) —for the last 60 semester units or last 90 quarter units of undergraduate study and in any post-baccalaureate study.
+Degrees which are not considered comparable include those granted on the basis of work completed at institutions which are not fully accredited and those granted on the basis of non-academic prior learning, test scores, or other than organized supervised coursework in academic subjects.
+An international student whose post-secondary education is completed outside of the U.S. is expected to hold a degree representing completion of at least four years of study with above average scholarship from a university or university-level institution.
+Close
+I am an international student, can I still apply?
+Read More
+Yes! UCLA Anderson is home to many international students and faculty members. Applicants who do not have U.S. citizenship or permanent residence at the time of applying are considered as international. Please direct all your visa-related inquiries to the Dashew Center for International Students & Scholars website for the most up-to-date information.
+International students who have been admitted to the MFE program will receive an email notification from the Dashew Center. This email will be sent shortly after paying the enrollment deposit and will have instructions on how to request an I-20.
+Close
+Are there quotas for international, in-state or out-of-state students?
+Read More
+No, there is no set quota for any type of student in our class; our aim is to recruit the best qualified students for our program.
+Close
+Application - General
+Where can I get an application?
+Read More
+You may start a
+new application or return to an in-progress application here
+.
+Close
+When is the deadline to apply?
+Learn More
+Round 1: Application Deadline:
+December 31
+(Tentative decision release date March 1)
+Round 2: Application Deadline:
+March 1
+(Tentative decision release date April 30)
+Round 3: Application Deadline:
+April 30
+(Tentative decision release date May 31)
+Close
+Can I apply to both the Master of Financial Engineering (MFE) and the MSBA programs this year?
+Read More
+No, you cannot apply to both programs. However, if you apply to the MFE program and do not receive an offer of admission, the MSBA program may consider your application provided you meet the minimum qualifications. Alternatively, if you only wish to be considered for the MSBA program this year, you will have to withdraw your MFE application first before applying to the MSBA program.
+Close
+Where do I mail my official transcripts?
+Read More
+The UCLA Anderson MFE office will accept an unofficial electronic copy of the transcript submitted with your application for admissions consideration, but will require an official copy sent directly from your university upon admission.
+Transcripts can be mailed to:
+UCLA Anderson School of Management
+Master of Financial Engineering (MFE) Program
+110 Westwood Plaza
+Entrepreneurs Hall, Suite C401
+Los Angeles, CA 90095
+Close
+How many letters of recommendation do I need, and by whom should they be written?
+Read More
+Two. It is suggested that letters of recommendation be written by individuals who can evaluate your quantitative skills and your management potential (e.g., professors, employers and managers).
+Close
+If only two letters of recommendation are required, why is the application system asking for three?
+Read More
+The third recommendation letter is optional. If you do not wish to submit a third recommendation with your application, then enter our email address (please use mfe.admissions@anderson.ucla.edu) in the third space. In the first and last name spaces, you can type "3rd Letter." This will "trick" the system into thinking that the recommendation section of your application is complete.
+Close
+What is the cost of the MFE Program?
+Read More
+The total program fees for the Master of Financial Engineering, Class of 2025 is $103,763.74. This does not include living expenses, transportation, parking, books, health insurance or a laptop computer. Program fees are subject to change on an annual basis.
+Close
+How much is the application fee?
+Read More
+The non-refundable application fee is $200 for all applicants.
+Close
+Is there an admission enrollment deposit?
+Read More
+Yes, admitted students who want to reserve a space in the incoming class must complete the Statement of Intent to Register (SIR) and must pay the enrollment fee. This fee is expected to be $2,000 for Fall 2022. This fee is non-refundable and counts as a deposit towards the total program fees.
+Close
+How much do the letters of recommendation, interview, GRE/GMAT, etc., matter? Do you weigh one more heavily than the others?
+Read More
+Components of an application are not weighted — all of the factors are important aspects of the application and we do a comprehensive review and look at the total application holistically.
+Close
+What should I do if there is a problem uploading a recommendation letter or the letter writer does not receive a confirmation email?
+Read More
+Please ask the letter writer to send a copy of the letter directly to
+mfe.admissions@anderson.ucla.edu
+.
+Close
+Where can I get information about the GRE and GMAT?
+Read More
+Applications for and information concerning the
+GRE
+may be obtained by calling 609-771-7670, or by visiting the GRE website.
+Be sure to send GRE scores to institution code 4837.
+Applications for and information for the GMAT can be found on the GMAT website. The GMAT is a computer-adaptive test (CAT) that is administered three weeks per month, six days per week throughout the year at approximately 400 computer-based testing sites in North America and many other parts of the world. To obtain further information and/or to make testing arrangements, visit the Graduate Management Admission Council website.
+Our school code to send test results to UCLA Anderson is 2NZ- 2F-21.
+GRE
+: Online testing will continue to be available through September 30, 2020. The test is identical in format and experience to the physical test. This is a home-based exam monitored by a human proctor online. Eligibility is determined by whether the traditional GRE exam is offered in your location or country. For more information regarding the online exam format, please visit this page of the
+ETS/GRE website
+.
+GMAT
+: Online testing will continue to be available through December 31. 2020. Nearly 80% of global test centers are open, including almost 100% of centers located in China. However, certain centers will operate at limited capacity to comply with social-distancing rules and new health and safety measures. For more information regarding the online exam format, please visit this page of the
+GMAC website
+.
+Close
+Is there a foreign language requirement?
+Read More
+There is no foreign language requirement; only English proficiency is required. This is consistent with all of the graduate degree programs offered by UCLA Anderson School of Management.
+Close
+If I am not from the United States or another English-speaking country, do I need to take the TOEFL?
+Read More
+Applicants who hold a bachelor’s or higher degree from a university located in the United States or in another country (e.g., Australia, Barbados, Canada, Ireland, Jamaica, New Zealand, United Kingdom) in which English is both the primary spoken language of daily life and the medium of instruction, or who have completed at least two years of full-time study at such an institution, are exempted from the TOEFL / IELTS requirement. Additionally, applicants with a bachelor's degree or higher from a
+WHED-verified institution
+where English is the
+sole language
+of instruction are also exempted from the TOEFL/IELTS requirement.
+Close
+I have a degree from a 3-year program. Will my application be considered?
+Read More
+In general, UCLA requires a degree from a 4-year program or better. However, exceptions can be made for 3-year degrees from universities in Commonwealth countries. As mentioned before, the degree should demonstrate a quantitative background.
+Close
+Can I check my application status over the telephone or via email?
+Read More
+No, for purposes of confidentiality, we will not give information regarding your application status via telephone or e-mail. You will be able to check your application and admission status through the online application system when it is available.
+Close
+I received an offer from a competing program with a deadline but I still have not heard from UCLA Anderson. What should I do?
+Read More
+Please send an email letting us know about your deadline and we will try to update the status of your application in time for you to make a decision. In the email, please include a proof of admission to the other program.
+Close
+Application - Test Scores and GPA
+If I take the GRE/GMAT more than once, will the Admissions Committee average the scores or take the highest one?
+Read More
+We will see all of your scores but will take your higher score if you take the test twice. If you take the test more than twice, we consider all scores, but will not average them.
+Close
+Is there an expected GRE/GMAT score or GPA required for admission?
+Read More
+GPA: 3.0+ (on 4.0 scale), or the equivalent of a B average on the undergraduate school’s scale
+GRE: Quantitative score of 168 (above 83%)
+GRE: Verbal score of 158 (above 77%)
+GMAT 10th Edition: 710 overall (above 90%)
+GMAT Focus Edition: 655 overall (above 91%)
+*Please note the associated scores and percentages are subject to change on a yearly basis
+Close
+What is the minimum TOEFL/IELTS score that is required?
+Read More
+The overall
+minimum
+required band score on the IELTS is 7.0.
+There are two different types of TOEFL tests you may take. The
+minimum
+score requirement for each is as follows:
+Internet-based TOEFL (TOEFL iBT): 87
+Paper-based TOEFL (TOEFL PBT): 560
+Please note
+For the
+TOEFL iBT
+, the following are expected passing scores for each section and the minimum total passing score:
+Writing: 25
+Speaking: 24
+Reading: 21
+Listening: 17
+Total minimum passing score: 87
+For TOEFL exams taken on or after January 21, 2026, ETS will report TOEFL iBT scores on a 1 to 6 banded scale (in 0.5 increments). Additional details from ETS are available on the
+TOEFL iBT score scale update page
+. ETS will display both the new 1 to 6 scale and a comparable 0 to 120 score for
+two years
+.
+UCLA Minimum TOEFL Requirements on the New Scale (tests taken on or after January 21, 2026)
+Graduate admission: Overall 4.5
+ESLPE (Academic Writing Proficiency): Overall 5.0
+TOP (Oral Proficiency for Teaching Assistants): Speaking 6.0
+Bear in mind that these are
+minimum scores
+, and that few applicants have been admitted with scores below 100 on the iBT, 260 on the TOEFL-CBT, or below 600 on the paper-based version. For more information, visit the
+TOEFL web site
+or call (609) 771-7100.
+TOEFL test scores are valid for two (2) years.
+To report the TOEFL score to us electronically, you must select institution code
+4837 - UCLA ANDERSON SCHL OF MGMT
+and then choose "
+Graduate Schools of Management
+" as the department code.
+Close
+What is the ESLPE for Admitted Applicants?
+Read More
+If you are an admitted applicant who has not met UCLA’s English language requirement, you must, upon arrival at UCLA, take the UCLA English as a Second Language Placement Examination (ESLPE). The ESLPE is an English diagnostic test.
+If you achieved a score of 100 or higher on the TOEFL iBT, or 7.5 or higher on the IELTS, the ESLPE requirement is waived!
+If you scored below 100 on the TOEFL iBT, or below 7.5 on the IELTS, you must sit for the ESLPE upon arrival at UCLA. Depending on your results on the ESLPE, you may be required to complete English as a Second Language courses beginning in your first term at UCLA. If English courses are required, you should enroll in them right away, and you should also anticipate spending a longer period of time at the University.
+Admission is canceled for those who do not pass the ESLPE.
+Close
+What if my submitted exam score is not reflecting on my application? e.g. GRE, GMAT, TOEFL, IELTS.
+Read More
+Please disregard the exam status on the application, as we have the data at the departmental level. The IT department at UCLA is aware of the issue and making adjustments. If documents or information are missing from the application, we will contact you directly to request for the materials. Otherwise, if you do not receive a request for additional materials via email, your application is considered complete. Thank you for your patience.
+Close
+Application - Work Experience
+Is work experience required before applying to the UCLA Anderson MFE program?
+Read More
+Work experience is not required but it is recommended for admission to the UCLA Anderson MFE program. It is important for you to assess your own readiness when deciding to apply. Recent college graduates who have exceptional academic records and test scores, as well as strong demonstrated leadership in college, are encouraged to apply to the UCLA Anderson MFE program. We seek to admit students at different points in their professional lives. Please note that it is not the quantity, but the quality of your experience (and how it fits with your goals) that counts.
+Close
+Application - Interview
+Are interviews part of the application process?
+Read More
+Yes. Interviews are done on an invitation-only basis. The MFE office will contact you after an application has been submitted if you are invited for an interview.
+Close
+Financial Aid and Scholarships
+Is financial aid available?
+Read More
+Yes.
+Direct Unsubsidized Loans
+($20,500 per academic year) are available.
+Direct Graduate PLUS
+and
+Private Loans
+(list of lenders previously used by Anderson students) for amounts in excess of $20,500 are also available. Please see
+UCOP's Preferred Private Lender List
+and
+UC Code of Conduct for Preferred Lender Arrangement
+. To obtain more information about private loans, please refer to the
+Private Loan Guide
+.
+For more information and to apply for a student loan, please submit a
+FAFSA
+application: https://studentaid.gov/h/apply-for-aid/fafsa. The school code for UCLA is
+001315
+.
+Private loans (
+Quorum
+and
+Prodigy Finance
+) for international students are also available. U.S. cosigners are not required. Please be advised that international students may only borrow up to mandatory student charges and health insurance. All international private loans are made by the specific lending institutions and not by the university. For more information, please contact connie.beaumont-field@anderson.ucla.edu.
+Close
+What is the cost of attendance (for financial aid purposes)?
+Read More
+All UCLA Anderson students are assigned a budget for the cost of education, including student charges, living expenses, books and supplies, and more.
+Typical Housing Costs
+information is also compiled by UC Office of the President and can give you an idea of housing costs in areas close to UCLA. You may receive fellowships and/or loans up to the amount of your expected budget for the academic year.
+Estimated Student Budget for the 2023–2024 Academic Year
+1
+Estimated Program Charges
+2
+$69,184
+UC Student Health Insurance Plan
+$5,571
+Food/Housing
+$24,850
+Books/Course Materials/Supplies
+$1,730
+Transportation
+$3,300
+Personal
+$2,780
+Loan Fees
+$1,949
+Total Estimated Budget
+for the Academic Year
+$109,364
+1
+Budget listed is for one academic year.
+2
+Students pay program charges each quarter that covers all class enrollments. Program charges listed are above are estimates for the 2023-24 academic year and are subject to change.
+Close
+Are scholarships available?
+Read More
+Merit-based scholarships of varied amounts are awarded to MFE admits based on the overall strength of the admissions application and its relative strength in the pool of admits. In our holistic review, we consider your academic achievement, work experience and other important factors. All completed applications are considered for scholarship; no additional application is needed. Awards may be made by the UCLA Anderson MFE Admissions Committee at the time of admission or at any point during the admissions cycle.
+Close
+I am a California resident. Are there any fellowships available to me if I am admitted to the UCLA Anderson MFE program?
+More
+Yes! In addition to being considered for the merit-based scholarship, California residents are also eligible for a $10,000 fellowship. The California Resident Fellowship is available only to California residents who have been offered admission to the UCLA Anderson MFE program. U.S. citizens and permanent residents who have lived in California for more than one year qualify as California residents. There are questions in the MFE application that will determine whether or not you are eligible. For UC residency criteria, please visit
+https://www.ucop.edu/residency/residency-requirements.html.
+Close
+I am applying to SIEML. Can I apply to the UCLA MFE as well?
+More
+Prospective students applying to SIEML and a UC Graduate Business Program concurrently should contact the admissions teams,
+mfe.admissions@anderson.ucla.edu
+, prior to submitting their application to notify us that you are also applying for SIEML. Failure to do so could put fellowship funding at risk.
+Close

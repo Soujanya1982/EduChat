@@ -1,0 +1,87 @@
+URL: https://fisher.osu.edu/undergraduate/academics/curriculum/specializations/business-analytics-minor
+TITLE: Business Analytics Minor | Fisher College of Business
+
+Business Analytics Minor
+The Business Analytics Minor is designed for students across disciplines who want to enhance their major with in-demand skills in data analysis, predictive modeling, and data-driven decision making. Developed with input from industry leaders, this minor prepares students to interpret and apply “big data” for business insights—a valuable advantage in today’s data-centric world.
+Whether you're studying business, engineering, computer science, or the social sciences, this minor equips you with analytical tools that are increasingly essential across all sectors.
+Curriculum Requirements
+The Business Analytics Minor requires
+15 credit hours
+, including:
+9 hours of required core courses
+6 hours of electives
+, chosen from an approved list of analytics-focused courses across multiple disciplines
+Required Core Courses (9 credits)
+BUSOBA 3331 – Business Analytics: Data Management & Descriptive Analytics
+(3 credits)
+Prerequisites:
+ECON 2001.01; ECON 2002.01; CSE 2111 or equivalent; MATH 1131/1151
+Introduction to data organization, management, visualization, and descriptive analytics.
+BUSOBA 3332 – Application of Predictive Analytics to Business Data
+(3 credits)
+Prerequisites:
+ECON 2001.01; ECON 2002.01; STAT 3202 or BUSOBA 2320 & 2321; and CSE 2111
+Hands-on course on predictive modeling and inference using modern analytics software.
+BUSOBA 3333 – Prescriptive Analytics and Optimization
+(3 credits) -
+offered Spring only
+Prerequisites:
+ECON 2001.01; ECON 2002.01; STAT 3202 or BUSOBA 2320 & 2321; and CSE 2111
+Focuses on decision-making through optimization models, simulations, and causal inference.
+Elective Courses (6 credits)
+Choose
+two courses
+from the following areas. Each course is 3 or 1.5 credit hours (as noted).
+Prerequisites vary by course.
+Business Analytics Industry Cluster
+BUSADM 3630.05 – Intro to Business Analytics (3 cr)
+BUSADM 3632.05 – Analytics Solutions Development (3 cr)
+Data Mining
+ACCTMIS 4210 – Financial Statement Analysis (3 cr)
+ACCTMIS 4620 – Management Info Systems (3 cr)
+ACCTMIS 4640 – Accounting Data & Analytics (3 cr)
+ACCTMIS 4650 – Decision Support Systems (3 cr)
+CSE 3241 – Intro to Database Systems (3 cr)
+CSE 5243 – Intro to Data Mining (3 cr)
+Customer Insights & Analytics
+BUSML 4202 – Marketing Research (3 cr)
+BUSML 4210 – Advanced Marketing Research (1.5 cr)
+BUSML 4211 – Market Analysis & Forecasting (1.5 cr)
+BUSML 4212 – Customer Relationship Management (1.5 cr)
+BUSML 4232 – Digital Marketing (3 cr)
+BUSML 4382 – Logistics & Supply Chain Analytics (3 cr)
+Operations Research & Logistics
+BUSOBA 4233 – Information Systems in Ops Mgmt (3 cr)
+BUSOBA 4242 – Business Sports Analytics (3 cr)
+BUSOBA 4250 – Six Sigma Principles (3 cr)
+BUSOBA 4251 – Six Sigma Projects (3 cr)
+Statistical Modeling
+STAT 3301 – Modeling for Discovery I (3 cr)
+STAT 3302 – Modeling for Discovery II (3 cr)
+STAT 3303 – Bayesian Analysis & Decision Making (3 cr)
+Frequently Asked Questions
+How do I apply for the Business Analytics Minor?
+No formal application is needed. Inform your college advisor of your intent. You may also speak with a Fisher undergraduate advisor at (614) 292-2715.
+Who approves the minor?
+Your college must approve the completed minor. Fisher does not require formal approval but can provide a signed program form if needed.
+What grades are required?
+Minimum
+C-
+in each course
+Minimum
+2.00 cumulative GPA
+across all minor courses
+Pass/Non-Pass
+grading is
+not permitted
+for any minor course
+Can I substitute other courses or apply transfer credit?
+No substitutions
+are allowed for required courses
+You may apply
+up to 3 credit hours
+of
+equivalent
+transfer credit toward the minor
+Can I start with electives like the Industry Cluster courses?
+Yes. Students with junior standing may complete BUSADM 3630.05 and 3632.05 through the Industry Immersion Program before taking the required core courses.

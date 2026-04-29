@@ -1,0 +1,8 @@
+URL: https://www.hult.edu/undergraduate/overview
+TITLE: Undergraduate Program Overview - BBA | Hult International Business School
+
+Upcoming Application Deadline
+Submit your application by
+{{ugDeadline}}
+for 2026 intakes.
+Apply Now

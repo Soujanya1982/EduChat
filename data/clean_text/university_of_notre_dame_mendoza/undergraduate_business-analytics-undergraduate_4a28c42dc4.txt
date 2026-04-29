@@ -1,0 +1,183 @@
+URL: https://mendoza.nd.edu/undergraduate/business-analytics-undergraduate
+TITLE: Business Analytics Major Major - Notre Dame Mendoza
+
+Business Analytics Major
+Gain the tools and context to understand the transformational power of data.
+The 21 credit-hour undergraduate Business Analytics major (BAN) at the University of Notre Dame is constructed to provide you with the technical skills you’ll need to flourish the minute you embark on your career—and the theoretical and ethical foundation to serve you well for the rest of your life.
+Whether you’re learning to program through Python for Business Analytics and AI, communicating the results of your analysis in a persuasive way in Communicating with Data in the Age of AI, or discovering the opportunities and challenges associated with Applied Machine Learning or working with unstructured visual or text data, you will find our curriculum challenging, relevant and exciting.
+Current ITAO majors should refer to the
+overview of requirements document
+for their graduating class.
+What You’ll Learn
+6 Credit Hours
+ITAO Courses in Mendoza Core
+13.5 Credit Hours
+BAN Major Courses
+7.5 Credit Hours
+BAN Major Electives
+Prerequisites
+ITAO 30100 Analytics Workflows with Power BI
+ITAO Courses in Mendoza Core
+You’ll begin your data journey through Information Technology, Analytics, and Operations (ITAO) courses nested within the
+Mendoza Core Curriculum
+. All Mendoza College of Business Majors will complete the following ITAO courses:
+Foundations of Coding for Data and AI
+Course Number:
+ITAO 20210
+Credit Hours:
+3
+This course introduces students to coding and computational thinking using Python, a foundational language for data analytics, machine learning, and AI-enabled business systems. The course develops students problem-solving and analytical skills through core programming fundamentals, including when and how to use different data types and structures, how to implement decision-making and iterative processes, and how to write reusable code for efficiency and scalability. Through hands-on assignments using real-world datasets relevant across business disciplines, students gain experience in collecting, analyzing, and visualizing data to support data-driven business decision-making. The course builds a foundation for more advanced coursework in analytics, AI-enabled decision making, and technology-driven
+business strategy.
+Foundations of Statistics
+Course Number:
+ITAO 20200
+Credit Hours:
+3
+Statistical Inference in Business focuses on using data to make sound inferences about a population based on sample data, especially in business contexts. More specifically, students will learn how to make inferences using test statistics and confidence intervals in contexts of multiple groups and/or multiple variables, with multiple regression and related methods heavily emphasized. Throughout the course, issues of sampling variability, research design, causality, and the assumptions and limitations of the methods are discussed. Students will supplement their conceptual understanding of the material using statistics software.
+BAN Major Courses
+All BAN majors are required to complete the following courses:
+Communicating with Data in the Age of AI
+Course Number:
+ITAO 30160
+Credit Hours:
+3
+The development of data insights to create a competitive advantage, optimize processes, and drive strategy is now a requirement for modern organizations. While the commercialization of data tools powered by AI has made information more accessible, it has also created an environment of “noise” that often obscures the insights necessary to create value. This course prepares students to cut through that noise by mastering the bridge between technical rigor and strategic communication. Students will develop a foundation in effectively communicating clear, actionable visual insights using Tableau — moving into advanced territory with Level of Detail (LOD) expressions and Python integration. Furthermore, the course explores the transformative role of Generative AI in the business world. Students will critically evaluate the strengths and weaknesses of AI in automating visualizations and drafting business communications, learning to leverage these tools ethically and effectively while maintaining the human-centric “last mile” of decision-making.
+Python for Business Analytics and AI
+Course Number:
+ITAO 40230
+Credit Hours:
+1.5
+This course aims to help students develop advanced data analytics and AI skills to tackle real-world business challenges. Using Python, students will learn to clean, transform, and analyze large datasets to uncover meaningful patterns and translate them into business intelligence through insightful visualizations. Students will also learn the essential machine-learning techniques to forecast trends and make predictions. Additionally, students will learn how to build AI agents to automate workflows and enhance decision-making. Emphasizing practical applications, this course will equip students with extensive hands-on experience in the most popular Python libraries including NumPy, Pandas, Matplotlib, Seaborn, and more.
+Data Foundations for Computing and Analytics
+Course Number:
+ITAO 30230
+Credit Hours:
+1.5
+This course provides a hands-on foundation in the data systems and analytical workflows that underpin modern analytics and AI applications. Students learn how structured business data is stored, managed, and queried using relational databases, with extensive practice using SQL on real-world datasets. The course also introduces data wrangling and visualization in R, focusing on transforming raw data into analysis-ready formats and communicating insights effectively. Throughout the course, students develop end-to-end data workflows spanning databases, data preparation, and analytical visualization. The course concludes with an overview of big-data concepts and unstructured data, highlighting how foundational data skills scale in contemporary data- and AI-driven organizations.
+Applied Machine Learning
+Course Number:
+ITAO 40420
+Credit Hours:
+1.5
+Machine learning is the science of getting technology systems to act without following prescriptive software. Most AI is unknowingly used daily by humans in their cars, homes, companies and experience it in the infrastructure of our nation. Most think we are in the midst of a new industrial revolution that is driven by AI software accompanied by sensors and big data that feed the software what it needs to act. This course will teach machine learning techniques and the application of those techniques. The course will cover supervised learning, unsupervised learning, best practices and AI safety or the ethics of AI. The course will examine real life examples such as robotic control, text understanding, medical informatics, and many other areas being impacted by machine learning.
+Predictive Analytics
+Course Number:
+ITAO 30220
+Credit Hours:
+3
+The unprecedented availability of data and information now allows companies to rely on facts rather than intuition to drive their business decisions. Giant online retailers like Amazon.com investigate customers’ browsing histories to recommend products that may be of interest to customers. Banks study the payment patterns of old customers to predict the likelihood that new borrowers will default. Wireless providers analyze usage data to predict customer turnover. Firms can make better strategic and tactical decisions and gain competitive advantages by leveraging the tremendous amount of data now available on the table. We’ll study the tools and techniques these companies and others use to make better and faster decisions, and we’ll learn about how methods such as data mining can be used to extract knowledge from data.
+Prescriptive Analytics for Business Decision-Making
+Course Number:
+ITAO 40150
+Credit Hours:
+1.5
+Data plays a crucial role in modern business, and firms rely on vast amounts of information to understand trends and anticipate key uncertainties, such as customer demand, market conditions, and operational risks. Yet the true value of data is realized only when organizations can make optimal decisions based on these insights and effectively integrate data into their business processes. This critical step, known as decision (or prescriptive) analytics, extends beyond traditional statistics and predictive analytics. In this course, students will explore simulation and optimization as essential tools for business decision-making. Through a mix of theoretical foundations and hands-on applications, students will learn how to model complex systems, obtain decisions under uncertainty, and identify the best possible actions. We will also examine a variety of real-world applications, ranging from retail and healthcare to revenue management and supply chains.
+Unstructured Data Analytics
+Course Number:
+ITAO 40250
+Credit Hours:
+1.5
+Approximately 80% of the world’s data is unstructured, that is data that does not conform to relational database principles. It is growing at fifteen times the rate of structured data. Unstructured data includes corporate e-mails, financial filings, customer feedback, blogs, online reviews, instant messages, tweets, pictures, videos, and graphs among others. Extraction of insights from unstructured data is increasingly viewed as a high-valued opportunity but is still a nascent area within many companies and other organizations. Analytic techniques are increasingly important for understanding what can be learned from unstructured data sets and demand is strong for unstructured data analytical skills.
+This course introduces students to the process of performing high-valued analytics with unstructured and semi-structured data to support business decisions. Students will identify relevant data sources (big and small), learn how to use contemporary technologies such as the Hadoop ecosystem to store and process the data, implement advanced processing and analytical techniques, and develop predictive models. The course will introduce and use concepts in machine learning, natural language processing and information retrieval to solve real-world problems.
+BAN Major Electives
+BAN majors take 7.5 additional elective credits from the following courses:
+Analytics Capstone Project
+Course Number:
+ITAO 40850
+Credit Hours:
+3
+This course is the culmination of students’ undergraduate business analytics studies and provides an intensive, integrative experience. Students work in teams with an industry partner on a real-world analytics problem. Using skills acquired throughout their analytics studies, students develop a thorough understanding of the problem and the associated data, then develop and execute a project work plan that analyzes the data, develops actionable recommendations and conclusions, and provides insight into the basis for those recommendations. Skills developed include effective communication regarding the analytics process and results, and an understanding of key aspects of analytics solution development.
+AI and Global Business
+Course Number:
+ITAO 30320
+Credit Hours:
+3
+Artificial intelligence is not just another technology — it is a fundamental force reshaping how firms compete, create value, and organize themselves in the global digital economy. This course provides a strategic and economic lens for understanding AI’s transformative impact on industries, markets, and societies worldwide. Drawing on a framework of technology evolution spanning computation, information, and interaction, students will explore how AI fits into a longer arc of digital innovation while examining what makes this moment distinctly different across geographies and cultures. Topics include the economics of data and algorithms, platform business models, network effects, pricing strategies, cross-border digital trade, and the organizational implications of AI adoption in diverse international contexts. Students will evaluate recent developments in machine learning and generative AI and analyze their strategic, regulatory, and governance implications across different frameworks — equipping them to think clearly about how firms can harness AI to build durable competitive advantage in technology-mediated markets.
+AI Auditing and Governance
+Course Number:
+ITAO 40515
+Credit Hours:
+3
+As artificial intelligence (AI) grows increasingly pervasive in society, it is essential that we develop an understanding of how AI systems work. A vital part of this understanding is a careful consideration of various risks (e.g., the presence of bias, a lack of transparency, regulatory compliance) when AI systems are designed and deployed in real-world settings. To understand and address these concerns, this course introduces students to the fundamentals of AI auditing ? the practice of evaluating and improving the ethics of AI systems. Through a combination of interactive discussions and semi-technical lab sessions, students will develop an auditing “toolkit.” This toolkit includes both theoretical and technical concepts, especially relevant for the increasingly interdisciplinary teams of the modern workforce. Students will work on group case assignments as “audit committees” that reflect the needs of a variety of stakeholders (e.g., developers, managers, investors, users). Groups will identify and discuss potential concerns or risks associated with AI systems as well as develop recommendations to address them. Overall, the course aims to provide an interdisciplinary and hands-on introduction to AI auditing, allowing students to gain insights into the opportunities and challenges associated with the design and deployment of AI systems that minimize societal risk and increase their effectiveness.
+AI & Machine Learning for Urban Analytics
+Course Number:
+ITAO 40570
+Credit Hours:
+3
+Urban regions will experience most future population growth, bringing opportunities and challenges. At the same time, advances in technology are transforming what is possible in data-driven decision-making and long-term planning in complex urban systems. This course introduces modern urban analytics through an AI/ML lens, emphasizing statistical reasoning, interpretability, and real-world urban case studies. We begin with data science essentials starting from data acquisition, exploratory data analysis (EDA), and visualization along with tools for reproducible reports. We then develop core modeling skills, progressing from classical statistical and machine learning methods to fundamental concepts in deep learning and generative AI. We will cover contemporary approaches for large-scale and complex urban data, including spatial, network, and unstructured data commonly encountered in urban studies. By the end of the semester, students will master popular methodologies, and gain hands-on skills in turning urban data into actionable insights.
+Cloud Computing
+Course Number:
+ITAO 40730
+Credit Hours:
+3
+Cloud computing is a transformative force in the development of technology solutions that meet business requirements. Firms no longer need to make significant capital investments in large-scale data centers that sit idle for extended periods of time. The cloud model offers flexible, scalable, and cost-efficient access to computing resources on a just-in-time basis. In this course, we will explore the applications of cloud computing to common business problems. We will explore full-stack cloud solutions, including the use of Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS) technologies.
+Cybersecurity
+Course Number:
+ITAO 30700
+Credit Hours:
+1.5
+Cybersecurity is at the heart of protecting modern organizations, ensuring the confidentiality, integrity, and availability of critical information and systems. In this course, students will build an understanding of the principles, processes, and practices that underlie effective security programs. We will examine the roles of risk management, access control, network and system defense, incident response, and continuity planning, while also considering the human, organizational, and strategic dimensions of security. Through a combination of analytical frameworks, applied exercises, and discussions, students will develop the knowledge and skills needed to assess vulnerabilities, design security controls, and support resilient operations in diverse environments.
+Data Wrangling
+Course Number:
+ITAO 30250
+Credit Hours:
+1.5
+You can find data everywhere, but that does not mean that it is always ready to analyze. Data is increasingly being saved in complicated structures, while also becoming larger. With this increasing complexity, analysts need to be able to perform any number of data manipulation tasks. In this class, we will start at the basics of R (vectors, lists, and data frames) and work our way up through iteration, functions, and visualization. Through our class activities, you will be able to more confidently and quickly work with data-related tasks that require high-level programming.
+Designing for Human-Centered Artificial Intelligence
+Course Number:
+ITAO 50850
+Credit Hours:
+3
+Designing effective machine learning solutions has become an important topic in industry and academic research. In particular, human-centered AI – the design, development, and application of advanced machine learning and user modeling methods to human generated content including structured, text, image, and sensor-based data – has garnered considerable attention due to its immense potential to generate business value and improve the human condition. However, this value proposition also comes with a bevy of AI governance concerns attributable to the use of increasingly complex black box models. Using a combination of academic readings and real- world examples, this seminar-style course will discuss the state-of-the-art for human-centered AI. Students will be introduced to design frameworks and best practices for developing novel machine learning artifacts and measuring their utility with respect to model performance, monetary value, and humanistic outcomes.
+Early Bridges to Data Science
+Course Number:
+ITAO 40860
+Credit Hours:
+3
+Advances in data science, analytics, and artificial intelligence are reshaping society, the economy, and everyday decision making. Developing data literacy and a foundational understanding of how data and AI influence the world has become essential for informed citizenship and future careers. This course focuses on building early data science awareness and enthusiasm among middle school students, with particular attention to historically underrepresented or under-resourced communities. This community-engaged service course provides undergraduate students with the opportunity to Grow the Good in Business by applying data science and analytics for positive social impact. Students work in small teams as mentors in local middle school science classrooms, where they build relationships with youth partners, assess their existing understanding of data and technology, and guide them through introductory lessons on data acquisition, exploration, visualization, and interpretation. Students support youth partners in developing a data-informed project that culminates in a clear and compelling data story.
+Emerging Technologies and Business Innovation
+Course Number:
+ITAO 30620
+Credit Hours:
+1.5
+While Amazon and Dell used the internet to create new retailing business models, that same technology was instrumental in destroying the business models of the telephone and music industries. What caused the difference? We’ll examine how to use IT for competitive advantage in a digital economy. We’ll explore how IT improves problem solving, productivity, quality, customer service, and process reengineering. We’ll also examine how to apply current technologies in innovative ways to impact an organization’s bottom line.
+Ethics of AI and Data Analytics
+Course Number:
+ITAO 40510
+Credit Hours:
+1.5
+Data-informed decision making has created new opportunities, but also expands the set of possible risks to organizations. One of these risks comes from grappling with the “should we?” question with regard to data and analytics, and associated concerns with identity, privacy, ownership, and reputation. In this course, we will explore several frameworks to address the issues related to the proper roles of public law, government regulation, professional codes, organizational approaches, and individual ethics in performing and managing analytics activities. The course will cover applicable theory and guidelines, and also make use of case studies. Upon completion, the student should be comfortable adapting one of these ethical frameworks for use in alignment with their organizational mission.
+Human-centered Analytics: Design, Measurement, and Analysis
+Course Number:
+ITAO 50860
+Credit Hours:
+3
+This course provides a foundational framework for learning from data in a human-centered context and takes deep dives into methods important for modeling and understanding psychological, behavioral, and social science constructs. In particular, the course will consider the design of studies, measurement of constructs, and the analysis of data in a context that explicitly considers the human element, such as psychological constructs and behaviors, social contexts and organizational relationships, and human capital and its impact on performance. The primary unit of analysis is data generated by persons, possibly over time or in nested/hierarchical structures. The implications and limitations of using experimental and observational designs when designing studies, measuring constructs, and analyzing data plays a central role throughout the course.
+Human Performance Analytics
+Course Number:
+ITAO 40530
+Credit Hours:
+1.5
+In recent years, the quantity of data available to sports teams and professional athletes has expanded significantly, it is now possible to extract detailed information about training sessions, games, and a range of the field metrics for elite athletes. This has led to the development of the field of human performance optimization. In this class we will learn how to extract insights from a range of data sources with the objective of maximizing athlete performance in competition. This includes optimizing physical readiness and avoiding injuries, long term player development and the identification of strategic advantages in competition which can be targeted by both athletes and coaches. We will use the R-coding language to develop pipelines for the analysis of the latest data sources. It is recommended that students have taken Machine Learning (ITAO 40420) before taking this class.
+Pricing Analytics
+Course Number:
+ITAO 40575
+Credit Hours:
+3
+This course will teach you how managers make decisions about pricing and distribution, using data. We begin with understanding pricing and promoting to an individual customer, and use this foundation as we move to more aggregate decisions, such as setting regular and promoted prices at the product level and managing category pricing. A key part of the class is understanding the limitations of different types of data and how better planning can both simplify the analysis and increase your confidence in the findings. This class is designed to be very practical and hands-on. A working knowledge of statistics (e.g., t-test and regression analysis) is required and you will learn R for the analysis.
+Society and Networks
+Course Number:
+ITAO 40550
+Credit Hours:
+1.5
+Broadly speaking, social networks are the patterns of relationships between actors. As actors in these systems are not independent, each actor influences the behaviors of others in the network. Our connections to others can determine a great many aspects of our lives, including whether or not we are employed, our happiness, and even our weight status. In this course, we will cover a variety of substantive areas in which networks can influence social life, including political behavior, innovation, inequality, power, and antagonism. Students in this course will explore the theory of network structure and function, understand how networks affect our lives and organizations, and will learn basic techniques for analyzing social network data. At the end of this class, students will have the knowledge and tools required to explore their own interests within the application of social networks.
+Sport Analytics
+Course Number:
+ITAO 40520
+Credit Hours:
+1.5
+Many industries are being created and transformed by using the techniques of business analytics. With the goal of studying these techniques in some depth, this course focuses on one such industry: sports. This industry has clearly benefited from the application of a wide variety of analytics techniques and has the advantage of being widely and closely followed, with large amounts of easily-accessible real-world data. Topics for study in this course include how to evaluate players, rate teams, schedule leagues, and enhance coaching strategies. Assignments involve the hands-on use of a variety of techniques and tools, which are useful in most industries. Techniques and tools include data manipulation, probability, statistics, optimization, spreadsheets, and a powerful statistics package. A basic knowledge of Excel, statistics, and sports (in particular, baseball, basketball, and football) is assumed. (You do not have to be a sports fanatic.)
+Mendoza School of Business
+Business Technology & Analytics Minor
+Mendoza School of Business
+AI Analytics in Business Minor

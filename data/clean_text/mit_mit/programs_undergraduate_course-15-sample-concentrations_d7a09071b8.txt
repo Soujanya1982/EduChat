@@ -1,0 +1,285 @@
+URL: https://mitsloan.mit.edu/programs/undergraduate/course-15-sample-concentrations
+TITLE: Course 15 Sample Concentrations | Undergraduate | MIT Sloan
+
+Undergraduate
+Course 15 Sample Concentrations
+(pdf version)
+A SAMPLE OF CONCENTRATIONS FROM THE CLASSES OF 2022-2025
+(please note – you have flexibility in deciding the courses that can count toward a concentration. This list should not be viewed as either comprehensive or absolute. Also note, a course cannot double count within the major, ex. it cannot count as a restricted elective and a concentration elective. Want to discuss your concentration? Stop by: E52-150 (Suite 133). Email us:
+ugeducation-sloan@mit.edu
+)
+The requirements for the concentrations are:
+All concentrations are five subjects. Two six-unit subjects are counted as one subject.
+At least three full subjects must be from Course 15
+The subjects in the concentration should reflect a coherent, interrelated learning goal.
+Think about how you would explain your concentration to someone during a job interview!
+Business Analytics
+6.100A, Introduction to Computer Science Programming in Python (1/2 class)
+6.100B, Introduction to Computational Thinking and Data Science (1/2 class)
+15.053, Optimization Methods in Business Analytics
+15.276, Communicating with Data
+[note: does not also fulfill communication requirement. Student took 15.279 for communication requirement]
+15.665, Power and Negotiation
+18.642, Topics in Mathematics with Applications in Finance
+Provide a rationale on why these courses apply to your concentration:
+6.100A/6.100B, 15.276, and 15.053: All included on the 15-1 Concentration Guide under Business Analytics. 18.642: Allowed for me to learn about financial analytic methods and write a paper using coding, statistics, and a Bloomberg Terminal. 15.665: Allowed for me to apply my analytical background into real world case studies where I negotiated against MBA students. For example, in this class I would have to analyze a case background to identify my lowest acceptable deal and make quick calculations during discussions.
+Provide a brief explanation of your concentration:
+Enrolling in these courses allowed for me to be well rounded in Business Analytics and help me prepare for my career in consulting. By taking these courses, I can now confidently complete all stages required for preforming business analytics. This includes understanding the problem I need to address, how to approach the problem logically, cleaning the appropriate data set, preforming the analysis using R, python, or julia, excel etc. to find the best answer to the business problem at hand. I can then use the interpersonal and communication skills I have developed to present this data to optimize returns, defend a position, win a client, negotiate a deal, etc. Therefore, this concentration has given me valuable knowledge to utilize data in my career.
+Business Analytics
+6.1010, Fundamentals of Programming
+6.3900, Introduction to Machine Learning
+15.053, Optimization Methods in Business Analytics
+15.076, Analytics for a Better World
+15.276, Communicating with Data
+[note: does not also fulfill communication requirement. Student took 15.279 for communication requirement]
+Provide a rationale on why these courses apply to your concentration:
+These courses apply to my concentration, since they are based on the requirements for the 15-2 business analytics major.
+Provide a brief explanation of your concentration:
+For my concentration I want to explore the intersection of CS and business. I specifically want to learn more about data science and analyzing data with the use of algorithms. I also want to learn to better communicate with regards to the data and the analysis of the data.
+Data Driven Project Management
+6.034, Artificial Intelligence
+6.S979, Values and AI: Accidents, Alignment, and Misuse
+15.053, Optimization Methods in Business Analytics
+15.665, Power and Negotiation
+15.780, Analytics of Operations Management
+Provide a rationale on why these courses apply to your concentration:
+15.665 and 15.780 gave me an insight into the human facets of management, emphasizing interpersonal communication, negotiation skills, and operational efficiency. These courses also imparted knowledge on how to effectively leverage organizational resources. The other three courses equipped me with a technical foundation in data-driven systems and the contemporary application of artificial intelligence. This knowledge will help me lead teams and make more informed decisions grounded in data-driven approaches.
+Provide a brief explanation of your concentration:
+Data-driven project management is an innovative approach that prioritizes informed decision-making through the utilization of concrete evidence. This concentration aims to merge a technical foundation with project management frameworks, hoping to enhance the success rates of projects.
+Diversity and Equity in Entrepreneurship
+15.279, Management Communication
+[note: does not also fulfill communication requirement. Student took 15.276 for communication requirement]
+15.6181, Startups and the Law (1/2 class)
+15.6221, The Law of AI, Big Data & Social Media (1/2 class)
+15.6731, Negotiation Analysis (1/2 class)
+15.690, Diversity as Discovery (1/2 class)
+WGS.228, Psychology of Sex and Gender
+WGS.301J, Feminist Thought
+Provide a rationale on why these courses apply to your concentration:
+These courses give critical skills and experience with professional communication and people management, particularly in the entrepreneurship space. Additionally, the courses on gender and other social dynamics provide essential clarity on creating safe professional environments for all.
+Provide a brief explanation of your concentration:
+My concentration aims to teach me how to carefully navigate the business space in a way that celebrates contributions from various backgrounds. As a minority in the field, it means something to me to be the ally I would want for myself to others in my journey, instead of perpetuating the exclusivity.
+Energy Systems, Economics, and Finance
+11.165, Urban Energy Systems and Policy
+15.0161, Climate and Energy in the Global Economy
+15.0291, United States Energy Policy: Lessons Learned for the Future
+(1/2 class)
+15.418, Laboratory in Corporate Finance
+15.8731, System Dynamics: Tools for Solving Complex Problems
+15.S05, Energy Management and AI: Strategies for a Sustainable Future
+(1/2 class)
+Please provide a rationale on why these courses apply to your concentration:
+These courses apply because my concentration is a well-rounded education on applying finance in the energy industry. I think it's important to gain an understanding to the multiple sides of the energy industry including economics, politics, and technology which I have accomplished with 15.0161, 11.165, and 15.0291. However, in order to apply what I learned about energy in the finance world, I took system dynamics and corporate finance.
+Please provide a brief explanation of your concentration:
+My concentration provides an understanding of the energy industry through the lens of finance, economics, and systems. The energy industry is currently moving very quickly but many technologies fail due to economic infeasibility. With my concentration, I was able to couple high-level knowledge of technological, political, and economic aspects of energy with technical systems and finance knowledge that is essential in implementation. I believe this combination of theory and practical finance implementation will allow me to enter the industry and work on the investment and management side of energy production and transmission.
+Engineering and Analytics
+2.001, Mechanics and Materials I
+2.003, Dynamics and Control I
+15.076, Analytics for a Better World
+15.3621, Engineering Innovation: Global Security Systems
+15.8731, System Dynamics: Tools for Solving Complex Problems
+Please provide a rationale on why these courses apply to your concentration:
+These courses integrate technical problem-solving with data-driven methodologies, aligning with engineering and analytics. 15.3621, 15.076, and 15.8731 enhance analytics skills in system design, global security, and data-driven decision-making while 2.001 and 2.003 provide foundational engineering knowledge in mechanics and dynamics, thus equipping me with the technical expertise to complement business management and drive meaningful impact.
+Please provide a brief explanation of your concentration:
+My concentration in engineering and analytics leverages MIT’s technical expertise to complement my business management education. By combining technical skills in modeling, optimization, and data analysis with strategic business principles, I aim to address complex business challenges create impactful solutions across diverse industries.
+Entrepreneurial Innovation and Strategy in Creative Tech
+6.4550J, Interactive Music Systems
+6.8371, Digital and Computational Photography
+15.3941, Entrepreneurial Founding and Teams
+15.665, Power and Negotiation
+15.911, Entrepreneurial Strategy
+Provide a rationale on why these courses apply to your concentration:
+The concentration aims to explore the intersection between technology, entrepreneurship, and management. The course 15 classes provide a strong foundation in entrepreneurial team, strategy, and innovation, while the course 6 classes dive deep into the creative applications of technology, such as interactive music systems and digital photography.
+Provide a brief explanation of your concentration:
+The courses in my concentration have provided me with a foundational understanding of entrepreneurship, innovation, digital photography, and interactive music systems. This multidisciplinary approach has equipped me with the unique skill set required to focus my entrepreneurial endeavors in these specialized creative technology sectors post-graduation.
+Finance & Corporate Strategy
+6.100A, Introduction to Computer Science Programming in Python (1/2 class)
+6.100B, Introduction to Computational Thinking and Data Science (1/2 class)
+15.402, Corporate Finance
+15.4311, Entrepreneurial Finance and Venture Capital
+15.4451, Mergers & Acquisitions
+15.9001, Competitive Strategy
+[note: does not also fulfill 15-1 restricted elective. Student took 15.401 and 15.7611 as restricted electives]
+Provide a rationale on why these courses apply to your concentration:
+Corporate finance provides a fundamental understanding of business structure while competitive strategy is directly related to my strategy focus. Mergers & acquisitions gives insight into how companies execute their strategic & financial goals. Entrepreneurial finance & venture capital has given me insight into strategy and financial structuring of startups & smaller firms. Intro to CS in Python & Intro to data science provide a basic understanding of python and coding languages which are increasingly used to analyze big data in finance.
+Provide a brief explanation of your concentration:
+This concentration focuses on financial structuring and corporate strategy for both large and small firms. With the knowledge of financial markets, this concentration then focuses on how firms execute that strategy, specifically through M&A. This is then extended into the startup space, by understanding strategy from both VC firms and the entrepreneurs they work with. These factors all come together to provide substantial insight on how companies position and structure themselves to succeed.
+Finance & Healthcare
+15.132 Medicine for Managers
+15.418 Lab in Corporate Finance
+15.467 Asset Management
+15.5181 Taxes and Business Strategy
+15.777 Healthcare Lab
+Provide a rationale on why these courses apply to your concentration:
+These classes focus in finance and healthcare. I hope to combine the knowledge learned from these classes to my work outside of class.
+Provide a brief explanation of your concentration:
+I wish to work in Healthcare Administration or Healthcare Consulting in the future. Understanding finances is crucial to any organization and especially in healthcare.
+Innovation & Entrepreneurship in Biotechnology
+15.363, Strategic Decision-Making in the Life Sciences
+15.480, Science and Business of Biotechnology
+15.482, Healthcare Finance
+20.305, Principles of Synthetic Biology
+20.109, Laboratory Fundamentals of Biological Engineering
+Provide a rationale on why these courses apply to your concentration:
+20.109 is a hands-on introduction to experimental techniques in bioengineering, with learning modules drawn from current biotechnologies. In addition to providing me with an understanding of biotech from a scientific-perspective, 20.109 also provides an in-depth background into the drug development and commercialization processes, which are necessary to allow me to bring healthcare/life sciences innovations to market in the future. 20.109’s final project involves designing and pitching a new biotechnology to a science- and business-oriented audience. 20.305 discusses one of the biggest breakthroughs in life sciences innovation: synthetic biology. Synthetic biology, the ability to manipulate living organisms, has drastically improved healthcare landscapes for oncology, rare disease, and more. The ability to understand the function and applications of this technology is essential for entrepreneurial pursuits in the biotech industry. 15.480 (PhD level) and 15.482 (MBA level) is a series of classes taught by Sloan Professor Andrew Lo and Biology Professor Harvey Lodish. These classes cover: the new types of drugs and other therapeutics in current practice and under development, the financing and business structures of early- stage biotechnology companies, and the evaluation of their risk/reward profiles. 15.482 focuses more on preparing students to apply novel financing strategies to life sciences innovation, while 15.480 focuses on integrating that knowledge with molecular biology principles to form sustainable biotechnology ventures. 15.363 (MBA, PhD, and MD level) puts students in the shoes of key decision-makers within life sciences strategy, preparing them to take on leadership roles within the biotech industry. The class includes case studies, analytical models, and detailed quantitative analysis and is intended for students interested in building a life science company.
+Provide a brief explanation of your concentration:
+The management concentration, “Innovation and Entrepreneurship in Biotechnology,” prepares me for leadership roles at the intersection of bioengineering (my primary major) and business, whether in launching startups, contributing to established companies, navigating venture capital landscapes, or broadly driving innovation in the rapidly evolving field on biotechnology. Focusing on healthcare finance, entrepreneurial strategy, technology transfer, drug development processes, principles in molecular biology, and more, this concentration equips me with a unique blend of business acumen and specialized knowledge in cutting-edge biotechnological advancements, giving me the tools to engage in impactful, sustainable, and patient-centered entrepreneurship.
+International Entrepreneurship
+11.159, Entrepreneurial Negotiation (1/2 class)
+15.3941, Entrepreneurial Founding and Teams
+15.821, Listening to the Customer (1/2 class)
+15.8471J, Consumer Behavior
+15.911, Entrepreneurial Strategy
+21G.120, Business Chinese
+Provide a rationale on why these courses apply to your concentration:
+11.159: considers how to build relationships with investors and stakeholders at an early stage through negotiations. 15.821, 15.8471: Emphasizes methods to address changing consumer concerns across demographics and capture a new market share. 21G.120: Brings in an international lens by considering the interplay of diverse cultural customs and managerial psychology and decisions. 15.3941: focuses on founder decisions to answer, What are the elements of an effective pitch? how can I build a good team?
+Provide a brief explanation of your concentration:
+A concentration in international entrepreneurship effectively prepares me to confront a rapidly globalizing business world where it is necessary to understand how to successfully communicate with varying stakeholders. These classes have given me insight into how culture impacts how mangers should conduct themselves and how to foster productive conversations. Furthermore, I have gained insight into what it takes to be an entrepreneur and the steps in becoming a startup founder, which is something I plan to pursue and support in the media industry (where navigating these social frameworks are particularly delicate and pertinent).
+International Entrepreneurship & Logistics
+14.73, The Challenge of World Poverty
+15.037J, Energy Economics and Policy
+15.054J, The Airline Industry
+15.4311, Entrepreneurial Finance and Venture Capital
+15.911, Entrepreneurial Strategy
+Provide a rationale on why these courses apply to your concentration:
+15.037 - Economics of Energy (Learn about current fossil fuel industry and the challenges of renewables). 15.054 - The Global Airline Industry (Learn about the challenges facing a transportation industry). 14.73 - The Challenge of World Poverty (Understand the problems faced in the developing world). 15.911/15.4311 - Entrepreneurial Strategy/Entrepreneurial Finance and VC (Learn how to launch successful start-ups).
+Provide a brief explanation of your concentration:
+I want to be able to start and finance businesses in developing countries with the goal of alleviating extreme poverty. I want to focus on sustainable transport with these businesses and am seeking to gain an understanding of entrepreneurial finance, strategy, and how renewable energy can help power new forms of transport in the developing world.
+Leadership and Negotiation
+11.011, The Art and Science of Negotiation
+11.111, Leadership in Negotiation: Advanced Applications
+15.318, Discovering Your Leadership Signature
+15.674, Leading Creative Teams
+15.815, Applied Behavioral Economics
+Please provide a rationale on why these courses apply to your concentration:
+11.011 ("The art and science of negotiation"), 11.111 ("Leadership in negotiation: advanced applications"), 15.318 ("Discovering your leadership signature"), 15.815 ("Applied Behavioral Economics"), and 15.674 ("Leading creative teams") are all inherent to the communication and persuasion skills required in many business fields and understanding of the reason behind people's behavior; these courses are all tightly connected to train me excellently in the aforementioned skills.
+Please provide a brief explanation of your concentration:
+The above courses all center on strategy to communicate and negotiate in business settings. My concentration has given me communication skills that are fundamental to network, build connections with the clients, and persuade; all skills important for managerial consulting, which is the field I am planning to pursue after graduating.
+Management for Deep Technology
+6.1060, Software Performance Engineering
+6.5060, Algorithm Engineering
+15.318, Discovering Your Leadership Signature
+15.399, Entrepreneurship Lab
+15.497, Fintech Ventures
+Please provide a rationale on why these courses apply to your concentration:
+15.318 taught how to approach leadership from a personal style by understanding yourself.
+15.399 gave me actual involvement with existing startups. 15.497 allowed me to work on a deep tech startup. 6.5060 taught how to design complex algorithms from the ground up 6.1060 taught me how to build performance algorithms.
+Please provide a brief explanation of your concentration:
+I want to build a startup in the area of deep technology, and have the ability to run and manage the company while understand the technology.
+Product Development and Project Management
+2.00B, Toy Product Design
+15.665, Power and Negotiation
+15.818, Pricing (1/2 class)
+15.8471, Consumer Behavior
+15.S05, The Science of Well-Being
+EM.S21, Digital Lamp: Design/Make/Illuminate (1/2 class)
+Please provide a rationale on why these courses apply to your concentration:
+Understanding 15.8471 helped to inform product development decisions, guiding strategies to utilize psychology to understand consumers and innovate to meet market demands effectively. 2.00B and EM.S21 provided practical experience in ideating, prototyping, and manufacturing. Focusing on toy design offered insights applicable across various industries, aiding concept development and production processes. 15.665 taught me negotiation skills crucial for facilitating collaboration and conflict resolution. This course equipped me with strategies to navigate complex negotiations and achieve mutually beneficial outcomes. 15.818 provided guidelines for making informed decisions on positioning, profitability, and revenue optimization. Finally, 15.S05 helped me understand how to prioritize well-being, which is crucial in fostering a positive work environment and enhancing team collaboration.
+Please provide a brief explanation of your concentration:
+My concentration has provided me with a comprehensive understanding of essential principles in entrepreneurship and innovation, complemented by insights from psychology, negotiation, and product design. I intend to leverage this interdisciplinary knowledge and skill set in forthcoming projects, facilitating effective product development and proficient project management.
+Social Entrepreneurship
+11.006: Poverty and Economic Security
+11.027 City to City: Nonprofits
+15.248, Israel Lab
+15.3941, Entrepreneurial Founding and Teams
+15.399, Entrepreneurship Lab
+Please provide a rationale on why these courses apply to your concentration:
+15.399 we work with a start-up. 15.3941 we learn how to form a start-up. In 15.248 we work with a start-up. 11.006 we learned about the broader context of poverty and economic security. 11.027 we learned about the good, bad, and challenges of the nonprofit sector.
+Please provide a brief explanation of your concentration:
+I learned how the private sector, the government, and nonprofits can work together effectively. We learned about the different incentives and priorities of people in those sectors. We learned how to understand the complexities of an issue and how to tackle them effectively through collaboration and a systems thinking way.
+Strategy & Business Policy
+14.02, Intro to Macroeconomics
+14.13, Psychology and Economics
+15.053, Optimization Methods in Business Analytics
+15.402, Corporate Finance
+15.615, Essential Law for Business
+Please provide a rationale on why these courses apply to your concentration:
+I chose these courses because they provide essential skills for strategic decision-making and policy development in business. Behavioral economics helps understand human behavior in markets, while macroeconomics gives a broader economic context. Corporate finance teaches financial management crucial for strategy. Optimization methods aid in data analysis for better decision-making, and business law ensures legal compliance. Together, these courses offer a comprehensive toolkit for navigating business challenges effectively.
+Please provide a brief explanation of your concentration:
+My concentration, Strategy and Business Policy, focuses on cultivating expertise in strategic decision-making and policy formulation within the corporate realm. Through both technical and theoretical courses, I have developed a holistic understanding of how businesses can strategically navigate challenges and capitalize on opportunities in dynamic markets. With this well-rounded foundation of both people and hard skills, plan to start in consulting and eventually practice business law.
+Sustainable Management of Services & Governance
+12.000, Solving Complex Problems
+15.239J, China's Growth: Political Economy, Business, and Urbanization (1/2 class)
+15.6731, Negotiation Analysis (1/2 class)
+15.768, Management of Services: Creating Value for Customers, Employees, and Investors
+15.8731, System Dynamics: Tools for Solving Complex Problems
+15.874J, People and the Planet: Environmental Governance and Science
+Please provide a rationale on why these courses apply to your concentration:
+15.768- Needed for management of any service. 15.8731- Provides the means of analyzing data, and creating policy solutions for complex problems via system dynamics. 15.874J- Specific skill building for policy analysis in sustainability contexts. 15.239- Analysis of China’s sustainability policies. 15.6731- Practical advancement of any policy through negotiation. 12.000 Practical developing of climate policy.
+Please provide a brief explanation of your concentration:
+My concentration is for a career path in service organizations designed to improve the sustainable effectiveness of those organizations. This concentration draws on the concepts of systems dynamics thinking for the purpose of analyzing large scale climate and sustainability issues and applying policy best practices to reduce negative impacts. It also builds core skills needed to enact those best practices, through negotiation with stakeholders and principles of service management. Lastly, the concentration builds practical teamwork, presentation, and policy advocacy skills needed.
+Business Analytics
+1.00 or 1.000 or 6.0001 & 6.0002 or 6.01 Computer Programming
+14.12, Economic Applications of Game Theory
+15.0251/15.025, Game Theory for Strategic Advantage
+15.0341/15.034, Metrics for Managers: Big Data and Better Answers
+15.053, Optimization Methods in Business Analytics
+15.0621/15.062, Data Mining: Finding the Data and Models that Create Value (half course)
+15.068, Statistical Consulting
+15.0711/15.071, The Analytics Edge
+15.0741/15.074, Predictive Data Analytics and Statistical Modeling
+15.276, Communicating with Data
+15.570, Digital Marketing and Social Media Analytics (half course)
+15.780, Stochastic Models
+15.871, Introduction to System Dynamics (half course) or 15.873, System Dynamics for Business and Policy
+Guide For Additional Sample Concentrations and Courses That May Fit
+Please note – you have flexibility in deciding the courses that can count toward a concentration. This list should not be viewed as either comprehensive or absolute.
+Entrepreneurship
+2.723J, Engineering Innovation and Design
+3.086, Innovation and Commercialization of Materials Technology
+6.933, Entrepreneurship in Engineering: The Founder's Journey
+15.359J, Innovation Engineering: Moving Ideas to Impact
+15.373J, Venture Engineering
+15.3781, Building an Entrepreneurial Venture: Advanced Tools and Techniques
+15.3901, New Enterprises
+15.394, Dilemmas in Founding New Ventures
+15.4311, Entrepreneurial Finance
+15.6181, Law and Cutting Edge Technologies
+15.911, Entrepreneurial Strategy
+Finance
+14.02, Principles of Macroeconomics or 15.012, Applied Macro-and International Economics (half course)
+15.418, Laboratory in Corporate Finance or 15.402, Corporate Finance
+15.4311, Entrepreneurial Finance
+15.4331/15.433, Financial Markets
+15.4341/15.434, Advanced Corporate Finance
+15.4371/15.437, Options and Futures
+15.460, Financial Engineering
+15.466, Functional and Strategic Finance
+15.487, Algorithmic Trading and Investment Strategies
+15.5181/15.518, Taxes and Business Strategy
+15.535, Business Analysis Using Financial Statements
+15.617, Deals, Finance, and the Law
+Information Technology
+1.00 or 1.000 or 6.0001 & 6.0002or 6.01 Computer Programming
+15.565J, Digital Evolution: Managing Web 3.0
+15.320, Strategic Organizational Design
+15.358, Software and Internet Entrepreneurship
+15.376, Media Ventures
+15.567, The Economics of Information: Strategy, Structure, and Pricing
+15.570, Digital Marketing and Social Media Analytics (half course)
+15.571, Enterprise Transformations in the Digital Economy
+Marketing
+15.068, Statistical Consulting
+15.392, Entrepreneurial Product Development and Marketing (half course)
+15.570, Digital Marketing and Social Media Analytics (half course)
+15.815, Applied Behavioral Economics (half course)
+15.818, Pricing(half course)
+15.821, Listening to the Customer (half course)
+15.828, Product Management
+15.833, Business-to-Business Marketing (half course)
+15.834, Marketing Strategy
+15.835, Entrepreneurial Marketing (half course)
+15.846, Branding (half course)
+15.847, Consumer BehaviorProject Management
+Project Management
+15.053, Optimization Methods
+15.220, Global Strategy and Organization (half course)
+15.276, Communicating with Data
+15.318, Discovering Your Leadership Signature
+15.320, Strategic Organizational Design
+15.3901/15.390, New Enterprises
+15.394, Dilemmas in Founding New Ventures
+15.521, Management Accounting and Control
+15.565J, Digital Evolution: Managing Web 3.0
+15.665, Power and Negotiation or 15.6731, Negotiation Analysis (half course)
+15.871, Introduction to System Dynamics (half course) or 15.873, System Dynamics for Business and Policy

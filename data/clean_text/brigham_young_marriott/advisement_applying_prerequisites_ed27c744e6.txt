@@ -1,0 +1,80 @@
+URL: https://marriott.byu.edu/advisement/applying/prerequisites
+TITLE: Prerequisites - Advisement - BYU Marriott School of Business
+
+These prerequisites are in effect for the
+Fall 2026
+application.
+*For all programs with a list of options to complete as a prerequisite, the highest grade earned from the list of courses will be used to calculate prerequisite GPA.
+Accounting
+ACC 200: Principles of Accounting
+ACC 310: Principles of Accounting 2
+IS 201: Introduction to Information Systems
+Business Management
+IS 201: Introduction to Information Systems
+6.0 credits from the following list:
+ACC 200: Principles of Accounting
+ACC 310: Principles of Accounting 2
+ECON 110: Economic Principles and Problems
+FIN 201: Principles of Finance
+GSCM 201 & GSCM 211: Intro to GSCM and GSCM Int’l
+IS 303: Introduction to Computer Programming
+MKTG 201: Marketing Management
+STAT 121: Introduction to Statistical Data Analysis
+Entrepreneurial Management
+ENT 113: Startup Bootcamp
+IS 201: Introduction to Information Systems
+MKTG 201: Marketing Management
+Experience Design & Management
+ACC 200: Principles of Accounting
+EXDM 300: Creating a Good Life through Experience Design
+IS 201: Introduction to Information Systems
+Finance
+ACC 200: Principles of Accounting
+FIN 201: Principles of Finance
+3.0 credits from the following list:
+ACC 310: Principles of Accounting 2
+ECON 110: Economic Principles and Problems
+GSCM 201 & GSCM 211: Intro to GSCM and GSCM Int’l
+IS 201: Introduction to Information Systems
+MATH 118: Finite Mathematics
+MKTG 201: Marketing Management
+STAT 121: Introduction to Statistical Data Analysis
+Global Supply Chain Management
+IS 201: Introduction to Information Systems
+MKTG 201: Marketing Management
+3.0 credits from the following list:
+ACC 200: Principles of Accounting
+ACC 310: Principles of Accounting 2
+ECON 110: Economic Principles and Problems
+FIN 201: Principles of Finance
+GSCM 201 & GSCM 211: Intro to GSCM and GSCM Int’l
+IS 303: Introduction to Computer Programming
+STAT 121: Introduction to Statistical Data Analysis
+Human Resource Management
+IS 201: Introduction to Information Systems
+MKTG 201: Marketing Management
+3.0 credits from the following list:
+ACC 200: Principles of Accounting
+ACC 310: Principles of Accounting 2
+ECON 110: Economic Principles and Problems
+FIN 201: Principles of Finance
+GSCM 201 & GSCM 211: Intro to GSCM and GSCM Int’l
+IS 303: Introduction to Computer Programming
+STAT 121: Introduction to Statistical Data Analysis
+Information Systems
+ACC 200: Principles of Accounting
+IS 201: Introduction to Information Systems
+IS 303: Introduction to Computer Programming or CS 111: Introduction to Computer Science
+Marketing
+IS 201: Introduction to Information Systems
+MKTG 201: Marketing Management
+3.0 credits from the following list:
+ACC 200: Principles of Accounting
+ECON 110: Economic Principles and Problems
+FIN 201: Principles of Finance
+GSCM 201 & GSCM 211: Intro to GSCM and GSCM Int’l
+STAT 121: Introduction to Statistical Data Analysis
+Strategic Management
+ACC 200: Principles of Accounting
+IS 201: Introduction to Information Systems
+ECON 110: Economic Principles and Problems

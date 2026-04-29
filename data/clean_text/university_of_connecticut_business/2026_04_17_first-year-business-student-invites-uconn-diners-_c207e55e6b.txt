@@ -1,0 +1,52 @@
+URL: https://www.business.uconn.edu/2026/04/17/first-year-business-student-invites-uconn-diners-to-swipe-for-easy-dining-hall-nutrition-info
+TITLE: First-Year Business Student Invites UConn Diners to ‘Swipe’ for Easy Dining Hall Nutrition Info  - UConn Today
+
+Entrepreneurship
+April 16, 2026
+|
+Jaclyn Severance
+Each day, Swipe collects data from Dining Services about the menu items offered in each location and serves it up through an easy-to-use interface
+Sean Howard holds a photo with his Swipe dining app outside the Union Street Market on March 26, 2026. (Peter Morenus/UConn Photo)
+Sean Howard ’29 (BUS) is not a code writer or a programmer.
+He doesn’t have a background in computer science, and he comes from a family of teachers, not engineers.
+But the first-year School of Business student from Branford, who hasn’t settled on his major quite yet, is an entrepreneur, which means that he tends to look at the world around him with an entrepreneurial mindset – seeing a need, and then trying to meet that need with a solution.
+And in his first semester at UConn Storrs, he found a need.
+“Initially, I just had an issue with how difficult it was to track what I was eating at the dining halls, because I like to track my food,” Howard explains. “I like to be health-conscious about what I’m putting in my body, and I knew a lot of people felt the same way.”
+UConn’s Dining Services publishes
+publicly available daily menus online
+for each of its dining locations. It also offers nutrition information for all offerings as well as information on allergens and
+dietary restrictions and preferences
+, like gluten-free, vegetarian, and vegan options.
+But Howard found that combing through that wealth of data, and then using it to track things like calories, protein, allergens, and meal options, wasn’t always so easy.
+And even though he doesn’t have allergies or health conditions himself, nutrition is something that’s important to him, he says.
+“I think what you eat is a key factor in how you focus in school, how you sleep, how you feel, how happy you are, your relationships with others – I think it comes down to how you treat yourself,” he says.
+Inspired by what he was learning in a first-year seminar called
+“Using Your Entrepreneurial Skills to Get a Job or Start a Business,” taught by Kathy Rocha
+, associate director of the Werth Institute for Entrepreneurship and Innovation, Howard decided to try to make it easier to track his nutrition in UConn’s dining halls by building an app.
+Something he’d never tried to do before.
+“It was hard at first,” admits Howard. “I think once I found to right tools to use while coding, it really accelerated the process, but it was difficult in the first few months.”
+Howard began working on his project in November, mentored in his work by Rocha and the Werth Institute’s director of leadership development, Katie Britt.
+He also found support from UConn Dining Services for his efforts.
+“Sean contacted me in January about his desire to build an app that would focus on helping students make nutritional decisions as they visited our dining locations,” says Michael White, the executive director of Dining Services. “Our goal in working with Sean was to assist in narrowing the scope of the project into manageable development sections, tackling difficult topics that need to be considered when providing nutritional information.”
+In building the app, Howard relied on new artificial intelligence tools that helped with the complicated coding. There was a lot of trial and error, he says, until he found programs that met his needs.
+After months of work and consultation, he launched his app – called
+Swipe
+– in late February. It’s available for free for Apple iOS download through his website and in the App Store.
+Each day, Swipe collects the publicly available data from Dining Services about the weekly menu items offered in each UConn Storrs dining location and serves it up through an easy-to-use interface. In addition to nutrition tracking, Swipe offers a score for each individual menu item – the scores are based on data about protein, fiber, sodium sugar, and saturated fat, as well as personalized health conditions.
+Swipe also allows users to filter based on allergens – things like dairy, eggs, gluten, soy, and nuts – and to set alerts that let a user know if a favorite menu item is being offered in a particular location on a particular day.
+“You go on the app, and you can select your allergens, your dietary preferences – if you’re a vegan, pescatarian, vegetarian,” says Howard. “You can also select any health conditions. Maybe you’re deficient in iron, or you have high blood pressure, and it gives each item in every dining hall a personalized health score from one to 99.”
+The scores, he explains, are based on an algorithm that uses peer-reviewed research to come to a consensus on a dietary recommendation.
+It’s a feature that White says they’ve considered carefully and continue to work on, consulting with Dining Services’
+on-staff registered dietitian and nutritionist, Lily Tartsinis ’19 (CAHNR) ’21 MS
+, in their conversations and being cognizant of conditions like eating disorders, elimination diets, allergies, and medical changes that students might be managing while making eating choices in UConn’s dining halls.
+“In our meetings with Sean, we have continued to work on careful consideration of scoring since it is critical depending on the dietary need,” White says. “We don’t want students to avoid certain foods simply because it doesn’t score well in the algorithm. In some cases, pure consumption is more important than if it hits the latest trend on protein or fiber scoring.”
+Since launching the app, Howard says it’s been downloaded more than 1,000 times, and currently has more than 350 daily active users. His goal is to double or triple those numbers by the end of the year, and he hopes to accomplish that through publicity as well as refining the app as the year progresses.
+Dining Services has helped with that effort as well, advertising the app through digital signage and flyers at its locations.
+“As Sean has continued to develop the app, we have played a role in helping him pilot the use with our menus,” says White. “We try as a department to help students in a variety of ways – sometimes, it’s to get an article published for a journalism class and, in this case, it is helping a student build an app.”
+Howard also hopes to one day take his concept beyond UConn by bringing Swipe to other universities – he doesn’t see his app as a one-and-done project, but something he hopes to grow over his next three years at UConn.
+“I think there’s definitely a market for it,” he says. “I think there’s a problem to be solved. I think many universities have an issue where their students don’t think that they can access menus easily, or where there’s a lack of nutrition transparency.”
+It’s been an ambitious undertaking for an undergraduate in his first year of college, but Howard says that taking on a personal project early on, regardless of its ultimate success, is valuable for any student.
+“Even if it shuts down tomorrow, I think I gained enough valuable insights on the process of making connections, networking, and marketing that I wouldn’t have gained if I didn’t try to start it,” he says. “Thankfully, it has been successful, but I just think starting a personal project just opens so many doors and teaches you so many lessons.”
+To learn more about Howard’s nutrition-tracking app, Swipe, visit
+swipedining.com
+.

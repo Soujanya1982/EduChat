@@ -1,0 +1,27 @@
+URL: https://carlsonschool.umn.edu/centers-institutes/analytics-for-good/impact
+TITLE: Analytics for Good Institute's Impact | Minnesota Carlson
+
+Analytics for Good Institute Impact
+In this section
+Analytics For Good Institute
+Mission
+Engagement Mode
+People & Partners
+Gender Equality Action Group
+Teaching Cases
+Team
+Data Analytics that Deliver Societal Benefits
+The Analytics for Good Institute uses the power of data analysis, technology, and machine learning to address problems facing society. Together with our partner organizations, we focus on work that will help build a prosperous, sustainable, and inclusive society. An example of this kind of partnership is our work on housing fairness and stability, made possible by the McKnight Foundation, Hennepin County, and the City of St. Paul.
+Leveling the Playing Field for Renters
+Apartment seekers routinely undergo background checks for landlords. This practice helps landlords make more informed decisions about to whom they offer leases. But renters don’t have a similar mechanism for researching potential landlords. In major cities like Minneapolis and St. Paul, information about landlords and their properties is spread across multiple systems and government agencies. Even the most motivated renter would have difficulty finding a potential landlord’s record, including citations for property maintenance violations or eviction rates. In
+collaboration with the
+McKnight Foundation
+, students in the
+Carlson Analytics Lab
+engineered a system that integrated multiple disparate datasets
+related to landlords. The students also built an interface for personnel from renter advocacy organizations to use when helping low-income people find stable housing. In a tight rental market, this tool helps level the playing field.
+Early Prediction of Eviction in Vulnerable Populations
+Homelessness can dramatically alter a person’s life, sometimes for years. Government agencies like
+Hennepin County
+, which includes the city of Minneapolis, battle this issue on multiple fronts amid complex bureaucracies and social conditions. Partnering with Carlson Analytics Lab, Hennepin County sought help predicting likely evictions among vulnerable populations in time to intervene with assistance. Students working on the project aggregated data from multiple sources and tested 92 variables, such as income level, number of dependents, and education level, to determine whether combinations of these variables correlated with renters being evicted. At the end of the project, the team presented their findings to a room of nearly 100 county leaders and community advocates. Having identified variables that contribute to someone’s risk of eviction, the team saw a clear opportunity to reduce the county’s eviction filings, which exceeded 6,000 the previous year.
+Read the Full Story on Data Analytics for Social Impact

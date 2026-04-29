@@ -1,0 +1,131 @@
+URL: https://daniels.du.edu/caid
+TITLE: Center for Analytics and Innovation with Data | Daniels College of Business
+
+From Baseball to Biomedical Advances
+The Center for Analytics and Innovation with Data (CAID) guides students, faculty and businesses along a journey that starts with a new decision-making process in the fourth industrial revolution, one that will fundamentally alter the way we live, work and relate to one another. This center focuses on data and data/business analytics in various industries, to help all stakeholders capture the right data and blend buried insights in money-making or money-saving decisions, from the public and private sectors to academia and civil society.
+The
+Department of Business Information and Analytics
+within the University of Denver’s Daniels College of Business brings together world-class faculty who do cutting-edge research about business and data analytics. Our faculty engage in discipline, practical, and pedagogic research that produce analytics professionals innovatively leading the marketplaces.
+What We Do
+The Department of Business Information and Analytics within the Daniels College of Business aims to transform the educational experience through excellence in scholarship of data and analytics research.
+The Center for Analytics and Innovation with Data (CAID) engages students, faculty, and members of the community by providing a multi-functional space for conducting various types of computational and quantitative research through data management and analytics. We conduct research on business and big data analytics to expose students to different types of analytical technologies such as statistical methods, econometrics, data mining, machine learning, predictive analytics, textual and geospatial analysis, social network analysis, optimization, and big-data processing technologies. Therefore, we aim to create stronger and more meaningful connections with various businesses, particularly within the Denver area and beyond. Additionally, CAID will enable faculty, students and businesses to enrich big strategy and provide a new venue in the fourth industrial revolution.
+Impact and Outreach
+CAID contributes to the Daniels Value through exceptional student experience, actively connecting with the marketplace, producing impactful faculty research paring with students, and developing a next-generation portfolio of interdisciplinary programs.
+Research Agenda and Technologies
+Technical Resources
+Software
+RedHat Enterprise Linux 7.4
+HADOOP 2.7.4
+Hive 2.1.1
+Mahout 0.13
+Pig 0.17
+Spark 2.2.0
+R 3.4.3
+RStudio Server
+Julia 0.6.1
+Python 2.7.5
+Java OpenJDK 1.8.0
+IBM SPSS Modeler 18.0.0
+Hardware
+The Current Proof-of-Concept HADOOP cluster:
+2 Nodes (Intel Xeon E5-2697 @ 2.70GHz x 8 CPU cores, 64GB RAM, 20GB storage) managed by
+University of Denver Information and Technology
+
+Access our GitHub repository
+Projects & Research
+Students Projects
+Student engagement with CAID enhance experiential aspects of learning and help students better prepare for jobs in the ‘real world’. CAID will also provide a space of hub enhancing BIA’s successful DU-Analytics Challenge across other universities, nationally and internationally. Various datasets sourced by capstone project companies will are also stored and managed to be reused in classrooms.
+DU-Analytics Challenge >
+Faculty Research
+Faculty focus on various types of research studies producing impactful publications. CAID helps partnerships across different disciplines and universities, nationally and internationally, enabling researchers to successfully work together to study important social and business issues and solve complex problems with data analysis.
+Industry Collaborative Projects
+Businesses engage with CAID through strategic partnerships, client projects, internships, and networking events and workshops. Corporate partners/companies will also benefit from in-house faculty/student experts through consulting capstone projects and analytics challenge competitions.
+Partnering with CAID on a Student Capstone Project
+If you become a capstone project partner, you’ll be paired with a business analytics student who will take on your business problem as the final project in their master’s program.
+Why Partner With Us?
+The Capstone Program is free for partner organizations and provides a unique opportunity to work closely with University of Denver Master of Science in Business Analytics students. These projects help you address a real business problem, add value to your organization, and provide our students the chance to use the skills they’ve gained in the program in a real-world setting.
+Organizations participating in the Capstone Program will have an analyst working on their business problem at no cost. These students will be experienced in modern data analytics approaches across a suite of tools. Techniques include statistical analyses, visualization, database and warehouse building and more. Tools include Python, R, SQL, PowerBI, Tableau and Excel, among others.
+The business analytics Capstone Program at DU has worked in partnership with more than 350 business in the greater Denver area and beyond. In addition to allowing organizations to collaborate closely with the Daniels analytics community at DU, participating in the Capstone Program may result in future employees, as it makes the organizations highly visible to all students in the MSBA program.
+What You Can Expect
+The responsibility of our corporate Capstone mentors is to provide a challenging problem description with relevant data, and to make available any organization-specific software that the company requires. Our MSBA students will build analytic models and perform analyses on the data. In return, we ask that you provide guidance and mentorship, and the opportunity for students to present their results to their corporate sponsors.
+If required, students will perform their analysis on the suite of analytic tools available to them through the University. The students work under the guidance of their faculty advisor, and you will have the opportunity to confer with the advisor.
+Our students and faculty are prepared to sign any appropriate nondisclosure agreements that you require.
+Students will create a well-developed product relevant to your business question (e.g., database, analytic report, dashboards, etc.). This product is expected to be of high quality.
+Frequently Asked Questions
+Below are some FAQs about the Capstone projects and process. If you don’t see the answer to your question on the website, please contact Phil Beaver, PhD, at
+philip.beaver@du.edu
+or Stefani Langehennig, PhD, at
+stefani.langehennig@du.edu
+Is there a fee to participate?
+Companies are not charged to participate, and students aren’t paid for their work.
+Can a company submit more than one Capstone project proposal?
+Yes. As with a single Capstone project, the expectation is that the company will be able to provide sufficient support (point person, data, etc.) for each project.
+Can a company participate multiple times?
+Absolutely! As business problems and projects arise, please submit a proposal.
+Are NDAs required?
+This usually depends on the Capstone partner’s organizational requirements. DU typically provides a standard NDA template when this is the case.
+Does the Capstone partner need to be based in Denver?
+While most of our project partners are based in Denver, we
+welcome the opportunity to work with organizations outside of the Denver metro area.
+Timeline
+Every candidate for a Master of Science in Business Analytics degree must complete a Capstone project that applies analytic skills to a current business challenge.
+Student’s Quarter 2 (January or June)–Capstone planning
+Cohorts are introduced to potential projects in either January or June, depending on when they began the program, and they select their projects by the end of those months. During either winter or summer quarter, they familiarize themselves with the projects and the data, and develop a work plan with your company.
+Quarters 3 and 4 (February-July or July-February)—Capstone work
+End of Quarter 4 (August or March)—Capstone completion
+Students complete their projects prior to graduation.
+Current and Past Capstone Projects
+A supply chain optimization solution for a global manufacturing and distribution company that replaced a manual assignment system and resulted in significant cost savings and increased efficiency for the organization.
+A scheduling model for a health care system that optimized the assignment of exam rooms and brought them from 43% to 93% occupancy, removing a 3-month scheduling backlog.
+An analysis of the donor base for a nonprofit that identified the regular donors who could potentially be developed into major donors, allowing the board to prioritize their fundraising efforts.
+Product tracking analysis for a distribution company that allowed them to better understand how long their B2B customers were taking to return their products. This understanding of product churn allowed them to better resource their product.
+A predictive model for a collection agency that provided a better understanding of which accounts should not be pursued, resulting in a 15% increase in their collection efficiency.
+Sample Companies Who Have Partnered With the Capstone Program
+Propose a Capstone Project
+Tell us about a project you’d like to partner with a student on…
+Capstone Project Proposal Form
+CAID Capstone Proposal
+Investing in CAID
+CAID is an innovative learning environment for pioneering Big Data for the Big Good, that DU’s Daniels College of Business aims to deliver throughout the Daniels experience in this new industrial revolution. It is a co-curricular research center at the crossroads of innovative teaching and student engagement via cutting-edge big data analytics research opportunities designed to end with the big good for profit and non-profit business partners.
+Daniels is assembling leaders like you to help ensure CAID’s success. We are now initiating a fundraising campaign designed to invite alumni and key stakeholders to invest in this Big opportunity. We are working hard to shape the next phase of development for the University of Denver and hope you will join us by supporting this exciting initiative.
+Endowed Naming Gift
+$1M:
+Provides the resources to continue to evolve and sustain the concept and operations for the CAID.
+Named Fellowship Gift
+$150K:
+Provides funds for a two-year fellowship to secure a graduate student research coordinator and/or undergraduate students to facilitate independent sponsored research projects.
+Lab Equipment Gift
+$100K:
+Provide funds necessary to upgrade and maintain Big Data and Analytics technologies used in the CAID
+Annual Gifts
+Varies:
+Provide expendable gifts that will support the initial buildout and operations of the CAID.
+Faculty
+Andrew Urbaczewski, PhD
+Founding Co-Director | Chair, Department of Business Information & Analytics
+Learn more about Dr. Urbaczewski »
+303.871.4802
+andrew.urbaczewski@du.edu
+Young Jin Lee, PhD
+Founding Co-Director | Assistant Professor, Department of Business Information & Analytics
+Learn more about Dr. Lee »
+303.871.4813
+youngjin.lee@du.edu
+Stefani Langehennig, PhD
+Lead Director | Assistant Professor of the Practice, Department of Business Information & Analytics
+Learn more about Dr. Langehennig »
+303.871.3789
+Stefani.Langehennig@du.edu
+Participating Faculty Members
+Dr. Phil Beaver
+Professor of the Practice
+Learn more about Dr. Beaver »
+Dr. Ryan Elmore
+Assistant Professor
+Learn more about Dr. Elmore »
+Dr. Tianjie Deng
+Assistant Professor
+Learn more about Dr. Deng »
+Contact Us
+Have questions or want to get involved? Please use our contact form below!
+Send Us a Message

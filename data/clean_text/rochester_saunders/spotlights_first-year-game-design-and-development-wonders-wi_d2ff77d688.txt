@@ -1,0 +1,21 @@
+URL: https://www.rit.edu/spotlights/first-year-game-design-and-development-wonders-win-hackathon-category
+TITLE: First-year game design and development ‘wonders’ win hackathon category | RIT
+
+March 12, 2025
+’29
+Game design and development
+students Abby Rochelle, Katie Yates, and Bella Miller teamed up for
+Women in Computing
+’s
+WICHacks 2025
+in hopes of having fun weekend plans with one another. What they managed to achieve was not just fun - but also a win.
+“
+The Flower Shop: Business is Blooming
+”
+is a cozy, pixel art style flower shop minigame inspired by the team’s favorite minigames featuring 2D art. The hackathon didn’t have a theme or prompt - so they went their own path. “I was in the mood for flowers,” Abby said, which prompted the aesthetic and theme of the game.
+The trio of first-year students used Figma, a collaborative web application for interface design, Javascript, and HTML to build out the foundation for the game that won them the “WiC: Widget's Wonders Hack” category.
+As for the future of “Flower Shop”, the trio are certain to take it further. “We want to keep working on this and we had so many assets and ideas that we didn’t get to implement that we were excited to work on.”
+Abby, Katie, and Bella are excited to apply what they’ve learned in their 2D game design and development classes to their game. “We can see how the stuff we’re learning in our classes can translate into real life, on our own terms,” noted Bella.
+You can read more about “Flower Shop” and keep up to date with its progress
+here
+.

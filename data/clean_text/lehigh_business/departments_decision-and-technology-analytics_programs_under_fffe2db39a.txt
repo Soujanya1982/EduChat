@@ -1,0 +1,44 @@
+URL: https://business.lehigh.edu/departments/decision-and-technology-analytics/programs/undergraduate-business-analytics-major
+TITLE: Undergraduate Business Analytics Major | Lehigh Business
+
+B.S. in Business and Economics
+Decision and Technology Analytics (DATA)
+Business Analytics (BUAN) Major
+All College of Business students must complete the Core Curriculum, as well as the requirements for their major area of study.
+The Business Analytics (BUAN) major prepares students with cutting-edge knowledge and skill sets that will enable them to be competitive in the rapidly growing field of business analytics, by focusing on using technological tools to extract, integrate, visualize, analyze, and interpret data to support business decision making. This program will provide students with a strong training in applied data and analytics skills which allow them to turn raw data into value for a business.
+These skills can be applied in a broad range of functional areas and industries including management, marketing, operations, financial services, healthcare, and more. Career opportunities for BUAN majors include: business analyst, data analyst, research analyst, analytics consultants, risk analysts, and more.
+Related special programs that augment the BUAN Curriculum
+BIS Club - supports student engagement/networking with industry contacts and emerging technology trends
+Business Analytics
+Required for all Business Majors
+BIS 111: Management Information Systems
+Required for all Business Analytics Majors (4 courses)
+BIS 324: Business Data Management
+BUAN 348: Predictive Analytics in Business
+BUAN 352: Business Analytics and Modelling
+BUAN 357: Artificial Intelligence for Business
+Business Analytics Electives (choose 2 courses)
+BIS 335: Application Development for Business
+BUAN 315: Introduction to Generative AI
+BUAN 346: Python Applications for Business
+BUAN 368: AI Strategy and Management
+SCM 345: Analytical Approaches to Supply Chain Management
+ACCT 330: Accounting Data and Analytics
+ECO 301: Econometric Software
+ECO 357: Econometrics
+ECO 367: Applied Microeconometrics
+MKT 325/ECO 325: Consumer Insights through Data Analysis 3
+MKT 326: Marketing Analytics in a Digital Space
+FIN 377: Lehigh’s Data Science for Finance
+SCM 330: Analytics for Service Operations
+For full descriptions of these courses,
+link to catalog
+.
+Business Analytics (BUAN) vs. Business Information Systems (BIS)
+Choosing between BUAN and BIS?
+Read more here.
+For more information, please contact
+Professor Haoyan Sun
+, director, at
+has517@lehigh.edu
+.

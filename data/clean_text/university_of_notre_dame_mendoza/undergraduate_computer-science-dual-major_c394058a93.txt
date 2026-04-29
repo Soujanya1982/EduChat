@@ -1,0 +1,17 @@
+URL: https://mendoza.nd.edu/undergraduate/computer-science-dual-major
+TITLE: Business Computer Science Program Major - Notre Dame Mendoza
+
+Computer Science Core Requirements (17 credits)
+Fundamentals of Computing – 4 credits
+Data Structures – 4 credits
+Systems Programming – 3 credits
+Theory of Computing – 3 credits
+Design and Analysis of Algorithms – 3 credits
+Computer Science Math Requirements (10 credits)
+Calculus II – 4 credits
+Discrete Mathematics – 3 credits
+Three credits from the following list:
+Math 20550 (Calculus III)
+Math 20610 (Linear Algebra)
+Math 20580 (Linear Algebra with Differential Equations)
+Petitions to accept other Math or ACMS courses will be considered, but introductory courses are generally not approved. (Note: Credit cannot be granted for both Math 20610 and Math 20580) – 3 credits

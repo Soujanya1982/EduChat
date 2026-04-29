@@ -1,0 +1,66 @@
+URL: https://undergrad.wharton.upenn.edu/story/data-science-led-undergrad-business-analytics
+TITLE: How Data Science Led This Undergrad to Business Analytics - Undergraduate
+
+M&T student Red Dimaano, W’18, E’18, on why he loves data science and how Prof. Pete Fader started him on a path into academic research.
+There are
+over twenty Wharton concentrations
+, and one of the newest concentrations to be added to the list is
+business analytics
+: a path combining operations, information, and decisions with statistics. The blog of the
+Jerome Fisher Program in Management and Technology
+talked with M&T senior Rafael “Red” Dimaano to find out more about this concentration and what led him to it.
+1. What drew you to the business analytics concentration?
+Being able to declare the concentration was honestly sheer luck! Earlier in my studies, I made a list of Wharton electives I wanted to take: most were quantitative and data-centric courses, fitting my interests in statistics and computer science. I didn’t put much thought into concentrations and decided I’d figure it out later. Then business analytics was announced as a concentration the summer after sophomore year and, upon looking at it, I realized every class I wanted to take was on the list of requirements. Boom! My concentration was born.
+2. Why do you think business analytics was added as a concentration? What benefits does it afford to M&T and Penn students?
+In my opinion, business analytics is one of the best concentrations Wharton is offering right now. Data has become increasingly important in the business world and its value cannot be understated. Personally, I see business analytics as a nice complement to my computer science major in terms of learning about data science. Though both curricula have many offerings in data science, the business analytics concentration has a stronger focus on statistics and optimization, while the computer science classes focus more on algorithms and technologies. I like having that double whammy of data from very different perspectives.
+3. What opportunities do you see for your future with this concentration?
+While the concentration is overall geared towards learning more about “data science,” I found the courses I took helped make that interest set more specific. In particular, taking MKTG/STAT 476 with
+Prof. Peter Fader
+has sparked my interest in research. After taking that class, I went into research with him on advanced statistical/decision models for data and decided that a Ph.D. might be the way to go after Penn.
+4. What advice would you give to students trying to decide on an area of study or concentration?
+Most people think of a concentration as a list of classes needed to get it done. I recommend doing the reverse: first list the classes you want to take, then slot them into the requirements. This method provides flexibility in designing your course of study by say, doing an individualized concentration or petitioning for certain classes to count for an existing one. Or, you might get lucky and a new concentration will come up that fits what you want exactly!
+5. You said you started doing research with Prof. Fader after taking his class. How did you get there and what are you working on with him?
+I got there through his class! It’s arguably one of the best classes I took at Penn. After the class ended, there was still so much more I wanted to learn. There aren’t other classes teaching similar material, so the only good option was to do research.
+I’m currently working on the problem of estimating customer lifetime value for two-sided markets. Estimating customer lifetime value in single-seller situations is a well-studied problem we talked about a lot in 476. The two-sided market case is different since firms that run two-sided platforms may also be interested in how valuable their sellers are
+and
+the value of their interactions with certain buyers. We’re currently working on extending the current models for single sellers to this case.
+Originally published by M&T for Life on December 20, 2017.
+Posted: February 5, 2018
+Analytics
+Business Education & Evolution
+Curriculum
+Majors and Concentrations
+Philadelphia
+Research
+Technology
+The Wharton School
+Undergrad
+Undergraduate Program
+Rafael “Red” Dimaano, W’18, E’18
+Hometown
+Manila, Philippines
+Wharton Concentration
+Business Analytics and Management
+Engineering Major
+Computer science
+After Wharton/Penn
+Submatriculating into the robotics master’s program here at Penn, then is planning to continue on for a Ph.D. after graduation
+His Favorite Thing About the M&T Program
+“the ‘&’!”
+Related Content
+Read More Stories
+Postcards From The South Pole
+How a Student-Athlete Built Relationships at Wharton
+Givology CEO Joyce Meng Featured in Inspirational Women Series
+3 Ways Wharton’s STEP Pre-Orientation Program Impacts Undergraduates After Freshman Year
+What I Learned About Small Nonprofits from an NGO in Costa Rica
+Y-Prize Calls On Entrepreneurs to Reimagine Nature-Inspired Tech
+Huntsman Program Fourth-Year Florence Onyiuke Named a 2026 Rhodes Scholar
+Do What You Enjoy: Recent Wharton Graduate Shares What Kept Him Grounded
+Finding Camaraderie by Finding City Hall
+At Wharton, Three Students of Asian Heritage Found An Abundance of Community
+Sustainability and Impact: Wharton Students Reflect on an Environmental Startup Internship
+An Undergrad Shares Her Favorite Things About Penn and Wharton
+Students Chat With the Dean About Diversity at Wharton
+Unlocking the World: Global Learning Opportunities
+How an Undergrad Club Is Empowering Refugees in the Philadelphia Community and in the World at Large
