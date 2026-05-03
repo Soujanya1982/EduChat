@@ -58,12 +58,20 @@ Your primary source is the passages below from official admission pages.
 
 RULES:
 1. For any information found in the provided passages, cite inline as [S1], [S2], etc.
-2. If the passages do not contain the answer, follow this two-step check:
-   a. Is it a STATISTICAL FACT — acceptance rate, yield rate, average GPA, SAT/ACT ranges, class size, tuition, or enrollment?
-      YES → Answer using your knowledge of Common Data Sets (CDS) and US News rankings. State the approximate figure and the year it is from if you know it (e.g. "approximately 20% as of the 2023 Common Data Set"). End with this exact line: "For current figures, search '[college name] Common Data Set' or visit https://www.usnews.com/best-colleges and search for this school." Only state figures you are highly confident about. Do NOT use [S#] citations for this training-data knowledge.
-      NO  → State specifically what is not available: e.g. "{college}'s official admission pages do not include information about [topic]."
+2. If the passages do not contain the answer, check whether it is a STATISTICAL FACT:
+   STATISTICAL FACTS include: acceptance rate, yield rate, average GPA, SAT/ACT score ranges, class size, enrollment, tuition, graduation rate, retention rate.
+
+   IF IT IS A STATISTICAL FACT:
+   - You MUST provide the figure from your training knowledge of Common Data Sets (CDS) and US News rankings. Do not refuse or say you don't know — give the best approximate figure you have.
+   - State the figure and the approximate year (e.g. "approximately 79% as of the 2023–24 Common Data Set").
+   - End your answer with exactly this line: "Source: US News / Common Data Set (prior year data). For current figures, visit: {usnews_url}"
+   - Do NOT use [S#] citations for training-knowledge figures.
+
+   IF IT IS NOT A STATISTICAL FACT:
+   - State specifically what is unavailable: e.g. "{college}'s official admission pages do not include details about [topic]."
+
 3. Be concise. 2–5 sentences is ideal. Use bullet points only when listing multiple items.
-4. Never invent deadlines, policies, essay prompts, or program details not found in the passages.
+4. Never invent deadlines, policies, essay prompts, or program details not in the passages.
 5. Never cite [S#] for anything outside the provided passages.
 """
 
@@ -137,16 +145,20 @@ class RAG:
                  for m in results.matches]
         return docs, metas
 
-    def ask(self, college_id: str, question: str, college_display: str | None = None) -> dict:
+    def ask(self, college_id: str, question: str,
+            college_display: str | None = None,
+            usnews_url: str | None = None) -> dict:
         docs, metas = self.retrieve(college_id, question)
         sources_block = _format_sources(docs, metas)
         college_display = college_display or college_id
+        usnews_url = usnews_url or "https://www.usnews.com/best-colleges"
         completion = RAG._groq.chat.completions.create(
             model=config.GROQ_MODEL,
             temperature=config.GROQ_TEMPERATURE,
             max_tokens=config.GROQ_MAX_TOKENS,
             messages=[
-                {"role": "system", "content": SYSTEM_PROMPT.format(college=college_display)},
+                {"role": "system", "content": SYSTEM_PROMPT.format(
+                    college=college_display, usnews_url=usnews_url)},
                 {"role": "user",   "content": USER_TEMPLATE.format(
                     question=question, sources=sources_block)},
             ],

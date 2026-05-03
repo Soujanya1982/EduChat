@@ -19,6 +19,7 @@ Deploy to Render:
 """
 import json
 import os
+import urllib.parse
 from pathlib import Path
 from typing import Optional
 
@@ -187,6 +188,13 @@ def _build_ask_response(college_id: str, question: str) -> AskResponse:
     _m = _re.match(r'^(.+?)\s*\((.+?)\)\s*$', raw_display)
     display = f"{_m.group(2)} ({_m.group(1)})" if _m else raw_display
 
+    # Build a US News search URL specific to this college
+    college_name = college.get("college_name") or (_m.group(2) if _m else raw_display)
+    usnews_url = (
+        "https://www.usnews.com/best-colleges/search?name="
+        + urllib.parse.quote_plus(college_name)
+    )
+
     if not _has_index(college_id):
         raise HTTPException(
             status_code=503,
@@ -195,7 +203,8 @@ def _build_ask_response(college_id: str, question: str) -> AskResponse:
 
     rag = get_rag()
     try:
-        result = rag.ask(college_id, question, college_display=display)
+        result = rag.ask(college_id, question, college_display=display,
+                         usnews_url=usnews_url)
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"RAG error: {e}")
 
