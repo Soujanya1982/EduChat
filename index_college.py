@@ -209,10 +209,29 @@ def _load_seeds_registry() -> list[dict]:
     return college_registry.load_local()
 
 
+def _pinecone_indexed_ids() -> set[str]:
+    """Return the set of college_ids already in Pinecone (one call)."""
+    api_key = os.environ.get("PINECONE_API_KEY", "")
+    if not api_key:
+        return set()
+    try:
+        pc = Pinecone(api_key=api_key)
+        stats = pc.Index(config.PINECONE_INDEX_NAME).describe_index_stats()
+        return set((stats.namespaces or {}).keys())
+    except Exception:
+        return set()
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--pilot", action="store_true")
-    ap.add_argument("--only")
+    ap.add_argument("--pilot",     action="store_true",
+                    help="Index the 5 pilot colleges")
+    ap.add_argument("--only",      metavar="COLLEGE_ID",
+                    help="Index a single college by ID")
+    ap.add_argument("--remaining", action="store_true",
+                    help="Index every college that has a manifest but is not yet in Pinecone")
+    ap.add_argument("--all",       action="store_true",
+                    help="Index every college that has a manifest (re-indexes existing ones too)")
     args = ap.parse_args()
 
     registry = _load_seeds_registry()
@@ -220,8 +239,28 @@ def main():
         registry = [c for c in registry if c["college_id"] == args.only]
     elif args.pilot:
         registry = [c for c in registry if c["college_id"] in PILOT_IDS]
+    elif args.remaining:
+        # Keep only colleges that have a manifest file but no Pinecone namespace yet
+        already_indexed = _pinecone_indexed_ids()
+        registry = [
+            c for c in registry
+            if config.manifest_path(c["college_id"]).exists()
+            and c["college_id"] not in already_indexed
+        ]
+        if not registry:
+            print("All colleges with manifests are already indexed in Pinecone. Nothing to do.")
+            return
+        print(f"Found {len(registry)} college(s) with manifests not yet in Pinecone:")
+        for c in registry:
+            print(f"  - {c['college_id']}")
+        print()
+    elif args.all:
+        registry = [
+            c for c in registry
+            if config.manifest_path(c["college_id"]).exists()
+        ]
     else:
-        ap.error("specify --pilot or --only")
+        ap.error("specify --pilot, --only <id>, --remaining, or --all")
 
     if not registry:
         print("No colleges matched.")
