@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EduChat</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div id="app">
+
+    <!-- ── Header ── -->
+    <header class="header">
+      <div class="header-brand">
+        <div class="header-logo">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
+            <path d="M12 3L2 8l10 5 10-5-10-5z" fill="#fff"/>
+            <path d="M2 8v8l10 5 10-5V8" stroke="#c8102e" stroke-width="1.5" fill="none"/>
+            <path d="M2 8l10 5 10-5" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
+          </svg>
+        </div>
+        <div class="header-text">
+          <span class="header-title">EduChat</span>
+          <span class="header-sub">Admissions Q&amp;A</span>
+        </div>
+      </div>
+      <button id="clearBtn" class="clear-btn" title="New conversation">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <polyline points="1 4 1 10 7 10"></polyline>
+          <path d="M3.51 15a9 9 0 1 0 .49-4.61"></path>
+        </svg>
+        New
+      </button>
+    </header>
+
+    <!-- ── Selectors ── -->
+    <div class="selectors">
+      <div class="select-group">
+        <label for="regionSelect">Region</label>
+        <div class="select-wrap">
+          <select id="regionSelect">
+            <option value="">All Regions</option>
+            <option value="Northeast">Northeast</option>
+            <option value="Southeast">Southeast</option>
+            <option value="Midwest">Midwest</option>
+            <option value="Southwest">Southwest</option>
+            <option value="West">West</option>
+            <option value="DC">Washington DC</option>
+          </select>
+        </div>
+      </div>
+      <div class="select-group select-group--college">
+        <label for="collegeSelect">
+          College
+          <span id="loadingSpinner" class="spinner" title="Loading colleges…"></span>
+          <button id="retryBtn" class="retry-btn hidden" title="Retry">↺</button>
+        </label>
+        <div class="select-wrap">
+          <select id="collegeSelect" disabled>
+            <option value="">Loading colleges…</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── Chat area ── -->
+    <div id="chatArea" class="chat-area">
+      <div class="welcome-msg" id="welcomeMsg">
+        <div class="welcome-icon">🎓</div>
+        <p class="welcome-title">Welcome to EduChat</p>
+        <p class="welcome-desc">Select a college above, then ask any admissions question.</p>
+      </div>
+    </div>
+
+    <!-- ── Input ── -->
+    <div class="input-area">
+      <textarea
+        id="questionInput"
+        placeholder="Select a college first…"
+        rows="1"
+        disabled
+      ></textarea>
+      <button id="sendBtn" disabled aria-label="Send">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <line x1="22" y1="2" x2="11" y2="13"></line>
+          <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+        </svg>
+      </button>
+    </div>
+
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
