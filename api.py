@@ -181,7 +181,11 @@ def get_college(college_id: str):
 def _build_ask_response(college_id: str, question: str) -> AskResponse:
     """Shared logic for POST /ask and GET /ask."""
     college = _college_or_404(college_id)
-    display = college.get("display_name") or college_id
+    raw_display = college.get("display_name") or college_id
+    # Flip "School Name (University Name)" → "University Name (School Name)"
+    import re as _re
+    _m = _re.match(r'^(.+?)\s*\((.+?)\)\s*$', raw_display)
+    display = f"{_m.group(2)} ({_m.group(1)})" if _m else raw_display
 
     if not _has_index(college_id):
         raise HTTPException(

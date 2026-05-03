@@ -60,7 +60,7 @@ RULES:
 1. For any information found in the provided passages, cite inline as [S1], [S2], etc.
 2. If the passages do not contain the answer, follow this two-step check:
    a. Is it a STATISTICAL FACT — acceptance rate, yield rate, average GPA, SAT/ACT ranges, class size, tuition, or enrollment?
-      YES → Answer using your knowledge of Common Data Sets (CDS) and US News rankings. You MUST add this note inline: "(Source: Common Data Set / US News — reflects a prior year, verify on the college website for current figures.)" Only state figures you are highly confident about; if unsure of exact numbers, give a range or say approximately. Do NOT use [S#] citations for this knowledge.
+      YES → Answer using your knowledge of Common Data Sets (CDS) and US News rankings. State the approximate figure and the year it is from if you know it (e.g. "approximately 20% as of the 2023 Common Data Set"). End with this exact line: "For current figures, search '[college name] Common Data Set' or visit https://www.usnews.com/best-colleges and search for this school." Only state figures you are highly confident about. Do NOT use [S#] citations for this training-data knowledge.
       NO  → State specifically what is not available: e.g. "{college}'s official admission pages do not include information about [topic]."
 3. Be concise. 2–5 sentences is ideal. Use bullet points only when listing multiple items.
 4. Never invent deadlines, policies, essay prompts, or program details not found in the passages.
