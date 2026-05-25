@@ -85,17 +85,16 @@ RULES:
 """
 
 # ── US News prompt — Tavily live-search second pass ──────────────────────────
+# NOTE: no disclaimer instruction here — Python adds it after checking the answer.
 USNEWS_SYSTEM = """You are an admission research assistant for {college}.
 
 The official admission pages did not contain the answer.
 The passages below are from US News & World Reports for this college.
 
 RULES:
-1. Start your answer with exactly this sentence:
-   "Note: This information is not available on {college}'s official admission pages."
-2. Answer using ONLY the US News passages provided.
-3. Do NOT use any [S#] citation markers.
-4. Be concise — 2–4 sentences.
+1. Answer using ONLY the US News passages provided.
+2. Do NOT use any [S#] citation markers.
+3. Be concise — 2–4 sentences.
 """
 
 USNEWS_USER_TEMPLATE = """QUESTION:
@@ -107,22 +106,26 @@ US NEWS PASSAGES:
 Answer the question using these passages."""
 
 # ── Fallback prompt — training-knowledge third pass ───────────────────────────
+# NOTE: no disclaimer instruction here — Python adds it after checking the answer.
 FALLBACK_SYSTEM = """You are an admission statistics expert for {college}.
 
-The official admission website did not contain the requested information,
-and a live search also returned no results.
+The official admission website did not contain the requested information.
 Answer using your training knowledge of Common Data Sets (CDS) and US News rankings.
 
 RULES:
-1. Start your answer with exactly this sentence:
-   "Note: This information is not available on {college}'s official admission pages."
-2. Provide the specific figure with the approximate year
+1. Provide the specific figure with the approximate year
    (e.g. "approximately 3,800 students were admitted in the 2023–24 cycle").
-3. You MUST give a number or fact — do not say you cannot help or that the data is unavailable.
-4. Do NOT include any "Source:" line or URL in your answer — the source link is added separately.
-5. Do NOT use any [S#] citations.
-6. Be concise — 2–4 sentences.
+2. You MUST give a number or fact — do not say you cannot help or that the data is unavailable.
+3. Do NOT include any "Source:" line or URL in your answer — the source link is added separately.
+4. Do NOT use any [S#] citations.
+5. Be concise — 2–4 sentences.
 """
+
+# Disclaimer prepended by Python (not the LLM) so it never trips _looks_like_not_found
+_DISCLAIMER = (
+    "Note: This information is not on {college}'s official admission pages. "
+    "The following is from {source}.\n\n"
+)
 
 # ── Not-found / citation detection ───────────────────────────────────────────
 _NOT_FOUND_RE = re.compile(
@@ -268,8 +271,10 @@ class RAG:
         )
         answer = completion.choices[0].message.content
 
-        # If pass 1 cited sources, we're done — answer came from official pages
-        if _has_citations(answer):
+        # Pass 1 succeeds only when citations exist AND the answer is not "not found".
+        # The LLM sometimes cites sources while still saying "not explicitly stated" —
+        # that means the official pages didn't actually answer the question.
+        if _has_citations(answer) and not _looks_like_not_found(answer):
             return {
                 "college_id": college_id,
                 "question":   question,
@@ -296,11 +301,14 @@ class RAG:
                 ],
             )
             usnews_answer = usnews_completion.choices[0].message.content
+            # Check raw answer (before adding disclaimer) for "not found" language
             if not _looks_like_not_found(usnews_answer):
+                disclaimer = _DISCLAIMER.format(
+                    college=college_display, source="US News & World Reports")
                 return {
                     "college_id": college_id,
                     "question":   question,
-                    "answer":     usnews_answer,
+                    "answer":     disclaimer + usnews_answer,
                     "sources":    list(zip(usnews_docs, usnews_metas)),
                 }
 
@@ -311,23 +319,26 @@ class RAG:
             max_tokens=config.GROQ_MAX_TOKENS,
             messages=[
                 {"role": "system", "content": FALLBACK_SYSTEM.format(
-                    college=college_display, usnews_url=usnews_url)},
+                    college=college_display)},
                 {"role": "user",   "content": question},
             ],
         )
         fallback_answer = fallback.choices[0].message.content
 
+        # Check raw answer (before adding disclaimer) for "not found" language
         if not _looks_like_not_found(fallback_answer):
             clean = _CDS_INLINE_RE.sub("", fallback_answer).strip()
+            disclaimer = _DISCLAIMER.format(
+                college=college_display, source="US News / Common Data Set")
             return {
                 "college_id": college_id,
                 "question":   question,
-                "answer":     clean,
+                "answer":     disclaimer + clean,
                 "sources":    [("US News / Common Data Set — prior year admissions data",
                                 {"url": usnews_url})],
             }
 
-        # All three passes failed — return the not-found message, no sources
+        # All three passes failed — return plain not-found message, no sources
         return {
             "college_id": college_id,
             "question":   question,
