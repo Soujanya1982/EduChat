@@ -84,19 +84,44 @@ RULES:
 5. Never cite [S#] for anything outside the provided passages.
 """
 
-# ── Fallback prompt — training-knowledge second pass ─────────────────────────
+# ── US News prompt — Tavily live-search second pass ──────────────────────────
+USNEWS_SYSTEM = """You are an admission research assistant for {college}.
+
+The official admission pages did not contain the answer.
+The passages below are from US News & World Reports for this college.
+
+RULES:
+1. Start your answer with exactly this sentence:
+   "Note: This information is not available on {college}'s official admission pages."
+2. Answer using ONLY the US News passages provided.
+3. Do NOT use any [S#] citation markers.
+4. Be concise — 2–4 sentences.
+"""
+
+USNEWS_USER_TEMPLATE = """QUESTION:
+{question}
+
+US NEWS PASSAGES:
+{sources}
+
+Answer the question using these passages."""
+
+# ── Fallback prompt — training-knowledge third pass ───────────────────────────
 FALLBACK_SYSTEM = """You are an admission statistics expert for {college}.
 
-The official admission website did not contain the requested information.
+The official admission website did not contain the requested information,
+and a live search also returned no results.
 Answer using your training knowledge of Common Data Sets (CDS) and US News rankings.
 
 RULES:
-1. Provide the specific figure with the approximate year
+1. Start your answer with exactly this sentence:
+   "Note: This information is not available on {college}'s official admission pages."
+2. Provide the specific figure with the approximate year
    (e.g. "approximately 3,800 students were admitted in the 2023–24 cycle").
-2. You MUST give a number or fact — do not say you cannot help or that the data is unavailable.
-3. Do NOT include any "Source:" line or URL in your answer — the source link is added separately.
-4. Do NOT use any [S#] citations.
-5. Be concise — 2–4 sentences.
+3. You MUST give a number or fact — do not say you cannot help or that the data is unavailable.
+4. Do NOT include any "Source:" line or URL in your answer — the source link is added separately.
+5. Do NOT use any [S#] citations.
+6. Be concise — 2–4 sentences.
 """
 
 # ── Not-found / citation detection ───────────────────────────────────────────
@@ -164,6 +189,7 @@ class RAG:
     _embedder: Embedder | None = None
     _pinecone_index = None      # shared Pinecone Index handle (stateless API)
     _groq: Groq | None = None   # shared Groq client
+    _tavily = None              # TavilyClient | None — optional live search
 
     def __init__(self):
         if RAG._groq is None:
@@ -179,6 +205,31 @@ class RAG:
                 raise SystemExit("PINECONE_API_KEY not set. Add it to .env.")
             pc = Pinecone(api_key=pc_key)
             RAG._pinecone_index = pc.Index(config.PINECONE_INDEX_NAME)
+        if RAG._tavily is None:
+            tavily_key = os.environ.get("TAVILY_API_KEY")
+            if tavily_key:
+                try:
+                    from tavily import TavilyClient
+                    RAG._tavily = TavilyClient(api_key=tavily_key)
+                except Exception:
+                    pass  # tavily-python not installed or key invalid — skip live search
+
+    def _search_usnews(self, college_display: str, question: str) -> tuple[list[str], list[dict]]:
+        """Search US News via Tavily. Returns (docs, metas) or ([], []) on failure."""
+        if RAG._tavily is None:
+            return [], []
+        try:
+            resp = RAG._tavily.search(
+                query=f"{college_display} {question}",
+                include_domains=["usnews.com"],
+                max_results=3,
+            )
+            results = resp.get("results", [])
+            docs  = [r.get("content", "") for r in results if r.get("content")]
+            metas = [{"url": r.get("url", "")}  for r in results if r.get("content")]
+            return docs, metas
+        except Exception:
+            return [], []
 
     def retrieve(self, college_id: str, question: str, k: int = config.TOP_K):
         """Embed question, query Pinecone namespace, return (docs, metas)."""
@@ -203,7 +254,7 @@ class RAG:
         college_display = college_display or college_id
         usnews_url = usnews_url or "https://www.usnews.com/best-colleges"
 
-        # ── Pass 1: official admission pages ─────────────────────────────────
+        # ── Pass 1: official admission pages (Pinecone) ───────────────────────
         completion = RAG._groq.chat.completions.create(
             model=config.GROQ_MODEL,
             temperature=config.GROQ_TEMPERATURE,
@@ -217,46 +268,71 @@ class RAG:
         )
         answer = completion.choices[0].message.content
 
-        # ── Pass 2: CDS / US News training-knowledge fallback ─────────────────
-        # Trigger when: answer has no [S#] citations (admission pages didn't help).
-        # This catches both "not found" text AND the case where the LLM sneaks in
-        # [S#] while still saying "pages don't contain this" — we check citations
-        # rather than relying solely on the "not found" text pattern.
-        if not _has_citations(answer):
-            fallback = RAG._groq.chat.completions.create(
+        # If pass 1 cited sources, we're done — answer came from official pages
+        if _has_citations(answer):
+            return {
+                "college_id": college_id,
+                "question":   question,
+                "answer":     answer,
+                "sources":    list(zip(docs, metas)),
+            }
+
+        # ── Pass 2: live US News search via Tavily ────────────────────────────
+        usnews_docs, usnews_metas = self._search_usnews(college_display, question)
+        if usnews_docs:
+            usnews_block = "\n".join(
+                f"[passage {i}] (from {m['url']})\n{d}\n"
+                for i, (d, m) in enumerate(zip(usnews_docs, usnews_metas), 1)
+            )
+            usnews_completion = RAG._groq.chat.completions.create(
                 model=config.GROQ_MODEL,
-                temperature=0.1,          # lower temp for factual recall
+                temperature=config.GROQ_TEMPERATURE,
                 max_tokens=config.GROQ_MAX_TOKENS,
                 messages=[
-                    {"role": "system", "content": FALLBACK_SYSTEM.format(
-                        college=college_display, usnews_url=usnews_url)},
-                    {"role": "user",   "content": question},
+                    {"role": "system", "content": USNEWS_SYSTEM.format(
+                        college=college_display)},
+                    {"role": "user",   "content": USNEWS_USER_TEMPLATE.format(
+                        question=question, sources=usnews_block)},
                 ],
             )
-            fallback_answer = fallback.choices[0].message.content
+            usnews_answer = usnews_completion.choices[0].message.content
+            if not _looks_like_not_found(usnews_answer):
+                return {
+                    "college_id": college_id,
+                    "question":   question,
+                    "answer":     usnews_answer,
+                    "sources":    list(zip(usnews_docs, usnews_metas)),
+                }
 
-            if not _looks_like_not_found(fallback_answer):
-                # Strip any inline "Source: US News / CDS..." the model added
-                clean = _CDS_INLINE_RE.sub("", fallback_answer).strip()
-                # Prepend disclaimer so user knows where the info came from
-                disclaimer = (
-                    f"Note: This information is not available on "
-                    f"{college_display}'s official admission pages. "
-                    f"The following is based on US News / Common Data Set data.\n\n"
-                )
-                answer = disclaimer + clean
-                # Surface US News as a clickable source link
-                docs  = ["US News / Common Data Set — prior year admissions data"]
-                metas = [{"url": usnews_url}]
-            else:
-                # Both passes failed — clear irrelevant retrieved sources
-                docs, metas = [], []
+        # ── Pass 3: LLM training-knowledge fallback (CDS / US News) ──────────
+        fallback = RAG._groq.chat.completions.create(
+            model=config.GROQ_MODEL,
+            temperature=0.1,
+            max_tokens=config.GROQ_MAX_TOKENS,
+            messages=[
+                {"role": "system", "content": FALLBACK_SYSTEM.format(
+                    college=college_display, usnews_url=usnews_url)},
+                {"role": "user",   "content": question},
+            ],
+        )
+        fallback_answer = fallback.choices[0].message.content
 
+        if not _looks_like_not_found(fallback_answer):
+            clean = _CDS_INLINE_RE.sub("", fallback_answer).strip()
+            return {
+                "college_id": college_id,
+                "question":   question,
+                "answer":     clean,
+                "sources":    [("US News / Common Data Set — prior year admissions data",
+                                {"url": usnews_url})],
+            }
+
+        # All three passes failed — return the not-found message, no sources
         return {
             "college_id": college_id,
             "question":   question,
-            "answer":     answer,
-            "sources":    list(zip(docs, metas)),
+            "answer":     fallback_answer,
+            "sources":    [],
         }
 
 
