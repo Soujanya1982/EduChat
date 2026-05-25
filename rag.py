@@ -58,22 +58,60 @@ Your primary source is the passages below from official admission pages.
 
 RULES:
 1. For any information found in the provided passages, cite inline as [S1], [S2], etc.
-2. If the passages do not contain the answer, check whether it is a STATISTICAL FACT:
-   STATISTICAL FACTS include: acceptance rate, yield rate, average GPA, SAT/ACT score ranges, class size, enrollment, tuition, graduation rate, retention rate.
+2. If the passages do not contain the answer, do NOT include any [S#] citations.
+   Instead, check whether it is a STATISTICAL FACT.
+
+   STATISTICAL FACTS include ALL Common Data Set (CDS) metrics:
+   acceptance rate, yield rate, average GPA, SAT/ACT score ranges,
+   total applicants received, total applicants admitted, total students enrolled,
+   class size, enrollment figures, tuition and fees, room and board,
+   graduation rate, retention rate, student-to-faculty ratio,
+   percentage receiving financial aid, average financial aid award,
+   male/female ratio, in-state vs out-of-state enrollment, ethnicity breakdown.
 
    IF IT IS A STATISTICAL FACT:
    - You MUST provide the figure from your training knowledge of Common Data Sets (CDS) and US News rankings. Do not refuse or say you don't know — give the best approximate figure you have.
-   - State the figure and the approximate year (e.g. "approximately 79% as of the 2023–24 Common Data Set").
+   - State the figure and the approximate year (e.g. "approximately 3,800 students admitted in the 2023–24 cycle").
    - End your answer with exactly this line: "Source: US News / Common Data Set (prior year data). For current figures, visit: {usnews_url}"
    - Do NOT use [S#] citations for training-knowledge figures.
 
    IF IT IS NOT A STATISTICAL FACT:
    - State specifically what is unavailable: e.g. "{college}'s official admission pages do not include details about [topic]."
+   - Do NOT use any [S#] citations.
 
 3. Be concise. 2–5 sentences is ideal. Use bullet points only when listing multiple items.
 4. Never invent deadlines, policies, essay prompts, or program details not in the passages.
 5. Never cite [S#] for anything outside the provided passages.
 """
+
+# ── Fallback prompt — training-knowledge second pass ─────────────────────────
+FALLBACK_SYSTEM = """You are an admission statistics expert for {college}.
+
+The official admission website did not contain the requested information.
+Answer using your training knowledge of Common Data Sets (CDS) and US News rankings.
+
+RULES:
+1. Provide the specific figure with the approximate year
+   (e.g. "approximately 3,800 students were admitted in the 2023–24 cycle").
+2. You MUST give a number — do not say you cannot help or that the data is unavailable.
+3. End your answer with exactly this line:
+   "Source: US News / Common Data Set (prior year data). For current figures, visit: {usnews_url}"
+4. Do NOT use any [S#] citations.
+5. Be concise — 2–4 sentences.
+"""
+
+# ── Not-found detection ───────────────────────────────────────────────────────
+_NOT_FOUND_RE = re.compile(
+    r"do not include|does not include|not available|not mentioned|"
+    r"does not contain|do not contain|pages do not|admission pages do not|"
+    r"no information|cannot find|not found",
+    re.IGNORECASE,
+)
+
+
+def _looks_like_not_found(answer: str) -> bool:
+    """True when the LLM said the passages don't contain the answer AND used no citations."""
+    return bool(_NOT_FOUND_RE.search(answer)) and "[S" not in answer
 
 USER_TEMPLATE = """QUESTION:
 {question}
@@ -152,6 +190,8 @@ class RAG:
         sources_block = _format_sources(docs, metas)
         college_display = college_display or college_id
         usnews_url = usnews_url or "https://www.usnews.com/best-colleges"
+
+        # ── Pass 1: official admission pages ─────────────────────────────────
         completion = RAG._groq.chat.completions.create(
             model=config.GROQ_MODEL,
             temperature=config.GROQ_TEMPERATURE,
@@ -164,6 +204,27 @@ class RAG:
             ],
         )
         answer = completion.choices[0].message.content
+
+        # ── Pass 2: CDS / US News training-knowledge fallback ─────────────────
+        # If pass 1 said "not in official pages" with no citations, retry with
+        # a prompt that forces the model to use its CDS training knowledge.
+        if _looks_like_not_found(answer):
+            fallback = RAG._groq.chat.completions.create(
+                model=config.GROQ_MODEL,
+                temperature=0.1,          # lower temp for factual recall
+                max_tokens=config.GROQ_MAX_TOKENS,
+                messages=[
+                    {"role": "system", "content": FALLBACK_SYSTEM.format(
+                        college=college_display, usnews_url=usnews_url)},
+                    {"role": "user",   "content": question},
+                ],
+            )
+            fallback_answer = fallback.choices[0].message.content
+            # Only accept the fallback if it actually produced a useful answer
+            if not _looks_like_not_found(fallback_answer):
+                answer = fallback_answer
+                docs, metas = [], []   # no retrieved sources for CDS answers
+
         return {
             "college_id": college_id,
             "question":   question,

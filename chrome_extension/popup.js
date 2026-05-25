@@ -216,15 +216,22 @@ function formatAnswer(rawText) {
   return escapeHtml(rawText).replace(/\s*\[S\d+\]/g, '');
 }
 
-/** Deduplicate sources by URL before rendering. */
+/** Deduplicate sources by domain — one link per website. */
 function dedupeSources(sources) {
   const seen = new Set();
   return sources.filter(s => {
-    // Use base URL (without fragment) as the dedup key
-    const key = s.url || s.deep_link;
-    if (seen.has(key)) return false;
-    seen.add(key);
-    return true;
+    try {
+      const hostname = new URL(s.url || s.deep_link).hostname;
+      if (seen.has(hostname)) return false;
+      seen.add(hostname);
+      return true;
+    } catch {
+      // Malformed URL — fall back to full string dedup
+      const key = s.url || s.deep_link;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    }
   });
 }
 
