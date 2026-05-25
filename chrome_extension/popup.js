@@ -346,10 +346,11 @@ async function sendQuestion() {
     } else {
       const data = await res.json();
       const html = formatAnswer(data.answer);
-      // Only show retrieved sources if the LLM actually cited them ([S1], [S2]…)
-      // When the answer came from training knowledge (CDS/US News), citations are absent
-      const usedSources = /\[S\d+\]/.test(data.answer);
-      const sources = usedSources ? (data.sources || []) : [];
+      // Backend controls exactly which sources to return:
+      //   - Cited admission page sources → included when [S#] used
+      //   - US News / CDS fallback → included as a single source link
+      //   - Irrelevant / not-found → backend returns [] so nothing shows
+      const sources = data.sources || [];
       appendBotBubble(html, sources);
       savedMessages.push({ role: 'bot', html, sources });
       persist();

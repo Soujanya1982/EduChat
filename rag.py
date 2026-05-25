@@ -93,14 +93,13 @@ Answer using your training knowledge of Common Data Sets (CDS) and US News ranki
 RULES:
 1. Provide the specific figure with the approximate year
    (e.g. "approximately 3,800 students were admitted in the 2023–24 cycle").
-2. You MUST give a number — do not say you cannot help or that the data is unavailable.
-3. End your answer with exactly this line:
-   "Source: US News / Common Data Set (prior year data). For current figures, visit: {usnews_url}"
+2. You MUST give a number or fact — do not say you cannot help or that the data is unavailable.
+3. Do NOT include any "Source:" line or URL in your answer — the source link is added separately.
 4. Do NOT use any [S#] citations.
 5. Be concise — 2–4 sentences.
 """
 
-# ── Not-found detection ───────────────────────────────────────────────────────
+# ── Not-found / citation detection ───────────────────────────────────────────
 _NOT_FOUND_RE = re.compile(
     r"do not include|does not include|not available|not mentioned|"
     r"does not contain|do not contain|pages do not|admission pages do not|"
@@ -108,10 +107,23 @@ _NOT_FOUND_RE = re.compile(
     re.IGNORECASE,
 )
 
+_HAS_CITATION_RE = re.compile(r"\[S\d+\]")
+
+# Strip any inline "Source: US News / CDS ..." line the model might add
+_CDS_INLINE_RE = re.compile(
+    r"\n?Source:\s*US News\s*/\s*Common Data Set[^\n]*",
+    re.IGNORECASE,
+)
+
 
 def _looks_like_not_found(answer: str) -> bool:
-    """True when the LLM said the passages don't contain the answer AND used no citations."""
-    return bool(_NOT_FOUND_RE.search(answer)) and "[S" not in answer
+    """True when the LLM said the answer isn't in the passages."""
+    return bool(_NOT_FOUND_RE.search(answer))
+
+
+def _has_citations(answer: str) -> bool:
+    """True when the LLM cited at least one [S#] source."""
+    return bool(_HAS_CITATION_RE.search(answer))
 
 USER_TEMPLATE = """QUESTION:
 {question}
@@ -206,9 +218,11 @@ class RAG:
         answer = completion.choices[0].message.content
 
         # ── Pass 2: CDS / US News training-knowledge fallback ─────────────────
-        # If pass 1 said "not in official pages" with no citations, retry with
-        # a prompt that forces the model to use its CDS training knowledge.
-        if _looks_like_not_found(answer):
+        # Trigger when: answer has no [S#] citations (admission pages didn't help).
+        # This catches both "not found" text AND the case where the LLM sneaks in
+        # [S#] while still saying "pages don't contain this" — we check citations
+        # rather than relying solely on the "not found" text pattern.
+        if not _has_citations(answer):
             fallback = RAG._groq.chat.completions.create(
                 model=config.GROQ_MODEL,
                 temperature=0.1,          # lower temp for factual recall
@@ -220,10 +234,23 @@ class RAG:
                 ],
             )
             fallback_answer = fallback.choices[0].message.content
-            # Only accept the fallback if it actually produced a useful answer
+
             if not _looks_like_not_found(fallback_answer):
-                answer = fallback_answer
-                docs, metas = [], []   # no retrieved sources for CDS answers
+                # Strip any inline "Source: US News / CDS..." the model added
+                clean = _CDS_INLINE_RE.sub("", fallback_answer).strip()
+                # Prepend disclaimer so user knows where the info came from
+                disclaimer = (
+                    f"Note: This information is not available on "
+                    f"{college_display}'s official admission pages. "
+                    f"The following is based on US News / Common Data Set data.\n\n"
+                )
+                answer = disclaimer + clean
+                # Surface US News as a clickable source link
+                docs  = ["US News / Common Data Set — prior year admissions data"]
+                metas = [{"url": usnews_url}]
+            else:
+                # Both passes failed — clear irrelevant retrieved sources
+                docs, metas = [], []
 
         return {
             "college_id": college_id,
